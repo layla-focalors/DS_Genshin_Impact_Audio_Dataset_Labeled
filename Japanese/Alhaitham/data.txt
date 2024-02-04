@@ -1,0 +1,82 @@
+VO_JA_Alhaitham_Hello.ogg  ||  俺は教令院の書記官、アルハイゼンだ。資料を閲覧したいのなら、規定の書式に則って申請書を記入してくれ。
+なに、まだ整理し終わっていない？ならいい。俺の勤務時間は執務室の外に貼り出してある、次に出勤している日にまた来るといい。
+VO_JA_Alhaitham_Chat_-_Work.ogg  ||  書記官の仕事はとても簡単だ。だからこそ、この職位にいる。
+VO_JA_Alhaitham_Chat_-_Reading.ogg  ||  勉学に励んでも、頭が良くなるとは限らない。教令院にいる者たちを見れば分かることだが。
+VO_JA_Alhaitham_Chat_-_Thinking.ogg  ||  ふむ…近頃はごちゃごちゃした申請が多いな。すべて却下しておくとしよう。
+VO_JA_Alhaitham_When_It_Rains.ogg  ||  雨の日の外出ほど面倒なものはない。
+VO_JA_Alhaitham_When_Thunder_Strikes.ogg  ||  恐れずとも、ただの自然現象に過ぎない。大きな木の下に隠れなければ問題ない。
+VO_JA_Alhaitham_When_It_Snows.ogg  ||  寒いのか？俺は大丈夫だが。
+VO_JA_Alhaitham_When_the_Sun_Is_Out.ogg  ||  これほど天気のいい日には、何もしないに限る。
+VO_JA_Alhaitham_In_the_Desert.ogg  ||  はぁ、靴の中に砂が入った…
+VO_JA_Alhaitham_Good_Morning.ogg  ||  まだ早いな、コーヒーを飲んでこよう。
+VO_JA_Alhaitham_Good_Afternoon.ogg  ||  何も用がないのなら、俺は遮音ヘッドホンをつけて仮眠をとる。
+VO_JA_Alhaitham_Good_Evening.ogg  ||  ここからはプライベートの時間だ。それでは。
+VO_JA_Alhaitham_Good_Night.ogg  ||  ルームメイトが夜な夜な模型を叩き回さないことを願おう…いや、違うな。そもそもあいつが家にいないことがベストなんだ。自分の家で眠る時まで、ヘッドホンをつけていたくはない。
+VO_JA_Alhaitham_About_Alhaitham_-_Facts.ogg  ||  飾り立てた言葉で取り繕うより、俺は包み隠さず事実を言うほうが好きだ。
+VO_JA_Alhaitham_About_Alhaitham_-_Rumors.ogg  ||  ほう、俺の品性について様々な噂を聞いたことがある？そんなに気になるか？
+ふむ、気にする必要はない。なぜなら、余計な問題を起こさない限り、君がそれらを信じようが信じまいが、どうでもいいからだ。
+VO_JA_Alhaitham_About_Us_-_Greetings.ogg  ||  街中で俺に声を掛けても反応がない時があると思うが、気にすることはない。ヘッドホンの遮音機能をオンにしているだけだからな。
+VO_JA_Alhaitham_About_Us_-_Helping_Each_Other.ogg  ||  君は極めて自立した人間だ、身の回りにいる仲間の面倒も見られる程にな。故に、特に君へアドバイスすることはない。君も俺からの助けなどいらないはずだ。
+VO_JA_Alhaitham_About_the_Vision.ogg  ||  正直、草元素の「神の目」は俺の研究にあまり役に立たない。だが元素力を手に入れたことで、より相手を叩きのめしやすくなったのは確かだ。まあまあ使えると言ったところだな。
+VO_JA_Alhaitham_Something_to_Share.ogg  ||  真理は誰かに仕えるために生まれたわけじゃない。人間は知識の担い手ではないし、知識も人間の目的ではないんだ。
+VO_JA_Alhaitham_Interesting_Things.ogg  ||  この世には人の目を引くものが数多くある。だが自分の目を過度に信じるべきじゃない。見えるものが真実だと言うのなら、人は考える必要すらなくなるはずだからな。
+VO_JA_Alhaitham_About_Lesser_Lord_Kusanali.ogg  ||  過度なまでに神を見下したり、崇めたりすることは得策じゃない。神には信徒が必要だが、神もまた生態系の一環だ。だから俺は、神を救ったことを誇りになど思っていないし、クラクサナリデビ様がそのことを気にする必要もない。
+VO_JA_Alhaitham_About_Kaveh_-_Overly_Sensitive.ogg  ||  あいつはすべての人や物事に対して、行き過ぎた思いやりの心を持っているんだ。彼自身があまりにひ弱なせいか、朝から晩まで、何でもないことで大騒ぎする日々を送っている。
+VO_JA_Alhaitham_About_Kaveh_-_Getting_Duped.ogg  ||  道端の出店で、主人が言った。手作りのキーホルダーが一つ売れるたびに、貧しい子供が一人、満足のゆくまで食事ができると。…カーヴェはそれを十個以上買ってきた。
+スメールでは、医療や福祉ですら無償で提供されるんだが…はぁ、これ以上は言わなくても分かるな。
+VO_JA_Alhaitham_About_Tighnari.ogg  ||  彼のことを気性が荒いと思う者も多くいるようだが、それは偏見だ。昔、カーヴェが死域に建物を造り、収拾のつけられない面倒を引き起こしたことがある。レンジャー隊は多大な迷惑を被ったにも関わらず、あのレンジャー長はカーヴェを恨むどころか、家まで食事に招待したそうだ…彼のような善人が世にいるからこそ、カーヴェは生存していられるのかもしれない。
+VO_JA_Alhaitham_About_Dori.ogg  ||  彼女は聡明で抜け目なく、どうすれば自分の夢を実現できるかを知っている。実に強かだ。彼女のやり方を肯定するつもりはないし、俺たちの立場は明確に違う、それでも彼女のたくましさは認めざるを得ない。
+VO_JA_Alhaitham_About_Cyno.ogg  ||  「ハイブマインド」の一件以来、マハマトラたちの仕事は増えた。だが、俺はそのことに負い目は感じていない。結局のところ、あの事件の根本的な原因は俺ではなかったんだからな。セノは物分かりのいいやつだから、あれからあの一件のために俺を訪ねてくることもなかった。
+VO_JA_Alhaitham_About_Nilou.ogg  ||  芸術家の長所と短所は目に見えるほど明白なものだ。ニィロウは長所を伸ばすことで、短所をカバーできている。だからこそ、素朴で幸福な暮らしが送れるのだろう。
+VO_JA_Alhaitham_About_Dehya.ogg  ||  極めて有能で、エルマイト旅団に置いておくには惜しい人物だ。彼女が俺の申し出を受け入れてくれたらよかったんだが。教令院に彼女のような助っ人がいれば、俺たちの仕事はもっと楽になる。だが、彼女は安穏とした生活には興味がないらしい。それは俺も理解できる、とはいえ残念だ。
+VO_JA_Alhaitham_More_About_Alhaitham_-_01.ogg  ||  ほとんどの者は、自ら進んで俺と接点を持とうとはしない。おおかた畏縮しているか、性格が合わないんだろう。俺もそんな現状に満足している。
+VO_JA_Alhaitham_More_About_Alhaitham_-_02.ogg  ||  俺は人付き合いに興味がない。見ての通り、俺は大半の者より楽しく暮らしている。これは、人付き合いが生活の必需品でないことの何よりの証左だ。
+VO_JA_Alhaitham_More_About_Alhaitham_-_03.ogg  ||  誰しも常に自分の主張を持ち、はっきりとした信念に基づいて行動するべきだ。さもなければ、突発的なトラブルに見舞われたり、容易に道を踏み外したりしてしまいかねない。
+VO_JA_Alhaitham_More_About_Alhaitham_-_04.ogg  ||  ひとたび秩序が破られれば、その影響は瞬く間に広がる。そうなるのは好ましいことじゃない。今の暮らしの妨げになるからな。
+VO_JA_Alhaitham_More_About_Alhaitham_-_05.ogg  ||  仕事終わりに、酒場に一杯飲みに行くことがある。
+うん？それを知りたいわけじゃなかった？ふむ、余暇の使い方を共有するのは、個人的な意見を共有するより、遙かにプライベートなことだと思っていたんだが。何せ、ただの意見交換など、皆掲示板でもやっていることだからな。
+VO_JA_Alhaitham_Hobbies.ogg  ||  奥深く難解な本を読むことと、同じ本を他人が読んで、頭を抱えている姿を見ることくらいだ。
+…冗談だ。他人の苦しみから愉悦を得ることはないし、理解できない本に出会うこともめったにない。
+VO_JA_Alhaitham_Troubles.ogg  ||  俺の観察によると、悩める者のほとんどは自らそれを生み出してしまっているケースが多い。ただでさえ生きていくのは大変なんだ、これ以上悩みを増やしてどうする。
+VO_JA_Alhaitham_Favorite_Food.ogg  ||  見た目の美しさより、味だ。簡単だろう？でないと、本末転倒だからな。
+VO_JA_Alhaitham_Least_Favorite_Food.ogg  ||  スープや汁気のある料理だ。本を読みながら食べるのに適していないからな。
+VO_JA_Alhaitham_Receiving_a_Gift_-_01.ogg  ||  ふむ、調味料の配合を正確に把握しているようだな。
+VO_JA_Alhaitham_Receiving_a_Gift_-_02.ogg  ||  流行りの味だ、嫌いじゃない。
+VO_JA_Alhaitham_Receiving_a_Gift_-_03.ogg  ||  今ここでは食べないでおく。持ち帰っていいか？
+VO_JA_Alhaitham_Birthday.ogg  ||  誕生日おめでとう。俺は常々、人々は生まれた日を祝うことに不必要な情熱を注ぎすぎだと考えている。それに費やすエネルギーを、日々の生活をよりよくするために使う方が現実的だと思うんだ。君はその点、まあまあよくやっている。
+どんなプレゼントが適切か分からなかったから、特別ルートで申請書を通すチャンスを一回あげるよ。
+VO_JA_Alhaitham_Feelings_About_Ascension_-_01.ogg  ||  感謝する。
+VO_JA_Alhaitham_Feelings_About_Ascension_-_02.ogg  ||  こんなことは、一度限りだと思っていた。
+VO_JA_Alhaitham_Feelings_About_Ascension_-_03.ogg  ||  精進することにおいて、君は俺よりも熱心らしい。
+VO_JA_Alhaitham_Feelings_About_Ascension_-_04.ogg  ||  俺がこうして日々進歩していることを、怠惰な教令院の連中に知られるわけにはいかない。もし彼らの耳に入れば、何としても俺に面倒を押しつけようとしてくるだろう。もちろん引き受けはしないが、話し合いというのは往々にして時間がかかる。
+VO_JA_Alhaitham_Elemental_Skill_1_01.ogg  ||  もらった。
+VO_JA_Alhaitham_Elemental_Skill_1_02.ogg  ||  鏡閃。
+VO_JA_Alhaitham_Elemental_Burst_01.ogg  ||  散乱。
+VO_JA_Alhaitham_Elemental_Burst_02.ogg  ||  分光。
+VO_JA_Alhaitham_Elemental_Burst_03.ogg  ||  理論の演繹。
+VO_JA_Alhaitham_Sprint_Start_01.ogg  ||  
+VO_JA_Alhaitham_Deploying_Wind_Glider_01.ogg  ||  
+VO_JA_Alhaitham_Opening_Treasure_Chest_01.ogg  ||  ほう。
+VO_JA_Alhaitham_Opening_Treasure_Chest_02.ogg  ||  君が受け取れ。
+VO_JA_Alhaitham_Opening_Treasure_Chest_03.ogg  ||  早く拾うといい。遠くに転がったら面倒だ。
+VO_JA_Alhaitham_Low_HP_01.ogg  ||  面倒だ。
+VO_JA_Alhaitham_Low_HP_02.ogg  ||  計画が変わった。
+VO_JA_Alhaitham_Low_HP_03.ogg  ||  手間がかかる。
+VO_JA_Alhaitham_Ally_at_Low_HP_01.ogg  ||  俺がやろう。
+VO_JA_Alhaitham_Ally_at_Low_HP_02.ogg  ||  想定内だ。
+VO_JA_Alhaitham_Fallen_01.ogg  ||  想定外だ…
+VO_JA_Alhaitham_Fallen_02.ogg  ||  失策だ。
+VO_JA_Alhaitham_Fallen_03.ogg  ||  誤算だったか。
+VO_JA_Alhaitham_Light_Hit_Taken_01.ogg  ||  
+VO_JA_Alhaitham_Heavy_Hit_Taken_01.ogg  ||  チッ、誰だ。
+VO_JA_Alhaitham_Heavy_Hit_Taken_02.ogg  ||  ぐっ…いいだろう。
+VO_JA_Alhaitham_Heavy_Hit_Taken_03.ogg  ||  
+VO_JA_Alhaitham_Joining_Party_01.ogg  ||  何か用か？
+VO_JA_Alhaitham_Joining_Party_02.ogg  ||  公務に私情は挟まない。
+VO_JA_Alhaitham_Joining_Party_03.ogg  ||  時間のかかることじゃないだろうな？
+VO_JA_Alhaitham_Light_Attack_01.ogg  ||  
+VO_JA_Alhaitham_Mid_Attack_01.ogg  ||  
+VO_JA_Alhaitham_Heavy_Attack_01.ogg  ||  
+VO_JA_Alhaitham_Climbing_01.ogg  ||  
+VO_JA_Alhaitham_Climbing_Breath_01.ogg  ||  
+VO_JA_Alhaitham_Jumping_01.ogg  ||  

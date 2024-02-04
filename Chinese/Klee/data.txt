@@ -1,0 +1,160 @@
+VO_ZH_Klee_Hello.ogg  ||  西风骑士团，「火花骑士」，可莉，前来报到！…呃——后面该说什么词来着？可莉背不下来啦…
+VO_ZH_Klee_Chat_-_Spoils.ogg  ||  可莉今天又勇敢地抓到了花纹奇怪的蜥蜴！从没见过这种图案，你要看看吗？
+VO_ZH_Klee_Chat_-_Adventures.ogg  ||  要和可莉一起去炸鱼吗？虽然被抓住就是一整天的禁闭，但鱼很好吃，所以值得！
+VO_ZH_Klee_Chat_-_Rules.ogg  ||  「城里放炮禁闭室报到」、「炸弹伤人琴找上门」、「放火烧山可莉完蛋」——这就是可莉在骑士团的生存守则。
+VO_ZH_Klee_When_It_Rains.ogg  ||  哼哼哼，这次的炸弹可是防水的。
+VO_ZH_Klee_When_Thunder_Strikes.ogg  ||  啊！什么东西爆炸了？！…哦，是打雷啊。
+VO_ZH_Klee_When_the_Wind_Is_Blowing.ogg  ||  风神保佑，把可莉的炸弹往合适的地方吹吧。
+VO_ZH_Klee_Good_Morning.ogg  ||  早安！带可莉出去玩吧！我们一起来冒险！
+VO_ZH_Klee_Good_Afternoon.ogg  ||  午饭时间到了！啊…吃什么呢？我来看看《提瓦特游览指南》…
+VO_ZH_Klee_Good_Evening.ogg  ||  晚上好！拜托你也帮我跟霍夫曼先生说说吧，可莉不是小孩子了，可莉晚上也可以出去玩——带我出去玩——
+VO_ZH_Klee_Good_Night.ogg  ||  虽然出来玩的时候说不想回家，但天黑以后的旷野，不认识路…拜、拜托你回去的时候，把我也送回家好不好…
+VO_ZH_Klee_About_Klee_-_Incidents.ogg  ||  呜…这次居然炸歪了大风车的叶片…真对不起！
+VO_ZH_Klee_About_Klee_-_Reparations.ogg  ||  我，我还挺会做手工的，请让我帮你们重新做一个…什么？禁止雇佣童工？呜…
+VO_ZH_Klee_About_Us_-_Knights.ogg  ||  呼呼…荣誉骑士，可莉作为「火花骑士」，可以说是你在西风骑士团的前辈喔？所以！所以…这次我闯的祸，能不能帮我隐瞒一下…
+VO_ZH_Klee_About_Us_-_Playmates.ogg  ||  不行！才九点，可莉今晚一定要撑到看完马戏团的午夜专场！你是可莉的玩伴吧！那就别想现在就把我送回家，略略略略…
+VO_ZH_Klee_About_the_Vision.ogg  ||  这个小小的玻璃球，就代表了巴巴托斯大人对可莉的肯定吗…唔…究竟是认可了我的哪一部分呢？是自由吗？那以后要不要更自由地出去炸鱼，来回应巴巴托斯大人的期待呢…？
+VO_ZH_Klee_Something_to_Share.ogg  ||  可莉知道，骑士团的墙是不能炸的。虽然打通了能从禁闭室出去很方便，但凯亚哥哥说，这样做了以后，琴团长恐怕会让我再也见不到第二天的太阳…
+VO_ZH_Klee_Interesting_Things.ogg  ||  每一只蜥蜴的花纹都是不同的，有些蜥蜴的尾巴干燥以后磨成粉，可以当做炸药的材料哦。这是阿贝多哥哥告诉我的事。
+VO_ZH_Klee_About_Razor.ogg  ||  我们是朋友！雷泽努力对抗危机、保护可莉的样子，让人安心！…唔…虽然基本上都是我把危机带到他身边的…
+VO_ZH_Klee_About_the_Parents.ogg  ||  爸爸和妈妈都是全大陆有名的旅行家！妈妈写的《提瓦特游览指南》，有好多餐馆和旅店都很在意它的权威评价呢。
+VO_ZH_Klee_About_Kaeya.ogg  ||  凯亚哥哥是好人！《骑士团生存守则》就是凯亚哥哥帮可莉写的。可莉闯祸的时候，他也经常帮忙遮掩呢。
+VO_ZH_Klee_About_Amber.ogg  ||  安柏姐姐是好人！兔兔伯爵摸起来也是毛茸茸的，而且还会爆炸，太棒了！
+VO_ZH_Klee_About_Jean.ogg  ||  琴团长是好人！虽然…有点可怕…
+VO_ZH_Klee_About_Diluc.ogg  ||  奇怪的大人，一直都是不太开心的样子。唔…为什么不喜欢笑呢？
+VO_ZH_Klee_About_Lisa.ogg  ||  丽莎阿…丽莎姐姐是好人！每次可莉靠近她的工坊，她就会给可莉好吃的茶点…欸？说起来我想进她的工坊，好像一开始是想做新的炸药来着…？
+VO_ZH_Klee_About_Bennett.ogg  ||  班尼特哥哥是好人！和他一起冒险，可莉总能有更多收获！…虽然班尼特哥哥自己总是什么宝物都找不到，嗯…这是为什么呢？
+VO_ZH_Klee_About_Diona.ogg  ||  迪奥娜姐姐是好人！「靠一己之力摧毁蒙德酒业」的想法好有趣，可莉也要用炸弹来帮忙！——呃，虽然不太懂什么叫做「蒙德酒业」，是怪物吗？
+VO_ZH_Klee_About_Albedo.ogg  ||  阿贝多哥哥跟可莉有个秘密的约定！要是可莉看到工坊门前挂着「实验进行中」的牌子，就要晚点再去找他。阿贝多哥哥不工作的时候，会很耐心地陪着可莉，所以可莉也会很耐心地等着的！
+VO_ZH_Klee_About_Mona.ogg  ||  莫娜姐姐是好人！她每次找阿贝多哥哥和可莉玩的时候，都会说好多听不明白，但是很有趣的东西！可莉喜欢她来玩！
+VO_ZH_Klee_About_Sucrose.ogg  ||  砂糖姐姐是好人！她问我，想不想要一个会跑会跳的蹦蹦！嘿嘿嘿，当然想要了，我还想要好几百个，让蒙德的街道上，台阶上，广场上，全是蹦蹦！
+VO_ZH_Klee_More_About_Klee_-_01.ogg  ||  你好！你是来找可莉玩的吗？
+VO_ZH_Klee_More_About_Klee_-_02.ogg  ||  是啊，这个炸弹是可莉最新改良的作品！你看我做得好不好？…呃——如果是在什么纵火现场发现的话，那就不是我做的，绝对不是。
+VO_ZH_Klee_More_About_Klee_-_03.ogg  ||  哎，虽然新炸药的配方，很多都是在被关禁闭的时候想出来的…但如果不被关禁闭的话就更好了…
+VO_ZH_Klee_More_About_Klee_-_04.ogg  ||  这是嘟嘟可，是可莉很久以前就交到的好朋友。要记得它的名字哦，以后别叫它「挂在你包上的玩偶」啦。
+VO_ZH_Klee_More_About_Klee_-_05.ogg  ||  谢谢你总是帮可莉解决麻烦！就用这串「可莉烤鱼」来报答你吧！——呃，其实鱼是直接在湖里就被炸弹烤熟了，不过这件事就和平时一样，假装不知道好了。
+VO_ZH_Klee_Hobbies.ogg  ||  可莉喜欢毛茸茸的东西。比如嘟嘟可、蒲公英，还有雷泽的头发。
+VO_ZH_Klee_Troubles.ogg  ||  唉，你是好人，我是坏孩子…等我这次的禁闭结束、好好反省过以后，再来找你带我出去玩…
+VO_ZH_Klee_Favorite_Food.ogg  ||  蒙德的鲈鱼是很好吃的，从果酒湖里抓到的尤其好吃！这可不是瞎说的，连妈妈也认同可莉的想法喔。
+VO_ZH_Klee_Least_Favorite_Food.ogg  ||  讨厌蒙德蟹——什么蟹都讨厌——可莉要出去玩——不要坐在餐桌前慢慢剥壳——
+VO_ZH_Klee_Receiving_a_Gift_-_01.ogg  ||  好香好香！可莉已经吃到吃不下啦…
+VO_ZH_Klee_Receiving_a_Gift_-_02.ogg  ||  今天也吃到了好吃的东西，可莉好开心！谢谢你！
+VO_ZH_Klee_Receiving_a_Gift_-_03.ogg  ||  看上去很好吃，但吃起来不太方便…嘿嘿，你来帮帮可莉好不好！
+VO_ZH_Klee_Birthday.ogg  ||  生日快乐！过生日很开心，你比可莉大，那过生日的次数一定比可莉多吧？可莉很羡慕！
+VO_ZH_Klee_Feelings_About_Ascension_-_01.ogg  ||  嗯，新型炸弹研究完毕！趁琴团长发现之前，开溜！
+VO_ZH_Klee_Feelings_About_Ascension_-_02.ogg  ||  又进步了一点！不过琴团长总是说：「进步是分内之事。」
+VO_ZH_Klee_Feelings_About_Ascension_-_03.ogg  ||  谢谢你总是陪我一起收集研究用的材料！如果你想学习炸弹的制作方法，我也可以来教你哦。
+VO_ZH_Klee_Feelings_About_Ascension_-_04.ogg  ||  很久以前，第一次听到爆炸声的时候，我没有害怕…后来我才知道，大部分人不是这样的…不过，你也不害怕我的炸弹呢！嘿嘿，太好了，可莉果然交到了很好的朋友！
+VO_ZH_Klee_Hello.ogg  ||  
+VO_ZH_Klee_Chat_-_Spoils.ogg  ||  
+VO_ZH_Klee_Chat_-_Adventures.ogg  ||  
+VO_ZH_Klee_Chat_-_Rules.ogg  ||  
+VO_ZH_Klee_When_It_Rains.ogg  ||  
+VO_ZH_Klee_When_Thunder_Strikes.ogg  ||  
+VO_ZH_Klee_When_the_Wind_Is_Blowing.ogg  ||  
+VO_ZH_Klee_Good_Morning.ogg  ||  
+VO_ZH_Klee_Good_Afternoon.ogg  ||  
+VO_ZH_Klee_Good_Evening.ogg  ||  
+VO_ZH_Klee_Good_Night.ogg  ||  
+VO_ZH_Klee_About_Klee_-_Incidents.ogg  ||  
+VO_ZH_Klee_About_Klee_-_Reparations.ogg  ||  
+VO_ZH_Klee_About_Us_-_Knights.ogg  ||  
+VO_ZH_Klee_About_Us_-_Playmates.ogg  ||  
+VO_ZH_Klee_About_the_Vision.ogg  ||  
+VO_ZH_Klee_Something_to_Share.ogg  ||  
+VO_ZH_Klee_Interesting_Things.ogg  ||  
+VO_ZH_Klee_About_Razor.ogg  ||  
+VO_ZH_Klee_About_the_Parents.ogg  ||  
+VO_ZH_Klee_About_Kaeya.ogg  ||  
+VO_ZH_Klee_About_Amber.ogg  ||  
+VO_ZH_Klee_About_Jean.ogg  ||  
+VO_ZH_Klee_About_Diluc.ogg  ||  
+VO_ZH_Klee_About_Lisa.ogg  ||  
+VO_ZH_Klee_About_Bennett.ogg  ||  
+VO_ZH_Klee_About_Diona.ogg  ||  
+VO_ZH_Klee_About_Albedo.ogg  ||  
+VO_ZH_Klee_About_Mona.ogg  ||  
+VO_ZH_Klee_About_Sucrose.ogg  ||  
+VO_ZH_Klee_More_About_Klee_-_01.ogg  ||  
+VO_ZH_Klee_More_About_Klee_-_02.ogg  ||  
+VO_ZH_Klee_More_About_Klee_-_03.ogg  ||  
+VO_ZH_Klee_More_About_Klee_-_04.ogg  ||  
+VO_ZH_Klee_More_About_Klee_-_05.ogg  ||  
+VO_ZH_Klee_Hobbies.ogg  ||  
+VO_ZH_Klee_Troubles.ogg  ||  
+VO_ZH_Klee_Favorite_Food.ogg  ||  
+VO_ZH_Klee_Least_Favorite_Food.ogg  ||  
+VO_ZH_Klee_Receiving_a_Gift_-_01.ogg  ||  
+VO_ZH_Klee_Receiving_a_Gift_-_02.ogg  ||  
+VO_ZH_Klee_Receiving_a_Gift_-_03.ogg  ||  
+VO_ZH_Klee_Birthday.ogg  ||  
+VO_ZH_Klee_Feelings_About_Ascension_-_01.ogg  ||  
+VO_ZH_Klee_Feelings_About_Ascension_-_02.ogg  ||  
+VO_ZH_Klee_Feelings_About_Ascension_-_03.ogg  ||  
+VO_ZH_Klee_Feelings_About_Ascension_-_04.ogg  ||  
+VO_ZH_Klee_Elemental_Skill_1_01.ogg  ||  蹦蹦炸弹！
+VO_ZH_Klee_Elemental_Skill_1_02.ogg  ||  弹起来吧！
+VO_ZH_Klee_Elemental_Skill_1_03.ogg  ||  嘿咻！
+VO_ZH_Klee_Elemental_Burst_01.ogg  ||  轰轰火花！
+VO_ZH_Klee_Elemental_Burst_02.ogg  ||  火力全开！
+VO_ZH_Klee_Elemental_Burst_03.ogg  ||  全——都可以炸完！
+VO_ZH_Klee_Sprint_Start_01.ogg  ||  啦啦啦~
+VO_ZH_Klee_Sprint_Start_02.ogg  ||  哒哒哒~
+VO_ZH_Klee_Deploying_Wind_Glider_01.ogg  ||  
+VO_ZH_Klee_Opening_Treasure_Chest_01.ogg  ||  可莉又找到新的宝物了！
+VO_ZH_Klee_Opening_Treasure_Chest_02.ogg  ||  亮闪闪的，好开心！
+VO_ZH_Klee_Opening_Treasure_Chest_03.ogg  ||  地下会不会埋着更多宝箱呢…
+VO_ZH_Klee_Low_HP_01.ogg  ||  哇…怎么会这样…
+VO_ZH_Klee_Low_HP_02.ogg  ||  琴团长…它欺负我…
+VO_ZH_Klee_Low_HP_03.ogg  ||  玩累了，有点晕…
+VO_ZH_Klee_Ally_at_Low_HP_01.ogg  ||  火花骑士，爆破支援！
+VO_ZH_Klee_Ally_at_Low_HP_02.ogg  ||  你不要紧吧？
+VO_ZH_Klee_Fallen_01.ogg  ||  看我成功开溜…！啊，失败了。
+VO_ZH_Klee_Fallen_02.ogg  ||  可莉…想回家了…
+VO_ZH_Klee_Fallen_03.ogg  ||  又闯祸了…
+VO_ZH_Klee_Light_Hit_Taken_02.ogg  ||  过分…
+VO_ZH_Klee_Light_Hit_Taken_01.ogg  ||  
+VO_ZH_Klee_Heavy_Hit_Taken_02.ogg  ||  好疼啊！
+VO_ZH_Klee_Heavy_Hit_Taken_01.ogg  ||  
+VO_ZH_Klee_Joining_Party_01.ogg  ||  可莉来帮忙！
+VO_ZH_Klee_Joining_Party_02.ogg  ||  锵锵——可莉登场。
+VO_ZH_Klee_Joining_Party_03.ogg  ||  好耶！是大冒险。
+VO_ZH_Klee_Light_Attack_01.ogg  ||  
+VO_ZH_Klee_Mid_Attack_01.ogg  ||  
+VO_ZH_Klee_Heavy_Attack_01.ogg  ||  
+VO_ZH_Klee_Climbing_01.ogg  ||  
+VO_ZH_Klee_Climbing_Breath_01.ogg  ||  
+VO_ZH_Klee_Jumping_01.ogg  ||  
+VO_ZH_Klee_Elemental_Skill_1_01.ogg  ||  
+VO_ZH_Klee_Elemental_Skill_1_02.ogg  ||  
+VO_ZH_Klee_Elemental_Skill_1_03.ogg  ||  
+VO_ZH_Klee_Elemental_Burst_01.ogg  ||  
+VO_ZH_Klee_Elemental_Burst_02.ogg  ||  
+VO_ZH_Klee_Elemental_Burst_03.ogg  ||  
+VO_ZH_Klee_Sprint_Start_01.ogg  ||  
+VO_ZH_Klee_Sprint_Start_02.ogg  ||  
+VO_ZH_Klee_Deploying_Wind_Glider_01.ogg  ||  
+VO_ZH_Klee_Opening_Treasure_Chest_01.ogg  ||  
+VO_ZH_Klee_Opening_Treasure_Chest_02.ogg  ||  
+VO_ZH_Klee_Opening_Treasure_Chest_03.ogg  ||  
+VO_ZH_Klee_Low_HP_01.ogg  ||  
+VO_ZH_Klee_Low_HP_02.ogg  ||  
+VO_ZH_Klee_Low_HP_03.ogg  ||  
+VO_ZH_Klee_Ally_at_Low_HP_01.ogg  ||  
+VO_ZH_Klee_Ally_at_Low_HP_02.ogg  ||  
+VO_ZH_Klee_Fallen_01.ogg  ||  
+VO_ZH_Klee_Fallen_02.ogg  ||  
+VO_ZH_Klee_Fallen_03.ogg  ||  
+VO_ZH_Klee_Light_Hit_Taken_02.ogg  ||  
+VO_ZH_Klee_Light_Hit_Taken_01.ogg  ||  
+VO_ZH_Klee_Heavy_Hit_Taken_02.ogg  ||  
+VO_ZH_Klee_Heavy_Hit_Taken_01.ogg  ||  
+VO_ZH_Klee_Joining_Party_01.ogg  ||  
+VO_ZH_Klee_Joining_Party_02.ogg  ||  
+VO_ZH_Klee_Joining_Party_03.ogg  ||  
+VO_ZH_Klee_Light_Attack_01.ogg  ||  
+VO_ZH_Klee_Mid_Attack_01.ogg  ||  
+VO_ZH_Klee_Heavy_Attack_01.ogg  ||  
+VO_ZH_Klee_Climbing_01.ogg  ||  
+VO_ZH_Klee_Climbing_Breath_01.ogg  ||  
+VO_ZH_Klee_Jumping_01.ogg  ||  

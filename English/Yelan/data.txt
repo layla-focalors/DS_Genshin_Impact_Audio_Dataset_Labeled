@@ -1,0 +1,81 @@
+VO_Yelan_Hello.ogg  ||  Hello, Traveler. Call me Yelan. I think you may need my help, and I just so happen to be interested in some information you have. In other words — you scratch my back, I'll scratch yours.
+VO_Yelan_Chat_-_Tip-Off.ogg  ||  I got a new letter from an informant. Looks like the situation has changed again.
+VO_Yelan_Chat_-_Truancy.ogg  ||  Good roll... Alright, maybe I'll take one more day off, and knock out the rest of the work once I'm feeling up to it.
+VO_Yelan_Chat_-_Identity.ogg  ||  Navigating the world is a whole lot easier with a few different identities to choose from. Need me to come up with some for you?
+VO_Yelan_When_It_Rains.ogg  ||  It's raining again? Oh, this isn't good... If the rain washes away the traces, it's gonna set us back a long way...
+VO_Yelan_When_Thunder_Strikes.ogg  ||  Only innocent children and timid adults are scared of thunder. But you're not either of those... are you?
+VO_Yelan_When_It_Snows.ogg  ||  It's getting a little cold... Time to bundle up.
+VO_Yelan_When_the_Sun_Is_Out.ogg  ||  This blinding sunlight is such a pain... No way I can get a nap in this weather.
+VO_Yelan_When_the_Wind_Is_Blowing.ogg  ||  There's a restlessness in the wind... Hmm...
+VO_Yelan_Good_Morning.ogg  ||  Mmm~ So early... I usually get up at noon if I don't have any urgent work.
+VO_Yelan_Good_Afternoon.ogg  ||  Ah, I'm getting sleepy. Think I'll take a nap... Don't wake me. I'll wake up naturally when it's time to work.
+VO_Yelan_Good_Evening.ogg  ||  Good evening. Have you had dinner? What did you have, how was it? Oh... Just making conversation. Don't think anything of it.
+VO_Yelan_Good_Night.ogg  ||  Come on now, drink your milk and go to sleep. What? You're not a kid? Hehe... Alright, well, I'll just leave it right here, it's yours if you want it. I usually fall asleep well after midnight. Full disclosure — if you're a sleep talker, I can't promise I won't take notes, kay?
+VO_Yelan_About_Yelan_-_Duties.ogg  ||  The Qixing know Liyue like the back of their hands. But there's certain information out there that can only be obtained using more specialized methods. That's my area of expertise, so I generally take care of all those assignments myself.
+VO_Yelan_About_Yelan_-_Rumors.ogg  ||  Some say the boss of Yanshang Teahouse is a young entrepreneur who got rich overnight; some say there's a sickly and frail senior employee of the Ministry of Civil Affairs living as a hermit outside the city; others say you should stay away from restricted areas, or you'll get haunted by a blue ghost... Obviously, most civilians have never heard the name Yelan before. So you can safely laugh off all these rumors.
+VO_Yelan_About_Us_-_Relationship.ogg  ||  Huh? What's that look on your face for? You don't have to be on guard around me. I never scheme against people who have my stamp of approval.
+VO_Yelan_About_Us_-_Deception.ogg  ||  Don't be too ready to believe people when they cross their heart and hope to die. Sweet talkers only say what you want to hear. And think twice before meeting someone else's gaze — your eyes speak volumes about what you're thinking. When it comes down to it, we're friends, and if somebody ever conned you, I'd feel like I'd been cheated, too.
+VO_Yelan_About_the_Vision.ogg  ||  Wherever there's important information to be found, the stakes involved in extracting it are often fatal. It doesn't matter how big or reliable the team under you may be, you can never completely rule out the risk. The bottom line is, have enough force at your fingertips to control the situation. I got lucky — I got my Vision just a few days after realizing that. Otherwise... you'd probably be talking to a very disheveled-looking ghost right now.
+VO_Yelan_Anything_to_Share_-_Blocking_Out_Noise.ogg  ||  If you grind Loach Pearls down to size, they make excellent earplugs. They're very sound-proof — you can sleep away blissfully even when there's someone screaming right in your ear... Of course, I hope for your sake that you don't ever need them for that kind of reason.
+VO_Yelan_Anything_to_Share_-_Fascinating_Bracelet.ogg  ||  The bracelet on my right hand? I suppose there's no harm in telling you... It contains a kind of magic used by our clan, and it can send simple messages. The meaning of those messages is buried in the blue light, and only I can decipher them.
+VO_Yelan_Anything_to_Share_-_Pursuing_the_Target.ogg  ||  When I'm tracking a target, I like to put psychological pressure on them. In the process of trying to shake me off, they will start to panic, bring in reinforcements, alter their plan... they keep going like this until eventually, they've exposed everything I need to know. Heh...
+VO_Yelan_Interesting_Things.ogg  ||  Do you know much about Weasel Thieves? They're not especially intelligent creatures, but once you tame them, they can be trained to steal things and even pick locks. Pretty clear-cut case, isn't it — if even animals can be used as pawns with the right methods, the same has to be all the more true of people, who are constantly plotting and scheming against one another to begin with.
+VO_Yelan_About_Ningguang_-_Relationship.ogg  ||  I got to know Ningguang a long time ago, before she was a Qixing, and we worked together for a while. Maybe I'm partly to thank for the fact that she became a Qixing so quickly. Hehe, who can say? Anyway, she was the one who recommended this job to me. It was a good choice, I'm very well-suited to it.
+VO_Yelan_About_Ningguang_-_Expectations.ogg  ||  Ningguang is good to work with. But I have to be mindful of our identities when I'm out in public. When I meet a Qixing as an employee of the Ministry of Civil Affairs, they're "Sir" or "Lady" to me.
+VO_Yelan_About_Ganyu.ogg  ||  Ah, the secretary... I could never work non-stop like she does, certainly not at that level of efficiency. I guess being half-adeptus must have its perks. Imagine not needing sleep to regain your energy levels...
+VO_Yelan_About_Keqing.ogg  ||  I don't really like people who cram their schedules full, because it doesn't leave any room for negotiation. If something happens that they didn't anticipate, it throws their plans into oblivion, impacting not just themselves but their coworkers, too. But the Yuheng is different. She works in a very methodical way. I always enjoy working with her.
+VO_Yelan_About_Yanfei.ogg  ||  I like Yanfei a lot. And I'm not talking about our friendship — as a high-profile legal consultant, important intel in Liyue Harbor is constantly flowing in her direction. Whenever I help her out, I always get some invaluable leads in return. I gotta say though, sometimes I think she respects me a little too much.
+VO_Yelan_About_Xiao.ogg  ||  The elders in my clan once said that we must always show the utmost respect to the Vigilant Yaksha. Apparently, the only time that our ancestor would gain some temporary relief from his insanity was when passing by the Wangshu Inn. It must have been the comforting effect of his presence that wards off evil spirits. That said, if I ever have the honor of fighting side by side with the Conqueror of Demons, I will focus only on the mission. I cannot let myself be distracted by concerns about his status.
+VO_Yelan_About_Xiangling.ogg  ||  Ah, Xiangling, the lovely little chef. Her ingredients are always top quality, easily as good as Liuli Pavilion and Xinyue Kiosk. Sometimes I go to her for dried Jueyun Chilis... She doesn't seem to understand why I eat them in the way that I do, and I don't feel like trying to explain it to her, either. It's just a family tradition.
+VO_Yelan_About_Xingqiu.ogg  ||  Of course I remember him — the young master of the Feiyun Commerce Guild. I have dealings with his family all the time. Who knows... maybe one day, he'll be outsmarting everyone around him, too.
+VO_Yelan_About_Tartaglia.ogg  ||  The Fatui harbinger? He helped me out once — unwittingly. I was planning a deep-reaching investigation into the former owner of the Yanshang Teahouse, but our harbinger friend got to him first. He showed up demanding payment of his debt, and also exposed his accounting fraud, which got him thrown in jail. That made it very easy for me to take over Yanshang Teahouse myself, and it's proven to be a very useful base.
+VO_Yelan_More_About_Yelan_-_01.ogg  ||  The reason I'm willing to bet on you is because of your special status. I think it'll bring me a lot of leads that can get me closer to the truth... Heh, so, got any news for me today?
+VO_Yelan_More_About_Yelan_-_02.ogg  ||  Exchanging information has to be a two-way thing, so I guess I can tell you something about my past. Thanks to my family's connections, I learned some useful skills from the Millelith scouts very early on. Although there are things working against you every step of the way when you're gathering intelligence, as long as I keep myself alive, I'll always emerge as the winner in the end...
+VO_Yelan_More_About_Yelan_-_03.ogg  ||  Clues are links in a chain. You have to trace them all the way back to where everything began before there can be a resolution. To that end, I need to keep my eyes and ears on every part of society, and often, that means having to be more than one person. People sometimes describe me as "one person, many faces" and so on... I take it as a compliment.
+VO_Yelan_More_About_Yelan_-_04.ogg  ||  Someone once warned me to be careful about digging up certain things from the past. Dig too deep and you might find yourself standing in your own grave, they say... Well, I'm not about to stop, least of all because of anything anyone else has to say. Sure, I can't change the facts, but if it's a choice between the cold, hard truth and blissful unawareness, I'll take the former. What about you? Which would you choose?
+VO_Yelan_More_About_Yelan_-_05.ogg  ||  Tell me something. If I'm gonna stay around, what kind of person do you want me to be to you? Someone you work with? A competitor, who challenges you to sharpen your game? Just another name on your long list of acquaintances, or... somebody more important than that? Depending on what you're hoping for, I can either play that part or become that person.
+VO_Yelan_Hobbies.ogg  ||  In my free time, I live life completely at random. It's quite simple: I make a list of things to do, then I roll the dice to decide which one I'm going to do next. It's a surprisingly fun game, and it's really broadened my mind... in that sense, it's been quite helpful where my job is concerned.
+VO_Yelan_Troubles.ogg  ||  My physical fitness isn't actually that great compared with some trained martial artists. It's a hereditary thing that runs in my family. So before getting into really important work, I adjust my schedule to make sure I get enough rest, wait till I have built up enough energy, then strive to finish everything that needs doing in one go. Outside of work, I try my best to live life at a calm and carefree pace. So I'll always decline to take on any strenuous physical labor.
+VO_Yelan_Favorite_Food.ogg  ||  I like to grind dried Jueyun Chilis and Violetgrass stamens into powder, mix them in with some Yunlai White Tea leaves, and then brew a strong pot of tea. It has the most powerful fragrance that makes you instantly fall in love with it. I prefer drinks like this with a long-lasting aftertaste to things like coffee and spirits.
+VO_Yelan_Least_Favorite_Food.ogg  ||  You have to be very careful with sweets. That powerful sense of satisfaction... it weakens your willpower and makes you relaxed. It only takes a few bites to get addicted, and with long-term consumption, you'll slowly but surely lose your edge.
+VO_Yelan_Receiving_a_Gift_-_01.ogg  ||  Hm, not bad. Almost good enough to bribe me with.
+VO_Yelan_Receiving_a_Gift_-_02.ogg  ||  Once you get accustomed to spicy food, everything else tastes bland. That's just the way it is.
+VO_Yelan_Receiving_a_Gift_-_03.ogg  ||  Shall we roll some dice? Whoever gets the lowest number... gets to eat it.
+VO_Yelan_Birthday.ogg  ||  If I was to tell you that maybe you shouldn't celebrate too hard today, because you'll let your guard down, and someone out there might just be waiting for that moment to make their move on you... it probably wouldn't go down very well. So, relax and take it easy today. Oh, and you should stop by the Yanshang Teahouse — I whipped up some treats especially for you. Not sweet ones, of course. Just the tiniest little hint of chili.
+VO_Yelan_Feelings_About_Ascension_-_01.ogg  ||  In my line of work, combat skills are essential.
+VO_Yelan_Feelings_About_Ascension_-_02.ogg  ||  Sometimes, you have to strike hard and fast at just the right moment to expose the lies while avoiding any unwanted interference.
+VO_Yelan_Feelings_About_Ascension_-_03.ogg  ||  Finding the truth might sound simple, but it takes perseverance to stick to the trail of clues and it takes strength to follow them deep into dangerous territory.
+VO_Yelan_Feelings_About_Ascension_-_04.ogg  ||  I have long regarded you as my most important informant. Naturally, I need to be fully prepared to face whatever risks come with the final answer when you bring it to me. Come on, let's go get it!
+VO_Yelan_Elemental_Skill_1_01.ogg  ||  Busted.
+VO_Yelan_Elemental_Skill_1_02.ogg  ||  Gotcha.
+VO_Yelan_Elemental_Skill_1_03.ogg  ||  Quietly now.
+VO_Yelan_Elemental_Burst_01.ogg  ||  Game's up, fun's over!
+VO_Yelan_Elemental_Burst_02.ogg  ||  Here comes the catch.
+VO_Yelan_Elemental_Burst_03.ogg  ||  Things are about to get dicey.
+VO_Yelan_Sprint_Start_01.ogg  ||  Take it easy.
+VO_Yelan_Sprint_Start_02.ogg  ||  
+VO_Yelan_Deploying_Wind_Glider_01.ogg  ||  
+VO_Yelan_Opening_Treasure_Chest_01.ogg  ||  Easy money.
+VO_Yelan_Opening_Treasure_Chest_02.ogg  ||  Treasure... one way to draw your target out of hiding.
+VO_Yelan_Opening_Treasure_Chest_03.ogg  ||  A chest full of valuables... and a trove of potential clues.
+VO_Yelan_Low_HP_01.ogg  ||  What a drag...
+VO_Yelan_Low_HP_02.ogg  ||  Winging it wasn't the best idea...
+VO_Yelan_Low_HP_03.ogg  ||  I didn't factor this in...
+VO_Yelan_Ally_at_Low_HP_01.ogg  ||  Get back, I'll finish this job.
+VO_Yelan_Ally_at_Low_HP_02.ogg  ||  You're running cold, allow me.
+VO_Yelan_Fallen_01.ogg  ||  What are... the odds?
+VO_Yelan_Fallen_02.ogg  ||  How was l... so wrong...
+VO_Yelan_Fallen_03.ogg  ||  But the truth... is still unknown...
+VO_Yelan_Light_Hit_Taken_02.ogg  ||  Gutsy.
+VO_Yelan_Light_Hit_Taken_01.ogg  ||  
+VO_Yelan_Heavy_Hit_Taken_01.ogg  ||  No...
+VO_Yelan_Heavy_Hit_Taken_02.ogg  ||  
+VO_Yelan_Joining_Party_01.ogg  ||  Who's our target this time?
+VO_Yelan_Joining_Party_02.ogg  ||  It's time to pull the trigger.
+VO_Yelan_Joining_Party_03.ogg  ||  Let's go get ourselves some answers.
+VO_Yelan_Light_Attack_01.ogg  ||  
+VO_Yelan_Mid_Attack_01.ogg  ||  
+VO_Yelan_Heavy_Attack_01.ogg  ||  
+VO_Yelan_Climbing_01.ogg  ||  
+VO_Yelan_Climbing_Breath_01.ogg  ||  
+VO_Yelan_Jumping_01.ogg  ||  

@@ -1,0 +1,98 @@
+VO_Wanderer_Hello.ogg  ||  You want me to introduce myself? I've gone by many names and titles during my journey. Although each one is more eminent than any ordinary mortal could imagine, they're all just water under the bridge to me now.
+Call me whatever you like. Go ahead, let me see what you can come up with. Don't disappoint me.
+VO_Wanderer_Chat_-_The_Wind.ogg  ||  There's no such thing as pure freedom in this world. Even the wind cannot blow on forever.
+VO_Wanderer_Chat_-_Manner_of_Speech.ogg  ||  You think I've got a sharp tongue? I just tell it like it is. If someone can't handle it, maybe that's their problem.
+VO_Wanderer_Chat_-_Exchanging_Pleasantries.ogg  ||  There's no need to exchange pleasantries. It's rather pathetic to force a conversation just to occupy silence.
+VO_Wanderer_When_It_Rains.ogg  ||  You want to use my hat as an umbrella? Hmph, the audacity to even make that request...
+VO_Wanderer_After_the_Rain.ogg  ||  You're so happy just to see the sun again? How childish.
+VO_Wanderer_When_Thunder_Strikes.ogg  ||  Huh. How irritating.
+VO_Wanderer_When_It_Snows.ogg  ||  Fundamentally speaking, there's little difference between snow and rain, yet people lavish praise only upon the former... Fate can be truly arbitrary.
+VO_Wanderer_When_the_Wind_Is_Blowing.ogg  ||  A simple breeze like this... Even you can conjure it, right?
+VO_Wanderer_Good_Morning.ogg  ||  "Rise and shine, sleepyhead, the sun's already in your eyes!" ...Haha, don't tell me you actually thought I'd wake you up like that?
+VO_Wanderer_Good_Afternoon.ogg  ||  I have no need for food. Save me the trouble and take care of yourself and that small thing floating next to you.
+VO_Wanderer_Good_Evening.ogg  ||  Finally, another boring day is drawing to a close.
+VO_Wanderer_Good_Night.ogg  ||  What, can't fall asleep with me around? Hehe.
+VO_Wanderer_About_Wanderer_-_Puppet.ogg  ||  A puppet consumed by a raging fire will leave behind ashes. As for what will emerge from them...
+VO_Wanderer_About_Wanderer_-_Heart.ogg  ||  I'll leave that kind of thing to fate. Obsessing over something that's destined to be ever out of one's reach is just a waste of time. I have more important things to attend to at the moment.
+VO_Wanderer_About_Us_-_Rivals.ogg  ||  So, you're still stewing over our run-ins from before? Huh. Well, what are you going to do about it? Take your time. I'm in no hurry.
+VO_Wanderer_About_Us_-_Collaborators.ogg  ||  I'll never be one of the good guys. I'm just here to pay my dues after what you've done for me.
+But what about you? Shouldn't you come up with some excuse for our meetings? If one of your friends mistakes you for collaborating with the enemy, you're on your own.
+VO_Wanderer_About_the_Vision.ogg  ||  Although the idea of "divine favor" makes me a little ill, I'm not going to be picky about a new source of power. You think there's some kind of meaning behind the element of Anemo? Hah, why did that thought even occur to you? The gods aren't guided by any kind of rationality or moral compass. Haven't I shown that to you already?
+VO_Wanderer_Something_to_Share.ogg  ||  I've got nothing. Ask me anything if you want. If a question is interesting enough, I may give you an answer.
+VO_Wanderer_Interesting_Things.ogg  ||  Look. The birds are showing off their plumage, the squirrels are busy hoarding food, and humans are laboring for their livelihoods. Truly, simple animals don't need anything complicated to be fulfilled.
+VO_Wanderer_About_Lesser_Lord_Kusanali.ogg  ||  While I still had value as a pawn, she might have had other reasons to keep me alive. It's certainly possible that it was because she's wise or benevolent, or happened to see a hint of loneliness within me... You think I'm trying to think the worst of her? Hah, did you really expect anything else? In case you've forgotten, I'm no saint.
+VO_Wanderer_About_the_Raiden_Shogun.ogg  ||  She completely neglected her own creation, and to add insult to injury, she said it was because she "couldn't bring herself to intervene" in my fate...
+VO_Wanderer_About_the_Tsaritsa.ogg  ||  Everyone praises her for her kindness and benevolence, but they forget that love is also a form of sin. What if she's just trying to compensate for something?
+VO_Wanderer_About_The_Jester.ogg  ||  The Jester is a survivor of Khaenri'ah. Besides that singular fact, I know very little about him, and never had any kind of close association with him. He seems to want something from me, though. In the past, he assigned to me many important tasks, including a number of trips to the Abyss.
+VO_Wanderer_About_The_Captain.ogg  ||  "The ever-righteous Captain," "the brave and fearless Captain," "the nigh-invincible Captain"... Even my mechanical ears demand maintenance after listening to so many compliments from the members of the Fatui. Don't you think that possessing absolute righteousness is actually a latent danger? And that's without taking his great personal strength into account.
+VO_Wanderer_About_The_Doctor.ogg  ||  It's a pity that Lesser Lord Kusanali already forced him to erase so many of his segments. The joy I would have derived from slicing them apart one by one...
+VO_Wanderer_About_Damselette.ogg  ||  Let me ask: what should you do if you were to encounter a "damsel" who is oblivious and innocent at any given time, and unconcerned and unfeeling in any given situation? If it were me, I could at least challenge her to a fight. But if it were you... with your conscience, I would stay away from her.
+VO_Wanderer_About_The_Knave.ogg  ||  A wolf in sheep's clothing. To exert a higher level of control over people, she puts on a graceful and cordial front. Most of those who have seen her true, crazy self... have gone poof.
+VO_Wanderer_About_The_Rooster.ogg  ||  Only someone as dense as Childe would think The Rooster is looking after him and his family out of the goodness of his heart. Although the mayor has indeed done a number of things for their benefit, anyone with a brain would be able to tell that the underlying meaning is "your entire family is in my hands."
+VO_Wanderer_About_Marionette.ogg  ||  She has a terrible personality and cares for nothing outside of her own research. But even with that amount of dedication, she still produced a copious amount of garbage, and could only secure a ranking that's still one whole place beneath my own. How pitiful.
+VO_Wanderer_About_Regrator.ogg  ||  Oh, the ninth-ranked guy. He's obsessed with the idea of "fair exchange," to the point of wanting to overthrow the natural imbalance between gods and humans. But, I guess it's just how ordinary mortals are like — it's easy for them to come up with pointless delusions. Honestly, it's nothing worth writing home about, just like how there's also nothing impressive about his abilities or choice of partner. Hmph. Anyone who chooses to work closely with The Doctor is sure to meet a nasty end.
+VO_Wanderer_About_Childe.ogg  ||  He's simple of mind and not that strong of body. Naming him to the lowest-ranked seat lowered the Harbingers' collective prestige. Thankfully, I'm no longer part of that group.
+VO_Wanderer_About_The_Fair_Lady.ogg  ||  Nothing remained in her ashes. I have no interest in those who have lost their future.
+VO_Wanderer_About_Yae_Miko.ogg  ||  A smooth-talking youkai. Though she pretends to care about humans to gain the favor of her god, all she seeks are entertaining ways to pass her time.
+VO_Wanderer_About_Kaedehara_Kazuha.ogg  ||  You speak of the descendant of the Kaedehara clan? Then isn't he... Wait, he also possesses an Anemo Vision? ...And even managed to take on the Raiden Shogun's Musou no Hitotachi? Hehe... Ahahahaha!
+VO_Wanderer_More_About_Wanderer_-_01.ogg  ||  You want to learn more about me? How ridiculous. Don't you know that's only asking for trouble?
+VO_Wanderer_More_About_Wanderer_-_02.ogg  ||  Oh, I'm well aware that many, many people will want to seek me out and settle the grudges they've built against me in my past life. Fine by me — come one, come all, I say. As a matter of fact, I'm somewhat looking forward to it.
+VO_Wanderer_More_About_Wanderer_-_03.ogg  ||  I once thought that deification would allow me to get rid of all of my pointless emotions, but I've since abandoned that view. Anger, whether it be from others or myself, is too convenient and useful as a tool.
+How can some people just never become angry? I find that impossible to even imagine. Do they just not have a single mean bone in their bodies?
+VO_Wanderer_More_About_Wanderer_-_04.ogg  ||  When I entered Irminsul, there was only one thought in my mind: I wish I'd never been born at all.
+Irminsul responded to my wish, but didn't bring me the outcome I desired. The fate of this world hasn't changed a single bit when it comes to playing cruel tricks on its prisoners.
+VO_Wanderer_More_About_Wanderer_-_05.ogg  ||  You and I have crossed paths in the past, but our journeys will eventually diverge. Who knows what will happen next? Let's just wait and see.
+VO_Wanderer_Hobbies.ogg  ||  Hobbies? Those are for idle bodies who have the free time to think about such things. Do I look like I have any interest in distractions?
+VO_Wanderer_Troubles.ogg  ||  I'm trying to figure out a way to get rid of you so I can go commit atrocities. ...Wait, did you think I was being serious?
+VO_Wanderer_Favorite_Food.ogg  ||  Do you have some tea? The more bitter, the better. It leaves the most fascinating aftertaste.
+VO_Wanderer_Least_Favorite_Food.ogg  ||  I'm no fan of Dango, or any other sticky sweets that make me feel like my teeth are fusing together. Keep them to yourself.
+VO_Wanderer_Receiving_a_Gift_-_01.ogg  ||  It's okay. Guess this is one of the few things you're good at.
+VO_Wanderer_Receiving_a_Gift_-_02.ogg  ||  Not bad. You actually made something edible.
+VO_Wanderer_Receiving_a_Gift_-_03.ogg  ||  You wanna poison me? Are you so dumb as to have forgotten that I'm not human?
+VO_Wanderer_Birthday.ogg  ||  Give me your hand. Heh, there's no need to be nervous. I'm just taking you to a vantage point.
+How is it? The scenery here should be quite breathtaking. There's no need to thank me — I see little point in it.
+VO_Wanderer_Feelings_About_Ascension_-_01.ogg  ||  ...I can see the great deal of effort you put forth.
+VO_Wanderer_Feelings_About_Ascension_-_02.ogg  ||  The wind is blowing this way... What did you do?
+VO_Wanderer_Feelings_About_Ascension_-_03.ogg  ||  You aren't worried about making me more powerful? ...Alright.
+VO_Wanderer_Feelings_About_Ascension_-_04.ogg  ||  Although I can be of help to you, seeing me as an ally is still a dangerous endeavor. I hope you understand what you're doing. If you still insist on continuing down this path, then let me lead the way.
+VO_Wanderer_Elemental_Skill_1_01.ogg  ||  The wind rises!
+VO_Wanderer_Elemental_Skill_1_02.ogg  ||  Behold!
+VO_Wanderer_Elemental_Skill_1_03.ogg  ||  Squall and fury!
+VO_Wanderer_Elemental_Burst_01.ogg  ||  Unsightly insects!
+VO_Wanderer_Elemental_Burst_02.ogg  ||  Wretched vermin!
+VO_Wanderer_Elemental_Burst_03.ogg  ||  Cry louder!
+VO_Wanderer_Elemental_Burst_04.ogg  ||  (In Windfavored State) Bow your head!
+VO_Wanderer_Elemental_Burst_05.ogg  ||  (In Windfavored State) Know your place!
+VO_Wanderer_Elemental_Burst_06.ogg  ||  (In Windfavored State) You dare to gaze upon me!?
+VO_Wanderer_Sprint_Start_01.ogg  ||  (In Windfavored State) Surge forth!
+VO_Wanderer_Sprint_Start_02.ogg  ||  (In Windfavored State) Upon the gale!
+VO_Wanderer_Sprint_Start_04.ogg  ||  ...Too slow.
+VO_Wanderer_Sprint_Start_05.ogg  ||  Quit following me!
+VO_Wanderer_Sprint_Start_03.ogg  ||  
+VO_Wanderer_Deploying_Wind_Glider_01.ogg  ||  
+VO_Wanderer_Opening_Treasure_Chest_01.ogg  ||  Unnecessary.
+VO_Wanderer_Opening_Treasure_Chest_02.ogg  ||  Hah, you even want this?
+VO_Wanderer_Opening_Treasure_Chest_03.ogg  ||  Take it and have fun.
+VO_Wanderer_Low_HP_01.ogg  ||  I'm used to this.
+VO_Wanderer_Low_HP_02.ogg  ||  Nothing worth mentioning.
+VO_Wanderer_Ally_at_Low_HP_01.ogg  ||  Why are you even here?
+VO_Wanderer_Ally_at_Low_HP_02.ogg  ||  Worthless as expected.
+VO_Wanderer_Fallen_01.ogg  ||  Falling... into the abyss...
+VO_Wanderer_Fallen_02.ogg  ||  Everything... was futile...
+VO_Wanderer_Fallen_03.ogg  ||  The price... for my sins...
+VO_Wanderer_Light_Hit_Taken_01.ogg  ||  
+VO_Wanderer_Heavy_Hit_Taken_02.ogg  ||  That's far enough.
+VO_Wanderer_Heavy_Hit_Taken_03.ogg  ||  ...How amusing.
+VO_Wanderer_Heavy_Hit_Taken_06.ogg  ||  ...You're dead.
+VO_Wanderer_Heavy_Hit_Taken_07.ogg  ||  I'll have you beg for mercy.[Note 1]
+VO_Wanderer_Heavy_Hit_Taken_08.ogg  ||  Prepare yourself for punishment.[Note 1]
+VO_Wanderer_Heavy_Hit_Taken_01.ogg  ||  
+VO_Wanderer_Joining_Party_01.ogg  ||  Huh... What do you want from me?
+VO_Wanderer_Joining_Party_02.ogg  ||  This had better be important.
+VO_Wanderer_Joining_Party_03.ogg  ||  Are you sure it has to be me? ...Fine, let's get this over with.
+VO_Wanderer_Light_Attack_01.ogg  ||  
+VO_Wanderer_Mid_Attack_01.ogg  ||  
+VO_Wanderer_Heavy_Attack_01.ogg  ||  
+VO_Wanderer_Climbing_01.ogg  ||  
+VO_Wanderer_Climbing_Breath_01.ogg  ||  
+VO_Wanderer_Jumping_01.ogg  ||  

@@ -1,0 +1,176 @@
+VO_ZH_Cyno_Hello_-_The_Past.ogg  ||  我是赛诺，曾经的「大风纪官」。如今我正在以自己的力量审判罪恶，若你同样心系规则与正义，我可以助你一臂之力。
+VO_ZH_Cyno_Hello_-_The_Present.ogg  ||  我是赛诺，教令院的「大风纪官」。维护规则、审判罪恶是我的职责，今后的旅途中，我会保护好你的安全。
+VO_ZH_Cyno_Chat_-_Weighing_the_Heart.ogg  ||  善与恶，最终都会被称量。
+VO_ZH_Cyno_Chat_-_Luck_of_the_Draw.ogg  ||  运势会左右某一场对决的胜负，但不会一直影响下去。
+VO_ZH_Cyno_Chat_-_Doubt.ogg  ||  偶尔我也想缓解一下气氛，但我其实分不太清什么笑话能够引人发笑。
+VO_ZH_Cyno_When_It_Rains.ogg  ||  又下雨了…
+VO_ZH_Cyno_When_Thunder_Strikes.ogg  ||  在一些传说中，雷电是神明对人间降下的审判。
+VO_ZH_Cyno_When_It_Snows.ogg  ||  我很喜欢下雪后的世界，安静却并非一片死寂。
+VO_ZH_Cyno_When_the_Sun_Is_Out.ogg  ||  阳光终会照进每一个角落。
+VO_ZH_Cyno_When_the_Wind_Is_Blowing.ogg  ||  好大的风…当心。
+VO_ZH_Cyno_In_the_Desert.ogg  ||  熟悉的风景…
+VO_ZH_Cyno_Good_Morning.ogg  ||  打起精神，该出发了。
+VO_ZH_Cyno_Good_Afternoon.ogg  ||  需要我准备午饭吗？事先说好，我可不保证好吃。
+VO_ZH_Cyno_Good_Evening.ogg  ||  还记得我跟你说过的话吗？夜晚总是伴随着危险，无论做什么都不要放松警惕。
+VO_ZH_Cyno_Good_Night.ogg  ||  晚安。一些罪犯在附近活动，我去处理。
+VO_ZH_Cyno_About_Cyno_-_Unfunny_Jokes.ogg  ||  有一个旅人在沙漠中口渴无比，于是祈祷自己遇到一只水史莱姆，没想到一只饿着肚子的水史莱姆也在祈祷自己遇见落单的旅人…嗯？你那是什么表情，不好笑吗？
+VO_ZH_Cyno_About_Cyno_-_Desert_Strolls.ogg  ||  我偶尔会去夜晚的沙漠散步，寒冷而干涩的风让人头脑清醒。
+VO_ZH_Cyno_About_Us_-_TCG_Duel.ogg  ||  要打一把「七圣召唤」吗？给你看看我的新卡组。
+VO_ZH_Cyno_About_Us_-_The_Present.ogg  ||  过去无法更改，未来无法预料，所以我很珍惜眼前的时光。
+VO_ZH_Cyno_About_the_Vision.ogg  ||  凭依在我身上的非人之物也好，将视线投射于我的魔神也罢，我受神明青睐，但我无意为此而改变自己的道义。我只尽我应尽之责，做我应做之事。
+VO_ZH_Cyno_Something_to_Share_-_Lust_for_Knowledge.ogg  ||  「欲望泛滥就会引发灾害」，这似乎已经是一种共识。然而提及「求知欲」的时候，人们却往往只愿意谈论它的正面作用…在我看来，求知欲也是欲望的一种，必须加以控制。
+VO_ZH_Cyno_Something_to_Share_-_Solemn_Respect.ogg  ||  在执行任务时，我的任何一个判断都可能会改变他人的命运。所以我必须要求自己时刻对「风纪官」这个职位保持敬畏——就像我敬畏知识与力量一样。
+VO_ZH_Cyno_Interesting_Things.ogg  ||  我喜欢生长在沙漠中的那些灌木。沙漠象征着归寂，一切文明都会被风沙掩埋。但就在这片荒凉的土地上，却能见到生命不断萌发的迹象，有时连我也会被它们的坚韧震撼。
+VO_ZH_Cyno_About_Tighnari_-_Knowledge.ogg  ||  提纳里和我见过的其他学者不同。他对知识同样有着很深的执着，却始终不会逾越那道红线。有些学者会将自己视为「实验室中的神明」，但提纳里不会，他一直平等地尊重每一种生命。听说他拒绝了教令院的聘请，我也站在他这一边。
+VO_ZH_Cyno_About_Tighnari_-_Jokes.ogg  ||  提纳里曾劝我不要在饭桌上讲笑话，说是根本笑不出来。我不以为然，连讲了三个压箱底的笑话，并逐一解释了笑点…然后我的饭菜凉了。
+VO_ZH_Cyno_About_Collei.ogg  ||  我曾经帮她封印了体内的魔神残骸，但封印的过程给她带来了很大的痛苦。那种程度的痛苦可能比死亡更让人害怕，她能够坚持下来，很了不起。
+VO_ZH_Cyno_About_Alhaitham.ogg  ||  我不太喜欢过于聪明的人，他们总是自认为能掌控一切，从而经常在危险的边缘游走。不过艾尔海森还算稳定，在绝大部分场合，他确实有掌控局面、化险为夷的能力。
+VO_ZH_Cyno_About_Kaveh.ogg  ||  提纳里和柯莱没有亲口说出来，但他们之间的眼神交流已经说明了一切。卡维分享的亲身经历比我准备的笑话有趣多了。我的看法？我觉得他们会为这种事情发笑，反倒是挺好笑的。
+VO_ZH_Cyno_About_Nahida.ogg  ||  评价神明…这在我看来是略微有些僭越的事情。不过在同行的那段时间里，我也亲眼见证了她的智慧、勇气与决心。相较于那些只靠臆想就对她指指点点的贤者，我应该更有资格下这个结论：她是一位优秀的、值得尊敬的神明。
+VO_ZH_Cyno_About_Nilou.ogg  ||  我能从她身上感到对舞蹈的热情与执念，这份执念非常坚定，不会轻易改变。希望以后，她也可以用自己热爱的舞蹈为他人带去快乐。
+VO_ZH_Cyno_About_Faruzan.ogg  ||  我曾仔细翻阅过记载珐露珊前辈失踪的案卷，那时候我怀疑她进行了某种危险的研究…不过与她见面之后，我就彻底打消了这个念头。虽然相处起来有些困难，不过她就像一位喜欢絮絮叨叨的长辈，心里会为他人着想，不会做什么出格的事情。
+VO_ZH_Cyno_About_Lisa.ogg  ||  丽莎和我曾向同一位贤者求学，我自然知道她的事。身为大风纪官，我也见过许多过分追求知识而引发的悲剧，所以能理解她的选择。
+VO_ZH_Cyno_More_About_Cyno_-_01.ogg  ||  你问关于我的事？也是，毕竟在很多人眼中我是一个无法忽视的「麻烦」…不用担心，只要你不做什么危险的事情，我就不会找你的麻烦。
+VO_ZH_Cyno_More_About_Cyno_-_02.ogg  ||  以此身为容器，可以令非人之物的力量显现。这既得益于先天的体质，也是一种后天的交易。没什么可避讳的，我以风纪官的身份称量世间的罪恶，自然也要把我自己的灵魂放到审判之秤上一同称量。
+VO_ZH_Cyno_More_About_Cyno_-_03.ogg  ||  比起「为什么做」，我更看重「做了什么」。因为这个世界上有成千上万种理由，有时你听到那些理由，会觉得做了错事的人情有可原，甚至觉得旁人对他们太过苛责。劣势方总是容易引起别人的同情，但审判者却要摒弃这种情绪。情有可原，但罪无可赦。
+VO_ZH_Cyno_More_About_Cyno_-_04.ogg  ||  在幽暗的无知之海上，偶尔会泛起微光，吸引着不明真相的人靠近。常有人视其为灯塔，却看不到漆黑的海水中隐藏的巨大危险。将久居在黑暗中的人带离光明的指引，本身是一件残酷的事情，但我不得不这么做——直到未来有一天，我们能够战胜海水中潜藏的敌人为止。
+VO_ZH_Cyno_More_About_Cyno_-_05.ogg  ||  我判断有价值的信息，已经如数分享了，你还在期待听我说什么？哈…你的好奇心真是不简单，那就由你提问吧。习惯了审问别人之后，这种被人询问的感觉…也算新奇。
+VO_ZH_Cyno_Hobbies.ogg  ||  闲暇的时候，我会和其他人打几局「七圣召唤」。这种建立在规则之上，却又充满灵活变通的游戏，在我看来更像是一种艺术。
+VO_ZH_Cyno_Troubles.ogg  ||  前段时间，我看到了一本来自稻妻的轻小说。小说以「七圣召唤」为主题，里面的主角被逼入绝境的时候，忽然从卡组中抽到了一张原本不存在的卡。我深受震撼，同时也陷入困惑：通过对卡组进行特殊操作，创造出让人摸不着头脑的奇迹，这究竟是打破了规则，还是也算规则的一部分？
+VO_ZH_Cyno_Favorite_Food.ogg  ||  大米与肉类、干果混合，加酸奶进行烤制，不同的香味会混合到一起。敲开焦脆的外壳，香味就会随着蒸腾的热气一同冒出来。制作起来也不会花太长时间，是我很喜欢的菜肴。
+VO_ZH_Cyno_Least_Favorite_Food.ogg  ||  在沙漠中行走的时候，带的干粮通常坚硬无味，习惯之后就没有什么讨厌的东西了。非要说的话，跟虫子有关的食物还是有些难以接受…
+VO_ZH_Cyno_Receiving_a_Gift_-_01.ogg  ||  味道很好，劳你费心了。
+VO_ZH_Cyno_Receiving_a_Gift_-_02.ogg  ||  我收下了，多谢。
+VO_ZH_Cyno_Receiving_a_Gift_-_03.ogg  ||  给我的吗？是不是搞错了？
+VO_ZH_Cyno_Birthday.ogg  ||  嗯…先祝你生日快乐。虽然没有太多庆祝的经验，不过想到是你的生日，我还是提前做了一些准备。首先是一套我研究了几天后得到的卡组构筑，风格和你比较契合。另外我调整了这段时间的安排，你有什么想去的地方吗？我可以陪你一起去。虽然生日只有一天，但放松还是需要尽兴，行程安排在三天内即可。
+VO_ZH_Cyno_Feelings_About_Ascension_-_01.ogg  ||  我能感受到新的力量，这是变强的证明。
+VO_ZH_Cyno_Feelings_About_Ascension_-_02.ogg  ||  审判罪恶，维护规则。
+VO_ZH_Cyno_Feelings_About_Ascension_-_03.ogg  ||  不错的提升，多谢你了。
+VO_ZH_Cyno_Feelings_About_Ascension_-_04.ogg  ||  力量已达顶峰，然而仅靠这一身武力，仍旧有许多做不到的事情。人情与规则许多时候相互冲突，如何更好地兼顾，我会在今后的旅途中寻找答案。
+VO_ZH_Cyno_Hello_-_The_Past.ogg  ||  
+VO_ZH_Cyno_Hello_-_The_Present.ogg  ||  
+VO_ZH_Cyno_Chat_-_Weighing_the_Heart.ogg  ||  
+VO_ZH_Cyno_Chat_-_Luck_of_the_Draw.ogg  ||  
+VO_ZH_Cyno_Chat_-_Doubt.ogg  ||  
+VO_ZH_Cyno_When_It_Rains.ogg  ||  
+VO_ZH_Cyno_When_Thunder_Strikes.ogg  ||  
+VO_ZH_Cyno_When_It_Snows.ogg  ||  
+VO_ZH_Cyno_When_the_Sun_Is_Out.ogg  ||  
+VO_ZH_Cyno_When_the_Wind_Is_Blowing.ogg  ||  
+VO_ZH_Cyno_In_the_Desert.ogg  ||  
+VO_ZH_Cyno_Good_Morning.ogg  ||  
+VO_ZH_Cyno_Good_Afternoon.ogg  ||  
+VO_ZH_Cyno_Good_Evening.ogg  ||  
+VO_ZH_Cyno_Good_Night.ogg  ||  
+VO_ZH_Cyno_About_Cyno_-_Unfunny_Jokes.ogg  ||  
+VO_ZH_Cyno_About_Cyno_-_Desert_Strolls.ogg  ||  
+VO_ZH_Cyno_About_Us_-_TCG_Duel.ogg  ||  
+VO_ZH_Cyno_About_Us_-_The_Present.ogg  ||  
+VO_ZH_Cyno_About_the_Vision.ogg  ||  
+VO_ZH_Cyno_Something_to_Share_-_Lust_for_Knowledge.ogg  ||  
+VO_ZH_Cyno_Something_to_Share_-_Solemn_Respect.ogg  ||  
+VO_ZH_Cyno_Interesting_Things.ogg  ||  
+VO_ZH_Cyno_About_Tighnari_-_Knowledge.ogg  ||  
+VO_ZH_Cyno_About_Tighnari_-_Jokes.ogg  ||  
+VO_ZH_Cyno_About_Collei.ogg  ||  
+VO_ZH_Cyno_About_Alhaitham.ogg  ||  
+VO_ZH_Cyno_About_Kaveh.ogg  ||  
+VO_ZH_Cyno_About_Nahida.ogg  ||  
+VO_ZH_Cyno_About_Nilou.ogg  ||  
+VO_ZH_Cyno_About_Faruzan.ogg  ||  
+VO_ZH_Cyno_About_Lisa.ogg  ||  
+VO_ZH_Cyno_More_About_Cyno_-_01.ogg  ||  
+VO_ZH_Cyno_More_About_Cyno_-_02.ogg  ||  
+VO_ZH_Cyno_More_About_Cyno_-_03.ogg  ||  
+VO_ZH_Cyno_More_About_Cyno_-_04.ogg  ||  
+VO_ZH_Cyno_More_About_Cyno_-_05.ogg  ||  
+VO_ZH_Cyno_Hobbies.ogg  ||  
+VO_ZH_Cyno_Troubles.ogg  ||  
+VO_ZH_Cyno_Favorite_Food.ogg  ||  
+VO_ZH_Cyno_Least_Favorite_Food.ogg  ||  
+VO_ZH_Cyno_Receiving_a_Gift_-_01.ogg  ||  
+VO_ZH_Cyno_Receiving_a_Gift_-_02.ogg  ||  
+VO_ZH_Cyno_Receiving_a_Gift_-_03.ogg  ||  
+VO_ZH_Cyno_Birthday.ogg  ||  
+VO_ZH_Cyno_Feelings_About_Ascension_-_01.ogg  ||  
+VO_ZH_Cyno_Feelings_About_Ascension_-_02.ogg  ||  
+VO_ZH_Cyno_Feelings_About_Ascension_-_03.ogg  ||  
+VO_ZH_Cyno_Feelings_About_Ascension_-_04.ogg  ||  
+VO_ZH_Cyno_Elemental_Skill_1_01.ogg  ||  束手就擒吧。
+VO_ZH_Cyno_Elemental_Skill_1_02.ogg  ||  徒劳的挣扎。
+VO_ZH_Cyno_Elemental_Skill_1_03.ogg  ||  你无处可逃！
+VO_ZH_Cyno_Elemental_Skill_1_04.ogg  ||  裁决已至。
+VO_ZH_Cyno_Elemental_Skill_1_05.ogg  ||  该定罪了。
+VO_ZH_Cyno_Elemental_Skill_1_06.ogg  ||  偿还罪业！
+VO_ZH_Cyno_Elemental_Burst_01.ogg  ||  以此身…肃正万象！
+VO_ZH_Cyno_Elemental_Burst_02.ogg  ||  判决，如期降临。
+VO_ZH_Cyno_Elemental_Burst_03.ogg  ||  称量，你的罪孽。
+VO_ZH_Cyno_Light_Attack_Elemental_Burst_01.ogg  ||  
+VO_ZH_Cyno_Mid_Attack_Elemental_Burst_01.ogg  ||  
+VO_ZH_Cyno_Heavy_Attack_Elemental_Burst_01.ogg  ||  
+VO_ZH_Cyno_Sprint_Start_01.ogg  ||  
+VO_ZH_Cyno_Deploying_Wind_Glider_01.ogg  ||  
+VO_ZH_Cyno_Opening_Treasure_Chest_01.ogg  ||  应得之物。
+VO_ZH_Cyno_Opening_Treasure_Chest_02.ogg  ||  贵在恒心。
+VO_ZH_Cyno_Opening_Treasure_Chest_03.ogg  ||  财富积累，成为文明的基石。
+VO_ZH_Cyno_Low_HP_01.ogg  ||  威胁程度…比预想中要高。
+VO_ZH_Cyno_Low_HP_02.ogg  ||  差不多也该习惯了。
+VO_ZH_Cyno_Low_HP_03.ogg  ||  咳…再来！
+VO_ZH_Cyno_Ally_at_Low_HP_01.ogg  ||  去休整，别逞强！
+VO_ZH_Cyno_Ally_at_Low_HP_02.ogg  ||  我来替你。
+VO_ZH_Cyno_Fallen_01.ogg  ||  轮到我了吗…
+VO_ZH_Cyno_Fallen_02.ogg  ||  覆灭…新生…终而复始。
+VO_ZH_Cyno_Fallen_03.ogg  ||  审判，失败了…
+VO_ZH_Cyno_Light_Hit_Taken_01.ogg  ||  无用的挣扎。
+VO_ZH_Cyno_Light_Hit_Taken_02.ogg  ||  
+VO_ZH_Cyno_Heavy_Hit_Taken_01.ogg  ||  真难对付。
+VO_ZH_Cyno_Heavy_Hit_Taken_02.ogg  ||  有两下子。
+VO_ZH_Cyno_Heavy_Hit_Taken_03.ogg  ||  
+VO_ZH_Cyno_Joining_Party_01.ogg  ||  我会尽我所能。
+VO_ZH_Cyno_Joining_Party_02.ogg  ||  行动开始。
+VO_ZH_Cyno_Joining_Party_03.ogg  ||  这次的目标是谁？
+VO_ZH_Cyno_Light_Attack_01.ogg  ||  
+VO_ZH_Cyno_Mid_Attack_01.ogg  ||  
+VO_ZH_Cyno_Heavy_Attack_01.ogg  ||  
+VO_ZH_Cyno_Climbing_01.ogg  ||  
+VO_ZH_Cyno_Climbing_Breath_01.ogg  ||  
+VO_ZH_Cyno_Jumping_01.ogg  ||  
+VO_ZH_Cyno_Elemental_Skill_1_01.ogg  ||  
+VO_ZH_Cyno_Elemental_Skill_1_02.ogg  ||  
+VO_ZH_Cyno_Elemental_Skill_1_03.ogg  ||  
+VO_ZH_Cyno_Elemental_Skill_1_04.ogg  ||  
+VO_ZH_Cyno_Elemental_Skill_1_05.ogg  ||  
+VO_ZH_Cyno_Elemental_Skill_1_06.ogg  ||  
+VO_ZH_Cyno_Elemental_Burst_01.ogg  ||  
+VO_ZH_Cyno_Elemental_Burst_02.ogg  ||  
+VO_ZH_Cyno_Elemental_Burst_03.ogg  ||  
+VO_ZH_Cyno_Light_Attack_Elemental_Burst_01.ogg  ||  
+VO_ZH_Cyno_Mid_Attack_Elemental_Burst_01.ogg  ||  
+VO_ZH_Cyno_Heavy_Attack_Elemental_Burst_01.ogg  ||  
+VO_ZH_Cyno_Sprint_Start_01.ogg  ||  
+VO_ZH_Cyno_Deploying_Wind_Glider_01.ogg  ||  
+VO_ZH_Cyno_Opening_Treasure_Chest_01.ogg  ||  
+VO_ZH_Cyno_Opening_Treasure_Chest_02.ogg  ||  
+VO_ZH_Cyno_Opening_Treasure_Chest_03.ogg  ||  
+VO_ZH_Cyno_Low_HP_01.ogg  ||  
+VO_ZH_Cyno_Low_HP_02.ogg  ||  
+VO_ZH_Cyno_Low_HP_03.ogg  ||  
+VO_ZH_Cyno_Ally_at_Low_HP_01.ogg  ||  
+VO_ZH_Cyno_Ally_at_Low_HP_02.ogg  ||  
+VO_ZH_Cyno_Fallen_01.ogg  ||  
+VO_ZH_Cyno_Fallen_02.ogg  ||  
+VO_ZH_Cyno_Fallen_03.ogg  ||  
+VO_ZH_Cyno_Light_Hit_Taken_01.ogg  ||  
+VO_ZH_Cyno_Light_Hit_Taken_02.ogg  ||  
+VO_ZH_Cyno_Heavy_Hit_Taken_01.ogg  ||  
+VO_ZH_Cyno_Heavy_Hit_Taken_02.ogg  ||  
+VO_ZH_Cyno_Heavy_Hit_Taken_03.ogg  ||  
+VO_ZH_Cyno_Joining_Party_01.ogg  ||  
+VO_ZH_Cyno_Joining_Party_02.ogg  ||  
+VO_ZH_Cyno_Joining_Party_03.ogg  ||  
+VO_ZH_Cyno_Light_Attack_01.ogg  ||  
+VO_ZH_Cyno_Mid_Attack_01.ogg  ||  
+VO_ZH_Cyno_Heavy_Attack_01.ogg  ||  
+VO_ZH_Cyno_Climbing_01.ogg  ||  
+VO_ZH_Cyno_Climbing_Breath_01.ogg  ||  
+VO_ZH_Cyno_Jumping_01.ogg  ||  

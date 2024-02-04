@@ -1,0 +1,80 @@
+VO_Kamisato_Ayato_Hello.ogg  ||  Greetings. Ayaka has mentioned you on numerous occasions — alas, my schedule has been rather busier than anticipated recently, which belated our first meeting until today. Kamisato Ayato, head of the Kamisato Clan. Delighted to make your acquaintance.
+VO_Kamisato_Ayato_Chat_-_Spoiled.ogg  ||  I'm sure I've forgotten something... Not to worry, I'll simply send someone to fetch it. As soon as I remember what it was.
+VO_Kamisato_Ayato_Chat_-_Reel_Them_In.ogg  ||  Everything's in place, and they've taken the bait... Yes. Now to start reeling them in...
+VO_Kamisato_Ayato_Chat_-_Perverse_Pleasure.ogg  ||  I have to stifle a smile every time I remember the look on my retainers' faces when I informed them of my plans today... Panic-stricken, but unable to muster the courage to say anything in opposition, hehe. Yes, this was a fine idea.
+VO_Kamisato_Ayato_When_It_Rains.ogg  ||  Let's take shelter for the time being. Don't worry, one of my people will be here with umbrellas momentarily.
+VO_Kamisato_Ayato_When_Thunder_Strikes.ogg  ||  Ayaka was always scared of thunder as a child — until one day, mother told her that the sound of thunder is the voice of the Almighty Shogun. After that, she would start focusing intensely every time she heard the sound of thunder, as if by concentrating hard enough, she'd be able to hear exactly what Her Excellency was saying.
+VO_Kamisato_Ayato_When_It_Snows.ogg  ||  This view reminds me of another time it snowed... that was a long time ago.
+VO_Kamisato_Ayato_When_the_Sun_Is_Out.ogg  ||  Opportunities to bask in the sunlight like this are few and far between.
+VO_Kamisato_Ayato_When_the_Wind_Is_Blowing.ogg  ||  Most people hunker down against a strong headwind. Only a few people know how to utilize it to their advantage.
+VO_Kamisato_Ayato_Good_Morning.ogg  ||  Good morning. A little sword practice while the day is young is good for the body and mind. I tend to avoid having anything scheduled during these hours... What do you say? Fancy crossing blades with me?
+VO_Kamisato_Ayato_Good_Afternoon.ogg  ||  If there's anything in particular you'd like for lunch, just let one of my staff know in advance. As my honored guest, I'm sure they will do their utmost to accommodate you.
+VO_Kamisato_Ayato_Good_Evening.ogg  ||  Given the hour of your call, perhaps you might stay for dinner?
+VO_Kamisato_Ayato_Good_Night.ogg  ||  Ready to retire for the night, are we? Yes, go on then, you are excused. I'm not tired yet, so... Oh, it's you? Um, I have a few final things to attend to. You should go and get some sleep.
+VO_Kamisato_Ayato_About_Kamisato_Ayato_-_Price_to_Pay.ogg  ||  Everything comes at a cost. And if you aspire to things that most could never dream of, then naturally, there will be an unimaginable price to pay.
+VO_Kamisato_Ayato_About_Kamisato_Ayato_-_Methodology.ogg  ||  I'm no stickler for doing things in a certain way. Whatever method you use, the important thing is that it delivers acceptable results.
+VO_Kamisato_Ayato_About_Us_-_Most_Entertaining.ogg  ||  Hehe, I heard about the little job you pulled at the Tenryou Commission. Most entertaining... It takes a special kind of person to get old man Kujou riled up enough to start tearing his hair out. Ahh... Oh, to have been a fly on the wall.
+VO_Kamisato_Ayato_About_Us_-_Trust.ogg  ||  Trusting another person isn't easy, especially for someone of high status. Place your trust in the wrong person, and it can quite literally cost you your life. But you have placed your trust in me, and of course I will not let you down.
+VO_Kamisato_Ayato_About_the_Vision.ogg  ||  A Vision is an eminently useful tool, so it only makes sense to put it to good use. Also, I like to think it's happiest in my possession because it has the chance to shine away in all its glory.
+VO_Kamisato_Ayato_Something_to_Share.ogg  ||  If you throw fallen flowers onto the stove, the searing heat infuses them with one final spark of vitality, and for a brief moment, they radiate a more glorious glow than the flames themselves... it was a short life they lived, but it was by no means a wasted one.
+VO_Kamisato_Ayato_Interesting_Things.ogg  ||  When it comes to pets... Mm, yes, I'm definitely more of a dog person myself. Cats are very independent, which has its merits, but you'll only find obedience in dogs. They'll do whatever you tell them to. Hehe, what can I say — I suppose I find loyalty to be quite an attractive quality.
+VO_Kamisato_Ayato_About_Kamisato_Ayaka.ogg  ||  I am confident in Ayaka's abilities. But I want her to be able to hold on to her innocence. She shouldn't have to get personally involved in power struggles, or confront the darker side of life head-on. As her older brother, it's my job to shield her from all of that... Heh, just... between the two of us, of course. Sorry, that got a little more private a little more quickly than I'd intended.
+VO_Kamisato_Ayato_About_Thoma.ogg  ||  There is no doubt in my mind about Thoma's loyalty to the Kamisato Clan. A long time ago, partly to see where he stood, I advised him that he would be better off leaving if he didn't want to get drawn into the never-ending disputes that plague public life. Still, he chose to stay, and in all the time he's been with us, he's spared me much worry. There are very few people I trust completely these days, but Thoma is one of them.
+VO_Kamisato_Ayato_About_Sayu.ogg  ||  She looks awfully idle the majority of the time, and yet when it counts, she always rises to the occasion and provides indispensable assistance. Of course, you'd know far more about that than me, wouldn't you?
+VO_Kamisato_Ayato_About_Yoimiya.ogg  ||  Ah, the fireworks store owner. Yes, a most... spirited young lady. The Kamisato Clan is on rather close terms with her. She is around the same age as Ayaka, and the two get along very well. I trust her direct and outspoken disposition won't lead Ayaka astray. Ayaka has always been staunchly true to herself, ever since she was a young child.
+VO_Kamisato_Ayato_About_the_Raiden_Shogun.ogg  ||  The cost of pursuing eternity has been great for the Almighty Shogun... and for all of Inazuma. These wounds will take time to heal, and as someone with a mediating role to play in the political process, I will be sure to fulfill that which is required of me.
+VO_Kamisato_Ayato_About_Yae_Miko.ogg  ||  Lady Guuji has been kind to us in the Kamisato Clan, but she has never quite taken to me personally. I trust you'll have heard the way she refers to me... "the Yashiro rascal" and other such flattering monikers. We run into each other semi-regularly, given the overlap in our work, and despite whatever private thoughts we each may have, our working relationship is quite a harmonious one. I have no great objection to this state of affairs — working with intelligent people always makes things highly efficient. In any case... However objectionable she might find me, she would be forced to admit that without me, she would have no one to help execute her weird and wonderful ideas.
+VO_Kamisato_Ayato_About_Kujou_Sara.ogg  ||  Old man Kujou capitalized on a golden opportunity to create a most formidable weapon indeed. The only flaw in his plan being, he is now no longer able to wield the weapon of his creation.
+VO_Kamisato_Ayato_About_Kaedehara_Kazuha.ogg  ||  Once upon a time, the Kaedehara Clan was a subordinate branch of the Kamisato Clan. My forebears may have failed to save his family from decline, but even today I have a duty to support him. Now, naturally, there is nothing I can do to restore his clan's former fortunes. But as for helping him avoid arrest by the Tenryou Commission, that is well within my capabilities...
+VO_Kamisato_Ayato_About_Arataki_Itto.ogg  ||  Now he's an interesting case. Pitting docile Onikabuto against each other in battle... heh, that's a first... I was only speaking in polite platitudes when I gave him that little pep talk, but to my surprise he started calling me "bro"... To this day, he calls me "my bro Ayato" without the faintest idea of my true identity. It's quite alright by me, though, I have nothing against his... unique character.
+VO_Kamisato_Ayato_About_Ningguang.ogg  ||  I have heard a thing or two about how Her Eminence, the Tianquan operates. On the subject, I also happen to have a limited-edition copy of Liyue Millennial, if you're interested? What do you say, shall I have someone fetch it, so we can play a game?
+VO_Kamisato_Ayato_More_About_Kamisato_Ayato_-_01.ogg  ||  You want to know about me? Hmm. Things aren't always a case of the more you know, the better. Plenty of proverbs to corroborate that, as I'm sure you're aware. (Smile) Maybe we'll have the chance to talk more next time.
+VO_Kamisato_Ayato_More_About_Kamisato_Ayato_-_02.ogg  ||  Strange tastes, you say...? You seem to misunderstand me. Let me be quite clear: Most of the time, I simply enjoy watching people's facial contortions when they're put in an awkward position. Watching them squirm, you might say. Is that so strange? I would have thought you tease your little friend here on a regular basis for precisely that purpose, no?
+VO_Kamisato_Ayato_More_About_Kamisato_Ayato_-_03.ogg  ||  The Tri-Commission may appear calm and well-run, but I can assure you it is quite tumultuous beneath the placid surface. There is no pleasure to be had in mixing with the powers that be. I shall spare you the details. Just know that... I have never done anything to dishonor the Kamisato Clan. Neither in the past, when I was working to bring stability to our clan, nor here in the present, where I am working for the sake of all of Inazuma.
+VO_Kamisato_Ayato_More_About_Kamisato_Ayato_-_04.ogg  ||  You want to know about the Shuumatsuban? I suppose there's no harm in divulging a detail or two to you. It's a secret unit that reports directly to the head of the Kamisato Clan. Accordingly, after my father passed, it came to me. There are certain situations I cannot directly involve myself in, and in these cases, being able to rely on the Shuumatsuban is often instrumental in achieving a resolution. Most of its members are orphans whom we take in and raise from a young age. This way, loyalty is guaranteed to the greatest extent possible, and we are spared a great deal of worry.
+VO_Kamisato_Ayato_More_About_Kamisato_Ayato_-_05.ogg  ||  Do I have other tricks up my sleeve beyond the Shuumatsuban? Well, naturally. If even the cunning bunny burrows thrice, then what of the cunning human? But anyway, I've shared enough of my secrets. I think it's time I heard your story. Oh, and... you can spare the part about traveling in Teyvat. Tell me about before that.
+VO_Kamisato_Ayato_Hobbies.ogg  ||  Hobbies... I had one or two as a child, but these days most of my time is taken up by my official duties, so they don't count... Hmm? Some people treat work as a hobby, you say? Goodness me. How very... exceptional.
+VO_Kamisato_Ayato_Troubles.ogg  ||  Troubles? Whenever something's troubling me, it must be dealt with swiftly and comprehensively. And whenever someone is troubling me... Hehe...
+VO_Kamisato_Ayato_Favorite_Food_-_Personal_Preference.ogg  ||  Variety is the spice of life. In that sense, the Milk Tea Medley they started serving over in Hanamizaka recently isn't half bad. You should try it sometime. Other than that... I don't have any particular preferences when it comes to the food I eat on a daily basis. I have dedicated staff to arrange my daily meal plan, and whatever they serve, I eat.
+VO_Kamisato_Ayato_Favorite_Food_-_Trying_New_Things.ogg  ||  You couldn't perchance tell me your own tastes, could you? ...Ah, I see. Okay, I've made a note of that. Now I know what to say the next time I get asked about it.
+VO_Kamisato_Ayato_Least_Favorite_Food.ogg  ||  Hmm... it looks like I mixed up my salt and my sugar. Savory Mizu Manjuu. Yes, this can work. I'll give them to Thoma.
+VO_Kamisato_Ayato_Receiving_a_Gift_-_01.ogg  ||  Very novel indeed. Haha, it meets my requirements perfectly...
+VO_Kamisato_Ayato_Receiving_a_Gift_-_02.ogg  ||  I see. So this is your take on this dish...
+VO_Kamisato_Ayato_Receiving_a_Gift_-_03.ogg  ||  Here's a suggestion: Try using this dish in the hot pot game next time you play.
+VO_Kamisato_Ayato_Birthday.ogg  ||  Happy Birthday! Now, how would you like to be Yashiro Commissioner for a day, hmm? All the work has been handled already, so you can focus on simply enjoying the feeling of having an enormous amount of executive power at your fingertips. Don't worry, the retainers won't dare question it, I'll be with you the entire time, hehe.
+VO_Kamisato_Ayato_Feelings_About_Ascension_-_01.ogg  ||  Did I just grow more competent? Goodness, how marvelous...
+VO_Kamisato_Ayato_Feelings_About_Ascension_-_02.ogg  ||  At the end of the day, power is only a source of comfort when it is concentrated in one's own hands.
+VO_Kamisato_Ayato_Feelings_About_Ascension_-_03.ogg  ||  Hehe, I'm sure certain people are starting to grow rather nervous right about now...
+VO_Kamisato_Ayato_Feelings_About_Ascension_-_04.ogg  ||  I've had very few chances to kick back and put my feet up since taking over leadership of the clan. But things have felt curiously different since having you around. Hmm... Yes, it feels rather like basking in the sun.
+VO_Kamisato_Ayato_Elemental_Skill_1_01.ogg  ||  Be still.
+VO_Kamisato_Ayato_Elemental_Skill_1_02.ogg  ||  Cascade.
+VO_Kamisato_Ayato_Elemental_Skill_1_03.ogg  ||  
+VO_Kamisato_Ayato_Elemental_Burst_01.ogg  ||  Mind the deluge.
+VO_Kamisato_Ayato_Elemental_Burst_02.ogg  ||  Hmph... The depths beckon.
+VO_Kamisato_Ayato_Elemental_Burst_03.ogg  ||  Kamisato Art: Suiyuu!
+VO_Kamisato_Ayato_Sprint_Start_01.ogg  ||  
+VO_Kamisato_Ayato_Deploying_Wind_Glider_01.ogg  ||  
+VO_Kamisato_Ayato_Opening_Treasure_Chest_01.ogg  ||  All yours, should you have any use for them.
+VO_Kamisato_Ayato_Opening_Treasure_Chest_02.ogg  ||  Oh... so you collect these?
+VO_Kamisato_Ayato_Opening_Treasure_Chest_03.ogg  ||  Mm, yes, very nice.
+VO_Kamisato_Ayato_Low_HP_01.ogg  ||  This is getting interesting...
+VO_Kamisato_Ayato_Low_HP_02.ogg  ||  Alright. Time to get serious.
+VO_Kamisato_Ayato_Low_HP_03.ogg  ||  One of us has to go.
+VO_Kamisato_Ayato_Ally_at_Low_HP_01.ogg  ||  Time to withdraw.
+VO_Kamisato_Ayato_Ally_at_Low_HP_02.ogg  ||  Pace yourself before you erase yourself.
+VO_Kamisato_Ayato_Fallen_01.ogg  ||  But the plan... was watertight...
+VO_Kamisato_Ayato_Fallen_02.ogg  ||  I'm feeling a little washed-out...
+VO_Kamisato_Ayato_Fallen_03.ogg  ||  Such is life...
+VO_Kamisato_Ayato_Light_Hit_Taken_01.ogg  ||  That's far enough.
+VO_Kamisato_Ayato_Light_Hit_Taken_02.ogg  ||  
+VO_Kamisato_Ayato_Heavy_Hit_Taken_02.ogg  ||  I may have overestimated myself...
+VO_Kamisato_Ayato_Heavy_Hit_Taken_01.ogg  ||  
+VO_Kamisato_Ayato_Joining_Party_01.ogg  ||  What's that? Join you for a walk? Why not.
+VO_Kamisato_Ayato_Joining_Party_02.ogg  ||  Very well, I shall put my official duties to one side for the moment.
+VO_Kamisato_Ayato_Joining_Party_03.ogg  ||  Hmm... Well, this ought to be entertaining.
+VO_Kamisato_Ayato_Light_Attack_01.ogg  ||  
+VO_Kamisato_Ayato_Mid_Attack_01.ogg  ||  
+VO_Kamisato_Ayato_Heavy_Attack_01.ogg  ||  
+VO_Kamisato_Ayato_Climbing_01.ogg  ||  
+VO_Kamisato_Ayato_Climbing_Breath_01.ogg  ||  
+VO_Kamisato_Ayato_Jumping_01.ogg  ||  

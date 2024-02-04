@@ -1,0 +1,86 @@
+VO_Kamisato_Ayaka_Hello.ogg  ||  Master of Inazuma Kamisato Art Tachi Jutsu — Kamisato Ayaka, present!
+Delighted to make your acquaintance.
+VO_Kamisato_Ayaka_Chat_-_Stability.ogg  ||  I only wish life could be as leisurely as this a little more often... How greedy of me.
+VO_Kamisato_Ayaka_Chat_-_Sword.ogg  ||  A blade is like a tea-leaf. Only those who sample it many times can appreciate its true qualities.
+VO_Kamisato_Ayaka_Chat_-_Zoning_Out.ogg  ||  So this is a day in the life of the Traveler... Hehe, I'm learning more about you all the time.
+VO_Kamisato_Ayaka_Chat_-_Famous_Sword.ogg  ||  A blade embraces its duty as a jeweler cherishes their gems.
+VO_Kamisato_Ayaka_When_It_Rains.ogg  ||  Come with me, let us find shelter from the rain.
+VO_Kamisato_Ayaka_When_Thunder_Strikes.ogg  ||  Her Excellency... What is she trying to communicate?
+VO_Kamisato_Ayaka_When_It_Snows.ogg  ||  "Snow that once adorned the world in silver, thaws to reveal the gleam of the fruit upon frost-laden branches." *sigh* How picturesque! Only some tea would make this setting more complete.
+VO_Kamisato_Ayaka_When_the_Sun_Is_Out.ogg  ||  There's a pleasant breeze and glorious sunshine... So, where shall we go for a walk?
+VO_Kamisato_Ayaka_Good_Morning.ogg  ||  Oh, good morning, Traveler. ...Whenever I see you in the morning, somehow, it makes me feel like... today is going to be a good day.
+VO_Kamisato_Ayaka_Good_Afternoon.ogg  ||  Good afternoon. It is normal to feel drowsy after lunch, might I interest you in a game of Go to stimulate the mind?
+VO_Kamisato_Ayaka_Good_Evening.ogg  ||  Greetings. An auspicious breeze blows this evening. Tonight will be peaceful.
+VO_Kamisato_Ayaka_Good_Night.ogg  ||  "Was it one's thoughts that drew him to my dreams? Had I known it a dream, one would not have awakened." Hehe, I love that poem.
+VO_Kamisato_Ayaka_About_Kamisato_Ayaka_-_Yashiro_Commission.ogg  ||  "Inazuma Shogunate, Yashiro Commission, Kamisato Clan." Widely known as one of the most distinguished clans in all of Inazuma, it is the branch of the Tri-Commission that manages ceremonial and cultural affairs. Since my parents passed, Brother and I assumed responsibility for all clan matters, big and small.
+VO_Kamisato_Ayaka_About_Kamisato_Ayaka_-_Position.ogg  ||  Many look up to me as the Shirasagi Himegimi and as the daughter of the Kamisato Clan. But the object of their respect has everything to do with my position, and nothing at all to do with me, Ayaka. It makes me think that... maybe, there is only one person I know who is truly able to get close to me...
+VO_Kamisato_Ayaka_About_Kamisato_Ayaka_-_Aspiration.ogg  ||  Today, as in the past, I aspire to be somebody whom everyone can trust. But what motivates me is no longer the responsibilities I shoulder, or the expectations of other people. Rather, it is the fact that you are this kind of person, too.
+VO_Kamisato_Ayaka_About_Us_-_Teahouse.ogg  ||  If you've got time, shall we take a walk to Komore Teahouse? To chat about the art of tea on a pleasant day like this seems like the sophisticated thing to do.
+VO_Kamisato_Ayaka_About_Us_-_Festivals.ogg  ||  If I ever have the chance, I would very much like to experience the festivities of another nation with you one day. Though, I will need some guidance on local customs and etiquette, and advice on what gifts to bring... Could I trouble you to give me some guidance?
+VO_Kamisato_Ayaka_About_the_Vision.ogg  ||  Visions are a seal of approval for those who are most ambitious. As for my own ambitions, they shall remain private for now. It is nothing more than an insignificant dream.
+VO_Kamisato_Ayaka_Something_to_Share.ogg  ||  It is said that "the flavor of Zen is that of tea," and it is also said that "the power of Zen is that of the blade." One might then ask: What does that say about the relationship between tea and the blade?
+VO_Kamisato_Ayaka_Interesting_Things.ogg  ||  Have you ever noticed the withering sakura tree in the city? For me, there is a beauty to the withering, it brings back fond memories of the spring. Most people don't agree — sakura trees that will never bloom again are removed. But when I look at a tree, all I want is to see it blossom again... just one more time...
+VO_Kamisato_Ayaka_About_Thoma.ogg  ||  Thoma is a dear friend. He always lifts my spirits with his sunny disposition. In a sense, I think of him as another brother, and as a full member of the Kamisato Clan.
+VO_Kamisato_Ayaka_About_Kujou_Sara.ogg  ||  Kujou Sara of the Tenryou Commission is... not known to smile, and I have had my fair share of disputes with her. She is, however, a loyal servant to Inazuma, there is no question about that.
+VO_Kamisato_Ayaka_About_Shikanoin_Heizou.ogg  ||  Mr. Shikanoin belongs to the Tenryou Commission, just like Miss Kujou. He is very... principled, sometimes even more determinedly so than Miss Kujou. The only thing is, when it comes to the question of which matters should be governed by his principles, I believe only Mr. Shikanoin himself knows the answer...
+VO_Kamisato_Ayaka_About_Sayu.ogg  ||  Ah, little Sayu. She hasn't been causing you any trouble lately, has she? Hehe, if you ever notice her slacking off, please let me know.
+VO_Kamisato_Ayaka_About_the_Raiden_Shogun_-_Guesswork.ogg  ||  The Almighty Shogun? It would be improper of me to comment, given that I am one of her subjects. All I will say is that... I think that Her Excellency must get lonely on the road to eternity.
+VO_Kamisato_Ayaka_About_the_Raiden_Shogun_-_Standpoint.ogg  ||  To witness the Musou no Hitotachi and live to tell the tale is quite a remarkable feat. Even though I recognize her as our true deity with the power to change Inazuma's fate at will, if there is conflict between the two of you, then... I shall choose to side with you.
+VO_Kamisato_Ayaka_About_Yae_Miko.ogg  ||  I have always greatly enjoyed working with Guuji Yae. Organizing festival affairs generally takes a lot of effort and doesn't generate much income, but Guuji Yae's events always come off both elegant and profitable.
+VO_Kamisato_Ayaka_About_Kamisato_Ayato.ogg  ||  As the head of the Kamisato Clan, brother always has a full schedule of places he needs to be. I do try my best to share his load, but there is no changing the pressure he is subjected to all year round, and the toll it takes upon him. *sigh* If you see him, remind him to take care of himself, for his sister's sake...
+VO_Kamisato_Ayaka_About_Yoimiya.ogg  ||  The Yashiro Commission and the shrine maidens are responsible for festival affairs, and Yoimiya, as a fireworks expert, knows how to create an atmosphere. So we have become well acquainted with her over the years.
+Hmm? Public order and fire prevention? We factor these concerns in well in advance during the planning stage. To deny people the chance to see fireworks simply for these reasons would leave them feeling very disappointed.
+VO_Kamisato_Ayaka_More_About_Kamisato_Ayaka_-_01.ogg  ||  Your request is quite unusual for me. Since I see you as a friend, it would only be fair to be open and honest with you, but if this means sharing secrets of the Kamisato Clan... I would ask that you keep anything I tell you in strict confidence.
+VO_Kamisato_Ayaka_More_About_Kamisato_Ayaka_-_02.ogg  ||  The Kamisato Clan once suffered a major blow when we failed to protect a swordsmith of national significance. We were harassed by the Fatui, we lost many of our people, and we received a great deal of criticism. It all aged Father greatly, and severely damaged the Kamisato Clan's standing within the Shogunate. Brother has worked tirelessly to reverse the trend since he assumed leadership, but although our clan's position is now restored and the Yashiro Commission is unified once more, we still rely on Brother to make the decisions on all matters of any importance.
+VO_Kamisato_Ayaka_More_About_Kamisato_Ayaka_-_03.ogg  ||  The art of blade forging taught by the Shogun varies based on astrology, application, materials used, the furnace conditions, individual personalities, and elemental changes. These differences between smiths is what gave rise to the Raiden Gokaden. Swordsmiths capable of forging renowned blades are seen as spiritual personnel with sacred abilities, and as such they should be managed by the Yashiro Commission, which oversees all cultural, artistic, and ceremonial affairs. So naturally, the swordsmith's betrayal is the fault of ineffectual management by the Kamisato Clan.
+VO_Kamisato_Ayaka_More_About_Kamisato_Ayaka_-_04.ogg  ||  My mother was the most incredible person. She was always so dignified and elegant, always smiling, no matter what situation she might be facing. She had so much to deal with in the clan on so many levels, but she took it all in stride — it was like nothing could ever faze her. Everything about her was perfect, and I say that without exaggerating. *sigh* But the moment she passed away, I realized... I couldn't hide behind my mother any longer. I wasn't little Ayaka any more.
+VO_Kamisato_Ayaka_More_About_Kamisato_Ayaka_-_05.ogg  ||  What I want to say next is perhaps not befitting of a member of the Inazuma Shogunate, Yashiro Commission, Kamisato Clan, but... unless I am mistaken, I trust that you will not take issue with this slight departure from convention on my part...
+That is to say... I'm a little tired, may I rest my head on your shoulder? Just for a moment.
+VO_Kamisato_Ayaka_Hobbies.ogg  ||  I have great affection for the arts: music, song, poetry, shougi, and dancing. And you?
+VO_Kamisato_Ayaka_Troubles_-_Concerns.ogg  ||  Troubles? Well, I mean... that's life, isn't it? There will always be things that don't go one's way. But I do not wish to worry those around me on account of things that are my concern alone... so, it is best if I keep them to myself.
+VO_Kamisato_Ayaka_Troubles_-_Desires.ogg  ||  Openness is something I find very difficult. I constantly have to remind myself that as a lady of the Kamisato Clan, there are countless people watching and countless expectations to live up to. I must be a model of exemplary conduct at all times. But even so, shouldn't I still follow my dreams? Shouldn't I... share my true feelings with you?
+VO_Kamisato_Ayaka_Favorite_Food.ogg  ||  I'm fascinated by food from overseas. Though I don't get to try it very often... So, if I had to choose something from Inazuma, then probably... Chazuke. But not when anybody else is watching... So I tell you that in confidence.
+VO_Kamisato_Ayaka_Least_Favorite_Food.ogg  ||  Though I do not eschew animal fat and organs entirely, they are far from my first choice.
+VO_Kamisato_Ayaka_Receiving_a_Gift_-_01.ogg  ||  Mmm... Yes, I am truly fortunate...
+VO_Kamisato_Ayaka_Receiving_a_Gift_-_02.ogg  ||  Thank you for the opportunity to try this dish. I will always savor it.
+VO_Kamisato_Ayaka_Receiving_a_Gift_-_03.ogg  ||  Hmm... It's a bit greasy for my taste.
+VO_Kamisato_Ayaka_Birthday.ogg  ||  Come with me! We're not going far away — I promise it won't delay you too much.
+I managed to find out when your birthday was well in advance, so I could prepare in good time. Hopefully this wasn't assuming too much, but I guessed you might prefer this to an expensive gift.
+In honor of your birthday, please allow me to perform a fan dance for you.
+VO_Kamisato_Ayaka_Feelings_About_Ascension_-_01.ogg  ||  Thank you very much. It has been richly rewarding to learn from you so far, and I believe my skills with the blade can go even further still.
+VO_Kamisato_Ayaka_Feelings_About_Ascension_-_02.ogg  ||  Thank you for your guidance. With your assistance, I am gaining a more thorough understanding of my capabilities.
+VO_Kamisato_Ayaka_Feelings_About_Ascension_-_03.ogg  ||  I feel more competent now than ever before. I even have the time outside my work for the Yashiro Commission to try some new things. Would you like to try one of my home-made snacks? I just learned how to make them recently.
+VO_Kamisato_Ayaka_Feelings_About_Ascension_-_04.ogg  ||  "Though I cling to that which has given me the strength to hold on, the weight of letting go is ever-foreboding."
+My apologies, it should be a happy occasion, and yet it is such a sad phrase that comes to mind. Our time together has been so pleasant that I am fearful of losing what I have gained. I'm sorry, I must compose myself.
+VO_Kamisato_Ayaka_Elemental_Skill_1_01.ogg  ||  Take flight.
+VO_Kamisato_Ayaka_Elemental_Skill_1_02.ogg  ||  My apologies.
+VO_Kamisato_Ayaka_Elemental_Skill_1_03.ogg  ||  Whirling snow.
+VO_Kamisato_Ayaka_Elemental_Burst_01.ogg  ||  Embrace the ice.
+VO_Kamisato_Ayaka_Elemental_Burst_02.ogg  ||  Sakura swirl.
+VO_Kamisato_Ayaka_Elemental_Burst_03.ogg  ||  Kamisato Art: Soumetsu!
+VO_Kamisato_Ayaka_Sprint_Start_01.ogg  ||  
+VO_Kamisato_Ayaka_Deploying_Wind_Glider_01.ogg  ||  
+VO_Kamisato_Ayaka_Opening_Treasure_Chest_01.ogg  ||  Collecting rare and exquisite treasures... Yes, this seems suitably sophisticated.
+VO_Kamisato_Ayaka_Opening_Treasure_Chest_02.ogg  ||  Hehe... Today is a lucky day.
+VO_Kamisato_Ayaka_Opening_Treasure_Chest_03.ogg  ||  I shall treasure this good fortune.
+VO_Kamisato_Ayaka_Low_HP_01.ogg  ||  I will not stand for this.
+VO_Kamisato_Ayaka_Low_HP_02.ogg  ||  A worthy opponent...
+VO_Kamisato_Ayaka_Low_HP_03.ogg  ||  We ought to end this!
+VO_Kamisato_Ayaka_Ally_at_Low_HP_01.ogg  ||  Do not overdo it.
+VO_Kamisato_Ayaka_Ally_at_Low_HP_02.ogg  ||  Take care!
+VO_Kamisato_Ayaka_Fallen_01.ogg  ||  Pardon my indiscretion...
+VO_Kamisato_Ayaka_Fallen_02.ogg  ||  Much remains... unfinished...
+VO_Kamisato_Ayaka_Fallen_03.ogg  ||  I have dishonored... our clan...
+VO_Kamisato_Ayaka_Light_Hit_Taken_01.ogg  ||  
+VO_Kamisato_Ayaka_Heavy_Hit_Taken_01.ogg  ||  So rude!
+VO_Kamisato_Ayaka_Heavy_Hit_Taken_02.ogg  ||  Unthinkable...
+VO_Kamisato_Ayaka_Heavy_Hit_Taken_03.ogg  ||  
+VO_Kamisato_Ayaka_Joining_Party_01.ogg  ||  Kamisato Ayaka, present.
+VO_Kamisato_Ayaka_Joining_Party_02.ogg  ||  I await your instruction.
+VO_Kamisato_Ayaka_Joining_Party_03.ogg  ||  A pleasure to be working with you.
+VO_Kamisato_Ayaka_Light_Attack_01.ogg  ||  
+VO_Kamisato_Ayaka_Mid_Attack_01.ogg  ||  
+VO_Kamisato_Ayaka_Heavy_Attack_01.ogg  ||  
+VO_Kamisato_Ayaka_Climbing_01.ogg  ||  
+VO_Kamisato_Ayaka_Climbing_Breath_01.ogg  ||  
+VO_Kamisato_Ayaka_Jumping_01.ogg  ||  

@@ -1,0 +1,88 @@
+VO_JA_Cyno_Hello_-_The_Past.ogg  ||  俺はセノ、かつての「大マハマトラ」だ。今は己の力で悪しき罪を裁いている。もし、お前も規則と正義を求める心を持つならば、助けになろう。
+VO_JA_Cyno_Hello_-_The_Present.ogg  ||  俺はセノ。教令院の「大マハマトラ」で、規則を保ち、悪しき罪を裁くのが俺の仕事だ。今後の旅でも、お前の安全をしっかり守ろう。
+VO_JA_Cyno_Chat_-_Weighing_the_Heart.ogg  ||  善悪は、いずれ秤にかけられる。
+VO_JA_Cyno_Chat_-_Luck_of_the_Draw.ogg  ||  運が結末を左右することはあるが、永遠に影響し続けるわけじゃない。
+VO_JA_Cyno_Chat_-_Doubt.ogg  ||  場の雰囲気を和らげたい時があるんだが…どんなジョークで人が笑うのか、俺には分からないんだ。
+VO_JA_Cyno_When_It_Rains.ogg  ||  また雨だ…
+VO_JA_Cyno_When_Thunder_Strikes.ogg  ||  一部の伝説によれば、雷は神が俗世に下す審判らしい。
+VO_JA_Cyno_When_It_Snows.ogg  ||  雪が止んだ後の世界が好きだ。完全な沈黙というわけじゃないこの静けさは落ち着く。
+VO_JA_Cyno_When_the_Sun_Is_Out.ogg  ||  太陽の光は、あらゆる場所に降り注ぐ。
+VO_JA_Cyno_When_the_Wind_Is_Blowing.ogg  ||  強い風だな…気を付けろ。
+VO_JA_Cyno_In_the_Desert.ogg  ||  おなじみの風景だ…
+VO_JA_Cyno_Good_Morning.ogg  ||  元気を出せ、出発の時間だ。
+VO_JA_Cyno_Good_Afternoon.ogg  ||  昼食を用意しようか？先に言っておくが、味は保証できないからな。
+VO_JA_Cyno_Good_Evening.ogg  ||  俺の言ったことを覚えてるな？夜は常に危険が伴う。何をするにしても、油断は禁物だ。
+VO_JA_Cyno_Good_Night.ogg  ||  おやすみ。近くに犯罪者がいるから、片付けてくるよ。
+VO_JA_Cyno_About_Cyno_-_Unfunny_Jokes.ogg  ||  昔、砂漠に渇いた旅人がいて、水スライムに出会えるように祈った。しかしやつは、ちょうど腹の減った水スライムも、はぐれた旅人に出会えるように祈っているとは思ってもみなかった…ん？その表情…面白くなかったか？
+VO_JA_Cyno_About_Cyno_-_Desert_Strolls.ogg  ||  たまに、夜の砂漠へ散歩に行くんだ。冷たく乾いた風は心をすっきりさせてくれる。
+VO_JA_Cyno_About_Us_-_TCG_Duel.ogg  ||  「七聖召喚」をやらないか？新しいデッキを見せるよ。
+VO_JA_Cyno_About_Us_-_The_Present.ogg  ||  過去を変えることはできないし、未来を予測することもできない。だから、俺は目の前の時間を大切にしているんだ。
+VO_JA_Cyno_About_the_Vision.ogg  ||  「人ならざる存在」に憑依されようが、魔神に目を留められていようが…俺は神に寵愛されているからと言って己の道義を変えるつもりは毛頭ない。ただ、負うべき責任となすべきことを貫こうと思ってる。
+VO_JA_Cyno_Something_to_Share_-_Lust_for_Knowledge.ogg  ||  「欲深ければ災い重し」——誰もがそう分かっている。だが、人々はこと「知識欲」においてはポジティブな面のみを語ってしまう…俺に言わせれば、知識欲だって欲望の一種だ。制限を課すべきだと思う。
+VO_JA_Cyno_Something_to_Share_-_Solemn_Respect.ogg  ||  任務を遂行する上で、俺の判断は他人の運命を変えてしまうかもしれない。だから常に、「マハマトラ」としての立場に畏敬の念を抱くよう努めてきた——知識や力を畏れ敬うのと同じようにな。
+VO_JA_Cyno_Interesting_Things.ogg  ||  砂漠に生える低木が好きだ。砂漠は帰元の象徴であり、すべての文明を砂と風に埋もれさせてしまう。だが、荒涼とした土地にもかかわらず、生命の芽生えをはっきりと見届けられる…その逞しさには俺ですら心が震えることがあるよ。
+VO_JA_Cyno_About_Tighnari_-_Knowledge.ogg  ||  ティナリは、俺がこれまで出会ったどの学者とも違う。知識に対する深い執念を持ちながら、一線を越えることは決してなかった。自分のことを「研究室の神」だと思っている学者もいるが、ティナリはそうじゃない。あいつはあらゆる生命を等しく尊重してるんだ。教令院の仕事を断ったと聞いたが、俺もその判断は正しいと思う。
+VO_JA_Cyno_About_Tighnari_-_Jokes.ogg  ||  食卓でジョークを言うなって、ティナリに忠告されたことがあるんだ。理由は、俺のジョークが全然笑えないかららしい。俺は納得できずに、とっておきのネタを三つ一斉に披露して、笑いどころを一つずつ解説したんだが…俺の食事まで冷めてしまった。
+VO_JA_Cyno_About_Collei.ogg  ||  以前、あいつの身体に巣くう魔神の残滓を封印するのを助けたんだが…封印の過程ではあいつにひどい苦痛を味わわせてしまった。それは恐らく、死にも勝るほどだったろう。よく耐えてくれた。
+VO_JA_Cyno_About_Alhaitham.ogg  ||  俺は、賢すぎるやつとはあまり仲良くしたくない。やつらは自分がすべてをコントロールできると思って、常に危ない橋を渡ろうとするからな。でもまあ、例外もある。アルハイゼンはかなり安定している方だ。あいつは確かに大概の状況をコントロールできるし、さらにそれを好転させる能力も持ってる。
+VO_JA_Cyno_About_Kaveh.ogg  ||  ティナリやコレイが直接そうと言ったわけじゃないが、二人の目はすべてを物語っていた。俺のジョークより、カーヴェの体験談のほうがずっと面白かったってな。俺の感想？うーん…あんなことで笑ってしまうなんて、逆に面白いとは思うが。
+VO_JA_Cyno_About_Nahida.ogg  ||  神について評せと言うのか…それはちょっと、俺には僭越なことだ。だが、あの方と一緒にいる間、確かに俺はこの目でその知恵と勇気、そして決心を見届けた。単なる憶測であの方のことをあれこれ言う賢者なんかよりも、俺のほうがこう結論づける資格はあるだろう——あの方は尊敬に値する立派な神だよ。
+VO_JA_Cyno_About_Nilou.ogg  ||  あいつからは、踊りに対する強い情熱と執念を感じる。その執念は驚くほどに堅く、そう簡単には曲げられない。これからも、踊りへの情熱を活かし、人々に喜びを与えてくれればいいと思う。
+VO_JA_Cyno_About_Faruzan.ogg  ||  以前、ファルザン先輩の失踪に関する書類を念入りに調べたことがある。先輩がとある危険な研究に関わっていたのではないかと疑ったんだ…だが、実際に彼女と会って、その考えは完全に覆された。多少付き合いにくくは感じたが、口うるさくも世話焼きな年長者のように、心の中ではいつも人のためを想ってる人だ。彼女が常軌を逸するようなことなどするはずがないと思ったよ。
+VO_JA_Cyno_About_Lisa.ogg  ||  ああ、当然知ってる。リサと俺は同じ賢者に師事していたからな。大マハマトラとして、知識の過剰な追求が引き起こす悲劇を数多く見てきた——あいつの選択も理解できる。
+VO_JA_Cyno_More_About_Cyno_-_01.ogg  ||  俺のことが知りたいのか？まあ確かに、多くの人にとって、俺は無視できない「面倒な存在」だからな…だが心配するな。お前が危ない真似をしない限り、お前を悩ませるようなことはしないさ。
+VO_JA_Cyno_More_About_Cyno_-_02.ogg  ||  この身を器として、俺は人ならざる存在の力を顕現させられる。これは、生まれつきの体質のおかげとも言えるし、後の取引で得たものとも言える。別に隠すようなことでもない。マハマトラとしてこの世の悪を計るように、己の魂も審判の秤にかけるのは当然のことだ。
+VO_JA_Cyno_More_About_Cyno_-_03.ogg  ||  俺は「何故そうしたか」より、「何をしたか」ってことの方をずっと大切にしてる。何故なら、世の中には幾千万の理由があるからだ。理由を耳にしてしまえば、悪いことをした人が正義だと思ったり、野次馬が厳しすぎると感じたりしてしまうだろう？逆風はいとも簡単に他人の同情を引くものだが、審判する側はこういった感情を押し殺さなければならない。情状酌量の余地はあっても、罪をまぬがれる言い訳など決して存在しないんだからな。
+VO_JA_Cyno_More_About_Cyno_-_04.ogg  ||  昏き無知の海には時折微かな光が輝き、真実を知らない者を引き寄せる。人々は度々それを灯台だと思い、漆黒の海に隠された巨大な危機を無視してしまう。長きにわたって暗闇の中で生きてきた人を光の導きから遠ざけること自体残酷なことだが、俺はそれをやらなければならない——いつか、海の深くに潜む敵に打ち勝つ日が来るまで。
+VO_JA_Cyno_More_About_Cyno_-_05.ogg  ||  価値のありそうな情報はすべて打ち明けたが、まだ何か期待してるのか？はぁ…好奇心旺盛なやつだ。それじゃ、お前から質問してくれ。尋問に慣れた身で、それをされる側になるとは…新鮮な感覚だな。
+VO_JA_Cyno_Hobbies.ogg  ||  暇な時は、「七聖召喚」を皆と一緒に何度かプレイするんだ。規則に基づきながらも柔軟性に富んだこのゲームは、俺にとって芸術みたいなものだ。
+VO_JA_Cyno_Troubles.ogg  ||  この前、稲妻の娯楽小説を読んだ。「七聖召喚」をテーマにした小説でな、ある場面で、追い込まれた主人公がいきなりデッキから存在しないカードを引いたんだ。俺は衝撃を受けたと同時に、戸惑いを覚えた——デッキに特殊な操作を行い、わけのわからない奇跡を作り出す…これは規則を破ったってことか？それとも、これも規則の一環なのか…
+VO_JA_Cyno_Favorite_Food.ogg  ||  米に肉やドライフルーツを混ぜ、ヨーグルトと一緒に焼くと、さまざまな香りが一つに混じり合う。パリッとした殻を割ると、湯気と一緒に香りが立ち昇ってくるんだ。作るのにあまり時間もかからないし、俺が一番気に入ってる料理だ。
+VO_JA_Cyno_Least_Favorite_Food.ogg  ||  砂漠を歩く時、持っていく食糧は大抵硬くて味が薄い。これにも慣れてしまったし、嫌いなものはないな。強いて言えば、虫関連の食べ物はやっぱり受け入れ難い…
+VO_JA_Cyno_Receiving_a_Gift_-_01.ogg  ||  美味かった——手を煩わせてしまったな。
+VO_JA_Cyno_Receiving_a_Gift_-_02.ogg  ||  確かに受け取った。感謝する。
+VO_JA_Cyno_Receiving_a_Gift_-_03.ogg  ||  これを俺に？何かの間違いじゃないのか？
+VO_JA_Cyno_Birthday.ogg  ||  うむ…とりあえず、誕生日おめでとう。誰かを祝った経験はあまりないが、お前の誕生日だからと思って少し準備をしてみた。まずは数日かけて研究し、手に入れたデッキ——お前のスタイルにも合ってるはずだ。それから、この数日間のスケジュールを調整したんだが、どこか行きたい場所はないか？俺も同行しよう。誕生日は1日だけだが、せっかくなら思う存分楽しまないとな。3日以内に戻れば大丈夫だ。
+VO_JA_Cyno_Feelings_About_Ascension_-_01.ogg  ||  新たな力を感じた。確実に強くなった証だ。
+VO_JA_Cyno_Feelings_About_Ascension_-_02.ogg  ||  罪を審判し、規則を維持させる。
+VO_JA_Cyno_Feelings_About_Ascension_-_03.ogg  ||  おかげでしっかり鍛えられた、感謝する。
+VO_JA_Cyno_Feelings_About_Ascension_-_04.ogg  ||  力が頂点に達したようだ。だが、この力だけではまだやり遂げられないことが沢山ある。人情と規則は常にぶつかり合うものだ…そのバランスをどう取っていくか、これからの旅で答えを見つけよう。
+VO_JA_Cyno_Elemental_Skill_1_01.ogg  ||  降伏しろ。
+VO_JA_Cyno_Elemental_Skill_1_02.ogg  ||  無意味な抵抗を。
+VO_JA_Cyno_Elemental_Skill_1_03.ogg  ||  逃げ場はないぞ！
+VO_JA_Cyno_Elemental_Skill_1_04.ogg  ||  審判の時だ！
+VO_JA_Cyno_Elemental_Skill_1_05.ogg  ||  罪過を断つ！
+VO_JA_Cyno_Elemental_Skill_1_06.ogg  ||  罪を償うがいい！
+VO_JA_Cyno_Elemental_Burst_01.ogg  ||  この身で…万象を粛清する。
+VO_JA_Cyno_Elemental_Burst_02.ogg  ||  判決からは逃れられない。
+VO_JA_Cyno_Elemental_Burst_03.ogg  ||  秤量してやる——お前の罪を。
+VO_JA_Cyno_Light_Attack_Elemental_Burst_01.ogg  ||  
+VO_JA_Cyno_Mid_Attack_Elemental_Burst_01.ogg  ||  
+VO_JA_Cyno_Heavy_Attack_Elemental_Burst_01.ogg  ||  
+VO_JA_Cyno_Sprint_Start_01.ogg  ||  
+VO_JA_Cyno_Deploying_Wind_Glider_01.ogg  ||  
+VO_JA_Cyno_Opening_Treasure_Chest_01.ogg  ||  相応の報酬だな。
+VO_JA_Cyno_Opening_Treasure_Chest_02.ogg  ||  大事なのはコツコツ積み重ねることだ。
+VO_JA_Cyno_Opening_Treasure_Chest_03.ogg  ||  蓄積された富は、文明の礎となる。
+VO_JA_Cyno_Low_HP_01.ogg  ||  予想以上の脅威だ。
+VO_JA_Cyno_Low_HP_02.ogg  ||  そろそろ慣れてきた。
+VO_JA_Cyno_Low_HP_03.ogg  ||  くっ…もう一度！
+VO_JA_Cyno_Ally_at_Low_HP_01.ogg  ||  無理しないで休んでろ！
+VO_JA_Cyno_Ally_at_Low_HP_02.ogg  ||  俺が代わってやる。
+VO_JA_Cyno_Fallen_01.ogg  ||  俺の番か…
+VO_JA_Cyno_Fallen_02.ogg  ||  滅亡と…新生…これも循環。
+VO_JA_Cyno_Fallen_03.ogg  ||  審判…し損じたか…
+VO_JA_Cyno_Light_Hit_Taken_01.ogg  ||  無駄だ。
+VO_JA_Cyno_Light_Hit_Taken_02.ogg  ||  
+VO_JA_Cyno_Heavy_Hit_Taken_01.ogg  ||  手強いな。
+VO_JA_Cyno_Heavy_Hit_Taken_02.ogg  ||  やるじゃないか。
+VO_JA_Cyno_Heavy_Hit_Taken_03.ogg  ||  
+VO_JA_Cyno_Joining_Party_01.ogg  ||  最善を尽くそう。
+VO_JA_Cyno_Joining_Party_02.ogg  ||  行動開始。
+VO_JA_Cyno_Joining_Party_03.ogg  ||  今回のターゲットは誰だ？
+VO_JA_Cyno_Light_Attack_01.ogg  ||  
+VO_JA_Cyno_Mid_Attack_01.ogg  ||  
+VO_JA_Cyno_Heavy_Attack_01.ogg  ||  
+VO_JA_Cyno_Climbing_01.ogg  ||  
+VO_JA_Cyno_Climbing_Breath_01.ogg  ||  
+VO_JA_Cyno_Jumping_01.ogg  ||  

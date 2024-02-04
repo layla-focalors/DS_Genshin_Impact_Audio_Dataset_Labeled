@@ -1,0 +1,84 @@
+VO_Hu_Tao_Hello.ogg  ||  Yoh, now why might you be looking for me, hm? Oh, you didn't know? I'm the 77th Director of the Wangsheng Funeral Parlor, Hu Tao. Though by the looks of you... Radiant glow, healthy posture... Yes, you're definitely here for something other than that which falls within my regular line of work, aren't you?
+VO_Hu_Tao_Chat_-_Wangsheng_Funeral_Parlor.ogg  ||  Wanna come over for tea?
+VO_Hu_Tao_Chat_-_Customers.ogg  ||  One client, two clients, three clients!
+VO_Hu_Tao_Chat_-_Taking_a_Break.ogg  ||  When the sun's out, bathe in sunlight. But when the moon's out, bathe in moonlight~
+VO_Hu_Tao_When_It_Rains.ogg  ||  *sigh* What a bummer...
+VO_Hu_Tao_When_Thunder_Strikes.ogg  ||  Lightning! Let's bolt!
+VO_Hu_Tao_When_It_Snows.ogg  ||  Snow!
+VO_Hu_Tao_When_the_Wind_Is_Blowing.ogg  ||  My hat's gonna get blown away!
+VO_Hu_Tao_Good_Morning.ogg  ||  Well are those who rise in the early morn, while those late to bed I shall forewarn~
+VO_Hu_Tao_Good_Afternoon.ogg  ||  Yo! Afternoon! Had lunch?
+VO_Hu_Tao_Good_Evening.ogg  ||  Hee-hee, moon's out, and so am I!
+VO_Hu_Tao_Good_Night.ogg  ||  Oh, you sleepy? Get some rest, I'm gonna take a walk by myself...
+VO_Hu_Tao_About_Hu_Tao_-_Name.ogg  ||  Hu as in "Who put me in this coffin?" and Tao as in "I can't geT OUt!" Hehe... No, not funny?
+VO_Hu_Tao_About_Hu_Tao_-_Favorite_Tricks.ogg  ||  Lemme show you some fire tricks. First... Fire! And then... Whoosh! Fire butterfly! Be free!
+VO_Hu_Tao_About_Us_-_Curiosity.ogg  ||  You've been all over, so you must've seen a lot. When you've got the time, tell me your story, yea?
+VO_Hu_Tao_About_Us_-_Night.ogg  ||  Run around all you like during the day, but you should be careful during the night. When I'm not around, best keep your wits about you.
+VO_Hu_Tao_About_Us_-_Helper.ogg  ||  Need a hand, need a hand? I'm here! If you need some assistance, I'm here to give it my all to the very end!
+VO_Hu_Tao_About_Us_-_Battle.ogg  ||  Fighting's a pain. For me, it's not an objective so much as a means to an end. Using the means to reach the end, to fight for that which I will not compromise on — it's in this way that you and I are the same.
+VO_Hu_Tao_About_the_Vision.ogg  ||  Vision... Vision...? Oh, this thing? Yeah, whatever...
+VO_Hu_Tao_Something_to_Share.ogg  ||  We are entrusted by the people to loyally see out their wishes. Wangsheng Funeral Parlor is special, in that it carries a dual responsibility, to those both of this realm, and the next.
+VO_Hu_Tao_Interesting_Things.ogg  ||  Some plants only grow in gloomier spots with ample moonlight. You ever seen any? Oh, no? Well, I'll have to show you next time.
+VO_Hu_Tao_About_Zhongli.ogg  ||  Zhongli looks young, but his personality is a bit dusty. Knows everything, but doesn't fret over anything. Hmm... Couldn't be that he's a...Hehe, forget it, whatever.
+VO_Hu_Tao_About_Qiqi.ogg  ||  Have you seen Qiqi? Tell me where she is, quickly. I need to go seal her away, hee-hee!
+VO_Hu_Tao_About_Baizhu.ogg  ||  Baizhu? Ugh, that guy...
+VO_Hu_Tao_About_Ningguang.ogg  ||  Tianquan Ningguang... Well-off, a radiant gaze, exquisite face, in the know and capable of anything!
+VO_Hu_Tao_About_Beidou.ogg  ||  Beidou is well-known in Liyue. She doesn't know me, but that's cool, me just knowing about her is enough. Aw man... I really do wanna make friends with her.
+VO_Hu_Tao_About_Xingqiu.ogg  ||  I hear master Xingqiu is writing a book? Standard novella, or a ghost story? I think I should go tell him about all the things I run into — that'd make for a really good read!
+VO_Hu_Tao_About_Chongyun.ogg  ||  All yang and no yin? Who knew such people existed in this world.
+VO_Hu_Tao_About_Xiao.ogg  ||  What would I know of the adepti? Ai-yai-yai, that kind of stuff is top-secret! Don't come asking me about it!
+VO_Hu_Tao_About_Keqing.ogg  ||  The Yuheng, Keqing... she's quite hard to talk to. She's so uptight, hehe... Really makes me wanna mess with her. She wouldn't knock me in the head with her sword though, right? Or would she...?
+VO_Hu_Tao_About_Xiangling.ogg  ||  Xiangling's a riot! Only a little "boo" and she jumps, she's so easy to scare! Being in the industry that I am, I just love these kinds of people the most. Gotta keep it in check though, in case Guoba ends up toasting me instead.
+VO_Hu_Tao_About_Yun_Jin.ogg  ||  Yun Jin always appears so graceful on formal occassions, but you'd be surprised how friendly she is in private! I made a bet with her once, and the loser had to sing lyrics of the winner's choice in their own singing style. My my, I wish you could have heard her operatic version of the Hilitune!
+VO_Hu_Tao_About_Shenhe.ogg  ||  She is quite the fascinating individual, completely different from anyone else I've encountered. Do you think if I started eating divine herbs and drinking the dew of the mountains every single day, I'd be able to look as pure and pristine as she does?
+VO_Hu_Tao_More_About_Hu_Tao_-_01.ogg  ||  ♪Silly-churl, billy-churl, silly-billy hilichurl. Frilly-churl, willy-churl, frilly-willy hilichurl♪ Ah, hehe...
+VO_Hu_Tao_More_About_Hu_Tao_-_02.ogg  ||  Versemonger of the darkest alleys — that's me!
+VO_Hu_Tao_More_About_Hu_Tao_-_03.ogg  ||  If you ask me, there's nothing hard or scary about working at Wangsheng Funeral Parlor, it's just a pain is all. It's a shame — others see us going out to work at night and just don't understand — and that's what scares them. *sigh* You all just don't understand!
+VO_Hu_Tao_More_About_Hu_Tao_-_04.ogg  ||  I'm Wangsheng Funeral Parlor's 77th Funeral Director, my grandfather was the 75th. First thing I took over was funeral affairs. Haha, surprising huh? And just like that, it's already been a few years... Time really does go by so quickly.
+VO_Hu_Tao_More_About_Hu_Tao_-_05.ogg  ||  Balance must be maintained, and yet destinies remain variable. Death has its own rules, and yet is still hard to predict. Remember — no matter where, no matter when, no matter what the reason — one should never poke fun at death. Only once you know and respect death can you truly understand the value of life.
+VO_Hu_Tao_Hobbies.ogg  ||  A bright moon aloft amid the vast, clear skies... Moments like these are just perfect for writing poetry.
+VO_Hu_Tao_Troubles.ogg  ||  *sigh* I gotta find something fun to do... Sitting around doing nothing is a fate worse than death.
+VO_Hu_Tao_Favorite_Food.ogg  ||  ♪La~la~la~ Steamed fish with a side of prawn dumplings~
+VO_Hu_Tao_Least_Favorite_Food.ogg  ||  Qingxin Slime Condensate... Bleugh... Surely this is Xiangling getting payback...
+VO_Hu_Tao_Receiving_a_Gift_-_01.ogg  ||  Splendid, splendid! Now, allow me to compose a poem in loving memory of this dish.
+VO_Hu_Tao_Receiving_a_Gift_-_02.ogg  ||  Sure you don't want my help? C'mon, it's a great deal: cook twice the amount in the same time!
+VO_Hu_Tao_Receiving_a_Gift_-_03.ogg  ||  Ugh, I declare this dish dead, rest in peace.
+VO_Hu_Tao_Birthday.ogg  ||  Tonight the stars are dazzling and the moon majestic, it must be a special day... But just what day could it be... Haha, I know, I know! It's your birthday! It really is a great day.
+VO_Hu_Tao_Feelings_About_Ascension_-_01.ogg  ||  O-ya? O-ya-ya-ya?
+VO_Hu_Tao_Feelings_About_Ascension_-_02.ogg  ||  Yeah, this is good, thanks!
+VO_Hu_Tao_Feelings_About_Ascension_-_03.ogg  ||  I never imagined that I, Hu Tao, could ever be like this. Energy like a rushing torrent, a heart soaring like a gliding eagle! I feel great!
+VO_Hu_Tao_Feelings_About_Ascension_-_04.ogg  ||  If I reach my full physical potential, then the next test is of the heart. It's largely thanks to you that I've been able to step foot into this uncharted territory. It is here that heart and soul are as one like clouds. Death is a constant for all among the multitudes that sit beneath the heavens.
+VO_Hu_Tao_Elemental_Skill_1_01.ogg  ||  Huh!
+VO_Hu_Tao_Elemental_Skill_1_02.ogg  ||  Chi!
+VO_Hu_Tao_Elemental_Skill_1_03.ogg  ||  Suh!
+VO_Hu_Tao_Elemental_Burst_01.ogg  ||  Time to go!
+VO_Hu_Tao_Elemental_Burst_02.ogg  ||  Cross over!
+VO_Hu_Tao_Elemental_Burst_03.ogg  ||  Pyre, pyre, pants on fire!
+VO_Hu_Tao_Sprint_Start_01.ogg  ||  Huyoh!
+VO_Hu_Tao_Sprint_Start_02.ogg  ||  Go~
+VO_Hu_Tao_Sprint_Start_03.ogg  ||  Hyu~
+VO_Hu_Tao_Deploying_Wind_Glider_01.ogg  ||  With the wind~
+VO_Hu_Tao_Deploying_Wind_Glider_02.ogg  ||  
+VO_Hu_Tao_Opening_Treasure_Chest_01.ogg  ||  Jackpot!
+VO_Hu_Tao_Opening_Treasure_Chest_02.ogg  ||  Oh, what a cute treasure coffin!
+VO_Hu_Tao_Opening_Treasure_Chest_03.ogg  ||  If we bury it, maybe it'll spring back to life!
+VO_Hu_Tao_Low_HP_01.ogg  ||  Ayaya!
+VO_Hu_Tao_Low_HP_02.ogg  ||  Eeeeeee!
+VO_Hu_Tao_Low_HP_03.ogg  ||  This isn't good!
+VO_Hu_Tao_Ally_at_Low_HP_01.ogg  ||  Take it easy!
+VO_Hu_Tao_Ally_at_Low_HP_02.ogg  ||  Lemme have a go!
+VO_Hu_Tao_Fallen_01.ogg  ||  Is it... my time?
+VO_Hu_Tao_Fallen_02.ogg  ||  I'll remember that...
+VO_Hu_Tao_Fallen_03.ogg  ||  Argh...
+VO_Hu_Tao_Light_Hit_Taken_01.ogg  ||  
+VO_Hu_Tao_Heavy_Hit_Taken_02.ogg  ||  Quit it!
+VO_Hu_Tao_Heavy_Hit_Taken_01.ogg  ||  
+VO_Hu_Tao_Joining_Party_01.ogg  ||  Oh? Is it time for me to join you?
+VO_Hu_Tao_Joining_Party_02.ogg  ||  Good eye!
+VO_Hu_Tao_Joining_Party_03.ogg  ||  Send one, send 'em all!
+VO_Hu_Tao_Light_Attack_01.ogg  ||  
+VO_Hu_Tao_Mid_Attack_01.ogg  ||  
+VO_Hu_Tao_Heavy_Attack_01.ogg  ||  
+VO_Hu_Tao_Climbing_01.ogg  ||  
+VO_Hu_Tao_Climbing_Breath_01.ogg  ||  
+VO_Hu_Tao_Jumping_01.ogg  ||  

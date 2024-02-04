@@ -1,0 +1,88 @@
+VO_KO_Cyno_Hello_-_The_Past.ogg  ||  난 사이노. 한때 「대풍기관」이었고, 지금은 내 힘으로 죄악을 심판하고 있어. 너도 규칙과 정의를 위해 싸우고 있다면, 내 힘을 빌려줄게
+VO_KO_Cyno_Hello_-_The_Present.ogg  ||  난 아카데미아의 「대풍기관」 사이노야. 규칙을 수호하고 죄악을 심판하는 것이 내 의무지. 앞으로의 여행에서 내가 널 안전하게 지킬 거야
+VO_KO_Cyno_Chat_-_Weighing_the_Heart.ogg  ||  선과 악은 결국 그 무게를 저울질하게 되어있어
+VO_KO_Cyno_Chat_-_Luck_of_the_Draw.ogg  ||  운이 대결의 승패를 결정지을 수는 있지. 하지만 그 영향이 계속되진 않아
+VO_KO_Cyno_Chat_-_Doubt.ogg  ||  나도 가끔은 분위기를 좀 풀어주고 싶은데, 어떤 농담을 해야 사람들을 웃길 수 있을지 영 감이 안 잡혀
+VO_KO_Cyno_When_It_Rains.ogg  ||  또 비가 오는군…
+VO_KO_Cyno_When_Thunder_Strikes.ogg  ||  번개는 신이 인간에게 내리는 심판이라는 전설이 있어
+VO_KO_Cyno_When_It_Snows.ogg  ||  난 눈 내린 후의 세상이 좋아. 조용하지만 쥐 죽은 듯이 고요한 건 아니잖아
+VO_KO_Cyno_When_the_Sun_Is_Out.ogg  ||  햇빛은 결국 모든 곳을 비출 거야
+VO_KO_Cyno_When_the_Wind_Is_Blowing.ogg  ||  바람이 세니까… 조심해
+VO_KO_Cyno_In_the_Desert.ogg  ||  익숙한 풍경이야…
+VO_KO_Cyno_Good_Morning.ogg  ||  기운 내, 출발하자
+VO_KO_Cyno_Good_Afternoon.ogg  ||  점심 준비할까? 미리 말해두는데, 맛은 보장 못해
+VO_KO_Cyno_Good_Evening.ogg  ||  내가 했던 말 기억해? 밤에는 늘 위험이 도사리고 있으니 항상 경계해야 돼
+VO_KO_Cyno_Good_Night.ogg  ||  좋은 밤이야. 근처에서 범죄자들이 활동하고 있으니 가서 처리해야겠어
+VO_KO_Cyno_About_Cyno_-_Unfunny_Jokes.ogg  ||  사막을 지나던 한 여행자가 있었는데, 너무 목이 말라서 물 슬라임을 만나게 해달라고 기도했어. 그런데 마침 배가 고팠던 물 슬라임도 혼자 다니는 여행자를 만나게 해달라고 기도하고 있었던 거야. 응? 표정이 왜 그래, 재미없어?
+VO_KO_Cyno_About_Cyno_-_Desert_Strolls.ogg  ||  가끔 밤에 사막을 산책하곤 해. 차갑고 메마른 바람이 머리를 맑게 해주거든
+VO_KO_Cyno_About_Us_-_TCG_Duel.ogg  ||  나랑 「일곱 성인의 소환」 한 판 할래? 이번에 새로 짠 덱을 보여줄게
+VO_KO_Cyno_About_Us_-_The_Present.ogg  ||  과거는 돌이킬 수 없고 미래는 예측할 수 없으니, 난 이 순간을 소중히 여기고 있어
+VO_KO_Cyno_About_the_Vision.ogg  ||  내 몸에 깃들어 있는 사람이 아닌 존재와 나에게 향한 마신의 눈길은 모두 내가 신의 총애를 받고 있다는 걸 보여주지. 하지만 난 내 신념을 바꿀 생각은 없어. 그저 책임을 다해 내가 해야 할 일을 해나갈 거야
+VO_KO_Cyno_Something_to_Share_-_Lust_for_Knowledge.ogg  ||  「지나친 욕망은 재앙을 불러일으킨다」라는 말은 누구나 알고 있어. 하지만 「지식욕」에 대해선 다들 좋은 면만 논하려고 하지…. 난 그것도 일종의 욕망이니 반드시 통제해야 한다고 생각해
+VO_KO_Cyno_Something_to_Share_-_Solemn_Respect.ogg  ||  임무를 수행할 땐 내가 내린 판단 하나가 다른 사람의 운명을 완전히 바꿔버릴 수도 있어. 그래서 「풍기관」이라는 이 직업에 대한 경외감을 유지하려고 노력 중이지. 내가 지식과 힘을 대할 때처럼…
+VO_KO_Cyno_Interesting_Things.ogg  ||  난 사막에서 자라는 관목이 좋아. 사막은 죽음의 상징이고, 모든 문명은 모래바람에 덮여버리지. 하지만 이 황량한 땅에도 싹을 틔우고 살아가는 생명이 있어. 가끔은 이들의 강인함에 나도 놀라고는 해
+VO_KO_Cyno_About_Tighnari_-_Knowledge.ogg  ||  타이나리는 내가 봤던 다른 학자와는 달라. 그 역시 다른 학자들처럼 지식을 갈망하지만, 절대 선을 넘지 않지. 어떤 학자들은 자신을 「실험실의 신」이라고 생각하지만, 타이나리는 그렇지 않아. 그는 모든 생명을 똑같이 존중해. 그가 아카데미아의 초빙을 거절했다는 얘길 들었을 때 나도 그의 편에 섰어
+VO_KO_Cyno_About_Tighnari_-_Jokes.ogg  ||  예전에 타이나리가 밥 먹을 땐 농담하지 말라고 한 적이 있어. 하나도 안 웃기다면서 말이야. 난 그 충고를 한 귀로 흘린 뒤, 꾹꾹 눌러 참았던 농담 세 개를 연거푸 했어. 이게 왜 웃긴 건지 설명까지 다 끝내고 나니까… 밥이 벌써 다 식었더라고…
+VO_KO_Cyno_About_Collei.ogg  ||  전에 그 애 몸속에 있는 마신의 잔해를 봉인해줬는데, 봉인 과정이 엄청난 고통을 준 모양이야. 그때의 고통은 죽음보다 더 무서웠을지도 몰라. 하지만 콜레이는 그걸 견뎌냈지. 정말 대단해
+VO_KO_Cyno_About_Alhaitham.ogg  ||  난 너무 똑똑한 사람을 그리 좋아하지 않아. 이들은 자신이 뭐든 통제할 수 있다고 생각해서 종종 위험한 일을 벌이곤 하거든. 그래도 알하이탐은 상대적으로 안정적인 편이라 대부분의 상황을 통제하고 위험을 가라앉힐 능력이 있어
+VO_KO_Cyno_About_Kaveh.ogg  ||  타이나리와 콜레이가 직접 말한 건 아니지만, 그들이 교환한 눈빛이 모든 걸 설명했어. 카베의 경험담이 내가 준비한 농담보다 훨씬 재미있었다는 거겠지. 내 생각은 어떠냐고? 난 그런 이야기를 듣고 웃을 수 있다는 사실이 더 웃긴 것 같은데
+VO_KO_Cyno_About_Nahida.ogg  ||  신을 평가한다는 건… 내 생각엔 좀 주제넘는 일이야. 하지만 함께하는 동안 그녀의 지혜와 용기, 그리고 결심을 직접 확인하기도 했지. 억측으로만 그녀를 손가락질하는 현자보다는 내가 이런 평가를 내릴 자격이 있을 것 같네. 그녀는 뛰어나고 존경할 만한 신이라고
+VO_KO_Cyno_About_Nilou.ogg  ||  그녀에게선 춤에 대한 열정과 의지가 느껴져. 워낙 굳은 의지라 쉽게 변하진 않을 거야. 앞으로도 자신이 사랑해 마다치 않는 춤으로 다른 사람들에게 기쁨을 가져다주었으면 해
+VO_KO_Cyno_About_Faruzan.ogg  ||  전에 파루잔 선배의 실종을 기록한 문서를 봤어. 그땐 선배가 모종의 위험한 연구를 하는 건 아닐까 생각했는데… 직접 만나고 나니, 의심이 말끔히 사라졌지. 어울리기 쉬운 편은 아니지만, 타인을 위해 입에 잔소리를 달고 사는 선배였어. 선을 넘는 일은 하지 않을 거야
+VO_KO_Cyno_About_Lisa.ogg  ||  나와 리사는 같은 현자에게 가르침을 구한 적이 있어서 자연스럽게 그녀에 대해 알게 됐어. 대풍기관으로서 나 역시 과도한 지식욕(知識欲)으로 인해 비극적인 결말을 맞는 경우를 여러 차례 봤기 때문에, 그녀의 선택을 이해할 수 있었지
+VO_KO_Cyno_More_About_Cyno_-_01.ogg  ||  나에 대해서 알려달라고? 하긴, 다른 사람들이 보기에 난 무시할 수 없는 「귀찮은 존재」니까…. 걱정 마, 네가 위험한 일을 하지 않는 이상, 널 귀찮게 굴 일은 없을 거야
+VO_KO_Cyno_More_About_Cyno_-_02.ogg  ||  내 몸을 그릇으로 삼아 사람이 아닌 존재의 힘을 발현할 수 있어. 타고난 체질 덕이기도 하지만, 후천적인 거래 덕이기도 해. 내가 풍기관의 신분으로 세간의 죄악을 심판할 땐, 자연히 나 자신의 영혼 역시 심판의 저울에 오르게 되지
+VO_KO_Cyno_More_About_Cyno_-_03.ogg  ||  난 「왜」보다 「무엇」을 했느냐를 더 중요시해. 이 세상엔 수천만 가지의 이유가 존재하잖아. 그 이유를 들으면 잘못한 사람을 오히려 이해하게 되고, 다른 사람들이 너무하다는 생각까지 들 때도 있어. 측은지심은 약자 쪽으로 기울기 마련이지만, 심판자는 그런 마음을 버려야 해. 이유는 들어볼 수 있지만, 죄는 용서할 수 없어
+VO_KO_Cyno_More_About_Cyno_-_04.ogg  ||  캄캄한 무지의 바다에서 이따금 희미한 빛이 떠올라 진실을 알지 못하는 자들을 유혹하곤 해. 그 아래, 칠흑 같은 바닷속에 거대한 위험이 도사리고 있는 것도 모르고 그걸 등대로 착각하는 사람들이 많지. 오랫동안 어둠 속에 있던 사람을 빛으로 이끄는 건 잔인한 일이지만, 우리가 바닷속에 숨은 적을 쓰러뜨릴 수 있을 때까지 난 멈출 수 없어
+VO_KO_Cyno_More_About_Cyno_-_05.ogg  ||  내가 가치 있다고 판단한 정보는 이미 다 알려줬는데, 내가 무슨 말을 더 하길 기대하는 거야? 하… 네 호기심도 정말 보통은 아니구나. 그럼 네가 직접 질문해 봐. 다른 사람을 심문해오던 내가 질문을 받는 느낌도… 신선할 것 같으니
+VO_KO_Cyno_Hobbies.ogg  ||  시간 있을 땐 다른 사람들이랑 「일곱 성인의 소환」을 해. 규칙과 융통성이 공존하는 이런 게임은… 나에겐 일종의 예술이야
+VO_KO_Cyno_Troubles.ogg  ||  얼마 전에 이나즈마의 한 라이트 노벨을 봤어. 「일곱 성인의 소환」을 주제로 한 이야기였는데, 주인공이 곤경에 처했을 때 갑자기 덱에 존재하지 않던 카드를 뽑더라고. 엄청 충격적이었던 동시에 이런 의문이 생겼지. 덱에 특수 조작을 했다면, 이는 규칙을 깨뜨린 걸까, 아니면 규칙의 일부인 걸까?
+VO_KO_Cyno_Favorite_Food.ogg  ||  쌀, 고기, 말린 과일을 섞은 뒤 요거트를 넣고 구우면 다양한 맛이 골고루 섞여. 바삭한 껍데기를 벗기고 나면, 뜨거운 김과 함께 향긋한 냄새가 퍼져 나오지. 만드는 데 오래 걸리지도 않아서 내가 아주 좋아하는 음식이야
+VO_KO_Cyno_Least_Favorite_Food.ogg  ||  사막을 지날 때 가지고 다니는 식량은 보통 딱딱하고 아무 맛도 안 나서, 익숙해지면 거의 못 먹는 게 없을 정도야. 굳이 하나 꼽자면 벌레랑 관련된 음식은 좀 거부감이 있긴 해…
+VO_KO_Cyno_Receiving_a_Gift_-_01.ogg  ||  정말 맛있어. 신경 써줘서 고마워
+VO_KO_Cyno_Receiving_a_Gift_-_02.ogg  ||  잘 받을게. 고마워
+VO_KO_Cyno_Receiving_a_Gift_-_03.ogg  ||  나한테 주는 거라고? 뭔가 착각한 거 아니야?
+VO_KO_Cyno_Birthday.ogg  ||  음… 우선 생일 축하해. 이런 걸 축하해 본 경험은 별로 없지만, 네 생일인 게 생각나서 미리 준비를 좀 했지. 먼저 내가 며칠간의 연구를 통해 짜낸 덱인데 스타일도 너랑 잘 맞을 거야. 그리고 요 며칠 동안의 스케줄을 정리해 봤어. 어디 가고 싶은 데 있으면 같이 갈게. 생일은 하루뿐이지만, 제대로 즐기는 게 중요하니 사흘 이내로 다녀오기만 하면 돼
+VO_KO_Cyno_Feelings_About_Ascension_-_01.ogg  ||  새로운 힘이 느껴져. 아마 강해졌다는 증거겠지
+VO_KO_Cyno_Feelings_About_Ascension_-_02.ogg  ||  악을 심판하고 규칙을 수호하리
+VO_KO_Cyno_Feelings_About_Ascension_-_03.ogg  ||  좋은 성장이군. 정말 고마워
+VO_KO_Cyno_Feelings_About_Ascension_-_04.ogg  ||  힘은 이미 최고조에 달했지만, 무력만으로는 아직 해낼 수 없는 것투성이야. 인정과 규칙은 충돌할 때가 많아. 어떻게 해야 이 둘을 고려할 수 있을지에 대한 답은 앞으로의 여정에서 찾아낼 거야
+VO_KO_Cyno_Elemental_Skill_1_01.ogg  ||  순순히 항복해
+VO_KO_Cyno_Elemental_Skill_1_02.ogg  ||  무의미한 반항이군
+VO_KO_Cyno_Elemental_Skill_1_03.ogg  ||  도망칠 곳은 없어!
+VO_KO_Cyno_Elemental_Skill_1_04.ogg  ||  심판의 시간이다
+VO_KO_Cyno_Elemental_Skill_1_05.ogg  ||  단죄하노라
+VO_KO_Cyno_Elemental_Skill_1_06.ogg  ||  죗값을 치르거라!
+VO_KO_Cyno_Elemental_Burst_01.ogg  ||  이 몸으로… 만물을 정화하리!
+VO_KO_Cyno_Elemental_Burst_02.ogg  ||  판결을 내리겠다
+VO_KO_Cyno_Elemental_Burst_03.ogg  ||  네 죄의 무게를 재주지
+VO_KO_Cyno_Light_Attack_Elemental_Burst_01.ogg  ||  
+VO_KO_Cyno_Mid_Attack_Elemental_Burst_01.ogg  ||  
+VO_KO_Cyno_Heavy_Attack_Elemental_Burst_01.ogg  ||  
+VO_KO_Cyno_Sprint_Start_01.ogg  ||  
+VO_KO_Cyno_Deploying_Wind_Glider_01.ogg  ||  
+VO_KO_Cyno_Opening_Treasure_Chest_01.ogg  ||  마땅히 받아야 할 물건이다
+VO_KO_Cyno_Opening_Treasure_Chest_02.ogg  ||  중요한 건 끈기야
+VO_KO_Cyno_Opening_Treasure_Chest_03.ogg  ||  부의 축적은 문명의 초석이 되지
+VO_KO_Cyno_Low_HP_01.ogg  ||  위험 수준이… 예상보다 높군
+VO_KO_Cyno_Low_HP_02.ogg  ||  곧 익숙해질 거야
+VO_KO_Cyno_Low_HP_03.ogg  ||  큭… 다시!
+VO_KO_Cyno_Ally_at_Low_HP_01.ogg  ||  무리하지 말고 쉬도록 해
+VO_KO_Cyno_Ally_at_Low_HP_02.ogg  ||  여기서부턴 내가 맡지
+VO_KO_Cyno_Fallen_01.ogg  ||  내 차례인가…
+VO_KO_Cyno_Fallen_02.ogg  ||  멸망과 탄생은… 끊임없이 반복돼
+VO_KO_Cyno_Fallen_03.ogg  ||  심판, 실패…
+VO_KO_Cyno_Light_Hit_Taken_01.ogg  ||  헛수고다
+VO_KO_Cyno_Light_Hit_Taken_02.ogg  ||  
+VO_KO_Cyno_Heavy_Hit_Taken_01.ogg  ||  까다로운 상대군
+VO_KO_Cyno_Heavy_Hit_Taken_02.ogg  ||  제법인데
+VO_KO_Cyno_Heavy_Hit_Taken_03.ogg  ||  
+VO_KO_Cyno_Joining_Party_01.ogg  ||  최선을 다하지
+VO_KO_Cyno_Joining_Party_02.ogg  ||  작전 시작
+VO_KO_Cyno_Joining_Party_03.ogg  ||  이번 목표는 누구지?
+VO_KO_Cyno_Light_Attack_01.ogg  ||  
+VO_KO_Cyno_Mid_Attack_01.ogg  ||  
+VO_KO_Cyno_Heavy_Attack_01.ogg  ||  
+VO_KO_Cyno_Climbing_01.ogg  ||  
+VO_KO_Cyno_Climbing_Breath_01.ogg  ||  
+VO_KO_Cyno_Jumping_01.ogg  ||  

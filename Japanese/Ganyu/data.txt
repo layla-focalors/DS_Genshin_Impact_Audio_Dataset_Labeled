@@ -1,0 +1,88 @@
+VO_JA_Ganyu_Hello.ogg  ||  分かりました、派遣の「契約」はできましたので、ご確認を。では今からあなたのために…えっ！？私のサインがないですか？確認しますね。えっと…名前は甘、甘雨です…これでいいですね。と、ところで、仕事内容は何でしょうか？
+VO_JA_Ganyu_Chat_-_Relaxed.ogg  ||  穏やかな雰囲気…とても好きです。
+VO_JA_Ganyu_Chat_-_Attentive.ogg  ||  芝生に寝転がると、大地の鼓動が聞こえてきます。
+VO_JA_Ganyu_Chat_-_Anxious.ogg  ||  仕事…仕事がまだ終わってません…休んでいいのでしょうか？
+VO_JA_Ganyu_When_It_Rains_-_Worries.ogg  ||  飛雲商会が栽培した霓裳花には十分の露が必要ですが…和記交通の方たちは雨の後のぬかるんでいる山道が嫌い…
+VO_JA_Ganyu_When_It_Rains_-_Listening_to_the_Rain.ogg  ||  庭で雨の音を聞くのが好きですが、少し贅沢すぎますね。
+VO_JA_Ganyu_After_the_Rain.ogg  ||  ん？晴れましたか？いつの間に…
+VO_JA_Ganyu_When_the_Sun_Is_Out.ogg  ||  うん、空気が綺麗ですね。
+VO_JA_Ganyu_Good_Morning.ogg  ||  おはようございます…ん？どこか変ですか？あまり…髪飾りをじっと見ないでください。
+VO_JA_Ganyu_Good_Afternoon.ogg  ||  ふわぁ…お昼寝しないと。用件がなければ…失礼しますね。
+VO_JA_Ganyu_Good_Evening.ogg  ||  家々のともしびがすぐ目の前にある。人々の生活は一体どんなものなのでしょう…え？一緒に夜市に？あっ…ご、ごめんなさい、遠慮しますね。
+VO_JA_Ganyu_Good_Night.ogg  ||  …帝君のご加護と、良い夢が訪れますように。
+VO_JA_Ganyu_About_Ganyu.ogg  ||  私の仕事は帝君との「契約」に従い、璃月の数多くの命に最大限の幸せをもたらすことです。
+VO_JA_Ganyu_About_Us_-_Work.ogg  ||  今日の仕事が予定より早く終わりました。…ざ、残業？…承知しました、頑張ります。
+VO_JA_Ganyu_About_Us_-_Requests.ogg  ||  人間の話をもっと理解したい…特に人間に対するあなたの考え方と評価を知りたいです。えっと、だってあなたはテイワット大陸の普通の人間と違いますから。それに私も…ぜひ、私といろいろ交流してほしいです。
+VO_JA_Ganyu_About_Us_-_Evaluation.ogg  ||  えっと…あの…わ、私の仕事ぶりに関して、あなたの評価を知りたいです。ふ、普通の宝箱レベルか、それとも豪華な宝箱レベルか。だ、大丈夫です。私は…どんな評価でも耐えられます。
+VO_JA_Ganyu_About_the_Vision.ogg  ||  「千の権力には千の責任が伴う。」古今を見渡す視野があるのに、自身の生活を諦めざるを得なかった帝君こそが、璃月で最も大変な方でしょう。帝君と比べて、普通の「神の目」を持ち、普通の責任を背負うことしかできない私は、かなり楽ですよ。
+VO_JA_Ganyu_Something_to_Share.ogg  ||  「万の商人が訪れ、千の船が往来し、百の品々が現れ、世の中の宝がここに集まる。」と人々はそう璃月を称賛しましたが、この壮大な景色があるのは、人々の努力の賜物です。私もこの繁栄に恥じないように働かなければなりません。
+VO_JA_Ganyu_Interesting_Facts_-_Name.ogg  ||  璃月のワンちゃんたちには名前をつけました。でも一部のワンちゃんは違う名前で呼んでも反応するんです。私が誰かに違う名前で呼ばれても、きっと反応できません。ワンちゃんたちはすごいですね…
+VO_JA_Ganyu_Interesting_Facts_-_Qingxin.ogg  ||  清心の花弁は美味しいです…格別に美味しいです。美味しすぎるからこそ玉京台で栽培したくないのです。いつか我慢できなくなってしまったら…ん？えっと…苦い？…でも、それが清心の味ですよ。
+VO_JA_Ganyu_About_Morax_-_Trust.ogg  ||  帝君のことは絶対的に信頼しています。あの時、帝君の統率があったからこそ、私たちは魔物を撃退し、海獣を降伏させ、皆さんの安全を守ることができました。帝君が人々を守る姿、そして千年に及ぶ誠意、私は忘れたりしません。
+VO_JA_Ganyu_About_Morax_-_Follower.ogg  ||  帝君の決定はいつだって璃月の数多の命に幸せをもたらします。それに私は敬服し、そしていつか帝君のようになりたいと思ったのです…でも帝君の歩みを追いかけようとすると、緊張でミスすることがたまにあります…
+VO_JA_Ganyu_About_Ningguang.ogg  ||  歴代の「天権」は璃月の古い法律に解釈と補充を行います。その中で、当代の「天権」、凝光の効率は最もいいです。ただ、あの効率と効果を求めるスタイルは非難されることがよくあります。欠点をとがめることは、受け入れることより簡単ですからね。
+VO_JA_Ganyu_About_Keqing_-_Estrangement.ogg  ||  帝君に対する彼女の態度に納得できません。でも…でも…「甘雨、これが今の璃月に必要な人材だ」って帝君が言いました。帝君の言葉を理解するためには、いろんなこととの接触をもっと頑張らないとですね。
+VO_JA_Ganyu_About_Keqing_-_Changing_Perspective.ogg  ||  最近彼女は碧水の貿易ルートを修復する案を自ら話してきて、帝君ならどうするかって聞いてきました。私たちが話した案は帝君と比べたらまだまだでした…でも彼女の帝君に対する思いが伝わってきて嬉しいです。
+VO_JA_Ganyu_About_Xingqiu.ogg  ||  飛雲商会のあの青い服の少年は、彼の父親や兄のように織物の経営に熱心ではないようです。たぶん、彼にとってもっと大事なことがあるからでしょう。もちろん、これはあくまで私の推測です…
+VO_JA_Ganyu_About_Xiangling.ogg  ||  香菱はとても有名です！でも…「万民堂」あたりはあまり行かないことにしています。あそこには食事の香りが満ちていて、いざ釣られて注文したら、たとえ野菜だけでも…食欲を我慢できません。そんなことしたら…
+VO_JA_Ganyu_About_Beidou.ogg  ||  近頃、玉京台では南十字船隊へのクレームが止まりません。でも私が見た北斗船長の璃月に対する貢献は、でたらめな噂話を流す人々には想像もできないほどずっと多いです…あっ、すみません、失言でした。
+VO_JA_Ganyu_About_Yaoyao.ogg  ||  ヨォーヨですか…総務司の知り合いに頼まれて、船上に行かないように彼女の世話をしています…総務司の業務範囲ですか？うーん…わ、分かりません。
+VO_JA_Ganyu_About_Xiao.ogg  ||  彼は人間と距離を置いています、そういう性格だからでしょうか…理解はできますが、彼に「近づく」ことはできません。なにせ…彼と同じ「契約」を結んだ仲間はもういませんから…
+VO_JA_Ganyu_About_Yanfei.ogg  ||  煙緋さんですか…彼女は子供の頃からすでに、契約を守ってこそ幸せな生活が送れるということを理解していました。その彼女も今は立派に育ち、璃月の有名人になられています。
+法律家の仕事は煩雑なものが多いですが、それを容易くこなす彼女を見て、私もとても安心できました。
+VO_JA_Ganyu_About_Shenhe.ogg  ||  私は彼女のことをよく知っているわけではありません。ただ留雲真君から、彼女は気性が荒く、心を抑えられなければ周囲に大きな危害を与えてしまうと聞きました…普段、暇を持て余し過ぎているからかもしれませんね。私が…彼女に仕事をお勧めした方がいいのでしょうか…？
+VO_JA_Ganyu_About_Yelan.ogg  ||  夜蘭さんは、一年のうち七割近くを欠勤しています。ですが、凝光様が彼女にそのような特権を与えているのには、きっと何か理由があるのでしょう。もちろん、これは私が詮索すべきことではありませんので、詳しいことはよく分かりません。でもある日、月海亭へ帰る途中、あの方がたくさんの人と笑いながら、朝食とお茶をいただいているところを見ました。心の底から…少し羨ましいと思いました。
+VO_JA_Ganyu_About_Xianyun.ogg  ||  留雲真君…コホン、閑雲さんから何日か前に買い物に誘われたのですが…屋台に着くたび足を止め、一つ一つ品物をすみずみまで見てからでないと、次に向かってくれなくて…まだ食事をしていないことにお互い気づいた時には、もう日が暮れていました。その瞬間、ふと山で修行をしていた遠い日々のことを思い出したんです——あの頃も、毎日があっという間に過ぎていたということを…
+VO_JA_Ganyu_More_About_Ganyu_-_01.ogg  ||  臨時の仕事ですか？あっ、詳細は言わなくても大丈夫です。要求を書いて、ここに置いておいてください。
+VO_JA_Ganyu_More_About_Ganyu_-_02.ogg  ||  「甘雨のことをもっと知りたい」…な、なにこの仕事？そ、そんなの対応したことありません…昨年末の仕事の報告の暗唱はどうですか？えっ、だめですか？
+VO_JA_Ganyu_More_About_Ganyu_-_03.ogg  ||  考えました…「仕事」ですから、「仕事」の対応するのに恥ずかしく感じる必要はありません。え？この…髪飾り？実は角です。私には仙獣「麒麟」の血が流れています。では、この秘密保持契約書にサインしてください、他言無用です…
+VO_JA_Ganyu_More_About_Ganyu_-_04.ogg  ||  仙獣の末裔でありながら、私には人間の血も流れています。この数年間、璃月港の人間の暮らしにちゃんと溶け込んだかどうかわかりません…たぶん、私は地面に入る草スライムのように、自分をデータや報告表に埋めて逃げているのでしょう。
+VO_JA_Ganyu_More_About_Ganyu_-_05.ogg  ||  話し相手になってくれて、ありがとうございます。十数年間口にしなかったことまで話したような気がします…こうして鍛え続けたら、いつか秘書以外の仕事もできるのでしょうか。百年以上の時間をかけたら、きっと重大なミスはしないはずです。
+VO_JA_Ganyu_Hobbies.ogg  ||  趣味ですか？そうですね…仕事でしょうか。ん？仕事以外で？それはどうしてですか？趣味はしたいこと、すると嬉しくなることですよね。趣味が仕事のどこが問題ですか？
+VO_JA_Ganyu_Troubles.ogg  ||  どうして人々は、自分の存在は他人より価値があると証明したがるのでしょう？存在していること自体、素晴らしいことなのに…そうですよね？
+VO_JA_Ganyu_Favorite_Food.ogg  ||  「露を飲み、稲を食す」それが私のポリシーです。だから、あの美味しそうな仙跳牆を私の視界から消してください…
+VO_JA_Ganyu_Least_Favorite_Food.ogg  ||  私たち一族は厳しい菜食主義者です。肉料理は遠慮させていただきます。野菜団子に入れてもだめです…だめです、だめですから。においで分かります。
+VO_JA_Ganyu_Receiving_a_Gift_-_01.ogg  ||  本格的なご馳走ですね…あっ！私、食べ過ぎてしまいましたか？
+VO_JA_Ganyu_Receiving_a_Gift_-_02.ogg  ||  食事に関してはかなり気を遣っているため、あなたの手を煩わせてしまいましたね…
+VO_JA_Ganyu_Receiving_a_Gift_-_03.ogg  ||  お気持ちは受け取りますが、お肉は…遠慮しておきます。
+VO_JA_Ganyu_Birthday.ogg  ||  お誕生日おめでとうございます。今までお世話になったのに、プレゼントも用意していないなんて…後ろにあるもの？えっ、見たんですか…失敗した清心のお菓子です…完璧に作りたいと思ったのに…お、美味しいですか？ほ、本当に？
+VO_JA_Ganyu_Feelings_About_Ascension_-_01.ogg  ||  力？…久しぶりですね。
+VO_JA_Ganyu_Feelings_About_Ascension_-_02.ogg  ||  もし…平和な形で解決できたら、いや、なんでもありません…
+VO_JA_Ganyu_Feelings_About_Ascension_-_03.ogg  ||  これが新たな生活の道でしょうか…わかりました、文句は言いません。
+VO_JA_Ganyu_Feelings_About_Ascension_-_04.ogg  ||  古書で「麒麟が戦えば、日の光なし」という文章を見ました。そんな大げさなことはありません。でも戦う必要がありましたら、私は全力を出してあなたのために戦います。
+VO_JA_Ganyu_Elemental_Skill_1_01.ogg  ||  おさわり禁止。
+VO_JA_Ganyu_Elemental_Skill_1_02.ogg  ||  部外者禁止。
+VO_JA_Ganyu_Elemental_Skill_1_03.ogg  ||  霜寒化生。
+VO_JA_Ganyu_Elemental_Burst_01.ogg  ||  風雪の縮図。
+VO_JA_Ganyu_Elemental_Burst_02.ogg  ||  琉璃のように落ちなさい。
+VO_JA_Ganyu_Elemental_Burst_03.ogg  ||  この仕事は排除するべきですね。
+VO_JA_Ganyu_Elemental_Burst_04.ogg  ||  岩王帝君のために！
+VO_JA_Ganyu_Sprint_Start_01.ogg  ||  次の仕事は…
+VO_JA_Ganyu_Sprint_Start_02.ogg  ||  ついていきます…
+VO_JA_Ganyu_Sprint_Start_03.ogg  ||  
+VO_JA_Ganyu_Sprint_End_01.ogg  ||  運動は必要です…
+VO_JA_Ganyu_Deploying_Wind_Glider_01.ogg  ||  
+VO_JA_Ganyu_Opening_Treasure_Chest_01.ogg  ||  収穫があるのはとてもいいことです。
+VO_JA_Ganyu_Opening_Treasure_Chest_02.ogg  ||  美しい宝、嬉しいですね。
+VO_JA_Ganyu_Opening_Treasure_Chest_03.ogg  ||  宝箱を残した人も、「契約」に従ったのでしょうか？
+VO_JA_Ganyu_Low_HP_01.ogg  ||  …私が戦場から離れたせいです。
+VO_JA_Ganyu_Low_HP_02.ogg  ||  あれ？ミスした？
+VO_JA_Ganyu_Low_HP_03.ogg  ||  エネルギー補充が…必要です。
+VO_JA_Ganyu_Ally_at_Low_HP_01.ogg  ||  後ろに下がってください！
+VO_JA_Ganyu_Ally_at_Low_HP_02.ogg  ||  えっと…「迂闊に攻めるな」です！
+VO_JA_Ganyu_Fallen_01.ogg  ||  帝君…ごめんなさい…
+VO_JA_Ganyu_Fallen_02.ogg  ||  「契約」は…まだ終わっていない…
+VO_JA_Ganyu_Fallen_03.ogg  ||  もう少し…頑張らないと…
+VO_JA_Ganyu_Light_Hit_Taken_02.ogg  ||  油断しました…
+VO_JA_Ganyu_Light_Hit_Taken_01.ogg  ||  
+VO_JA_Ganyu_Heavy_Hit_Taken_02.ogg  ||  大丈夫です…
+VO_JA_Ganyu_Heavy_Hit_Taken_01.ogg  ||  
+VO_JA_Ganyu_Joining_Party_01.ogg  ||  仕事の時間ですか？
+VO_JA_Ganyu_Joining_Party_02.ogg  ||  指令をお出しください。
+VO_JA_Ganyu_Joining_Party_03.ogg  ||  あなたとの「契約」を守ります。
+VO_JA_Ganyu_Light_Attack_01.ogg  ||  
+VO_JA_Ganyu_Mid_Attack_01.ogg  ||  
+VO_JA_Ganyu_Heavy_Attack_01.ogg  ||  
+VO_JA_Ganyu_Climbing_01.ogg  ||  
+VO_JA_Ganyu_Climbing_Breath_01.ogg  ||  
+VO_JA_Ganyu_Jumping_01.ogg  ||  

@@ -1,0 +1,93 @@
+VO_JA_Zhongli_Hello.ogg  ||  新しい「契約」か？…分かった、休暇中だが、付き合ってもいいぞ。契約書はどの名にすればいい？名はたくさんあるのだが、今は…「鍾離」と名乗っている。お前はどうだ？旅人。お前はどの名で契約する？
+VO_JA_Zhongli_Chat_-_Journeys.ogg  ||  旅はいつか終わりを迎える、慌てる必要はない。
+VO_JA_Zhongli_Chat_-_Tours.ogg  ||  次はどこに行くんだ？璃月の名所を巡りたいなら、いい案がいくつかあるぞ。
+VO_JA_Zhongli_Chat_-_Liyue.ogg  ||  「流通」のために作られた船は港に止まる、だから璃月はあらゆる富が「沈着」する場所だ。
+VO_JA_Zhongli_Chat_-_Reminiscing.ogg  ||  花を買い、酒を持ち、船の上から璃月の景色を堪能しようとしたが、共に過ごした旧友はもう居ない。
+あの古き友との再会は、いつ叶うだろうか？
+VO_JA_Zhongli_After_the_Rain.ogg  ||  「琉璃袋」という植物は湿っぽい環境を好むため、雨上がりに摘むのがおすすめだ。見かけたら、適切な時に摘むといい。
+VO_JA_Zhongli_When_It_Snows.ogg  ||  雪が止むまで場所を移動しよう。俺は問題ないが、お前が風邪を引くかもしれない。
+VO_JA_Zhongli_When_the_Wind_Is_Blowing.ogg  ||  休暇に向いていない天気だ。芝居でも見に行くか。
+VO_JA_Zhongli_Good_Morning.ogg  ||  今日も好景気になることを願っている。
+VO_JA_Zhongli_Good_Afternoon.ogg  ||  元気になるもの？チ虎岩にあるいい店を知っているが…
+VO_JA_Zhongli_Good_Evening.ogg  ||  もう雲殿の芝居に間に合わないが、夜の璃月はまだまだいいところがたくさんあるぞ。
+VO_JA_Zhongli_Good_Night.ogg  ||  市場が終わり、賑やかな港も眠りについた。お前も休むといい。
+VO_JA_Zhongli_About_Zhongli.ogg  ||  規則がなければ、円を成すことはできない。常人でも仙人でも、それぞれの役割を果たすことで、璃月の平和が保たれる。
+VO_JA_Zhongli_About_Us_-_Gold.ogg  ||  黄金は璃月の富、璃月の心臓を動かす血だ。お前に黄金のように輝く心があるかどうか、見極めさせてもらうぞ。
+VO_JA_Zhongli_About_Us_-_Contracts.ogg  ||  俺達には「契約」がある——だから契約内のことは、何でも相談していいぞ。
+VO_JA_Zhongli_About_Us_-_Fairness.ogg  ||  「契約」外のことでも俺に相談していいぞ。この土地で長く生きてきたから、大体のことは知っている。とはいえ、お前にやってもらいたいこともある。そうしないと「公平」じゃないからな。
+VO_JA_Zhongli_About_Us_-_Confusion.ogg  ||  「契約」は「友情」の深さを測ることができない。では、何を使えば俺たちの友情の重さを測ることができるのだろう？「友」よ、お前は答えを知っているか？
+VO_JA_Zhongli_About_the_Vision.ogg  ||  「神の目」…それも一つの「契約」だ。あらゆる力を知るには代価が必要だ。千の権力には千の責任が伴う。
+VO_JA_Zhongli_Something_to_Share.ogg  ||  「取引」の決まりは「契約」、その規準は「公平」。それは「契約」を作って、守る者が忘れてはならないことだ。公平が失われたら、契約は嘘の証拠となる。
+VO_JA_Zhongli_Interesting_Things.ogg  ||  「絶雲の間」に行く機会があったら、「清心」を一束取ってきてくれ。一束でいいんだ。旅費は…ああっ、忘れるところだった。「契約」の有効期間中の旅費はお前が持ってくれ。では、頼んだぞ。
+VO_JA_Zhongli_About_Xiao.ogg  ||  帰離原の少年仙人と言ったか？…あぁ、彼は今日に至ってもその責務を果たしている…この「連理鎮心散」を、俺の代わりに渡してきてくれないか。そうだ、パイモンが食わないように注意するんだ。この薬は…常人が耐えられるものではない。
+VO_JA_Zhongli_About_Venti.ogg  ||  っ…。あの詩人が来ただろう、あの風流の分からない呑兵衛詩人が！お前…むっ、ヤツに変な飲み物を飲まされて、うっとりしているのか…少し待て、眠気覚ましの茶を淹れよう。6時間あればできるんだ、少し待ってくれ…
+VO_JA_Zhongli_About_Ningguang.ogg  ||  多忙を極めていても、彼女は奮迅の心を持っている。あの頃、彼女が裸足で瑶光の浜から南埠頭まで歩きながら商いをしていた姿を思い出す。時間は人にとって残酷なものだな…
+VO_JA_Zhongli_About_Hu_Tao.ogg  ||  今の堂主？コホン、あの子は苦手だ。
+VO_JA_Zhongli_About_Tartaglia_-_Composed.ogg  ||  あのスネージナヤの武人はまだ璃月にいるのか？ハハッ、構わない、彼がお前にちょっかいをかけてきたら、その時は俺を呼ぶといい。
+VO_JA_Zhongli_About_Tartaglia_-_Drinks.ogg  ||  近頃、「公子」のファデュイでの評価がまた下がったらしい。しかし、悪評を一掃するためであれば、彼は積極的に動くだろう。ふむ…そう考えると、今度彼との宴席でまた面白い話が聞けそうだ。旅人、お前も一緒に来るか？
+VO_JA_Zhongli_About_Ganyu.ogg  ||  璃月の繁栄は「岩王帝君」のお告げのおかげだけではなく、「契約」に応えた無数の岩神の民のおかげだ。その中で、最も長く職務についたのが甘雨だ。彼女の過去に関しては…ハハッ、彼女の気を悪くしたくないからな、彼女本人に聞いてくれ。
+VO_JA_Zhongli_About_Keqing.ogg  ||  彼女は当代七星の中で最も神を敬わない人だが、俺は結構気に入っている。「自分が正しいと思うなら、声を大きく、動揺せずに行動する」——こういう人間が璃月に現れたから、俺は引退を考えたんだ。
+VO_JA_Zhongli_About_Yanfei.ogg  ||  彼女は俺と「契約」をしていないが、自らの方法で璃月の規律を守り、偏った思想を正している…いつの日か、彼女の父親が戻ってきて、彼女の成長を目にしたら、ほっとするだろう。
+VO_JA_Zhongli_About_Baal.ogg  ||  すべての意志は時によって磨かれる。彼女は信念のためならば、自らのすべてを捧げることさえ厭わない。だからこそ、ここまで歩んでこられたのかもしれない…機会があれば、俺も彼女がすべてを費やした「永遠」を見てみたいものだ。
+VO_JA_Zhongli_About_Buer.ogg  ||  知恵の神ブエル、スメール全体を統治しているだけでなく、世界樹を守る責務も担っている。卓越した英知がなければ、それらを司るのは難しいだろう。世界樹を救ったことについては、テイワットにおけるすべての生き物が彼女に礼を言うべきだ。
+VO_JA_Zhongli_About_Furina.ogg  ||  国を救う契約を「自己」と締結し、それを五百年に渡り厳守することで天理を欺いた…「正義」によってなされるすべてを、俺は尊重する。たとえ神性の部分がすでに消え去り、神座さえなくなったとしても、フォンテーヌすべての歴史において、フリーナは正義の神として認められるに値する存在だ。
+VO_JA_Zhongli_About_Xianyun.ogg  ||  「閑雲」についての逸話なら、何人もの商人から聞いたことがある。一見驕傲で無口に見えるが、ひとたび話せば、その真っ直ぐな性格と方正さから、友好を結びよき友として交流するに値する人物であることに気がつくのだそうだ。それを聞いて、俺も実に喜ばしく思った。ところで、彼女に対する評価のうちの一つ、「気前がよい」という言葉については…ふむ、俺もよく言われるのだが…
+VO_JA_Zhongli_More_About_Zhongli_-_01.ogg  ||  どうした？せっかくの休暇なのに休まずに俺のところに来るとは。俺の話が聞きたいのか？
+VO_JA_Zhongli_More_About_Zhongli_-_02.ogg  ||  「黒岩場」の起源を聞いたことがあるか？
+昔、人々は天衡山の鉱脈を採掘しながら、中で工場施設を作っていて、そしてそれが東大陸最大の工場になった。中の道路は四方八方に通じている、大地の深部にある古い遺跡に通じるものもあったが、その全てを記憶している人は今はもういないだろう。
+VO_JA_Zhongli_More_About_Zhongli_-_03.ogg  ||  「海灯祭」の起源を聞いたことがあるか？
+昔、璃月は戦をしていてな、戦地へと赴いた人たちが故郷に帰る方向と自分の初心を見失わないよう、人々が夜に提燈を飛ばしたんだ。今はもうそんなこと誰も覚えていないだろうがな。
+VO_JA_Zhongli_More_About_Zhongli_-_04.ogg  ||  「契約の神」について聞いたことがあるか？
+彼は記憶力がとてもいいんだ。宿敵の名前を、璃月船舶局が設立してから船が出港した全ての日を、彼が忘れたことは一度もない。それほどの記憶力があるからこそ、あらゆる「契約」を覚えられる。
+しかし、記憶力がいいということはたまに不快になるきっかけにもなる。
+VO_JA_Zhongli_More_About_Zhongli_-_05.ogg  ||  長く生きすぎた人は記憶の中でのみ、昔の戦友や過去の景色を訪ねられる。
+それでも、お前との出会いを後悔していない、「友」よ。たとえいつかお前と別れる日が来るとしても、お前は俺の記憶の中で輝き続ける。
+VO_JA_Zhongli_Hobbies.ogg  ||  時間がある時、城内を散歩すると気分が落ち着くな。うん…こんな気持ちはいつからだろうな…？
+VO_JA_Zhongli_Troubles.ogg  ||  人々に「契約」を守らせ、ルールに従って行動してもらうのは、「公平」を守ってほしいからだ。しかし、そのことに気付かない人はどうしてもいる。
+VO_JA_Zhongli_Favorite_Food.ogg  ||  遠い昔に友と共に飲んだ酒だ。気候が変わったせいか、過去の味はもう再現できそうにない。
+VO_JA_Zhongli_Least_Favorite_Food.ogg  ||  海産物は嫌いだ。見るだけで、ああいう…何というか、つるつると滑るような感覚と洗っても消えない生臭さを思い出す。原因は…
+はぁ、話すと長くなる。記憶力が良すぎるからということにしてくれ。
+VO_JA_Zhongli_Receiving_a_Gift_-_01.ogg  ||  本格的な調理法で、素材にまでこだわっている。大したものだ。
+VO_JA_Zhongli_Receiving_a_Gift_-_02.ogg  ||  料理とは、実に趣のあるもの。それはお前にとっても同じことだろう。
+VO_JA_Zhongli_Receiving_a_Gift_-_03.ogg  ||  時間があれば、どこかの庭園でお前に物語を聞かせてやろう。
+VO_JA_Zhongli_Birthday.ogg  ||  誕生日おめでとう。これはお前が生まれた日に咲いた「琉璃百合」のドライフラワーだ。
+昔の璃月の人々は、大地の美しい記憶と祈りのためにこの花が咲くと言っていた。きっと、お前の誕生もそうだと俺は信じている。
+VO_JA_Zhongli_Feelings_About_Ascension_-_01.ogg  ||  力が戻ってきたようだ。多くはないが、役に立つ。
+VO_JA_Zhongli_Feelings_About_Ascension_-_02.ogg  ||  力が増した分、体への負担も増えた…大丈夫だ、俺の体は普通の人とは違う、心配いらない。
+VO_JA_Zhongli_Feelings_About_Ascension_-_03.ogg  ||  なるほど、「神の目」を使って元素の力を操ることは常人にとって単なる偉業ではないんだな。ふん…あの時の彼らは、こんな覚悟を持って俺の傍にいたのか…
+VO_JA_Zhongli_Feelings_About_Ascension_-_04.ogg  ||  「神の心」を手放した後、こんな景色が見れると思っていなかった——「友」よ、感謝するぞ…そうだ、ここに新しい「契約」があるが、一緒に確認しないか？
+VO_JA_Zhongli_Elemental_Skill_1_01.ogg  ||  壁立千仞。
+VO_JA_Zhongli_Elemental_Skill_1_02.ogg  ||  震天動地。
+VO_JA_Zhongli_Elemental_Skill_1_03.ogg  ||  揺らぐことなし。
+VO_JA_Zhongli_Elemental_Skill_1_04.ogg  ||  (Hold) 岩山破蓄。
+VO_JA_Zhongli_Elemental_Skill_1_05.ogg  ||  (Hold) 堅如磐石。
+VO_JA_Zhongli_Elemental_Skill_1_06.ogg  ||  (Hold) 難攻不落。
+VO_JA_Zhongli_Elemental_Burst_01.ogg  ||  天理長駆。
+VO_JA_Zhongli_Elemental_Burst_02.ogg  ||  天道、ここにあり。
+VO_JA_Zhongli_Elemental_Burst_03.ogg  ||  天動万象。
+VO_JA_Zhongli_Sprint_Start_01.ogg  ||  
+VO_JA_Zhongli_Deploying_Wind_Glider_01.ogg  ||  
+VO_JA_Zhongli_Opening_Treasure_Chest_01.ogg  ||  いにしえの宝物、実に貴重だ…
+VO_JA_Zhongli_Opening_Treasure_Chest_02.ogg  ||  偶然の出会いには、おもむきがある。
+VO_JA_Zhongli_Opening_Treasure_Chest_03.ogg  ||  来た甲斐があった。
+VO_JA_Zhongli_Low_HP_01.ogg  ||  その実力、認めてやらなくもない。
+VO_JA_Zhongli_Low_HP_02.ogg  ||  ははっ、面白い。
+VO_JA_Zhongli_Low_HP_03.ogg  ||  危機に陥った時の対応は得意ではない。
+VO_JA_Zhongli_Ally_at_Low_HP_01.ogg  ||  迂闊に攻めるな。
+VO_JA_Zhongli_Ally_at_Low_HP_02.ogg  ||  下がれ、ここは俺に任せるんだ。
+VO_JA_Zhongli_Fallen_01.ogg  ||  ああ、少し疲れた…
+VO_JA_Zhongli_Fallen_02.ogg  ||  見苦しいところを見せたな。
+VO_JA_Zhongli_Fallen_03.ogg  ||  磐石も…いつか土に還る…
+VO_JA_Zhongli_Light_Hit_Taken_01.ogg  ||  
+VO_JA_Zhongli_Heavy_Hit_Taken_01.ogg  ||  油断したか。
+VO_JA_Zhongli_Heavy_Hit_Taken_02.ogg  ||  恐るるに足らず。
+VO_JA_Zhongli_Heavy_Hit_Taken_03.ogg  ||  
+VO_JA_Zhongli_Joining_Party_01.ogg  ||  いいだろう。
+VO_JA_Zhongli_Joining_Party_02.ogg  ||  気晴らしになるな。
+VO_JA_Zhongli_Joining_Party_03.ogg  ||  何をすればいい…
+VO_JA_Zhongli_Light_Attack_01.ogg  ||  
+VO_JA_Zhongli_Mid_Attack_01.ogg  ||  
+VO_JA_Zhongli_Mid_Attack_03.ogg  ||  隙あり!
+VO_JA_Zhongli_Heavy_Attack_01.ogg  ||  
+VO_JA_Zhongli_Climbing_01.ogg  ||  
+VO_JA_Zhongli_Jumping_01.ogg  ||  

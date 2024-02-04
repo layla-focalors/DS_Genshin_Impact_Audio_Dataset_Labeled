@@ -1,0 +1,86 @@
+VO_JA_Raiden_Shogun_Hello.ogg  ||  かしこまらないでください。この身は高貴なものですが、ここへ来たのは身分を隠し世を渡り歩くため。あなたの腕を見込んで頼みがあります。今から私の護衛になっていただけませんか。心配しないでください、危機が訪れれば、私も手を貸しますので。
+VO_JA_Raiden_Shogun_Chat_-_Idleness.ogg  ||  つれづれなるままに、日くらし、硯にむかひて。ふん。
+VO_JA_Raiden_Shogun_Chat_-_The_Mortal_World.ogg  ||  浮世の風景は幾千年も変わらないというのに、人の世とはこうも白露と泡のように…儚い。
+VO_JA_Raiden_Shogun_Chat_-_Worldly_Beauty.ogg  ||  この美しい風景も、そばに誰もいない以上、私の不変を引き立たせるだけ…
+VO_JA_Raiden_Shogun_When_It_Rains.ogg  ||  雨なんて大したことありません。まだ雷も鳴っていないのですから。
+VO_JA_Raiden_Shogun_When_It_Snows.ogg  ||  冬将軍も来たのでしょうか。
+VO_JA_Raiden_Shogun_On_a_Clear_Day.ogg  ||  晴天でさえ、雷霆の光を遮ることはできません。雨が降らずとも、神雷を下せます、あの木を見ていてください。ん？わかったからもうやめて？そうですか…
+VO_JA_Raiden_Shogun_Good_Morning.ogg  ||  朝のあいさつをしたそばからあくびをするなんて、たるんでいる証拠かと。ですが、今回はその無礼を許しましょう。おはようございます。
+VO_JA_Raiden_Shogun_Good_Night.ogg  ||  私の命により、この世のすべての雷鳴を静めました。今夜はゆっくりと眠れることを願います。
+VO_JA_Raiden_Shogun_About_Raiden_Shogun_-_Transience.ogg  ||  雷霆と稲妻は、刹那に去りゆく。だからこそ、「永遠」を望むのです。いえ、望むだけでは足りません、必ず「永遠」をこの手に。
+VO_JA_Raiden_Shogun_About_Raiden_Shogun_-_Eternity.ogg  ||  「摩耗」とは、とても恐ろしいもの。この身が誕生した意義も、摩耗に耐えるためです。そしていつか、「内なる存在」は「永遠」に触れることができるでしょう。
+VO_JA_Raiden_Shogun_About_Us_-_Okuzumeshuu.ogg  ||  あなたは今や私の側用人です。言い換えれば、幕府に対して有益で、私に忠誠を誓う者であると判断しています。
+VO_JA_Raiden_Shogun_Something_to_Share.ogg  ||  共有したいこと？特にありません。それよりも、なぜ神の目を持たないあなたが、元素力を使えるのか気になります。話してくれますか。
+VO_JA_Raiden_Shogun_Interesting_Things.ogg  ||  体は消え、夢も失いましたけど、彼女は神櫻となりました。それもまた「永遠」です。
+VO_JA_Raiden_Shogun_About_Kamisato_Ayato.ogg  ||  神里家の者であり、稲妻名門の筆頭をゆくに相応しい人物です。綾人は以前、三奉行事務中に様々な手段を講じていましたが、その忠誠心に一点の曇りもありません。咎めずともいいでしょう。
+VO_JA_Raiden_Shogun_About_Kujou_Sara.ogg  ||  忠実な志士であり、優れた武芸を有し、「豪傑」の二文字を背負うに相応しい者です。あの者がいれば、九条家もまだまだ栄えるでしょう。
+VO_JA_Raiden_Shogun_About_Sangonomiya_Kokomi.ogg  ||  オロバシはたしかに私が斬り伏せました。しかし私は珊瑚宮の民に、それを海祇大御神として祭り上げることを許可しました。 今の珊瑚宮は鳴神分社を破壊し、幕府を裏切ろうとしています。彼女は海祇大御神の現人神の巫女として、責任を取らなければなりません。
+VO_JA_Raiden_Shogun_About_Arataki_Itto.ogg  ||  誰でしょうか？
+VO_JA_Raiden_Shogun_About_Yoimiya.ogg  ||  どなたのことでしょうか…ああ、花火職人の。刹那の幻像を創り、夏の幻想に酔いしれる人。彼女も我が民の一人です。
+ん？天領奉行の領地で花火が上がっている？まさか彼女が？
+VO_JA_Raiden_Shogun_More_About_Raiden_Shogun_-_01.ogg  ||  何かあるなら、言ってください。
+VO_JA_Raiden_Shogun_More_About_Raiden_Shogun_-_02.ogg  ||  雷の日に「くわばら、くわばら」と言えば大事には至らない、そう人々は信じています。もし私が起こした雷であれば、あなたに害はなしません。ですが、自然現象の雷の場合、そうもいかないでしょう。
+VO_JA_Raiden_Shogun_Hobbies.ogg  ||  愚問です。この世にはやらなければならないこと、そしてやってはならないことの二種類のみが存在します。
+VO_JA_Raiden_Shogun_Least_Favorite_Food.ogg  ||  愚問です。この世には身体を維持するための栄養素と、そして身体に害をもたらす物の二種類のみが存在します。
+VO_JA_Raiden_Shogun_Receiving_a_Gift_-_01.ogg  ||  よく知っている味です。悪くありません。
+VO_JA_Raiden_Shogun_Receiving_a_Gift_-_02.ogg  ||  後ほど食べますので、そこに置いておいてください。
+VO_JA_Raiden_Shogun_Receiving_a_Gift_-_03.ogg  ||  身体の機能に支障が生じます、下げてください。
+VO_JA_Raiden_Shogun_Birth_Date.ogg  ||  今日はあなたの生誕の日でしたか。私と城へ戻り、全旗本の前で祝辞を読みましょう。「恥ずかしいからやめてほしい」と？…そうですか。
+VO_JA_Raiden_Shogun_Feelings_About_Ascension_-_01.ogg  ||  我が流派、「初伝」の位では太刀の九向剣路之勢、それと薙刀の基礎が学べます。他の流派と大差はありません。いや、正しくは他の流派が私のと大差がない、ですね。
+VO_JA_Raiden_Shogun_Feelings_About_Ascension_-_02.ogg  ||  我が流派、「中伝」の位では剣術に必要な「構え」の変化を学び、薙刀術に必要な「斬り」と「返し」の理を理解する必要があります。
+VO_JA_Raiden_Shogun_Feelings_About_Ascension_-_03.ogg  ||  我が流派、「皆伝」の位では奥義を学ぶ必要があります。しかし、そのほとんどが元素力を使うため、ただの人間には難しいでしょう。世に出回る大半の流派は、この境地に触れることさえできません。
+VO_JA_Raiden_Ei_When_Thunder_Strikes.ogg  ||  あら、雷が怖いのですか？この世で唯一無二の高貴なる者であり、最も恐ろしい雷霆の化身が、あなたのそばにいるというのに。
+VO_JA_Raiden_Ei_Good_Afternoon.ogg  ||  甘味が食べたいですね。へぇっ、いけませんか？「こんな時間に甘い物なんて」とはいったい…以前は将軍の身分によって甘やかされていた、と。そうだったのですね…
+VO_JA_Raiden_Ei_Good_Evening.ogg  ||  夜の流れ星について知りたいのですか？ふふ、瞬く間に流れゆく天の光です。えっ、実はあなたが流れ星？空を翔ける者は「天狗」だという言い伝えがあります、あなたも天狗だったのでしょうか？
+VO_JA_Raiden_Ei_About_Us_-_Protector.ogg  ||  護衛とは言いましたが、私が危険に陥った時にかばう必要はありません。将軍の作りは丈夫で、壊れた時は替えも利きます。ですので、身の危険を感じた時には、この将軍を前に突き出してもらって構いません。
+VO_JA_Raiden_Ei_About_Us_-_Legacy.ogg  ||  稲妻の薙刀術と剣術、それに刀の鍛造技法は基本的に私が伝授したものです。そこから、人々の個性によって枝分かれしてい。どうでしょう、私の一太刀をもう一度受けてみませんか？それでもまだ無事であれば、あなたに稲妻で流派を開く許可を与えましょう。はぁ…武道の精進とはどうしてこうも人を惹きつけるのでしょうか。
+VO_JA_Raiden_Ei_About_the_Vision.ogg  ||  外の世界では、そんなにも長い間雷元素の神の目が現れていないのですか？私にはいくつかの制約があるため、細かいことは言えませんが…神の目を授けることは、私の意志とは無関係です。重要なのは、人々の「願望」、そして…
+VO_JA_Raiden_Ei_About_Yae_Miko.ogg  ||  あの人ですか。最初は油揚げに誘惑されるような方でしたが、まさかこんなにも策略に秀でるようになるなんて、実に喜ばしいことです。しかし私のためとはいえ、彼女に謀られたのはやはり少し気に入りません。今度会った時、きっと笑われてしまいます…であれば先手必勝、先に彼女に一太刀浴びせるとしましょう。どうせ彼女なら躱せますし。
+VO_JA_Raiden_Ei_About_Kamisato_Ayaka.ogg  ||  神里家の者であり、稲妻名門の筆頭をゆくに相応しい人物です。えっ、将軍と評価がまったく同じ？で、では、これならどうでしょう…綾華は剣術にも秀でています。
+VO_JA_Raiden_Ei_About_Thoma.ogg  ||  彼の神の目を奪いそうになったことは、私に責任がまったくないというわけではありません。しかし、謝罪でしたら、やはり将軍に行かせたほうがいいでしょう…まあ、私も反省はしますが。
+VO_JA_Raiden_Ei_About_Kunikuzushi.ogg  ||  あの子は将軍を作る時にできた副産物です。彼を制御しないのは、私の心の中で彼に対して借りを覚えているからでしょう。
+VO_JA_Raiden_Ei_About_Morax.ogg  ||  かつて彼と酒席を共にした時、私はただの影武者で、神々の末席に属していました。彼はそのような選択をしたのですね…しかし、これからの時代も、彼は多くの人と縁を結んでいくことでしょう。
+VO_JA_Raiden_Ei_About_Venti.ogg  ||  風神の化身は今もその名前を名乗っているのですか？正直、初めて彼と会った時から相性が合わない感じがしていました。それ以外の印象は…お酒が強いことくらいですね。
+VO_JA_Raiden_Ei_About_Buer.ogg  ||  私は彼女の謙虚さを高く評価しています。謙虚さも確かに、智者の美徳ですから。ブエルの権能をもってすれば、想像を超えたようなこともできるのに、彼女はそれをただ「是正と守護」のためにしか使いません…本当に優しい神です。
+VO_JA_Raiden_Ei_More_About_Raiden_Ei_-_03.ogg  ||  『珍説』という本に書いてあるのは事実です。あれは彼女が島のことで忙しくしていた頃のこと。私は影武者として、彼女の名を借り、軍陣に現れました。しかし、そのあとの物語は人々の憶測にすぎません。私は元々剣術に魅了された武人、民を感化させる美徳など持ち合わせていません。
+VO_JA_Raiden_Ei_More_About_Raiden_Ei_-_04.ogg  ||  「永遠」の追求は、一種の逃避にすぎません。私が最後に取った方法も、甲羅にうずくまる亀のようなものでした。しかし亀とはもともと長寿の象徴、永遠を追求すれば必然的にそのような形になるのかもしれませんね。
+VO_JA_Raiden_Ei_More_About_Raiden_Ei_-_05.ogg  ||  恐怖の由来、それは私が500年前に彼女の死と「あの出来事」を目撃したから。しかし…あなたでしたら、きっとすべての人を救えるでしょう。あなたでしたら…きっと世界をも救えます。私が稲妻のすべてを覚えているように、あなたが私を覚えている限り、私は永遠に生き続けることができます。
+VO_JA_Raiden_Ei_Troubles.ogg  ||  私に料理を作らせないでください。基本的に私はなんでもできますが、料理だけは本当にだめなんです…
+VO_JA_Raiden_Ei_Favorite_Food.ogg  ||  将軍の言ったことは無視してください。甘いお菓子が好きです！虫歯になったら換えればいいだけのこと。永遠の追求に影響するわけがありません。
+VO_JA_Raiden_Ei_Receiving_a_Gift_-_01.ogg  ||  美味しいですね。心も穏やかになっていくのを感じます、ありがとうございます。
+VO_JA_Raiden_Ei_Receiving_a_Gift_-_02.ogg  ||  見栄えは悪くないようですね。どうやって作ったのでしょう？
+VO_JA_Raiden_Ei_Receiving_a_Gift_-_03.ogg  ||  すみませんが、お断りいたします。
+VO_JA_Raiden_Ei_Birthday.ogg  ||  誕生日おめでとうございます。今日は一緒にお祝いをして、一年で最も印象に残る素敵な日にしましょう。そして、来年の今日もまたお祝いを。こうやって続けていけば、「永遠」の幸せを手に入れることができます。
+VO_JA_Raiden_Ei_Feelings_About_Ascension_-_04.ogg  ||  奥義中の奥義、「無想」であり、無双の一太刀。あなたが練習相手として付き合ってくれるのなら、私はより速くて強い一太刀を繰り出せる気がします。
+VO_JA_Raiden_Shogun_Elemental_Skill_1_01.ogg  ||  裁きの雷。
+VO_JA_Raiden_Shogun_Elemental_Skill_1_02.ogg  ||  逃げ道はありません。
+VO_JA_Raiden_Shogun_Elemental_Skill_1_03.ogg  ||  見切りました。
+VO_JA_Raiden_Shogun_Elemental_Burst_01.ogg  ||  無我の境地へ。
+VO_JA_Raiden_Shogun_Elemental_Burst_02.ogg  ||  ここより、寂滅の時！
+VO_JA_Raiden_Shogun_Elemental_Burst_03.ogg  ||  稲光、すなわち永遠なり。
+VO_JA_Raiden_Shogun_Sprint_Start_01.ogg  ||  
+VO_JA_Raiden_Shogun_Deploying_Wind_Glider_01.ogg  ||  
+VO_JA_Raiden_Shogun_Opening_Treasure_Chest_01.ogg  ||  受け取りなさい。私には無用の長物です。
+VO_JA_Raiden_Shogun_Opening_Treasure_Chest_02.ogg  ||  須臾の夢に過ぎません。
+VO_JA_Raiden_Shogun_Opening_Treasure_Chest_03.ogg  ||  あら？
+VO_JA_Raiden_Shogun_Low_HP_01.ogg  ||  鎖を…断ち切る…
+VO_JA_Raiden_Shogun_Low_HP_02.ogg  ||  悪を…斬らねば…
+VO_JA_Raiden_Shogun_Low_HP_03.ogg  ||  邪魔者の…粛清を…
+VO_JA_Raiden_Shogun_Ally_at_Low_HP_01.ogg  ||  私の後ろへ。
+VO_JA_Raiden_Shogun_Ally_at_Low_HP_02.ogg  ||  下がりなさい。
+VO_JA_Raiden_Shogun_Fallen_01.ogg  ||  浮世の夢のごとし…
+VO_JA_Raiden_Shogun_Fallen_02.ogg  ||  無念…無執…
+VO_JA_Raiden_Shogun_Fallen_03.ogg  ||  雷鳴が…止んでしまいます…
+VO_JA_Raiden_Shogun_Light_Hit_Taken_01.ogg  ||  
+VO_JA_Raiden_Shogun_Heavy_Hit_Taken_01.ogg  ||  無礼者…
+VO_JA_Raiden_Shogun_Heavy_Hit_Taken_02.ogg  ||  愚かな…
+VO_JA_Raiden_Shogun_Heavy_Hit_Taken_03.ogg  ||  
+VO_JA_Raiden_Shogun_Joining_Party_01.ogg  ||  なにか用ですか？
+VO_JA_Raiden_Shogun_Joining_Party_02.ogg  ||  私についてきてください。
+VO_JA_Raiden_Shogun_Joining_Party_03.ogg  ||  今こそ出陣の時。
+VO_JA_Raiden_Shogun_Light_Attack_01.ogg  ||  
+VO_JA_Raiden_Shogun_Mid_Attack_01.ogg  ||  
+VO_JA_Raiden_Shogun_Heavy_Attack_01.ogg  ||  
+VO_JA_Raiden_Shogun_Climbing_01.ogg  ||  
+VO_JA_Raiden_Shogun_Climbing_Breath_01.ogg  ||  
+VO_JA_Raiden_Shogun_Jumping_01.ogg  ||  

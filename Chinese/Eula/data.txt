@@ -1,0 +1,178 @@
+VO_ZH_Eula_Hello.ogg  ||  西风骑士团，游击小队队长，「浪花骑士」优菈・劳伦斯，向你致以问候…嗯，劳伦斯，没错。如你所见，我是罪人的后裔，是骑士团的内鬼，正在向他们复仇。
+VO_ZH_Eula_Chat_-_Etiquette.ogg  ||  骑士和贵族的礼仪一脉相承，只是前者脚踏实地，简化了繁文缛节。
+VO_ZH_Eula_Chat_-_Bladework.ogg  ||  西风剑术？想和我学两手吗？等你学成再找你报仇，想必能增添不少乐趣。
+VO_ZH_Eula_Chat_-_Rules.ogg  ||  贵族们的陈腐规矩啊…听听就好，哪怕像我一样，被迫背诵了几百条，也不必当真。
+VO_ZH_Eula_When_It_Rains.ogg  ||  快到伞下来，别被淋湿了。要是你得了病，身体早早就垮掉，那我找谁报仇去？
+VO_ZH_Eula_When_Thunder_Strikes.ogg  ||  麻烦的天气，雷声会干扰听觉，影响我对周边的感知。
+VO_ZH_Eula_When_the_Sun_Is_Out.ogg  ||  视野不错！登上高地，就能将周围的敌情尽收眼底。
+VO_ZH_Eula_Good_Morning.ogg  ||  该起床了，日出前两个小时，值岗一夜的哨兵最为疲惫，是我们活动的绝佳时间！
+VO_ZH_Eula_Good_Afternoon.ogg  ||  午饭要少吃谷物，多吃肉类，防止午后困倦，被人趁机暗算。
+VO_ZH_Eula_Good_Evening.ogg  ||  「愿柔风伴你，度过安详的一夜。」…旧贵族的问候语里，难得有这么中听的一句。
+VO_ZH_Eula_Good_Night.ogg  ||  想听骨哨的催眠曲吗？会让你长睡不醒…但这样的报仇方法，实在太无聊了。
+VO_ZH_Eula_About_Eula_-_The_Knights.ogg  ||  打入敌人内部，不就能更方便地复仇了吗？所以我才加入骑士团啊。
+VO_ZH_Eula_About_Eula_-_Bearing.ogg  ||  既然成为了西风骑士，基本工作还是要尽职的，不然就连混日子的庸人们都不如了。哪怕是罪人，也不能这么丢脸。
+VO_ZH_Eula_About_Eula_-_Scout.ogg  ||  游击骑士的职责是自由狩猎敌军，或者在侧面战场牵制敌人，没有太多规矩，更符合我的作风。
+VO_ZH_Eula_About_Eula_-_Dance.ogg  ||  劳伦斯家的传统倒也不全是糟粕，至少「祭礼之舞」纯净而高洁，让我心境平和，给过我不少慰藉。这么多年来，我一直没有放下它，每个舞步都刻进了我的身体…所以，言归正传，想要学到只属于我的「西风剑术」，还得先过舞蹈这关。
+VO_ZH_Eula_About_Us_-_Commonality.ogg  ||  其实我们俩有点像，对于蒙德，我们都是「外人」。只不过，你这个外人受到欢迎，而我一直被提防，被人敌视。
+VO_ZH_Eula_About_Us_-_Feud.ogg  ||  你还会和我结下更多仇的，不如就等到哪天一并清算吧，这样能省掉不少麻烦。也许是十年后，二十年后…放心，我不会忘的。在那之前，你可要生龙活虎，平安无事啊。
+VO_ZH_Eula_About_the_Vision.ogg  ||  「罪人的后裔」，这个名号不太中听，我只有不断用我的方式复仇，才能彻底摆脱它。想要复仇就需要力量，得到「神之眼」，也是情理之中的事吧。
+VO_ZH_Eula_Something_to_Share_-_Bone_Whistle.ogg  ||  我的骨哨能吹出各种音色，迷惑敌人，相当实用。我经常用它吹奏海浪的声音，「浪花骑士」的称号就是这样来的。但没人在乎，这骨哨的技艺起源于璃月。毕竟他们也不会去深究…一个被蒙德排斥的罪人，找了个被人遗忘的璃月人当老师嘛。
+VO_ZH_Eula_Something_to_Share_-_Wine-Tasting.ogg  ||  按理说，陈酿蒲公英酒要搭配银杯，醒酒十二分钟后加入冰块，酒面没过冰块六成为宜。但这样实在太麻烦了，我可不乐意。
+VO_ZH_Eula_Interesting_Things.ogg  ||  冰雾花呀，怎么就这么罕见呢？它制作的粉末有奇效，能让骨哨的音色变得更通透。
+VO_ZH_Eula_About_Amber.ogg  ||  安柏总是自作主张，我刚加入骑士团那天，她替我打扫宿舍，带我四处参观，之后也主动帮我搞定各种麻烦事。在别人看来，我就像是个被妹妹照顾的姐姐，这怎么像话！这些仇，我都记下了！
+VO_ZH_Eula_About_Jean.ogg  ||  代理团长啊，她和我的家族是宿敌。但她公私分明，认可我的实力，邀请我加入骑士团，给了我不少机会。所以我考虑在复仇时，赏她一个不算难看的败北。
+VO_ZH_Eula_About_Lisa.ogg  ||  啊，麻烦的女人，她的脑袋里装着几千本书，也许是几万本。她能随口数落劳伦斯家的黑历史，每件事的日期都很准确。按理来说，她能帮我追查某个人的下落，可我又拉不下脸去找她。
+VO_ZH_Eula_About_Barbara.ogg  ||  她到底有什么秘诀，这么讨人喜欢？要是能和她学两招…哦不，还是算了吧，「偶像」和「罪人的后裔」，怎么想都不合拍。
+VO_ZH_Eula_About_Varka.ogg  ||  大团长啊，他的性格很直爽，不在乎琐事和传闻，算是个老好人吧。我和他切磋过一次，打成了平手，但他那轻松的表情，散漫的态度，绝对是在放水！是对我最大的轻视！这个仇，我绝不会忘的！
+VO_ZH_Eula_About_Venti.ogg  ||  那个吟游诗人唱过几首歌，把劳伦斯家放进轻快的故事，用从没听过的口吻调侃，连我都憋不住笑…这个仇，我不会忘的。
+VO_ZH_Eula_About_Razor.ogg  ||  不用拘泥于礼仪，不必在乎他人的目光，也没有所谓的家族责任…他的生活方式，还蛮轻松的。
+VO_ZH_Eula_About_Sucrose.ogg  ||  那个炼金术士？她给过我一种装置，说是能用来潜入深渊教团的营地，结果却发出巨响爆炸了，害我当场暴露，被十三个丘丘暴徒围攻。事后我本来想找她算账，可看她慌张又内疚的样子，还有墙上贴着的失败记录，我也不好说什么。反正我没受伤，只是灰头土脸，有点丢人。
+VO_ZH_Eula_About_Diluc.ogg  ||  我和骑士团的某些人不对付，他也看骑士团不顺眼，理论上，我俩是一边的。但他总是对人不理不睬的样子，感觉比代理团长还麻烦。唉，我可不想和他打交道。
+VO_ZH_Eula_About_Diona.ogg  ||  她呀，是个奇妙的调酒师呢，居然和我聊得来。她为了毁灭蒙德酒业在酒馆工作，而我为了向骑士团复仇加入了骑士团，天下还有这么巧的事。
+VO_ZH_Eula_About_Yanfei_-_Encounter.ogg  ||  说来话长…有次我们追踪深渊教团的一批危险品，碰巧救下了她。当时，教团的危险品被伪装成普通货物，要从荆夫港转运到璃月港，她是跟随商船的顾问，发现货物有鬼，就擅自进行了调查，结果引火上身。要是我们再晚几分钟到，她就要倒大霉了。
+VO_ZH_Eula_About_Yanfei_-_Assessment.ogg  ||  之后我们一直保持着联络，我还蛮喜欢她那股机灵劲儿的。她牢记规矩，但懂得变通，如果骑士团里的某些人能学学她就好了。而且，凭她的本事，应该能帮我找到那个人。就当是她还上欠我的人情了。
+VO_ZH_Eula_About_Mika_-_Communication.ogg  ||  米卡被分来游击小队的时候，我以为他会像之前某些人一样，没干几天就想走了。没想到他不声不响，任务却完成得相当出色，还主动承担了所有跑腿的任务，替我和其他人沟通。哼，一个两个都想着照顾我，也不知道是谁教出来的。
+VO_ZH_Eula_About_Mika_-_Returning.ogg  ||  这次米卡从远征队回来，性格没什么变化，实力倒是强劲了不少。看来大团长没有怠慢对大家的训练。嗯？你说他自己都没发现？那是他迟钝吧…或者说，谦虚。毕竟是我小队的成员，这种事，看一眼就知道了。
+VO_ZH_Eula_More_About_Eula_-_01.ogg  ||  罪人的经历，有什么好了解的？反正不管说什么做什么，都会被敌视，被当成潜在的危险分子吧。现在还算好了，没加入骑士团的时候，猎鹿人和蒙德百货都不愿意卖东西给我，吃饭都得去野外打猎生火自己做。
+VO_ZH_Eula_More_About_Eula_-_02.ogg  ||  有人劝过我低声下气，谨言慎行，说这样也许能获得谅解，但他们会这么想，只是因为他们没当过真正的「罪人」。…「罪人」是不会轻易被原谅的，那还不如洒脱一点，上门复仇，堂堂正正地去较量。要是赢了我，我听凭处置，可要是输了，就得满足我的要求。比如…唉，至少也要好好地把东西卖给我吧。
+VO_ZH_Eula_More_About_Eula_-_03.ogg  ||  西风骑士团倒还挺像样的，至少他们更看重一个人的「才能」而非「身份」。当年我和他们的精锐切磋过几次，用实力折服了他们，所以收到了入团邀请。在骑士团内部工作，复仇更方便了，生活中的麻烦也减少了，何乐而不为呢？
+VO_ZH_Eula_More_About_Eula_-_04.ogg  ||  劳伦斯家族是在堕落后才背负恶名的，在此之前，这个姓氏也曾满载荣耀，可惜所有人都像是忘掉了那段历史。大团长说我作为骑士，干得还算不错，不说找回劳伦斯最初的荣光，至少是对片面观点的迎头痛击。这个说法倒是挺合我意的。
+VO_ZH_Eula_More_About_Eula_-_05.ogg  ||  如果家族里的那些人一直执迷不悟，甚至继续荼毒蒙德，那他们和劳伦斯这个姓氏，就该被我亲手抹杀…这大概是我唯一想要履行的「家族责任」吧。在那之后，我就随意改个姓氏，由你来起都没问题！
+VO_ZH_Eula_Hobbies.ogg  ||  凉爽的事，我都很中意。比如，痛饮冰镇后的酒和饮料，坐在峡谷山口享受狂风，或者跳进龙脊雪山山脚的湖里泡澡。哈，没准哪天你在湖边晃荡，会被我拖进冰水里哦。
+VO_ZH_Eula_Troubles.ogg  ||  有的时候酒馆生意太火爆，我被要求和人拼桌。听说我是劳伦斯家的人，摆谱的、挑衅的、明着暗着使绊子的，就从各种地方冒出来了，唉，还让不让人好好喝酒了？
+VO_ZH_Eula_Favorite_Food.ogg  ||  我喜欢亲手做点心，点心不一定都是甜品，比如冰镇后的番茄肉冻蛋卷，就很适合搭配冰树莓薄荷酒。重要的是，有些人吃到我做的点心，就会笑得很开心。
+VO_ZH_Eula_Least_Favorite_Food.ogg  ||  浓郁的汤品，我实在不能接受。口感太厚重，饱腹感很强，影响运动和战斗，还不方便携带，简直是我的天敌。
+VO_ZH_Eula_Receiving_a_Gift_-_01.ogg  ||  哦？这是对我的挑战吗。我接受了。
+VO_ZH_Eula_Receiving_a_Gift_-_02.ogg  ||  马马虎虎嘛…你自己也尝尝？
+VO_ZH_Eula_Receiving_a_Gift_-_03.ogg  ||  你这家伙，是在报复我吗？
+VO_ZH_Eula_Birthday.ogg  ||  今天是个值得纪念的日子，但你的成长不能只限于年龄。送你一个特制骨哨，跟我学学吹奏的方法吧。等到我向你报仇的那天，你可以试试，用这枚骨哨干扰我，拖延时间，挣扎得更有趣一些吧。
+VO_ZH_Eula_Feelings_About_Ascension_-_01.ogg  ||  战技提升了不少，但还不值得沾沾自喜。骑士团里也有不少家伙格外勤奋，要想战胜他们完成复仇，必须远远将他们甩在身后。
+VO_ZH_Eula_Feelings_About_Ascension_-_02.ogg  ||  不错，以我现在的实力，哪怕和代理团长一较高下，也十拿九稳了！
+VO_ZH_Eula_Feelings_About_Ascension_-_03.ogg  ||  奇怪…和你同行时，力量增长得格外迅猛呢。看来和你结仇是件走运的事，我得紧紧咬住你不放了。
+VO_ZH_Eula_Feelings_About_Ascension_-_04.ogg  ||  很好！这股坚冰的力量已被我牢牢掌控。别说代理团长，大团长都没法再阻挡我了！事不宜迟，我可以制定计划，发起总攻了。挫败西风骑士团之后，下个目标就是你，你也别想逃，乖乖待在我身边，见证这一切吧。
+VO_ZH_Eula_Hello.ogg  ||  
+VO_ZH_Eula_Chat_-_Etiquette.ogg  ||  
+VO_ZH_Eula_Chat_-_Bladework.ogg  ||  
+VO_ZH_Eula_Chat_-_Rules.ogg  ||  
+VO_ZH_Eula_When_It_Rains.ogg  ||  
+VO_ZH_Eula_When_Thunder_Strikes.ogg  ||  
+VO_ZH_Eula_When_the_Sun_Is_Out.ogg  ||  
+VO_ZH_Eula_Good_Morning.ogg  ||  
+VO_ZH_Eula_Good_Afternoon.ogg  ||  
+VO_ZH_Eula_Good_Evening.ogg  ||  
+VO_ZH_Eula_Good_Night.ogg  ||  
+VO_ZH_Eula_About_Eula_-_The_Knights.ogg  ||  
+VO_ZH_Eula_About_Eula_-_Bearing.ogg  ||  
+VO_ZH_Eula_About_Eula_-_Scout.ogg  ||  
+VO_ZH_Eula_About_Eula_-_Dance.ogg  ||  
+VO_ZH_Eula_About_Us_-_Commonality.ogg  ||  
+VO_ZH_Eula_About_Us_-_Feud.ogg  ||  
+VO_ZH_Eula_About_the_Vision.ogg  ||  
+VO_ZH_Eula_Something_to_Share_-_Bone_Whistle.ogg  ||  
+VO_ZH_Eula_Something_to_Share_-_Wine-Tasting.ogg  ||  
+VO_ZH_Eula_Interesting_Things.ogg  ||  
+VO_ZH_Eula_About_Amber.ogg  ||  
+VO_ZH_Eula_About_Jean.ogg  ||  
+VO_ZH_Eula_About_Lisa.ogg  ||  
+VO_ZH_Eula_About_Barbara.ogg  ||  
+VO_ZH_Eula_About_Varka.ogg  ||  
+VO_ZH_Eula_About_Venti.ogg  ||  
+VO_ZH_Eula_About_Razor.ogg  ||  
+VO_ZH_Eula_About_Sucrose.ogg  ||  
+VO_ZH_Eula_About_Diluc.ogg  ||  
+VO_ZH_Eula_About_Diona.ogg  ||  
+VO_ZH_Eula_About_Yanfei_-_Encounter.ogg  ||  
+VO_ZH_Eula_About_Yanfei_-_Assessment.ogg  ||  
+VO_ZH_Eula_About_Mika_-_Communication.ogg  ||  
+VO_ZH_Eula_About_Mika_-_Returning.ogg  ||  
+VO_ZH_Eula_More_About_Eula_-_01.ogg  ||  
+VO_ZH_Eula_More_About_Eula_-_02.ogg  ||  
+VO_ZH_Eula_More_About_Eula_-_03.ogg  ||  
+VO_ZH_Eula_More_About_Eula_-_04.ogg  ||  
+VO_ZH_Eula_More_About_Eula_-_05.ogg  ||  
+VO_ZH_Eula_Hobbies.ogg  ||  
+VO_ZH_Eula_Troubles.ogg  ||  
+VO_ZH_Eula_Favorite_Food.ogg  ||  
+VO_ZH_Eula_Least_Favorite_Food.ogg  ||  
+VO_ZH_Eula_Receiving_a_Gift_-_01.ogg  ||  
+VO_ZH_Eula_Receiving_a_Gift_-_02.ogg  ||  
+VO_ZH_Eula_Receiving_a_Gift_-_03.ogg  ||  
+VO_ZH_Eula_Birthday.ogg  ||  
+VO_ZH_Eula_Feelings_About_Ascension_-_01.ogg  ||  
+VO_ZH_Eula_Feelings_About_Ascension_-_02.ogg  ||  
+VO_ZH_Eula_Feelings_About_Ascension_-_03.ogg  ||  
+VO_ZH_Eula_Feelings_About_Ascension_-_04.ogg  ||  
+VO_ZH_Eula_Elemental_Skill_1_01.ogg  ||  求饶吧。
+VO_ZH_Eula_Elemental_Skill_1_02.ogg  ||  结霜！
+VO_ZH_Eula_Elemental_Skill_1_03.ogg  ||  粉化！
+VO_ZH_Eula_Elemental_Skill_1_04.ogg  ||  (Hold) 判决！
+VO_ZH_Eula_Elemental_Skill_1_05.ogg  ||  (Hold) 破碎！
+VO_ZH_Eula_Elemental_Skill_1_06.ogg  ||  (Hold) 以眼还眼！
+VO_ZH_Eula_Elemental_Burst_01.ogg  ||  冰浪怒涛！
+VO_ZH_Eula_Elemental_Burst_02.ogg  ||  以霜还怨！
+VO_ZH_Eula_Elemental_Burst_03.ogg  ||  坚冰，断绝深仇！
+VO_ZH_Eula_Sprint_Start_01.ogg  ||  加快脚步。
+VO_ZH_Eula_Sprint_Start_02.ogg  ||  
+VO_ZH_Eula_Deploying_Wind_Glider_01.ogg  ||  空中行动，视野更棒。
+VO_ZH_Eula_Deploying_Wind_Glider_02.ogg  ||  
+VO_ZH_Eula_Opening_Treasure_Chest_01.ogg  ||  有所发现。
+VO_ZH_Eula_Opening_Treasure_Chest_02.ogg  ||  嗯，大多能派上用场。
+VO_ZH_Eula_Opening_Treasure_Chest_03.ogg  ||  罪人也有这么走运的时候啊…
+VO_ZH_Eula_Low_HP_01.ogg  ||  开战不利…
+VO_ZH_Eula_Low_HP_02.ogg  ||  要正式接敌了…
+VO_ZH_Eula_Low_HP_03.ogg  ||  不赖嘛！
+VO_ZH_Eula_Ally_at_Low_HP_01.ogg  ||  退回去，都交给我！
+VO_ZH_Eula_Ally_at_Low_HP_02.ogg  ||  听我指挥，拉开间距！
+VO_ZH_Eula_Fallen_01.ogg  ||  狼狈的收场…
+VO_ZH_Eula_Fallen_02.ogg  ||  我还能…撑住…
+VO_ZH_Eula_Fallen_03.ogg  ||  罪人的结局吗…
+VO_ZH_Eula_Light_Hit_Taken_01.ogg  ||  
+VO_ZH_Eula_Heavy_Hit_Taken_01.ogg  ||  还不错！
+VO_ZH_Eula_Heavy_Hit_Taken_02.ogg  ||  难得啊！
+VO_ZH_Eula_Heavy_Hit_Taken_03.ogg  ||  
+VO_ZH_Eula_Joining_Party_01.ogg  ||  游击骑士，率先行动。
+VO_ZH_Eula_Joining_Party_02.ogg  ||  由我打前锋。
+VO_ZH_Eula_Joining_Party_03.ogg  ||  行动计划敲定了吗？
+VO_ZH_Eula_Light_Attack_01.ogg  ||  
+VO_ZH_Eula_Mid_Attack_01.ogg  ||  
+VO_ZH_Eula_Heavy_Attack_01.ogg  ||  
+VO_ZH_Eula_Climbing_01.ogg  ||  
+VO_ZH_Eula_Climbing_Breath_01.ogg  ||  
+VO_ZH_Eula_Jumping_01.ogg  ||  
+VO_ZH_Eula_Elemental_Skill_1_01.ogg  ||  
+VO_ZH_Eula_Elemental_Skill_1_02.ogg  ||  
+VO_ZH_Eula_Elemental_Skill_1_03.ogg  ||  
+VO_ZH_Eula_Elemental_Skill_1_04.ogg  ||  
+VO_ZH_Eula_Elemental_Skill_1_05.ogg  ||  
+VO_ZH_Eula_Elemental_Skill_1_06.ogg  ||  
+VO_ZH_Eula_Elemental_Burst_01.ogg  ||  
+VO_ZH_Eula_Elemental_Burst_02.ogg  ||  
+VO_ZH_Eula_Elemental_Burst_03.ogg  ||  
+VO_ZH_Eula_Sprint_Start_01.ogg  ||  
+VO_ZH_Eula_Sprint_Start_02.ogg  ||  
+VO_ZH_Eula_Deploying_Wind_Glider_01.ogg  ||  
+VO_ZH_Eula_Deploying_Wind_Glider_02.ogg  ||  
+VO_ZH_Eula_Opening_Treasure_Chest_01.ogg  ||  
+VO_ZH_Eula_Opening_Treasure_Chest_02.ogg  ||  
+VO_ZH_Eula_Opening_Treasure_Chest_03.ogg  ||  
+VO_ZH_Eula_Low_HP_01.ogg  ||  
+VO_ZH_Eula_Low_HP_02.ogg  ||  
+VO_ZH_Eula_Low_HP_03.ogg  ||  
+VO_ZH_Eula_Ally_at_Low_HP_01.ogg  ||  
+VO_ZH_Eula_Ally_at_Low_HP_02.ogg  ||  
+VO_ZH_Eula_Fallen_01.ogg  ||  
+VO_ZH_Eula_Fallen_02.ogg  ||  
+VO_ZH_Eula_Fallen_03.ogg  ||  
+VO_ZH_Eula_Light_Hit_Taken_01.ogg  ||  
+VO_ZH_Eula_Heavy_Hit_Taken_01.ogg  ||  
+VO_ZH_Eula_Heavy_Hit_Taken_02.ogg  ||  
+VO_ZH_Eula_Heavy_Hit_Taken_03.ogg  ||  
+VO_ZH_Eula_Joining_Party_01.ogg  ||  
+VO_ZH_Eula_Joining_Party_02.ogg  ||  
+VO_ZH_Eula_Joining_Party_03.ogg  ||  
+VO_ZH_Eula_Light_Attack_01.ogg  ||  
+VO_ZH_Eula_Mid_Attack_01.ogg  ||  
+VO_ZH_Eula_Heavy_Attack_01.ogg  ||  
+VO_ZH_Eula_Climbing_01.ogg  ||  
+VO_ZH_Eula_Climbing_Breath_01.ogg  ||  
+VO_ZH_Eula_Jumping_01.ogg  ||  

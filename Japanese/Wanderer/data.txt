@@ -1,0 +1,99 @@
+VO_JA_Wanderer_Hello.ogg  ||  名を名乗れって？僕はこの世において、様々な名で呼ばれているんだ。まあ、いずれも凡人が呼ぶにはおこがましいものだけど、今やすべて過去のものさ。
+好きに呼んでくれて構わないよ。ちょうど、君のセンスも確かめられるしね。僕を…がっかりさせないでくれよ。
+VO_JA_Wanderer_Chat_-_The_Wind.ogg  ||  この世に純粋な自由なんてないのさ。風さえ、いつか止む時が来る。
+VO_JA_Wanderer_Chat_-_Manner_of_Speech.ogg  ||  言い方がきついかい？ただ本当のことを言っているだけさ。それを受け入れられない者こそ、もっと自分の問題を反省したほうがいい。
+VO_JA_Wanderer_Chat_-_Exchanging_Pleasantries.ogg  ||  世間話はよそう。話すこともないのに必死に話題を探すなんて、滑稽だからね。
+VO_JA_Wanderer_When_It_Rains.ogg  ||  僕の笠で雨宿りがしたい？よくもそんな要求ができるね。
+VO_JA_Wanderer_After_the_Rain.ogg  ||  少し日差しが見えただけで、そんなにはしゃいじゃってさ…まったく幼稚極まりないね。
+VO_JA_Wanderer_When_Thunder_Strikes.ogg  ||  チッ…煩わしい。
+VO_JA_Wanderer_When_It_Snows.ogg  ||  雨と大差ないはずなのに、人に好かれるのはこっちのほうなんだ…まったく、運命ってのは気まぐれだね。
+VO_JA_Wanderer_When_the_Wind_Is_Blowing.ogg  ||  この程度なら、君にだってできるよね？
+VO_JA_Wanderer_Good_Morning.ogg  ||  「起きて——もう朝だよ——」…なんて、まさか僕がこんな感じに起こしてあげると思ってないよね？
+VO_JA_Wanderer_Good_Afternoon.ogg  ||  僕に食事は必要ない。君は自分と隣のちっこいのについてだけ考えていれば十分だ。そうしてくれれば、僕も手間が省ける。
+VO_JA_Wanderer_Good_Evening.ogg  ||  やっと、退屈な一日が終わる。
+VO_JA_Wanderer_Good_Night.ogg  ||  僕がそばにいると眠れないかい？ふふっ。
+VO_JA_Wanderer_About_Wanderer_-_Puppet.ogg  ||  人形を燃やせば灰が残る。その灰から何が生まれるかについては…
+VO_JA_Wanderer_About_Wanderer_-_Heart.ogg  ||  あんなのは適当でいいのさ。自分のものでもないものに執着するのは時間の無駄だし、今はもっと大事なことがあるからね。
+VO_JA_Wanderer_About_Us_-_Rivals.ogg  ||  かつて君と僕が戦ったことが、どうしても忘れられない？ふーん。それで、どうしたいんだい？いいよ、ゆっくり考えても。どうせ、僕もたっぷりと時間があるしね。
+VO_JA_Wanderer_About_Us_-_Collaborators.ogg  ||  僕が「正義」に帰依することはない。でも君からの恩を返すと言ったからには、必ずやり遂げる。
+それよりも君こそ、僕と接触する際は自分の立場をよく考えたほうがいいんじゃない？万が一誰かに見られて、君が罪人と「悪巧み」してるって言われたとしても、僕は知らないよ。
+VO_JA_Wanderer_About_the_Vision.ogg  ||  「神の眼差し」は不快なものだけど、確かに使える力ではある。だからそれについてケチをつけるつもりはない。ん？「風元素」には深い意味がある気がする？ふんっ、どうしてそう思うんだい？神は残忍で理不尽な行いをする、前に君にも見せたはずだろう？
+VO_JA_Wanderer_Something_to_Share.ogg  ||  ないよ。聞きたいことがあるなら何でも聞いてくれ。気分次第で答えてやってもいい。
+VO_JA_Wanderer_Interesting_Things.ogg  ||  ほら、見てごらん。鳥は羽を見せびらかし、リスは食料を蓄え、人間は生きるための糧を求めて一日中走り回る…頭が単純な生き物ほど、楽に生きてるよね。
+VO_JA_Wanderer_About_Lesser_Lord_Kusanali.ogg  ||  彼女が僕を消さなかったのは、僕に利用価値があること以外にも、何か他の理由があったからかもね。もしかすると、それは彼女が賢明で、至善の心を持っていたからかもしれないし、あるいは僕の身に孤独の影を垣間見たからかもしれない…ん？悪意に満ちた憶測だって？ハッ、当たり前じゃないか！僕は善人なんかじゃないんだから。
+VO_JA_Wanderer_About_the_Raiden_Shogun.ogg  ||  自らの創ったものに目を向けようともせず、干渉するのが忍びないとか、そんな言葉で取り繕うなんて…
+VO_JA_Wanderer_About_the_Tsaritsa.ogg  ||  誰もが彼女の優しさと慈愛を称賛するけど、「愛」も「罪」の一種であることを知る者は誰一人としていない。もしかしたらその愛っていうのは、いわゆる代償行動ってやつなのかもね。
+VO_JA_Wanderer_About_The_Jester.ogg  ||  「道化」はカーンルイアの遺民さ——それ以外について、僕は彼をほとんど知らないし、彼と親しく交流したこともない。でも、彼は僕に対して何か考えがあったようで、前に重要な任務をいくつもくれた…「アビス」へ向かうことも含めてね。
+VO_JA_Wanderer_About_The_Captain.ogg  ||  「剛直で硬骨な『隊長』」、「公正で果敢な『隊長』」、「功績の豊富な『隊長』」…これらファデュイの中で流れている噂は、人形の耳でさえタコができるほど聞いたよ。絶対的な「公正」だなんて、とても危険な脅威だと思わない？ましてや、「隊長」はトップクラスの実力を持っているから、尚更さ。
+VO_JA_Wanderer_About_The_Doctor.ogg  ||  実に残念だ。クラクサナリデビが、彼にあんなに多くの断片を消させたことで、僕が彼の断片を一枚ずつ切り刻む楽しみがなくなってしまった。
+VO_JA_Wanderer_About_Damselette.ogg  ||  質問だ。「どんな時も」ぼんやりと間が抜けていて、「どんなことをするにも」鈍くてとろい「少女」に遭遇した時、どのような反応をすればいいと思う？僕は、構わず戦える。でも君は…良心を痛めるだろうから、やっぱり彼女からは離れたほうがいいよ。
+VO_JA_Wanderer_About_The_Knave.ogg  ||  道徳家気取りの偽善者さ。彼女が「優雅」と「親切」を見せるのは、人をよりうまく「コントロール」するためだ。彼女の狂った一面を見た者は、もうほとんど…ふぅ～。
+VO_JA_Wanderer_About_The_Rooster.ogg  ||  「公子」くらいだろうね、「雄鶏」が誠心誠意、見返りもなく彼とその家族を気にかけてくれてるなんて思うのは。あの市長様は確かに実のあることを多くしてきたけど、ちょっとでも頭のいいやつなら分かるはずだよ。それが意味することは——「君の家族を握ってるぞ」、でしょ？
+VO_JA_Wanderer_About_Marionette.ogg  ||  彼女は自分の研究以外には興味がないんだ。性格だって、極めて酷いものさ。だけどそこまで極端に振る舞って、でき上がったのは大量の廃品のみ。僕が執行官だった時も、僕より一位下だった。実に哀れだね。
+VO_JA_Wanderer_About_Regrator.ogg  ||  あの第九位のことか。彼は「公平な取引」にすごく固執していて、あまつさえ、神と人の間にあってしかるべき不公平さえ覆そうとしている。まあ、凡人はそういうものさ、非現実的な妄想を抱きやすいんだ。別に特別なことなんかじゃないよ、彼の平凡な能力や目利きと同じようにね。——ふんっ、「博士」と密接な協力をとるなんてね…いい結果にはならないさ。
+VO_JA_Wanderer_About_Childe.ogg  ||  脳筋で、手先も器用なわけじゃない。いくら最下位だとはいえ、あいつが執行官にいるだけで全体のレベルが下がる。幸い、僕はもうそこにいないからいいけど。
+VO_JA_Wanderer_About_The_Fair_Lady.ogg  ||  彼女の灰には何もない。僕は未来を失った者には興味がないんだ。
+VO_JA_Wanderer_About_Yae_Miko.ogg  ||  心にもないことぺらぺら喋る妖怪さ。神の寵愛を受けるために、人間に関心があるふりをしてるんだろう。でも実際のところ、ただ面白いことが好きなだけなんじゃない？
+VO_JA_Wanderer_About_Kaedehara_Kazuha.ogg  ||  楓原家の末裔？それってつまり…ほう？彼にも風元素の「神の目」が…しかも、雷電将軍の一太刀を受け止めたって？ふふふっ…ハハハハハッ！
+VO_JA_Wanderer_More_About_Wanderer_-_01.ogg  ||  僕を知ろうだなんて、珍しいね。面倒を招くかもよ？
+VO_JA_Wanderer_More_About_Wanderer_-_02.ogg  ||  ああ、僕と過去のことについて清算したい人はたくさんいるだろうね。なんだっていいさ、誰でもかかってくるがいい——むしろ、楽しみなくらいだよ。
+VO_JA_Wanderer_More_About_Wanderer_-_03.ogg  ||  かつて、神になれば無駄な感情を捨てられると思っていたけど、今はそうは思わない。少なくとも「怒り」は、他人のものであれ自分のものであれ、使い勝手のいい道具なのさ。
+永遠に怒らない人なんていないだろう？まったく想像もできないよ。そういう人って、怒りの神経ってものすらないのかな？
+VO_JA_Wanderer_More_About_Wanderer_-_04.ogg  ||  世界樹に入った時、僕の頭の中にこう浮かんだんだ——「最初から、この世に生まれてこなければよかった」ってね。
+世界樹はその願いに応えてくれたけど、僕が期待した結果はもたらしてくれなかったよ。この土地の運命は、相変わらずその虜囚たちを翻弄するのが得意だね。
+VO_JA_Wanderer_More_About_Wanderer_-_05.ogg  ||  僕たちはつながり、交差して、そして…いつかは異なる場所へ向かうだろう。でもこれからなにが起こるかなんて、誰にも分からないじゃない？成り行きに任せよう。
+VO_JA_Wanderer_Hobbies.ogg  ||  趣味？それって、暇人のやることだよね。僕がそんなふうに見えるのかい？
+VO_JA_Wanderer_Troubles.ogg  ||  どうやったら君を撒いて、ひと暴れできるか考えてるんだ。——冗談だよ、もしかして信じちゃった？
+VO_JA_Wanderer_Favorite_Food.ogg  ||  茶はある？苦ければ苦いほどいい。どこまでも後味が広がるからね。
+VO_JA_Wanderer_Least_Favorite_Food.ogg  ||  ベタベタしてて甘いものかな。歯がくっつく感じがするからね。君ひとりで食べてくれ。
+VO_JA_Wanderer_Receiving_a_Gift_-_01.ogg  ||  まあまあかな。君の数少ない長所の一つだ。
+VO_JA_Wanderer_Receiving_a_Gift_-_02.ogg  ||  悪くはない。少なくとも口には入れられる。
+VO_JA_Wanderer_Receiving_a_Gift_-_03.ogg  ||  僕を殺す気か？まさか、僕が凡人じゃないことを忘れたとでも？
+VO_JA_Wanderer_Birthday.ogg  ||  僕の手を取って。…ふふっ、身構えなくていい、高いところに連れてってあげるだけだから。
+いいでしょ？絶景が見られるよ。このくらいのことで礼なんていい、そんなのまどろっこしいからね。
+VO_JA_Wanderer_Feelings_About_Ascension_-_01.ogg  ||  …うん、尽力したのが分かるよ。
+VO_JA_Wanderer_Feelings_About_Ascension_-_02.ogg  ||  風が吹いてきたね…何をしたんだい？
+VO_JA_Wanderer_Feelings_About_Ascension_-_03.ogg  ||  僕に力をくれるなんて…どうなるか心配じゃないの？…そう。
+VO_JA_Wanderer_Feelings_About_Ascension_-_04.ogg  ||  確かに僕は君の力になれるけど、僕を仲間として見るのは危険なことなんだ。自分が直面しているのが何なのか、きちんと理解したほうがいい。それでも怖くないのなら、僕の背中を預けるよ。
+VO_JA_Wanderer_Elemental_Skill_1_01.ogg  ||  風よ！
+VO_JA_Wanderer_Elemental_Skill_1_02.ogg  ||  俗世を見下ろさん。
+VO_JA_Wanderer_Elemental_Skill_1_03.ogg  ||  天へと舞え！
+VO_JA_Wanderer_Elemental_Burst_01.ogg  ||  礼を弁えぬ虫けらが。
+VO_JA_Wanderer_Elemental_Burst_02.ogg  ||  雑魚どもが！
+VO_JA_Wanderer_Elemental_Burst_03.ogg  ||  もっと泣きわめけ！
+VO_JA_Wanderer_Elemental_Burst_04.ogg  ||  (In Windfavored State) 頭が高いぞ。
+VO_JA_Wanderer_Elemental_Burst_05.ogg  ||  (In Windfavored State) 身の程を知れ。
+VO_JA_Wanderer_Elemental_Burst_06.ogg  ||  (In Windfavored State) 君ごときが、僕を直視する気か？
+VO_JA_Wanderer_Sprint_Start_01.ogg  ||  疾風！
+VO_JA_Wanderer_Sprint_Start_02.ogg  ||  風が如し！
+VO_JA_Wanderer_Sprint_Start_04.ogg  ||  …おそい。
+VO_JA_Wanderer_Sprint_Start_05.ogg  ||  ついて来いなんて言ってないよ。
+VO_JA_Wanderer_Sprint_Start_03.ogg  ||  
+VO_JA_Wanderer_Deploying_Wind_Glider_01.ogg  ||  
+VO_JA_Wanderer_Opening_Treasure_Chest_01.ogg  ||  ふん、ゴミか。
+VO_JA_Wanderer_Opening_Treasure_Chest_02.ogg  ||  はぁ？こんなのも欲しいの？
+VO_JA_Wanderer_Opening_Treasure_Chest_03.ogg  ||  欲しいなら君にやるよ。
+VO_JA_Wanderer_Low_HP_01.ogg  ||  もう慣れた。
+VO_JA_Wanderer_Low_HP_02.ogg  ||  取るに足らない。
+VO_JA_Wanderer_Ally_at_Low_HP_01.ogg  ||  使えないやつめ！
+VO_JA_Wanderer_Ally_at_Low_HP_02.ogg  ||  あらら～へなちょこめ～
+VO_JA_Wanderer_Fallen_01.ogg  ||  深淵へ…落ちる…
+VO_JA_Wanderer_Fallen_02.ogg  ||  すべて…無駄…
+VO_JA_Wanderer_Fallen_03.ogg  ||  罪の…報いか…
+VO_JA_Wanderer_Light_Hit_Taken_01.ogg  ||  
+VO_JA_Wanderer_Heavy_Hit_Taken_02.ogg  ||  その程度か。
+VO_JA_Wanderer_Heavy_Hit_Taken_03.ogg  ||  …笑える。
+VO_JA_Wanderer_Heavy_Hit_Taken_06.ogg  ||  …死にたいようだね？
+VO_JA_Wanderer_Heavy_Hit_Taken_07.ogg  ||  命乞いをすることになるよ。
+VO_JA_Wanderer_Heavy_Hit_Taken_08.ogg  ||  そろそろ代価を支払ってもらおう。
+VO_JA_Wanderer_Heavy_Hit_Taken_01.ogg  ||  
+VO_JA_Wanderer_Joining_Party_01.ogg  ||  そう来たか…僕に何をしてほしいんだい？
+VO_JA_Wanderer_Joining_Party_02.ogg  ||  まさか、用もなく呼んだわけじゃないよね？
+VO_JA_Wanderer_Joining_Party_03.ogg  ||  僕じゃなきゃだめ？…いいだろう、仕方ない…
+VO_JA_Wanderer_Standby_01.ogg  ||  
+VO_JA_Wanderer_Light_Attack_01.ogg  ||  
+VO_JA_Wanderer_Mid_Attack_01.ogg  ||  
+VO_JA_Wanderer_Heavy_Attack_01.ogg  ||  
+VO_JA_Wanderer_Climbing_01.ogg  ||  
+VO_JA_Wanderer_Climbing_Breath_01.ogg  ||  
+VO_JA_Wanderer_Jumping_01.ogg  ||  

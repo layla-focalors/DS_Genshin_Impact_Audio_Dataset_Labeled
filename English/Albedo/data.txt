@@ -1,0 +1,77 @@
+VO_Albedo_Hello.ogg  ||  I am Albedo, Chief Alchemist of the Knights of Favonius. You carry the aura of the stars, interesting... I would like to study you, if you do not mind. I'm certain we will have many opportunities to be alone in the future.
+VO_Albedo_Chat_-_Still_Life.ogg  ||  What a view... How about a quick break so I can sketch this beautiful scenery?
+VO_Albedo_Chat_-_Investigation.ogg  ||  "The truth of this world"... *sigh* What could it be?
+VO_Albedo_Chat_-_Reminiscing.ogg  ||  Going out into the world and investigating, turning the "unknown" into the "known." ...Ahhh, I missed this feeling.
+VO_Albedo_When_It_Rains.ogg  ||  The soil is moist, ideal for collecting the roots of Boom Blossoms. No please, allow me to handle this.
+VO_Albedo_When_It_Snows.ogg  ||  Master...
+VO_Albedo_When_the_Sun_Is_Out.ogg  ||  Ample light... active biological organisms... Yes, this is a good place to sketch.
+VO_Albedo_Good_Morning.ogg  ||  Good morning. Are we going to search for ancient relics today?
+VO_Albedo_Good_Afternoon.ogg  ||  Good afternoon. I heard your footsteps. My, it certainly is lively outside of the workshop.
+VO_Albedo_Good_Evening.ogg  ||  *sigh* It's gotten quiet outside...
+VO_Albedo_Good_Night.ogg  ||  Good night, you go ahead and rest. I will just finish one last experiment before bed... If you are interested in the results, I can discuss them with you tomorrow.
+VO_Albedo_About_Albedo_-_Genius.ogg  ||  Genius? ...A number of people call me that. But I don't think I'm any "genius."
+VO_Albedo_About_Albedo_-_Socializing.ogg  ||  Relationships are... quite troublesome. Once you establish a relation with someone, you must continue to maintain it; if you lose contact, you must reestablish the relation. This taxing cycle requires a lot of time...
+VO_Albedo_About_Us_-_Experiments.ogg  ||  You... want to accompany me while I experiment? I'm honored.
+Oh, don't be nervous. My experiments may be dangerous, but no one gets hurt... most of the time.
+VO_Albedo_About_Us_-_Assistant.ogg  ||  Would you oblige me by serving as my assistant? After observing so many experiments, you surely know a good deal about alchemy by now. Relax, we will work together. I don't think you will have any problems. I have faith in my ability to instruct you, and even more faith in your exceptional talents.
+VO_Albedo_About_the_Vision.ogg  ||  My Vision? Ah, that's nothing more than a tool to aid in my experiments, no different from a beaker or crucible. The one thing about it that really intrigues me is the principle behind how it works... One day, I will uncover its secrets, it's only a matter of time.
+VO_Albedo_Something_to_Share.ogg  ||  There's something I've always wanted to ask you, but feared rejection and disappointment...
+Eh-hem... I am very interested in your little floating companion. May I borrow her to investigate for a short while?
+VO_Albedo_Interesting_Things.ogg  ||  You would like to know more about petrified trees? Erm... Actually, the petrified trees you have come across in domains aren't that ancient. Truly ancient trees usually grow to around one or two miles in height. Oh, and there's a kind of large spider that lives around their roots — if you tie one up in cape jasmine and lemongrass and sprinkle on some cardamom, smoke it for a few hours — you get a fragrant taste that's simply... unforgettable.
+VO_Albedo_About_Family.ogg  ||  Family? Although Alice has always asked me to call her mother.... when I think of the idea of "family," my master comes to mind first. My earliest memories in life are of going on adventures with her. She taught me the art of alchemy and much knowledge about the world. Perhaps... even the words "family" and "master" are incapable of fully expressing her meaning to me.
+VO_Albedo_About_Sucrose_-_Direction.ogg  ||  Sucrose? I think I more or less understand why she is so dedicated to her research in bio-alchemy... Either way, I'm happy to see her succeed more and more in her endeavors.
+VO_Albedo_About_Sucrose_-_Habits.ogg  ||  Working with Sucrose on alchemy research is quite pleasant, but she has some... stubborn qualities in regards to certain aspects unrelated to research. For example, I have told her numerous times to just call me "Albedo" since we are hardly generations apart, but she insists on addressing me in an excessively formal manner. *sigh* ...Whatever she prefers, I guess.
+VO_Albedo_About_Lisa.ogg  ||  Lisa? I always am impressed by the valuable perspectives she brings to discussions. But is a person with her talents satisfied with such a basic occupation as librarian? There must be some hidden reason for this.
+VO_Albedo_About_Klee.ogg  ||  Indeed, I view Klee as my younger sister. Whenever she gets herself into some explosive sort of trouble, I can only console myself with the fact that her current destructiveness is nothing compared to that of Miss Alice.
+VO_Albedo_About_Jean.ogg  ||  Jean? She has served exceptionally well as Acting Grand Master, one can even say she is more reliable than Grand Master Varka. Perhaps in our hearts, we all eagerly await the day she can become the official Grand Master herself.
+VO_Albedo_About_Xingqiu.ogg  ||  Oh, Xingqiu? I find his written works quite interesting. The Yae Publishing House in Inazuma has been asking that I cooperate with a different author for greater royalties. Hmph, do I seem the type to be swayed by a few extra Mora?
+VO_Albedo_About_Barbara.ogg  ||  Barbara? She's a very earnest Deaconess. I once had the opportunity to sketch her a simple portrait... What happened to the sketch? Ah yes... Albert offered to purchase it, but I rejected his bid and gave it to the Acting Grand Master. Social relations... really require a lot of effort.
+VO_Albedo_More_About_Albedo_-_01.ogg  ||  Have a question for me? Go ahead, ask. It doesn't take too long to ask a single question, does it? I'm about to begin the final stage of an experiment...
+VO_Albedo_More_About_Albedo_-_02.ogg  ||  Oh, by the way. Did you know that without human manipulation, you would need to harness the power of a sun eight times the size of our own in order to naturally create gold?
+VO_Albedo_More_About_Albedo_-_03.ogg  ||  The time required to sketch portraits closely correlates with one's mood. I could spend half a day sketching Huffman, while I might only need three strokes of the pencil to sketch Kaeya — one for the face, one for the eyepatch string... and one for the eyepatch.
+VO_Albedo_More_About_Albedo_-_04.ogg  ||  What do I do besides sketching and research...? I will occasionally read novels from Inazuma and Liyue. They contain many fascinating ideas which can sometimes provide me with unexpected inspirations for my own creations.
+VO_Albedo_More_About_Albedo_-_05.ogg  ||  Even now, I find the nigredo processing stage of alchemy passed down by my master to be full of mystery. What did my master want to create using this technique...? My research is far from over, I will require your help to investigate further.
+VO_Albedo_Hobbies.ogg  ||  Hmm... Besides research, the activity I spend most of my time on is probably sketching. At first I saw it simply as a way to better study the structure of living things and materials so as to aid me in my experiments, but it eventually became a hobby of mine. Indeed, it is a very good way to relax.
+VO_Albedo_Troubles.ogg  ||  There's just never enough time, is there? Even when I remove the most troublesome matters from my schedule, I still can't find enough time for everything.
+VO_Albedo_Favorite_Food.ogg  ||  I really do enjoy having dessert. How can I put it...? When both physical and mental capacity are spent, high-energy materials further provide a kind of primordial, highly-effective boost.
+VO_Albedo_Least_Favorite_Food.ogg  ||  What food do I dislike? ...Large portions of meat at restaurants. I have a rather small appetite, so a meal like that only ends up in tragedy — either I overeat and the joy of the taste is lost, or I don't finish it and the food is wasted. I decided to simply not go to restaurants, although that has also meant I must spend more time preparing my own food...
+VO_Albedo_Receiving_a_Gift_-_01.ogg  ||  If flavors were colors... this one would be gold.
+VO_Albedo_Receiving_a_Gift_-_02.ogg  ||  You're willing to spend so much time on improving your cooking, and that's precisely how you're able to make it taste so good.
+VO_Albedo_Receiving_a_Gift_-_03.ogg  ||  This is more than I can manage... maybe we could split it between us?
+VO_Albedo_Birthday.ogg  ||  Happy birthday. You look especially happy, would you mind if I sketched you? The capacity of our brains is limited, so we are bound to forget things. But when an image is transferred onto paper or canvas, the sketch becomes an extension of our memory. We can remember that past feeling when we later look at the sketch.
+VO_Albedo_Feelings_About_Ascension_-_01.ogg  ||  Nigredo is the first step in alchemy, drawing from primordial forms. As beings who live in this world, we must find our own meaning.
+VO_Albedo_Feelings_About_Ascension_-_02.ogg  ||  Albedo is the step in which change begins. Clearing away the excess so we can take on all the knowledge that is available. Would you like to investigate this world with me?
+VO_Albedo_Feelings_About_Ascension_-_03.ogg  ||  Rubedo in alchemy refers to the refining of feeling. I feel the refining of my own emotions is also thanks to you.
+VO_Albedo_Feelings_About_Ascension_-_04.ogg  ||  Citrinitas is the final stage of the alchemical transmutation process. The meaning of the object being transmuted has finally been brought to light, becoming gold and revealing its true value... I too have found my own meaning.
+VO_Albedo_Elemental_Skill_1_01.ogg  ||  Burst forth.
+VO_Albedo_Elemental_Skill_1_02.ogg  ||  Come into being!
+VO_Albedo_Elemental_Skill_1_03.ogg  ||  Live.
+VO_Albedo_Elemental_Burst_01.ogg  ||  Moment of birth.
+VO_Albedo_Elemental_Burst_02.ogg  ||  Feel this ancient power.
+VO_Albedo_Elemental_Burst_03.ogg  ||  Witness my great undertaking.
+VO_Albedo_Sprint_Start_01.ogg  ||  
+VO_Albedo_Deploying_Wind_Glider_01.ogg  ||  
+VO_Albedo_Opening_Treasure_Chest_01.ogg  ||  This world holds many a rare treasure.
+VO_Albedo_Opening_Treasure_Chest_02.ogg  ||  If this treasure could talk...
+VO_Albedo_Opening_Treasure_Chest_03.ogg  ||  Although it's not gold, it certainly glitters.
+VO_Albedo_Low_HP_01.ogg  ||  My calculations were off...
+VO_Albedo_Low_HP_02.ogg  ||  Time to reassess...
+VO_Albedo_Low_HP_03.ogg  ||  A new strategy's required.
+VO_Albedo_Ally_at_Low_HP_01.ogg  ||  I'll take over from here.
+VO_Albedo_Ally_at_Low_HP_02.ogg  ||  This is too dangerous for you.
+VO_Albedo_Fallen_01.ogg  ||  Ashes to ashes, dust to dust...
+VO_Albedo_Fallen_02.ogg  ||  My... experiment... failed...
+VO_Albedo_Fallen_03.ogg  ||  Seems my research... is over...
+VO_Albedo_Light_Hit_Taken_02.ogg  ||  Still within my threshold.
+VO_Albedo_Light_Hit_Taken_01.ogg  ||  
+VO_Albedo_Heavy_Hit_Taken_02.ogg  ||  A miscalculation.
+VO_Albedo_Heavy_Hit_Taken_01.ogg  ||  
+VO_Albedo_Joining_Party_01.ogg  ||  Understood.
+VO_Albedo_Joining_Party_02.ogg  ||  Some in-the-field research?
+VO_Albedo_Joining_Party_03.ogg  ||  Let's investigate this further.
+VO_Albedo_Light_Attack_01.ogg  ||  
+VO_Albedo_Mid_Attack_01.ogg  ||  
+VO_Albedo_Heavy_Attack_01.ogg  ||  
+VO_Albedo_Climbing_01.ogg  ||  
+VO_Albedo_Climbing_Breath_01.ogg  ||  
+VO_Albedo_Jumping_01.ogg  ||  

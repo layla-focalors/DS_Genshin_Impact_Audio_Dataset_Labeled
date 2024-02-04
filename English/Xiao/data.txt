@@ -1,0 +1,95 @@
+VO_Xiao_Hello.ogg  ||  If you awake to a knife at your throat, if monsters dig their claws into you, if death comes knocking at your door, call out my name. Adeptus Xiao. I will be here when you call.
+VO_Xiao_Chat_-_Idleness.ogg  ||  Reduced to just standing around. How absurd.
+VO_Xiao_Chat_-_Wandering_Spirits.ogg  ||  The damned will sooner die again than lay a hand on me.
+VO_Xiao_Chat_-_Corruption.ogg  ||  Grrgh... Those memories... So dark...
+VO_Xiao_When_It_Rains.ogg  ||  Demons do not stop for the rain. Move.
+VO_Xiao_After_the_Rain.ogg  ||  The rain stopped? Hmph. I don't concern myself with the weather.
+VO_Xiao_When_Thunder_Strikes.ogg  ||  Many mortals fear lightning... Incomprehensible. Fear of something so common.
+VO_Xiao_When_It_Snows.ogg  ||  Once the snow is thick enough, we can eat it.
+VO_Xiao_Good_Morning.ogg  ||  We're wasting time. Let's go.
+VO_Xiao_Good_Afternoon.ogg  ||  Lunch... We'll go back to Wangshu Inn.
+VO_Xiao_Good_Evening.ogg  ||  Night... When the darkness comes to envelope you. Don't stay outside.
+VO_Xiao_Good_Night.ogg  ||  Go. I'll be here.
+VO_Xiao_About_Xiao_-_Inhuman.ogg  ||  I'm far from human. I can't make much of human emotions.
+VO_Xiao_About_Xiao_-_Liyue.ogg  ||  Liyue is changing. Rapidly... Forget it, it means nothing to me.
+VO_Xiao_About_Us_-_Warnings.ogg  ||  If a day comes where even you are taken by the darkness, it will be up to me.
+VO_Xiao_About_Us_-_Trust.ogg  ||  Do not fall prey to the darkness. I have no mercy.
+Though perhaps you can stand your ground alone.
+VO_Xiao_About_Us_-_Drowsiness.ogg  ||  Who's there? Oh... You think I sleep? You have no respect for the ways of the adepti.
+VO_Xiao_About_Us_-_Lantern_Rite.ogg  ||  The Lantern Rite? The time for humans to discard their glowing trash into the sea has returned... How childish...
+Though if you insist... I will go with you.
+VO_Xiao_About_the_Vision_-_Desires.ogg  ||  Visions? Desire? Ha. Do not judge adepti by your mortal ideals. I have no desire.
+VO_Xiao_About_the_Vision_-_Reasons.ogg  ||  Hiding? I'm hiding nothing. I just won't speak of desire to others.
+Do mortals not have a rule about spoken wishes never coming true? Hm? What do you mean that's not the same?
+VO_Xiao_Something_to_Share.ogg  ||  I deal in death. If you cannot bring yourself to kill — speak my name.
+VO_Xiao_Interesting_Things.ogg  ||  Dihua Islet was once deserted.
+Though that was many decades... no, centuries ago...
+VO_Xiao_About_Zhongli.ogg  ||  Can I ask... Zhongli — what does he do with his days? Huh? Birds, antiques, flowers...
+Hmm... What deeper meaning do they hold?
+VO_Xiao_About_Beidou.ogg  ||  Beidou? I have nothing to do with her. Though there is such a thing as the leviathan. As a mere human, she has proven her power in defeating Haishan.
+VO_Xiao_About_Baizhu.ogg  ||  You want... Baizhu to make a medicine to take away my pain? I understand your intentions, but mortal medicine has no effect on adepti.
+VO_Xiao_About_Hu_Tao.ogg  ||  Hu Tao? Her liveliness is irritating. Fortunately, she is also humorous, so you need not worry about her growing into a boring human.
+VO_Xiao_About_Venti.ogg  ||  Venti? So that's the name he goes by. His tunes are... forget it.
+VO_Xiao_About_Ganyu.ogg  ||  Ganyu is neither mortal nor illuminated beast. Wandering both the mortal and Adepti realms with duty as her sole guide, it was inevitable that she would become perplexed... What? Me? You believe a Yaksha who knows nothing more than how to massacre countless souls and emerge unscathed is a suitable mentor for such an individual? ...Your mind occupies a very different world from that which your body inhabits.
+VO_Xiao_About_Shenhe.ogg  ||  It seems Shenhe places a great deal of trust in you. Well, how could she not. There are few people in the world as kind and good-natured as you.
+VO_Xiao_About_Yelan.ogg  ||  I've heard that she once investigated The Chasm, following the trail of the Millelith. If she can investigate mysteries like that on her own, she must be someone of rare skill.
+VO_Xiao_More_About_Xiao_-_01.ogg  ||  I'm willing to protect you.
+But don't think about getting close, and stay out of my way, or all that awaits you is regret.
+VO_Xiao_More_About_Xiao_-_02.ogg  ||  In the thousands of years that have passed, I have taken countless wraiths. If you want no trouble, stay away from me. See me as a weapon, and nothing more.
+VO_Xiao_More_About_Xiao_-_03.ogg  ||  Their voices... I can always hear them. Their screams, their cries, demanding more death...
+This is my burden to carry. It has nothing to do with you.
+VO_Xiao_More_About_Xiao_-_04.ogg  ||  Morax...? What do you know of this name?!
+He gave me the name Xiao, and released me from the endless pain I endured.
+I will not forgive those that dare to speak against him, even you.
+VO_Xiao_More_About_Xiao_-_05.ogg  ||  It's too late. The connection between us is too strong. Even if you wanted to, it's too late to sever it. Hm? You've never thought to sever it?
+*sigh* This eternal dance of demon subjugation... My fight goes on.
+But I would like to know more about you.
+VO_Xiao_Hobbies.ogg  ||  There's nothing timid about you, having the courage to ask about my hobbies.
+So, fight me. How long do you think your body will last against my blows?
+VO_Xiao_Troubles.ogg  ||  Trouble? Ha. Trouble means nothing to adepti. There is no trouble that can last for a thousand years.
+VO_Xiao_Favorite_Food_-_Almond_Tofu.ogg  ||  I have no interest in mortal food. Cooking is tedious and the wait is long. The one thing I can manage to stomach is Almond Tofu.
+VO_Xiao_Favorite_Food_-_Memories.ogg  ||  The taste of Almond Tofu feels like a fond dream...
+VO_Xiao_Least_Favorite_Food.ogg  ||  Wait. I am expected to place slices of meat in wrappings myself? And then... eat them? Together? Ugh, humans these days do not know what they are doing.
+VO_Xiao_Receiving_a_Gift_-_01.ogg  ||  Mm... Not bad... Why are you staring at me?
+VO_Xiao_Receiving_a_Gift_-_02.ogg  ||  No need.
+VO_Xiao_Receiving_a_Gift_-_03.ogg  ||  Try something else next time.
+VO_Xiao_Birthday.ogg  ||  This mortal concept of commemorating the day of your birth really is redundant. Wait. Have this. It's a butterfly I made from leaves.
+Okay. Take it. It's an adepti amulet — it staves off evil.
+VO_Xiao_Feelings_About_Ascension_-_01.ogg  ||  This is it? Nothing worth getting excited about.
+VO_Xiao_Feelings_About_Ascension_-_02.ogg  ||  New power? All it will be used for is death.
+VO_Xiao_Feelings_About_Ascension_-_03.ogg  ||  The limit to one's power is self-destruction. Answer me. Why do you persist?
+VO_Xiao_Feelings_About_Ascension_-_04.ogg  ||  Countless souls have fallen prey to these hands. I too have been swallowed by the darkness — and yet you dare to drive me on. You may think of me as... your companion. You seek to find me salvation?
+...You... really are a difficult being to comprehend.
+VO_Xiao_Elemental_Skill_1_01.ogg  ||  Hmph.
+VO_Xiao_Elemental_Skill_1_02.ogg  ||  Boring.
+VO_Xiao_Elemental_Skill_1_03.ogg  ||  Useless.
+VO_Xiao_Elemental_Skill_1_04.ogg  ||  
+VO_Xiao_Elemental_Skill_2_01.ogg  ||  Here!
+VO_Xiao_Elemental_Skill_2_02.ogg  ||  Worthless!
+VO_Xiao_Elemental_Burst_01.ogg  ||  Disappear!
+VO_Xiao_Elemental_Burst_02.ogg  ||  Evil conquering!
+VO_Xiao_Elemental_Burst_03.ogg  ||  Lament!
+VO_Xiao_Sprint_Start_01.ogg  ||  
+VO_Xiao_Deploying_Wind_Glider_01.ogg  ||  
+VO_Xiao_Opening_Treasure_Chest_01.ogg  ||  If it's useful, I'll take it.
+VO_Xiao_Opening_Treasure_Chest_02.ogg  ||  Why would anyone want... *sigh* Forget it, it's not my concern.
+VO_Xiao_Opening_Treasure_Chest_03.ogg  ||  Hmph... there's quality here.
+VO_Xiao_Low_HP_01.ogg  ||  Shut it.
+VO_Xiao_Low_HP_02.ogg  ||  *grunts* Good.
+VO_Xiao_Low_HP_03.ogg  ||  Prepare to die, fool!
+VO_Xiao_Ally_at_Low_HP_01.ogg  ||  ...Weak.
+VO_Xiao_Ally_at_Low_HP_02.ogg  ||  Get back if you wanna survive.
+VO_Xiao_Fallen_01.ogg  ||  Is this... retribution?
+VO_Xiao_Fallen_02.ogg  ||  The day... has finally come.
+VO_Xiao_Fallen_03.ogg  ||  Impossible...
+VO_Xiao_Light_Hit_Taken_02.ogg  ||  That's it?
+VO_Xiao_Light_Hit_Taken_01.ogg  ||  
+VO_Xiao_Heavy_Hit_Taken_02.ogg  ||  Ugh, get out of my way!
+VO_Xiao_Heavy_Hit_Taken_01.ogg  ||  
+VO_Xiao_Joining_Party_01.ogg  ||  You called?
+VO_Xiao_Joining_Party_02.ogg  ||  Evil shall be dispersed.
+VO_Xiao_Joining_Party_03.ogg  ||  Conquering demons is what I do.
+VO_Xiao_Light_Attack_01.ogg  ||  
+VO_Xiao_Mid_Attack_01.ogg  ||  
+VO_Xiao_Heavy_Attack_01.ogg  ||  
+VO_Xiao_Jumping_01.ogg  ||  

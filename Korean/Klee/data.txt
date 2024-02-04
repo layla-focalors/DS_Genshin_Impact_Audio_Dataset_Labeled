@@ -1,0 +1,79 @@
+VO_KO_Klee_Hello.ogg  ||  페보니우스 기사단의 「불꽃 기사」, 클레 등장!…으——뒤에 대사가 뭐였더라? 클레는 못 외우겠어…
+VO_KO_Klee_Chat_-_Spoils.ogg  ||  클레 오늘도 용감하게 이상한 무늬의 도마뱀을 잡았어! 이런 무늬는 본 적 없는데, (‍오빠/언니‍)도 볼래?
+VO_KO_Klee_Chat_-_Adventures.ogg  ||  클레랑 같이 물고기 폭파하러 갈래? 걸리면 하루 종일 감금이지만, 물고기는 맛있으니까 그럴 가치가 있어!
+VO_KO_Klee_Chat_-_Rules.ogg  ||  「성안 폭탄 투척, 감금실행」, 「폭탄에 사람 부상, 진이 방문」, 「산불 방화, 클레 끝장」——이게 바로 클레의 기사단 생존 수칙이야
+VO_KO_Klee_When_It_Rains.ogg  ||  후후후, 이번 폭탄은 방수야!
+VO_KO_Klee_When_Thunder_Strikes.ogg  ||  아! 뭐가 터진 거야…?! …뭐야, 천둥이잖아
+VO_KO_Klee_When_the_Wind_Is_Blowing.ogg  ||  바람 신님, 클레의 폭탄이 적합한 곳으로 날아가게 해주세요
+VO_KO_Klee_Good_Morning.ogg  ||  좋은 아침이야! 클레랑 나가서 놀자! 같이 모험하러 가자!
+VO_KO_Klee_Good_Afternoon.ogg  ||  점심시간이야! 뭐 먹지? 《티바트 유람 가이드》를 좀 볼까…
+VO_KO_Klee_Good_Evening.ogg  ||  안녕! 호프만 아저씨한테 말 좀 해줘! 클레는 더 이상 어린애가 아니니까 밤에도 나가서 놀아도 된다고——나랑 같이 놀아줘——
+VO_KO_Klee_Good_Night.ogg  ||  으… 밖에서 놀 땐 집에 가기 싫었는데, 캄캄해지니까 길을 모르겠어…. 부, 부탁인데, 클레도 집에 좀 데려다주면 안 돼?
+VO_KO_Klee_About_Klee_-_Incidents.ogg  ||  으… 이번엔 풍차의 날개가 기울었네… 정말 미안해!
+VO_KO_Klee_About_Klee_-_Reparations.ogg  ||  나, 난 손재주가 좋으니까 내가 다시 만들게 해줘…뭐? 아동은 고용 금지? 우으…
+VO_KO_Klee_About_Us_-_Knights.ogg  ||  후후… 명예 기사, 클레는 「불꽃 기사」니까 페보니우스 기사단에서는 클레가 선배 맞지? 그러니까… 이번에 내가 사고 친 건, 비밀로 해줘…
+VO_KO_Klee_About_the_Vision.ogg  ||  이 작은 유리구슬이 바르바토스 님이 클레를 인정한다는 증거라고? …음 …대체 어떤 부분을 인정받은 거지? 자유? 그럼 이제부터 자유롭게 물고기를 폭파시켜서 바르바토스 님의 기대에 부응해야 되나…?
+VO_KO_Klee_Something_to_Share.ogg  ||  클레도 기사단의 벽은 폭파시키면 안 된다는 걸 알아. 구멍을 뚫어버리면 감금실에서 쉽게 나갈 순 있겠지만, 그렇게 하면 진 단장님이 영영 햇빛을 못 보게 할 수도 있다고… 케이아 오빠가 말했어
+VO_KO_Klee_Interesting_Things.ogg  ||  도마뱀은 무늬가 다 달라. 어떤 애들의 꼬리는 건조시킨 뒤 빻아서 가루로 만들면 폭약의 재료로도 쓰일 수 있어. 이건 알베도 오빠가 알려준 거야
+VO_KO_Klee_About_Razor.ogg  ||  우린 친구야! 레이저가 위험에 맞서 클레를 지켜주는 모습은 정말 안심돼! …음…그를 위험에 처하게 하는 건 거의 나지만…
+VO_KO_Klee_About_the_Parents.ogg  ||  우리 엄마랑 아빠는 대륙에서 제일 유명한 여행가야! 엄마가 쓴 《티바트 유람 가이드》는 여러 식당이나 여관에서도 신경 쓸 만큼 권위 있는 책이지~
+VO_KO_Klee_About_Kaeya.ogg  ||  케이아 오빠는 좋은 사람이야! 클레에게 《기사단 생존 수칙》을 써준 사람도 케이아 오빠야. 클레가 사고 칠 때마다 항상 오빠가 덮어주려고 노력하지
+VO_KO_Klee_About_Amber.ogg  ||  엠버 언니는 좋은 사람이야! 토끼 백작은 복슬복슬한 데다 폭발하기까지 해. 정말 최고야!
+VO_KO_Klee_About_Jean.ogg  ||  진 단장님은 좋은 사람이야! 조금… 무섭긴 하지만…
+VO_KO_Klee_About_Diluc.ogg  ||  이상한 사람이야, 항상 기분이 안좋아 보이거든. 음… 왜 안 웃는 걸까?
+VO_KO_Klee_About_Lisa.ogg  ||  리사 언니? 리사 언니는 좋은 사람이야! 언니의 공방에 갈 때마다 클레에게 맛있는 간식을 줘… 응? 말하고 보니 공방에 가고 싶어졌어… 아마 내가 처음으로 거기에 간 건 새로운 폭약을 만들기 위해서 였을걸…?
+VO_KO_Klee_About_Bennett.ogg  ||  베넷 오빠는 좋은 사람이야! 같이 모험하면 항상 더 많은 걸 얻을 수 있어!…정작 베넷 오빠 본인은 항상 보물을 못 찾는다고 하던데, 왜 그런 걸까?
+VO_KO_Klee_About_Diona.ogg  ||  디오나 언니는 좋은 사람이야! 「혼자만의 힘으로 몬드의 주류업을 파괴하겠다」는 생각도 정말 대단해. 클레도 폭탄으로 도울 거야!——음, 「몬드의 주류업」이 뭔진 모르겠지만, 몬스터인가?
+VO_KO_Klee_About_Albedo.ogg  ||  알베도 오빠랑 클레는 비밀 약속을 했어! 만약 공방 문 앞에 「실험 진행 중」이라는 팻말이 있으면 조금 늦게 오라는 뜻이야. 알베도 오빠가 일이 없을 땐, 항상 클레랑 잘 놀아주니까, 클레도 참을성 있게 기다릴 거야!
+VO_KO_Klee_About_Mona.ogg  ||  모나 언니는 좋은 사람이야! 매번 클레랑 알베도 오빠랑 같이 놀 때 알아들을 순 없지만 재밌는 이야기를 많이 해줘! 클레는 언니랑 노는 게 좋아!
+VO_KO_Klee_About_Sucrose.ogg  ||  설탕 언니는 좋은 사람이야! 클레한테 혼자 폴짝폴짝 뛰는 통통이를 갖고 싶냐고 물어봤었어! 헤헤, 당연히 갖고 싶지. 몇백 개를 가져서 몬드의 거리, 계단, 광장을 통통이로 가득 채우고 싶어!
+VO_KO_Klee_More_About_Klee_-_01.ogg  ||  안녕! 클레랑 같이 놀러 온 거야?
+VO_KO_Klee_More_About_Klee_-_02.ogg  ||  응, 이 폭탄은 클레가 새롭게 개조한 작품이야! 잘 만들었지? …음——만약 방화 현장에서 찾아낸 거라면, 그럼, 내가 만든 게 아니야! 절대 아니야!
+VO_KO_Klee_More_About_Klee_-_03.ogg  ||  새로운 폭탄 제조법은 거의 감금됐을 때 만들어지지만… 감금되는 건 싫어…
+VO_KO_Klee_More_About_Klee_-_04.ogg  ||  이건 도도코야, 클레가 아주 오래전에 사귄 친구야. 이름을 꼭 기억해둬, 자꾸 「가방에 걸려있는 인형」이라고 부르지 말라고
+VO_KO_Klee_More_About_Klee_-_05.ogg  ||  항상 클레의 문제를 해결해줘서 고마워! 이 「클레의 구운 생선」을 줄게!——어, 사실 고기는 호수에서 폭파되면서 이미 익었어. 이건 평소처럼 모르는 척 하면 돼
+VO_KO_Klee_Hobbies.ogg  ||  클레는 복슬복슬한 게 좋아. 도도코나 민들레 같은 거, 그리고 레이저의 머리카락도
+VO_KO_Klee_Troubles.ogg  ||  휴, 명예 기사는 좋은 사람이고, 난 나쁜 아이야…. 정말 반성할 테니까 이번 감금이 끝나면 또 날 데리고 놀러 가줘…
+VO_KO_Klee_Favorite_Food.ogg  ||  몬드의 농어는 엄청 맛있어, 특히 시드르 호수에서 잡힌 건 더 맛있어! 진짜야, 엄마도 클레 말이 맞다고 했어
+VO_KO_Klee_Least_Favorite_Food.ogg  ||  몬드 게는 싫어——게는 다 싫어——클레는 나가서 놀거야——식탁 앞에서 게 껍질이나 까고 싶진 않아——
+VO_KO_Klee_Receiving_a_Gift_-_01.ogg  ||  완전 맛있어! 클레는 배불러서 더 이상 못 먹겠어…
+VO_KO_Klee_Receiving_a_Gift_-_02.ogg  ||  오늘도 맛있는 요리를 먹을 수 있어서 클레는 너무 행복해! 고마워!
+VO_KO_Klee_Receiving_a_Gift_-_03.ogg  ||  맛있어 보이긴 하는데 먹기 좀 불편할 것 같네…. 클레 대신 먹어주면 안 돼?
+VO_KO_Klee_Birthday.ogg  ||  생일 축하해! 생일은 즐거운 날이야. 명예 기사는 클레보다 나이가 많으니까, 생일도 더 많이 보냈겠네! 클레는 부러워!
+VO_KO_Klee_Feelings_About_Ascension_-_01.ogg  ||  응, 신형 폭탄 연구가 끝났어! 진 단장님이 발견하기 전에 얼른 도망쳐야지!
+VO_KO_Klee_Feelings_About_Ascension_-_02.ogg  ||  이번에도 조금 더 발전했어! 하지만 진 단장님은 항상 「발전은 본분에 속하는 일」이라고 해
+VO_KO_Klee_Feelings_About_Ascension_-_03.ogg  ||  항상 같이 연구용 재료를 모아줘서 고마워! 폭탄 만드는 방법이 궁금하다면 내가 알려줄게
+VO_KO_Klee_Feelings_About_Ascension_-_04.ogg  ||  아주 오래전, 클레가 처음으로 폭발하는 소리를 들었을 때 하나도 무섭지 않았어… 대부분의 사람들은 그렇지 않다는걸, 나중에 알았지…그런데 (‍오빠/언니‍)도 내 폭탄을 안 무서워하네! 헤헤, 역시 클레가 좋은 친구를 사귄 게 분명해!
+VO_KO_Klee_Elemental_Skill_1_01.ogg  ||  통통 폭탄!
+VO_KO_Klee_Elemental_Skill_1_02.ogg  ||  통통 튕겨라!
+VO_KO_Klee_Elemental_Skill_1_03.ogg  ||  읏챠!
+VO_KO_Klee_Elemental_Burst_01.ogg  ||  쾅쾅 불꽃!
+VO_KO_Klee_Elemental_Burst_02.ogg  ||  화력전개!
+VO_KO_Klee_Elemental_Burst_03.ogg  ||  전부——터뜨릴거야!
+VO_KO_Klee_Sprint_Start_01.ogg  ||  라라라~
+VO_KO_Klee_Sprint_Start_02.ogg  ||  다다다~
+VO_KO_Klee_Deploying_Wind_Glider_01.ogg  ||  
+VO_KO_Klee_Opening_Treasure_Chest_01.ogg  ||  클레가 또 보물을 찾았어!
+VO_KO_Klee_Opening_Treasure_Chest_02.ogg  ||  반짝반짝해서 기분 좋아!
+VO_KO_Klee_Opening_Treasure_Chest_03.ogg  ||  땅 밑에 보물이 더 있으려나…
+VO_KO_Klee_Low_HP_01.ogg  ||  으아… 이럴 수가…
+VO_KO_Klee_Low_HP_02.ogg  ||  진 단장님… 쟤가 날 괴롭혀…
+VO_KO_Klee_Low_HP_03.ogg  ||  너무 놀았더니, 좀 어지럽네…
+VO_KO_Klee_Ally_at_Low_HP_01.ogg  ||  불꽃 기사, 폭파 지원!
+VO_KO_Klee_Ally_at_Low_HP_02.ogg  ||  괜찮아?
+VO_KO_Klee_Fallen_01.ogg  ||  도망쳐야지…! 아, 실패했다
+VO_KO_Klee_Fallen_02.ogg  ||  클레는… 집에 가고 싶어…
+VO_KO_Klee_Fallen_03.ogg  ||  또 사고 쳤어…
+VO_KO_Klee_Light_Hit_Taken_02.ogg  ||  너무해…
+VO_KO_Klee_Light_Hit_Taken_01.ogg  ||  
+VO_KO_Klee_Heavy_Hit_Taken_02.ogg  ||  너무 아파!
+VO_KO_Klee_Heavy_Hit_Taken_01.ogg  ||  
+VO_KO_Klee_Joining_Party_01.ogg  ||  클레가 도와줄게!
+VO_KO_Klee_Joining_Party_02.ogg  ||  짜잔——클레 등장
+VO_KO_Klee_Joining_Party_03.ogg  ||  오예! 모험을 떠나자
+VO_KO_Klee_Light_Attack_01.ogg  ||  
+VO_KO_Klee_Mid_Attack_01.ogg  ||  
+VO_KO_Klee_Heavy_Attack_01.ogg  ||  
+VO_KO_Klee_Climbing_01.ogg  ||  
+VO_KO_Klee_Climbing_Breath_01.ogg  ||  
+VO_KO_Klee_Jumping_01.ogg  ||  

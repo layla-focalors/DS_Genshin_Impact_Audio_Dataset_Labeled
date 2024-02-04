@@ -1,0 +1,90 @@
+VO_JA_Kaedehara_Kazuha_Hello.ogg  ||  「雨ふる風の中、刀を持ちて裸足で歩く」…拙者は楓原万葉と申す。四方を彷徨う浪人でござる。同じ旅路をゆく者同士、共に歩もうではないか。
+VO_JA_Kaedehara_Kazuha_Chat_-_Nature.ogg  ||  これほど美しき景色を見れば、自ずと旅がしたくなるものであろう？
+VO_JA_Kaedehara_Kazuha_Chat_-_Playing_a_Tune.ogg  ||  手元に葉があるのなら、拙者が草笛で一曲奏でよう。
+VO_JA_Kaedehara_Kazuha_Chat_-_Bladework.ogg  ||  雨ふる風の中、ふるさとを思う…拙者と故郷のつながりは…もうこの刀のみでござる。
+VO_JA_Kaedehara_Kazuha_When_It_Rains.ogg  ||  大雨の中を歩けば、精神が研ぎ澄まされる。しかし雨が止んだあとは、急いで服を乾かした方がよいでござるな。
+VO_JA_Kaedehara_Kazuha_When_Thunder_Strikes.ogg  ||  海を渡る時の雷雨と比べれば、この程度は意にも介さぬ。
+VO_JA_Kaedehara_Kazuha_When_It_Snows.ogg  ||  雪は好きでござる。雪が降った後の世界は静かで、誰にも夢を邪魔されずに済む。
+VO_JA_Kaedehara_Kazuha_When_the_Sun_Is_Out.ogg  ||  雲一つなし、実に心地好い晴天よ。
+VO_JA_Kaedehara_Kazuha_Good_Morning.ogg  ||  早朝に聞こえる鳥のさえずり、大自然からの恵みでござるな。
+さあ、参ろう。拙者たちの旅路も始まるでござるよ。
+VO_JA_Kaedehara_Kazuha_Good_Afternoon.ogg  ||  正午の日差しは、居眠りをしてしまいたくなるほど心地好い。休む場所を探してみてはどうでござるか？
+VO_JA_Kaedehara_Kazuha_Good_Evening.ogg  ||  上に見えるは月、耳に聞こえるは風、杯にあるは酒、心にあるは安らぎ…
+ご機嫌いかがでござるか。
+VO_JA_Kaedehara_Kazuha_Good_Night.ogg  ||  風が止んだ…
+静かな世界、休むのに最適であるな。では、また明日。
+VO_JA_Kaedehara_Kazuha_About_Kaedehara_Kazuha_-_Sailing.ogg  ||  実は、大海も毎日が荒波というわけではないのでござる。天気がよい日は、月光が海面を揺れ、魚群が船の周りを泳ぐ。船首から遠くを眺めれば、この旅も価値のあるものだと思える…唯一残念なのは、船員の歌声がうるさいことでござるな。あやつらは眠らなくても平気なのであろうか？
+VO_JA_Kaedehara_Kazuha_About_Kaedehara_Kazuha_-_Samurai_Nobility.ogg  ||  楓原家はかつて有名な武士の家系であったが、拙者が跡を継いだ時にはすでに、武家の名以外は意味のないものとなっていた。しかし拙者からすれば、それくらいがちょうどよい。武士に裕福な生活などいらぬ。拙者たちに必要なのは詩歌と美酒、そして手中にある刀のみでござるよ。
+VO_JA_Kaedehara_Kazuha_More_About_Kaedehara_Kazuha_-_01.ogg  ||  拙者のことを知りたいのか？見ての通り、どこにでもいる流浪武士でござるよ。
+VO_JA_Kaedehara_Kazuha_More_About_Kaedehara_Kazuha_-_02.ogg  ||  拙者は耳が優れていて、様々な音が聞こえる。例えば風が山を越える音、雲が散りゆく音、森で小狐がリンゴをかじる音、カニが泡を吹く音…これは自然と万物が拙者に与えた恩恵、いつでも危険を事前に察知することができるでござる。
+VO_JA_Kaedehara_Kazuha_More_About_Kaedehara_Kazuha_-_03.ogg  ||  小さい頃は雨が好きであった。あのザァザァとした音を聞くと心地好い夢を見る。しかし今となっては、雨に対する感情も複雑になったでござる…雨の音は今も好きなのだが、黒雲を見かけた時は「今日、泊まらせてくれる心優しき方はいるであろうか」と心配になってしまう。濡れた服で雨の音を聞いても、くしゃみで雰囲気が壊されてしまうでござるよ。
+VO_JA_Kaedehara_Kazuha_More_About_Kaedehara_Kazuha_-_04.ogg  ||  拙者はあまり同じ場所には滞在しないでござる。長く滞在すれば「自然」との間に隔たりが生じ、刀が鈍ってしまう。遠くへゆける今のうちに、様々な場所にゆき、色々な人に会ってみたいでござるな。
+VO_JA_Kaedehara_Kazuha_More_About_Kaedehara_Kazuha_-_05.ogg  ||  心配はいらぬ、いつの日かお互い違う場所に赴こうとも、必ず世界のどこかでまた会えよう。人の「縁」とは、そう容易く切れるものではないのでござる。
+VO_JA_Kaedehara_Kazuha_About_Us_-_Going_Out_to_Sea.ogg  ||  天気のよい日は、海に行ってみてはどうでござるか？
+VO_JA_Kaedehara_Kazuha_About_Us_-_Frank_Speech.ogg  ||  拙者は飾り気のない性格をした人が好きでござる。やはり、思っていることは心の内に秘めず、直接言った方が快いものだ。
+拙者は万物の音が聞こえる、もちろんお主の声も。
+VO_JA_Kaedehara_Kazuha_About_the_Vision.ogg  ||  神の目は力の「根源」ではなく、力の「証明」であると拙者は思う。神の目とは、前へ進みたいと思う人々の願い。拙者たち武士にとってのそれは、いつの日も手中にある刀のみなのでござるよ。
+VO_JA_Kaedehara_Kazuha_Something_to_Share_-_Bamboo_Blades.ogg  ||  剣術を学びたいなら…ふむ、これを持つとよい。先ほど作った竹刀でござる。これで打ち合えば、傷を負わずに済むであろう。
+VO_JA_Kaedehara_Kazuha_Something_to_Share_-_Maple_Leaves.ogg  ||  「奥山に、紅葉踏み分け、鳴く鹿の、声聞くときぞ、秋は悲しき」…拙者はカエデが好きでござる。しかし、カエデが紅に変わる時は、いつも別れが伴う…
+VO_JA_Kaedehara_Kazuha_Interesting_Things.ogg  ||  カモメよ、鳴くでない。今日から拙者も同じく、漂流者なのだぞ。
+VO_JA_Kaedehara_Kazuha_About_Beidou.ogg  ||  北斗の姉君は拙者の恩人。稲妻から逃げ出した拙者を、姉君が引き取ってくれた。拙者が一番苦心していた時期に、稲妻へ戻る勇気をくれたのだ。彼女は、拙者と周りにいるすべての船員が背中を任せられる戦友なのでござる。
+VO_JA_Kaedehara_Kazuha_About_Gorou.ogg  ||  拙者が指名手配されていた時、抵抗軍が拙者を助けてくれたのでござる。ゴローとはその時の短い付き合いであったが、彼のことは深く印象に残っている。彼は言いたいことを真っ直ぐに言う性格で、部下と共に喜びや悲しみを分かち合い、友のために犠牲をいとわない。だから拙者は、彼とは気が合うのでござるよ。
+VO_JA_Kaedehara_Kazuha_About_Kujou_Sara.ogg  ||  御前試合で拙者の友人を負かした彼女の実力は認めているでござる。しかし、それほどまでの力を悪行に使い、九条軍を率いて「神の目」を回収するなど、拙者は決して許さぬ。
+VO_JA_Kaedehara_Kazuha_About_Kujou_Sara_-_Changing_Perspective.ogg  ||  なるほど…どうやら彼女は自らの信念があったのだな。ただこの一件が終わったあと、「九条」家の繁栄がこの先も続くかどうかは不明であるが。
+VO_JA_Kaedehara_Kazuha_About_the_Raiden_Shogun.ogg  ||  稲妻を離れた後、何度も自分の胸に聞いたでござる。雷電将軍に対する拙者の不満は、あの御前試合から生じたものなのか、彼女が友に下した一振りが原因だったのかと。
+拙者は考えた末、それは違うと分かった。拙者の友は決闘の場で堂々と死した、雷電将軍のあの一振りは間違っていたとは言えぬ。彼女に対する不満は、「目狩り令」からくるものだ。何人たりとも他人の願いを剥奪する資格などない、たとえそれが「神」であったとしても。
+VO_JA_Kaedehara_Kazuha_About_Kamisato_Ayaka.ogg  ||  稲妻に住む者なら、「白鷺の姫君」の名を聞いたことがあろう。神里家のお嬢様で、ほぼ完璧に近しい御仁でござる。しかし、拙者は彼女とあまり交流がない、彼女は稲妻に対してどのような考えを持っているのであろうか？
+VO_JA_Kaedehara_Kazuha_About_Yoimiya.ogg  ||  以前、彼女が姉君に頼んで花火を璃月まで運んだことがある。その時は拙者が荷を下ろした、が…大変重かったでござる！彼女以外に、あのような大きな花火を作れる者などいないであろう。
+VO_JA_Kaedehara_Kazuha_About_Sangonomiya_Kokomi.ogg  ||  拙者が抵抗軍にいた頃、周りの者はみな珊瑚宮殿を心から慕っていた。彼女は兵力を大事にしている、死傷者の出る戦法はほとんど使わず、いつも最小の代価で勝利を勝ち取るのでござるよ。うわさでは、海祇島の政務と外交も取り仕切っていると聞いたが、本当に一人ですべて行えるのだろうか…
+VO_JA_Kaedehara_Kazuha_About_Shikanoin_Heizou.ogg  ||  拙者の友人であるこの探偵は、普段は洒脱で気ままな振る舞いをしている。しかしいざ事件となると、彼の周りを取り巻いていた風は、鋭い気となって集まる。まったく、感心せずにはいられないでござるよ。
+VO_JA_Kaedehara_Kazuha_Hobbies.ogg  ||  正午の日差しで温かくなった岩に横たわり、目覚めた後はぶらぶらと。刀を持っていれば、拙者はどこにでもゆけるでござるよ。
+VO_JA_Kaedehara_Kazuha_Troubles.ogg  ||  嵐がくる時は、「自然」の音もざわつく。拙者も耳鳴りがしてしまうほどに。もしそれが夜であれば、そうそうに眠れぬ。少し困っているでござる。
+VO_JA_Kaedehara_Kazuha_Favorite_Food.ogg  ||  海を渡る時、最も容易く入手できる食材は魚肉でござる。魚をどう美味しく調理するか、海を冒険する者なら、みなが考えることであろう…機会があれば、拙者の腕前を披露してもよいぞ。
+VO_JA_Kaedehara_Kazuha_Least_Favorite_Food.ogg  ||  拙者は粗造りしたものがあまり好みではない。拙者からすれば、ただの魚であろうと、しっかりと焼いた方が旨味がある。食事というのは心身を安らげるもの、妥協していてはならぬであろう？
+VO_JA_Kaedehara_Kazuha_Receiving_a_Gift_-_01.ogg  ||  うむ、魚をこうも美味しく調理するとは、お主の腕は相当なものでござるな。
+VO_JA_Kaedehara_Kazuha_Receiving_a_Gift_-_02.ogg  ||  お主の料理は腹を満たすだけでなく、拙者にとって心の安らぎでもある。
+VO_JA_Kaedehara_Kazuha_Receiving_a_Gift_-_03.ogg  ||  少し休んではどうでござるか？心が疲れていては、せっかくの料理も味が落ちてしまうであろう。
+VO_JA_Kaedehara_Kazuha_Birthday.ogg  ||  ふぁ…誕生日だと知って、新しい詩歌を書いたでござるよ。ただあまり心得がなく、何日もかけて途中までしか思いつかなかった。とりあえず、これをお主に贈ろう。
+「歳月や、雲の赴く、誕生日」…ん、待った、何か思いついたでござる。続きは…「祝いの日には、異郷の友と」、どうであろうか？
+誕生日おめでとう、今日は一緒に甘味でも食べにゆこうではないか。
+VO_JA_Kaedehara_Kazuha_Feelings_About_Ascension_-_01.ogg  ||  この刀、より鋭利になったでござる。
+VO_JA_Kaedehara_Kazuha_Feelings_About_Ascension_-_02.ogg  ||  雪が地面に落ちる音…今の拙者は、それすらも聞こえるようになったかもしれぬ。
+VO_JA_Kaedehara_Kazuha_Feelings_About_Ascension_-_03.ogg  ||  海の波は強い、拙者ももっと強くならねば。
+VO_JA_Kaedehara_Kazuha_Feelings_About_Ascension_-_04.ogg  ||  世を渡り歩けば、自ずと悩みも多くなるもの。お主との出会いは、拙者に、武道と心の成長をもたらした。今後の人生もきっと、よいものとなるであろう。
+VO_JA_Kaedehara_Kazuha_Elemental_Skill_1_01.ogg  ||  参る。
+VO_JA_Kaedehara_Kazuha_Elemental_Skill_1_02.ogg  ||  はっ。
+VO_JA_Kaedehara_Kazuha_Elemental_Skill_1_03.ogg  ||  風よ。
+VO_JA_Kaedehara_Kazuha_Elemental_Skill_1_04.ogg  ||  (Hold) 風の行先よ。
+VO_JA_Kaedehara_Kazuha_Elemental_Skill_1_05.ogg  ||  (Hold) 風を知れ。
+VO_JA_Kaedehara_Kazuha_Elemental_Skill_1_06.ogg  ||  (Hold) 風の赴くままに！
+VO_JA_Kaedehara_Kazuha_Elemental_Burst_01.ogg  ||  雲隠れ…雁鳴く時。
+VO_JA_Kaedehara_Kazuha_Elemental_Burst_02.ogg  ||  風の共、雲の行くごと。
+VO_JA_Kaedehara_Kazuha_Elemental_Burst_03.ogg  ||  黄葉を、散らまく惜しみ。
+VO_JA_Kaedehara_Kazuha_Sprint_Start_01.ogg  ||  いざ。
+VO_JA_Kaedehara_Kazuha_Sprint_Start_02.ogg  ||  
+VO_JA_Kaedehara_Kazuha_Deploying_Wind_Glider_01.ogg  ||  風の流れる方へ。
+VO_JA_Kaedehara_Kazuha_Deploying_Wind_Glider_02.ogg  ||  
+VO_JA_Kaedehara_Kazuha_Opening_Treasure_Chest_01.ogg  ||  天晴でござるな。
+VO_JA_Kaedehara_Kazuha_Opening_Treasure_Chest_02.ogg  ||  天地の恵みであるな。
+VO_JA_Kaedehara_Kazuha_Opening_Treasure_Chest_03.ogg  ||  宝とは、旅の醍醐味でござろう。
+VO_JA_Kaedehara_Kazuha_Low_HP_01.ogg  ||  くっ、やりおる…
+VO_JA_Kaedehara_Kazuha_Low_HP_02.ogg  ||  精神統一。
+VO_JA_Kaedehara_Kazuha_Low_HP_03.ogg  ||  一点集中！
+VO_JA_Kaedehara_Kazuha_Ally_at_Low_HP_01.ogg  ||  拙者が守る！
+VO_JA_Kaedehara_Kazuha_Ally_at_Low_HP_02.ogg  ||  背中は任せろ。
+VO_JA_Kaedehara_Kazuha_Fallen_01.ogg  ||  誠に遺憾なり…
+VO_JA_Kaedehara_Kazuha_Fallen_02.ogg  ||  次は…必ず…
+VO_JA_Kaedehara_Kazuha_Fallen_03.ogg  ||  終わったのか…
+VO_JA_Kaedehara_Kazuha_Light_Hit_Taken_01.ogg  ||  
+VO_JA_Kaedehara_Kazuha_Heavy_Hit_Taken_01.ogg  ||  心配無用…
+VO_JA_Kaedehara_Kazuha_Heavy_Hit_Taken_02.ogg  ||  痛ぅっ！
+VO_JA_Kaedehara_Kazuha_Heavy_Hit_Taken_03.ogg  ||  
+VO_JA_Kaedehara_Kazuha_Joining_Party_01.ogg  ||  拙者を連れていくのか？
+VO_JA_Kaedehara_Kazuha_Joining_Party_02.ogg  ||  いざ、参ろう。
+VO_JA_Kaedehara_Kazuha_Joining_Party_03.ogg  ||  これでよし。
+VO_JA_Kaedehara_Kazuha_Light_Attack_01.ogg  ||  
+VO_JA_Kaedehara_Kazuha_Mid_Attack_01.ogg  ||  
+VO_JA_Kaedehara_Kazuha_Heavy_Attack_01.ogg  ||  
+VO_JA_Kaedehara_Kazuha_Climbing_01.ogg  ||  
+VO_JA_Kaedehara_Kazuha_Climbing_Breath_01.ogg  ||  
+VO_JA_Kaedehara_Kazuha_Jumping_01.ogg  ||  

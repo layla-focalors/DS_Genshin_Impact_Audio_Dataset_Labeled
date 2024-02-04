@@ -1,0 +1,88 @@
+VO_Raiden_Shogun_Hello.ogg  ||  No salutations needed. My exalted status shall not be disclosed as we travel among the common folk. I acknowledge that you are a person of superior ability. Henceforth, you will be my guard. Worry not. Should any danger arise, I shall dispose of it.
+VO_Raiden_Shogun_Chat_-_Idleness.ogg  ||  Inactivity serves no purpose whatsoever. Hmph.
+VO_Raiden_Shogun_Chat_-_The_Mortal_World.ogg  ||  The world remains constant over the centuries. But human life is like the dew at dawn or a bubble rising through water. Transitory.
+VO_Raiden_Shogun_Chat_-_Worldly_Beauty.ogg  ||  All the world holds dear is but a backdrop of constant motion. I stand before it alone and unchanging.
+VO_Raiden_Shogun_When_It_Rains.ogg  ||  Rainfall alone does not constitute a storm. Thunder is required.
+VO_Raiden_Shogun_When_It_Snows.ogg  ||  The Winter Shogun approaches.[TN • 1]
+VO_Raiden_Shogun_When_The_Sun_Is_Out.ogg  ||  Clear skies can do nothing to hide the brilliance of lightning. Divine bolts can strike even in the absence of rain. Do you see that tree? Wait...you understand? So... demonstration is not required? Good.
+VO_Raiden_Shogun_Good_Morning.ogg  ||  Yawning without covering your mouth? Uncouth. I will pardon your rudeness this time. Good morning to you, too.
+VO_Raiden_Shogun_Good_Night.ogg  ||  I command the thunder in all corners of the world to cease. Rest well tonight.
+VO_Raiden_Shogun_About_Raiden_Shogun_-_Transience.ogg  ||  Thunder's roar and lightning's flash. So ephemeral. This is why reaching Eternity is desirable. ...Actually, this is why reaching Eternity is necessary.
+VO_Raiden_Shogun_About_Raiden_Shogun_-_Eternity.ogg  ||  Erosion is a terrible thing. This body's purpose is to withstand wear and tear, that the one within might achieve Eternity.
+VO_Raiden_Shogun_About_Us_-_Okuzumeshuu.ogg  ||  I declare you my chamberlain. In other words, according to my judgment, you are useful to the Shogunate and loyal to me.
+VO_Raiden_Shogun_Something_To_Share.ogg  ||  No, I have nothing to share with you at this time. But you... You use elemental energy without the aid of a Vision. How is this possible? Please enlighten me.
+VO_Raiden_Shogun_Interesting_Things.ogg  ||  Her body may have perished, but she became the Sacred Sakura. This, too, is a form of Eternity.
+VO_Raiden_Shogun_About_Kamisato_Ayato.ogg  ||  Kamisato... One of the most distinguished clans in all of Inazuma. Despite Ayato's trickery in regard to the Tri-Commission's affairs, he is nevertheless a loyal subject. His past misdeeds shall be excused.
+VO_Raiden_Shogun_About_Kujou_Sara.ogg  ||  A loyal and righteous subject, and an accomplished warrior. She is worthy to be called a hero. With an heir of such great promise, the future prosperity of the Kujou Clan is assured.
+VO_Raiden_Shogun_About_Sangonomiya_Kokomi.ogg  ||  Indeed. It was I who slew Orobaxi. But I also allowed the people of Sangonomiya to continue worshiping it as the Watatsumi Omikami, so that it might enjoy their offerings. Now, Sangonomiya has destroyed the local Narukami Shrine and rebels against the Shogunate. As the Divine Priestess representing the Watatsumi Omikami, she must be held accountable.
+VO_Raiden_Shogun_About_Arataki_Itto.ogg  ||  Who?
+VO_Raiden_Shogun_About_Yoimiya.ogg  ||  Who? Ah, the firework maker. A manufacturer of fleeting illusions, enamored with the realm of fantasy and imagination, but a subject of mine nonetheless.
+Hmm? Fireworks were released on Tenryou Commission property? By whom... her?
+VO_Raiden_Shogun_More_About_Raiden_Shogun_-_01.ogg  ||  State your query. To the point.
+VO_Raiden_Shogun_More_About_Raiden_Shogun_-_02.ogg  ||  On stormy days, the people of Inazuma chant "kuwabara, kuwabara," believing that this will protect themselves from being struck by lightning. You need not worry about any storm summoned by my own hand — they will bring you no harm. Lightning storms that occur naturally, however, can be more unpredictable.
+VO_Raiden_Shogun_Hobbies.ogg  ||  Foolish question. There are only two kinds of things — those that must be done and those that must not.
+VO_Raiden_Shogun_Least_Favorite_Food.ogg  ||  Foolish question. There are only two kinds of foods — those that must be consumed to nourish the body and those that harm it.
+VO_Raiden_Shogun_Receiving_a_Gift_-_01.ogg  ||  A familiar flavor... Acceptable.
+VO_Raiden_Shogun_Receiving_a_Gift_-_02.ogg  ||  Leave it here, and I shall sample it.
+VO_Raiden_Shogun_Receiving_a_Gift_-_03.ogg  ||  Consuming this would be physically detrimental. Remove it from my presence.
+VO_Raiden_Shogun_Birth_Date.ogg  ||  Is today the day of your creation? Return to the city with me. I will read out a speech for you in front of all my attendants. "Embarrassing"? ...Understood.
+VO_Raiden_Shogun_Feelings_About_Ascension_-_01.ogg  ||  The initial stage of my journey, or Shoden, involves learning the nine-way sword slash and the foundations of the art of the polearm. There is no great variation from other traditions at this point. Or rather, it is the other traditions that do not differ from mine.
+VO_Raiden_Shogun_Feelings_About_Ascension_-_02.ogg  ||  At the intermediate stage of my journey, or Chuden, the art of the sword focuses on the study of various stances and transitions. The art of the polearm — slashes and backslashes.
+VO_Raiden_Shogun_Feelings_About_Ascension_-_03.ogg  ||  The final stage of my journey, or Kaiden, is the study of the most profound techniques. Unavoidably, these draw heavily on elemental power, rendering them beyond the capabilities of most mortals. Most practitioners of other traditions are unable to ever reach this level.
+VO_Raiden_Ei_When_Thunder_Strikes.ogg  ||  Dear me, that didn't frighten you, did it? After all, you are in the presence of the most supreme and terrifying incarnation of lightning in the whole of Teyvat.
+VO_Raiden_Ei_Good_Afternoon.ogg  ||  Time for dessert. What? Why not? What do you mean, "Entrées come first"? ...They were only indulging me because I am the Shogun? Huh, interesting.
+VO_Raiden_Ei_Good_Evening.ogg  ||  Do you wish to know the truth about the shooting stars at night? Haha, they are but fleeting moments of luminosity. Uh, you used to be one of them? Are you a tengu warrior?
+VO_Raiden_Ei_About_Us_-_Protector.ogg  ||  Despite serving as my guard during this journey, you need not shield me from danger. The Shogun's constitution is rather robust, and in the event she does break down, we can simply get a replacement. In an emergency, just send her into the fray.
+VO_Raiden_Ei_About_Us_-_Legacy.ogg  ||  The Inazuman arts of polearm and sword combat, as well as the blade-forging process itself, primarily originated with me. Since then, they have branched out and blossomed into a variety of techniques according to each master's individual aptitude.
+What would you say to another sparring session? If you emerge unscathed again, I'll let you found your own martial arts tradition in Inazuma. Ah, the drive to advance and evolve in the martial arts is truly unstoppable.
+VO_Raiden_Ei_About_The_Vision.ogg  ||  Really? So in all this time, no new Electro Visions have appeared in the outside world? Well, what I can say on this topic is subject to certain constraints, but... it is not by my will that Visions are granted or denied. The key is people's desire, and... well, there's another side to it too.
+VO_Raiden_Ei_About_Yae_Miko.ogg  ||  Ah, that girl... She used to be the kind of person who could easily be swayed with some Fried Tofu. It's a relief to see how shrewd and resourceful she's now become. Still, I have to admit that I was a little upset to become the target of her scheming myself. I know it was for my own good, but I'm afraid she will mock me next time we meet... Perhaps I should take the initiative and strike her first? Hmm, she'll dodge it anyway.
+VO_Raiden_Ei_About_Kamisato_Ayaka.ogg  ||  Kamisato... One of the most distinguished clans in all of Inazuma. Eh? That's exactly what the Shogun said? Well, A—Ayaka's also well-versed in the art of the sword.
+VO_Raiden_Ei_About_Thoma.ogg  ||  I can't deny that I am somewhat culpable in the events that led to him being almost stripped of his Vision, but I rather think the Shogun should be the one to extend a formal apology to him... Okay, fine. I'll give it some more thought.
+VO_Raiden_Ei_About_Kunikuzushi.ogg  ||  He came about as a byproduct of creating the Shogun. Perhaps it's because I feel like I owe him something, but I do not wish to assert control over him.
+VO_Raiden_Ei_About_Morax.ogg  ||  I had an opportunity to feast with him once, back when I was just a kagemusha attending a gathering of the gods. So he's made his choice. Be that as it may, I don't believe his story is anywhere near finished yet.
+VO_Raiden_Ei_About_Venti.ogg  ||  Hmm. So, the Anemo Archon still goes by that name among mortals these days? Truth be told, from the very first moment I met him, I could somehow sense that we were not going to get along. Also, he sure can drink a lot.
+VO_Raiden_Ei_About_Buer.ogg  ||  I admire her humility; it is a sign of true wisdom. With the power she holds, Buer is capable of doing many things beyond our wildest imaginations... and yet, she uses her power only to right wrongs and to protect. She is a truly gentle god.
+VO_Raiden_Ei_About_Furina.ogg  ||  For five centuries I dueled the Raiden Shogun in my personal realm of consciousness, to confirm the steadfastness of my will. Yet this Furina you speak of, though possessing only a frail human body, committed herself to acting out her part every second of every day for five hundred years — a true battle of the spirit. Her willpower has indeed reached the level of a god.
+VO_Raiden_Ei_More_About_Raiden_Ei_-_03.ogg  ||  The account given in the book "Treasured Tales" is largely an accurate one. At that time, she was preoccupied with various domestic matters within the island, so as her kagemusha, I assumed her identity and joined the troops dispatched to pacify Watatsumi. After this point, however, the story turns into mere wishful thinking. Back then, I was just a martial artist wrapped up in all the fighting, not a social reformer or moral leader.
+VO_Raiden_Ei_More_About_Raiden_Ei_-_04.ogg  ||  Perhaps my pursuit of Eternity is nothing more than a form of escapism. In the end, the path I took was like that of a turtle who hides in its shell. Still, turtles have always been a symbol of longevity. Perhaps in order to reach Eternity, one has to follow their example.
+VO_Raiden_Ei_More_About_Raiden_Ei_-_05.ogg  ||  I'm fearful because of what I witnessed five hundred years ago — her demise and that thing. But, if... If it were you, everyone would be safe. You would've saved the world. Just like I cherish the memories of everything in Inazuma, if you remember me, I'll live forever.
+VO_Raiden_Ei_Troubles.ogg  ||  Don't try and get me to cook. I can take care of anything else, but not that.
+VO_Raiden_Ei_Favorite_Food.ogg  ||  Oh, don't listen to the Shogun. Desserts! Cavities are no big deal — you can just replace your teeth. Anyway, I just don't see how desserts can pose a serious obstacle to my pursuit of Eternity.
+VO_Raiden_Ei_Receiving_a_Gift_-_01.ogg  ||  Delicious. I feel much better after that. Thank you.
+VO_Raiden_Ei_Receiving_a_Gift_-_02.ogg  ||  Doesn't look too bad, how did you make it?
+VO_Raiden_Ei_Receiving_a_Gift_-_03.ogg  ||  Allow me to decline.
+VO_Raiden_Ei_Birthday.ogg  ||  Happy birthday! Let's celebrate together and make it a moment to remember for the whole year until your next birthday celebration, and so on and so forth. Then, you shall have an eternity of happiness.
+VO_Raiden_Ei_Feelings_About_Ascension_-_04.ogg  ||  The profoundest of the profound is the Musou no Hitotachi. A sword art without parallel in all the world. With you as my sparring partner, I can perfect that technique even further.
+VO_Raiden_Shogun_Elemental_Skill_1_01.ogg  ||  Shine down!
+VO_Raiden_Shogun_Elemental_Skill_1_02.ogg  ||  There is no escape!
+VO_Raiden_Shogun_Elemental_Skill_1_03.ogg  ||  Illusion shattered!
+VO_Raiden_Shogun_Elemental_Burst_01.ogg  ||  Torn to oblivion!
+VO_Raiden_Shogun_Elemental_Burst_02.ogg  ||  Now, you shall perish!
+VO_Raiden_Shogun_Elemental_Burst_03.ogg  ||  Inazuma shines eternal!
+VO_Raiden_Shogun_Sprint_Start_01.ogg  ||  
+VO_Raiden_Shogun_Deploying_Wind_Glider_01.ogg  ||  
+VO_Raiden_Shogun_Opening_Treasure_Chest_01.ogg  ||  Take them. I have no need.
+VO_Raiden_Shogun_Opening_Treasure_Chest_02.ogg  ||  ...But a momentary distraction.
+VO_Raiden_Shogun_Opening_Treasure_Chest_03.ogg  ||  Hmm?
+VO_Raiden_Shogun_Low_HP_01.ogg  ||  ...Transcend all constraints.
+VO_Raiden_Shogun_Low_HP_02.ogg  ||  ...Erase all threats.
+VO_Raiden_Shogun_Low_HP_03.ogg  ||  ...Remove all obstacles.
+VO_Raiden_Shogun_Ally_at_Low_HP_01.ogg  ||  Fall back and await my orders.
+VO_Raiden_Shogun_Ally_at_Low_HP_02.ogg  ||  Step aside.
+VO_Raiden_Shogun_Fallen_01.ogg  ||  The mortal plane... a fleeting dream...
+VO_Raiden_Shogun_Fallen_02.ogg  ||  Detached from the world...
+VO_Raiden_Shogun_Fallen_03.ogg  ||  The thunder falls silent...
+VO_Raiden_Shogun_Light_Hit_Taken_01.ogg  ||  
+VO_Raiden_Shogun_Heavy_Hit_Taken_01.ogg  ||  Insolent!
+VO_Raiden_Shogun_Heavy_Hit_Taken_02.ogg  ||  Absurd!
+VO_Raiden_Shogun_Heavy_Hit_Taken_03.ogg  ||  
+VO_Raiden_Shogun_Joining_Party_01.ogg  ||  What is the situation?
+VO_Raiden_Shogun_Joining_Party_02.ogg  ||  Stay close and you will live.
+VO_Raiden_Shogun_Joining_Party_03.ogg  ||  The campaign begins.
+VO_Raiden_Shogun_Light_Attack_01.ogg  ||  
+VO_Raiden_Shogun_Mid_Attack_01.ogg  ||  
+VO_Raiden_Shogun_Heavy_Attack_01.ogg  ||  
+VO_Raiden_Shogun_Climbing_01.ogg  ||  
+VO_Raiden_Shogun_Climbing_Breath_01.ogg  ||  
+VO_Raiden_Shogun_Jumping_01.ogg  ||  

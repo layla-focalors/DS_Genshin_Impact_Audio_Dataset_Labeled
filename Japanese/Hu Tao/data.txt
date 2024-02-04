@@ -1,0 +1,85 @@
+VO_JA_Hu_Tao_Hello.ogg  ||  堂主の私に何か用かな？あれ、知らなかった？私が往生堂七十七代目堂主、胡桃だよ！でもあなた、ツヤのある髪に健康そうな体してる…そっか！仕事以外で私に用があるってことだね？
+VO_JA_Hu_Tao_Chat_-_Wangsheng_Funeral_Parlor.ogg  ||  私とお茶しない？えへへ～
+VO_JA_Hu_Tao_Chat_-_Customers.ogg  ||  お客さんが一人、二人、三人…
+VO_JA_Hu_Tao_Chat_-_Taking_a_Break.ogg  ||  お日様が出たら日光浴、お月様が出たら月光浴～
+VO_JA_Hu_Tao_When_It_Rains.ogg  ||  うう…めんどくさいな～
+VO_JA_Hu_Tao_When_Thunder_Strikes.ogg  ||  雷だよ！気をつけて！
+VO_JA_Hu_Tao_When_It_Snows.ogg  ||  わぁ！雪だ！
+VO_JA_Hu_Tao_When_the_Wind_Is_Blowing.ogg  ||  帽子が飛んじゃうよ！
+VO_JA_Hu_Tao_Good_Morning.ogg  ||  早寝早起きは体に良いね～
+VO_JA_Hu_Tao_Good_Afternoon.ogg  ||  よっ！お昼だね、ご飯食べた？
+VO_JA_Hu_Tao_Good_Evening.ogg  ||  へへへ、お月様が出てきたよ～外で見よう！
+VO_JA_Hu_Tao_Good_Night.ogg  ||  眠いの？じゃあ先に休んで、私はもう少し起きてるから。
+VO_JA_Hu_Tao_About_Hu_Tao_-_Name.ogg  ||  胡桃の「ふ」はおふざけの「ふ」、胡桃の「た」はぐーたらの「た」！…え、面白くない？
+VO_JA_Hu_Tao_About_Hu_Tao_-_Favorite_Tricks.ogg  ||  ほら見てて…火の玉！そして～ほい！火の蝶々！やった！飛んでる～
+VO_JA_Hu_Tao_About_Us_-_Curiosity.ogg  ||  色んな所を旅してきたんでしょ。時間があったら私に色々聞かせて。
+VO_JA_Hu_Tao_About_Us_-_Night.ogg  ||  昼間はどこに行っても大丈夫だけど、夜になったら気を付けて。と・く・に、私がいない時。
+VO_JA_Hu_Tao_About_Us_-_Helper.ogg  ||  手伝ってほしい？私が必要？了解！あなたが困ってるなら、どこにいても全力で駆け付けるよ！
+VO_JA_Hu_Tao_About_Us_-_Battle.ogg  ||  私にとって、戦いは目的じゃなくて手段。戦いという手段で大切なものを守るのが目的なの。この点に関しては、あなたと一緒だね。
+VO_JA_Hu_Tao_About_the_Vision.ogg  ||  「神の目」？「神の目」…うーん、その辺は縁次第ってところかな。
+VO_JA_Hu_Tao_Something_to_Share.ogg  ||  私たち往生堂には、二つの世界の人を満足させる責任がある。だから、依頼を受けたら必ず最後までやり遂げるの。
+VO_JA_Hu_Tao_Interesting_Things.ogg  ||  陰気な場所に月光が差し込むことで生える花があるの。見たことない？じゃあ、今度見せてあげるね。
+VO_JA_Hu_Tao_About_Zhongli.ogg  ||  鍾離さんはあんなに若いのに、性格は老人だね。何でも知ってるけど何に対しても興味がない…
+もしかして彼…ふふ、何でもない！
+VO_JA_Hu_Tao_About_Qiqi.ogg  ||  七七ちゃんを見かけた？どこにいるか教えて！あの子をどこかに隠してそれから……えへへへへ！
+VO_JA_Hu_Tao_About_Baizhu.ogg  ||  白朮？…はぁ、面倒くさい奴。
+VO_JA_Hu_Tao_About_Ningguang.ogg  ||  「天権」凝光、地位と富の頂点にいながら、美しく賢く、万物を見据えている。すっっっごくかっこいいよ！
+VO_JA_Hu_Tao_About_Beidou.ogg  ||  北斗姉は璃月の有名人よ。彼女は私を知らないけど、私は彼女を知ってる。あ～友達になりたいな。
+VO_JA_Hu_Tao_About_Xingqiu.ogg  ||  行秋坊ちゃまは本を書いてるらしいよ。どんな内容なんだろう？周りであった事を教えたら、面白い物語を書いてくれるかな。
+VO_JA_Hu_Tao_About_Chongyun.ogg  ||  純陽の体…まさかこんな体質の人がこの世にいるなんてね。
+VO_JA_Hu_Tao_About_Xiao.ogg  ||  仙人のこと？し、知らないよ？あわわ、お願いだから何も聞かないで！
+VO_JA_Hu_Tao_About_Keqing.ogg  ||  「玉衡」刻晴…大分話しづらい人ね。ほら、あの生真面目な感じ、からかったらどうなるのかな。まさか剣で叩かれないよね？…ね？
+VO_JA_Hu_Tao_About_Xiangling.ogg  ||  香菱ったら面白いんだよ！ちょっと触っただけでビックリして飛び跳ねるの！ああいう子大好きよ！でもやりすぎに注意しなきゃね、グゥオパァーに怒られちゃう…
+VO_JA_Hu_Tao_About_Yun_Jin.ogg  ||  雲菫は正式な場ではとても優雅だけど、私生活ではすごく親しみやすいよ！この前彼女と賭けをしたの。負けた人が自分の得意とする歌い方で相手の書いた歌詞を歌うんだ。璃月劇版のヒルチャー夢、んもぉ～あなたも絶対聞いた方がいいって！
+VO_JA_Hu_Tao_About_Shenhe.ogg  ||  彼女は本当に面白い人だよ。他の誰とも違うの。ねぇ、私もこれから毎日、仙草を食べて山露を飲めば、彼女のように浮世離れした人になれるかな？えへへ…
+VO_JA_Hu_Tao_More_About_Hu_Tao_-_01.ogg  ||  ヒルチャールのお兄さんが病気になった♪…ヒルチャールのお姉さんが看病して♪…ヒルチャールのお兄さんが薬を飲んでも治らない♪…
+VO_JA_Hu_Tao_More_About_Hu_Tao_-_02.ogg  ||  路地裏に潜む漆黒の詩人とは、私のことよ！
+VO_JA_Hu_Tao_More_About_Hu_Tao_-_03.ogg  ||  「往生堂」の仕事は別に難しくも怖くもない、少し面倒なだけ。私たちを見かけたら怖がる人がいるから、何だか悲しいな。もう～そんなんじゃないのに！
+VO_JA_Hu_Tao_More_About_Hu_Tao_-_04.ogg  ||  私は「往生堂」七十七代目堂主、おじいちゃんが七十五代目よ。私が初めて引き受けた仕事は、おじいちゃんの葬儀だったの。うん？意外だった？知らないうちに何年もやってきた…時間が経つのって早いね。
+VO_JA_Hu_Tao_More_About_Hu_Tao_-_05.ogg  ||  陰陽は整然、運命は無常。死は予測できないけど、規則はある。覚えておいて、いつどんな時も、死を軽く扱っちゃだめ。死を理解し尊重してこそ、生きる価値を理解できるのよ。
+VO_JA_Hu_Tao_Hobbies.ogg  ||  雲一つない空と、月光に満ちた夜空！こんな絶景、詩を作るにはぴったりね！
+VO_JA_Hu_Tao_Troubles.ogg  ||  はぁ、何か面白いことないかな…何もすることがないのって、死より恐ろしいことだよ。
+VO_JA_Hu_Tao_Favorite_Food.ogg  ||  ららら～♪水煮魚にエビ蒸し餃子～♪
+VO_JA_Hu_Tao_Least_Favorite_Food.ogg  ||  清心とスライムの液体炒め…おぇ…香菱…私に対する復讐…？
+VO_JA_Hu_Tao_Receiving_a_Gift_-_01.ogg  ||  よしよし。堂主である私が、この料理に詩を一編書いてあげる——
+VO_JA_Hu_Tao_Receiving_a_Gift_-_02.ogg  ||  手伝わなくていいの？一皿作ったら、私がもう一皿おまけで作ってあげるよ！
+VO_JA_Hu_Tao_Receiving_a_Gift_-_03.ogg  ||  うぇ…これ何？
+VO_JA_Hu_Tao_Birthday.ogg  ||  今宵は満天の星に華麗な月、さーぞかしいい日だろうね。うーん？うふふ…うん！知ってるよ、誕生日でしょ！もう、本当にいい日だね。
+VO_JA_Hu_Tao_Feelings_About_Ascension_-_01.ogg  ||  おや？おやおや？
+VO_JA_Hu_Tao_Feelings_About_Ascension_-_02.ogg  ||  うんうん、良い気持ち、ありがと！
+VO_JA_Hu_Tao_Feelings_About_Ascension_-_03.ogg  ||  力に満ち溢れてる、こんなの初めて！何でもできる自信があるよ！
+VO_JA_Hu_Tao_Feelings_About_Ascension_-_04.ogg  ||  力が限界に達した後に試されるのは心。あなたのおかげで、こんなにも素晴らしい境地にまでこれた。ここは心と魂が交じり合い…生から死、天地から万物、全ての理が集う場所だね。
+VO_JA_Hu_Tao_Elemental_Skill_1_01.ogg  ||  喝！
+VO_JA_Hu_Tao_Elemental_Skill_1_02.ogg  ||  起！
+VO_JA_Hu_Tao_Elemental_Skill_1_03.ogg  ||  散！
+VO_JA_Hu_Tao_Elemental_Burst_01.ogg  ||  いってらっしゃい！
+VO_JA_Hu_Tao_Elemental_Burst_02.ogg  ||  さよなら！
+VO_JA_Hu_Tao_Elemental_Burst_03.ogg  ||  燎原の蝶！
+VO_JA_Hu_Tao_Sprint_Start_01.ogg  ||  ふぅ～っ！
+VO_JA_Hu_Tao_Sprint_Start_02.ogg  ||  いこう！
+VO_JA_Hu_Tao_Sprint_Start_03.ogg  ||  ヤッホー！
+VO_JA_Hu_Tao_Deploying_Wind_Glider_01.ogg  ||  気持ちいい～
+VO_JA_Hu_Tao_Deploying_Wind_Glider_02.ogg  ||  
+VO_JA_Hu_Tao_Opening_Treasure_Chest_01.ogg  ||  当たり！
+VO_JA_Hu_Tao_Opening_Treasure_Chest_02.ogg  ||  どれどれ、何が入ってるかな～
+VO_JA_Hu_Tao_Opening_Treasure_Chest_03.ogg  ||  土に埋めたら宝箱がたくさん生えるかも！
+VO_JA_Hu_Tao_Low_HP_01.ogg  ||  おやおや！
+VO_JA_Hu_Tao_Low_HP_02.ogg  ||  ひぃっ！
+VO_JA_Hu_Tao_Low_HP_03.ogg  ||  やばっ！
+VO_JA_Hu_Tao_Ally_at_Low_HP_01.ogg  ||  落ち着いて！
+VO_JA_Hu_Tao_Ally_at_Low_HP_02.ogg  ||  私が！
+VO_JA_Hu_Tao_Fallen_01.ogg  ||  私の番？
+VO_JA_Hu_Tao_Fallen_02.ogg  ||  うらむわ。
+VO_JA_Hu_Tao_Fallen_03.ogg  ||  うわぁ—
+VO_JA_Hu_Tao_Light_Hit_Taken_01.ogg  ||  
+VO_JA_Hu_Tao_Heavy_Hit_Taken_02.ogg  ||  なにっ！
+VO_JA_Hu_Tao_Heavy_Hit_Taken_01.ogg  ||  
+VO_JA_Hu_Tao_Joining_Party_01.ogg  ||  あっ！やっと私の出番？
+VO_JA_Hu_Tao_Joining_Party_02.ogg  ||  見る目ある！
+VO_JA_Hu_Tao_Joining_Party_03.ogg  ||  全員あの世行き～
+VO_JA_Hu_Tao_Light_Attack_01.ogg  ||  
+VO_JA_Hu_Tao_Mid_Attack_01.ogg  ||  
+VO_JA_Hu_Tao_Heavy_Attack_01.ogg  ||  
+VO_JA_Hu_Tao_Climbing_01.ogg  ||  
+VO_JA_Hu_Tao_Climbing_Breath_01.ogg  ||  
+VO_JA_Hu_Tao_Jumping_01.ogg  ||  

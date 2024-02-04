@@ -1,0 +1,84 @@
+VO_Nahida_Hello.ogg  ||  Nice to meet you! Hehe, I've actually been watching you for a long time already. My name's Nahida. I might look like a child, but don't be fooled: I understand this world much better than any grown-up. So... can we trade knowledge? I want to hear all about your travel stories. So, what would you like to know in return?
+VO_Nahida_Chat_-_Invitation.ogg  ||  If you're not sure what to do next, how about I take you on a walk?
+VO_Nahida_Chat_-_Concerns.ogg  ||  Something on your mind again? Let's work through it together. Two heads are better than one.
+VO_Nahida_Chat_-_Feelings.ogg  ||  What they say is true: You have to see the world for yourself to appreciate how beautiful it is.
+VO_Nahida_When_It_Rains.ogg  ||  Quick, let's find shelter, or mushrooms will start growing on our heads.
+VO_Nahida_When_Thunder_Strikes.ogg  ||  Did you know that the sound of thunder is the prelude to new life? *sigh* Soon, this land will be brimming with vitality.
+VO_Nahida_When_It_Snows.ogg  ||  Can you hear that? The heavens are whispering to all living things, "It's time for bed now."
+VO_Nahida_When_the_Sun_Is_Out.ogg  ||  Ah, the weather is lovely and warm. Things are about to start getting lively again.
+VO_Nahida_Good_Morning.ogg  ||  Good morning. We should get going right away. There are too many things in this world that you'll miss if you don't get there on time.
+VO_Nahida_Good_Afternoon.ogg  ||  Ah, time for a break. I'd really like a Berry & Mint Burst... If you get one for me, I'll tell you a couple of stories about the sun. Okay?
+VO_Nahida_Good_Evening.ogg  ||  The sun's setting. It's time to wave goodbye and let the creatures of the night take center stage.
+VO_Nahida_Good_Night.ogg  ||  You should go to sleep now. Don't worry, I've made sure there's a sweet dream waiting for you.
+VO_Nahida_About_Nahida_-_Knowledge.ogg  ||  Oh, the Mare Jivari? A place without anything at all, completely empty — just like a Shroomboar's brain. Of course I know it. ...Hmm? I, uh... It's true, I've never seen it with my own eyes. It's one of the many places beyond my reach.
+VO_Nahida_About_Nahida_-_Obsession.ogg  ||  The gods gave humans barely enough knowledge for them to fill their stomachs. Yet, they used it to craft tools, write books, and build cities, and now they've set their sights on the stars and the abyss... With every moment that goes by, they're creating brand-new knowledge, so I never want to take my eyes off them.
+VO_Nahida_About_Us_-_Story_Time.ogg  ||  The things you've experienced on your journey are so much more exciting than anything I've ever learned. And now, I get to ask you about all of it any time I want, so I can understand each and every little detail... I couldn't ask for more. Alright, let's not waste any more time. Now where were we...?
+VO_Nahida_About_Us_-_Journey.ogg  ||  Being a listener has never been enough for me. I've always dreamed of going out and seeing things for myself. You're such an experienced adventurer... Can you be my guide? I want to experience all your future tales first-hand.
+VO_Nahida_About_the_Vision.ogg  ||  The heavens grew eyes to behold the true beauty of the world below, but humans already have eyes to begin with. So, what is it they see when they look at the world not with their eyes, but their vision? You're very smart. Can you figure out what the answer is?
+VO_Nahida_Something_to_Share.ogg  ||  Very often, only once we get hurt badly are we finally forced to face our own laziness, ignorance, recklessness, or arrogance. There's nothing to regret, though. We have no way of seeing all the possibilities that lie ahead in the future, so we have to rely on clumsy trial-and-error to gain knowledge. Just think of pain as the tuition you have to pay.
+VO_Nahida_Interesting_Things_-_A_Flower_Yet_to_Blossom.ogg  ||  Sumeru's desert looks more desolate than the rainforest, but it's also home to an ancient civilization, and supports its own stable ecosystem. One day, when it finally stops arguing with the rainforest, I'm sure that flowers will blossom there, the likes of which I've never seen before.
+VO_Nahida_About_Cyno_-_Jokes.ogg  ||  His jokes are like buried treasure: gems hidden beneath the surface. They're a lot of fun. Hmm? Well, which part didn't you get? Okay, I can explain it for you.
+VO_Nahida_About_Cyno_-_Duty.ogg  ||  Not every General Mahamatra would take such a clear-cut and decisive stance when faced with a conflict between order and justice. He must know only too well that compromise is a path that leads to a dead end, so it's extremely fortunate for all of Sumeru that he's now been able to return to his rightful post.
+VO_Nahida_About_Tighnari.ogg  ||  The Forest Watchers played an essential role in helping the rainforest to withstand the Withering and continue to flourish, and Tighnari is the best of them all. Still... I do hope he learns to be a little gentler with people. Otherwise, it's gonna be difficult for the Forest Rangers to attract new top talent.
+VO_Nahida_About_Collei.ogg  ||  When I heard her story for the first time, her tenacity shone through like a dazzling gemstone. She's been through so much... I hope that just as the rainforest supports all kinds of life, Sumeru will always provide a safe and nurturing environment for her, so that she can grow up healthy and strong.
+VO_Nahida_About_Alhaitham.ogg  ||  He holds a body of knowledge more advanced than most could imagine, and his mind is constantly thinking, so maybe nothing in this world could ever fool him. But is the wise man truly wise to view the mediocre majority as defective? Because without them, there is no us.
+VO_Nahida_About_Nilou.ogg  ||  I once borrowed someone else's body to ask her if she'd mind allowing Lesser Lord Kusanali to watch her dance... Actually, I had already watched her lots of times before in secret, but I wanted to attend her dance at the Sabzeruz Festival properly, in person, as a sign of respect. Anyway, it turned out that she gently declined the offer... I was a little sad about that.
+VO_Nahida_About_Dori.ogg  ||  The first thing she said when she saw me was "Nice palace. How much?" Of course, I couldn't possibly sell her the Sanctuary of Surasthana. But still, her question had me stumped. I thought about it long and hard, but I still can't figure out how much Mora it's worth...
+VO_Nahida_About_Kaveh.ogg  ||  He has an almost-perfect grasp of what it truly means for Sumeru to be a Nation of Wisdom. Sadly, the truth as he understands it will never be accepted as the mainstream. Hmm? He's roommates with Alhaitham? Wow... the world really is full of surprises...
+VO_Nahida_About_Faruzan.ogg  ||  She is suffering from exposure to remnants of King Deshret's power. It's as if the great tortoise of time accidentally threw her off its back and left her suspended in the past. If you're interested, you should be able to catch a glimpse of Sumeru from a bygone age through her.
+VO_Nahida_About_The_Seven_-_Introduction.ogg  ||  I'm led to believe that long, long ago, the Seven Archons used to stay in regular contact with each other. I'm a bit of a special case though, so I don't have any memory of that time... Now that things have settled down in Sumeru, I think it's about time I made contact with them again. You're on familiar terms with some of them, right? Would you mind introducing me?
+VO_Nahida_About_The_Seven_-_Games.ogg  ||  I hear that playing games is a good way to quickly bring people closer together. I'm sure it must work for gods, too. How about once everyone meets up, I suggest we play hopscotch together? ...Hmm, on second thought, maybe not. If I draw the squares, It would look like I made them really small on purpose just so I could win. That wouldn't be fair on the others.
+VO_Nahida_About_The_Balladeer.ogg  ||  When he finally achieved the ambition he thought he'd been pursuing all along, was he content at last, or only emptier still? We only yearn for the skies because we cannot fly... Hmm, perhaps he should reflect on this once he has held the sheer emptiness of the skies in his grasp.
+VO_Nahida_About_Furina.ogg  ||  People often say that wisdom isn't about what you know, but knowing what you can change. It is beyond question that the "prophecy" was carved into Irminsul long ago... and while it may look like nothing has changed, it also seems like everything has. I think we both know her to be smart enough to turn the fate of the world around.
+VO_Nahida_More_About_Nahida_-_01.ogg  ||  My past is quite monotonous. I could tell you about it, but it wouldn't be long before you let out a great, big yawn, like a Pufferfish taking in a big gulp of water. But curiosity is worth its weight in gold, and I wouldn't want yours to go to waste... I know — let me tell you about all the dreams I've had.
+VO_Nahida_More_About_Nahida_-_02.ogg  ||  In my dreams, there's often a flower pot. Every time I water it and add fresh fertilizer, the same flower grows. Can you still enjoy the process of growing flowers when you already know the exact outcome in advance? Hehe, well, for me, I'm glad that at least after the flower has blossomed, it attracts different colored butterflies each time, and sometimes even bees.
+VO_Nahida_More_About_Nahida_-_03.ogg  ||  In my dreams, there's often an hourglass. I like to add a few drops of water. Then, I shake it up, and time how long it takes to settle, and see if there's any difference from the last time. There's no reasoning behind it and nothing to gain out of it, but somehow it seems to relieve the exhaustion in my brain. I think that the fact that it's for nothing is what makes it fun for me.
+VO_Nahida_More_About_Nahida_-_04.ogg  ||  In my dreams, there's often an empty space. No matter how the scenery changes around it, the emptiness always occupies the most important place. Strange, isn't it? I think there used to be something there, but for all the power I have over dreams, I still can't find the answer as to what it was. Ugh, seems like even in my dreams, there are things that I can't control...
+VO_Nahida_More_About_Nahida_-_05.ogg  ||  In my dreams, there can be anything — anything except people coming and going. But since meeting you, it's gradually started to get more lively here... Maybe you're a guide, adding a human touch to my dreams and leading me out from my cage. Hehe, c'mon, let's go. The journey's only just beginning, and I'd like you to carry on leading the way.
+VO_Nahida_Hobbies.ogg  ||  Umm... does watching you count as a hobby? Because everything you do fascinates me. You're traveling the whole world... Where did you come from, and where will you go next? Who will you meet, and what challenges will you have to overcome? I want to know the answers to all these questions and more. So please don't mind me, I just wanna keep on watching you, all the time.
+VO_Nahida_Troubles.ogg  ||  I think I'm good at asking the right questions and giving good answers, but I've come to realize that a lot of people just convince themselves they don't understand. The answers to their problems don't help them. It seems to me that as people grow older, they lose the courage to question things and accept the truth...
+VO_Nahida_Favorite_Food.ogg  ||  Definitely Candied Ajilenakh Nuts. I just need one little bite and my brain starts chugging away at top speed, and suddenly there's no problem too difficult for me to solve. The only thing you need to watch out for is: Don't put the jar somewhere that's too easy to reach.
+VO_Nahida_Least_Favorite_Food.ogg  ||  Sea creatures are born into infinite darkness and live their lives in the depths of the ocean. It's a complete unknown to me. Eating them is like swallowing an icky storm cloud.
+VO_Nahida_Receiving_a_Gift_-_01.ogg  ||  Mm, may the world never forget this beautiful flavor. Thank you.
+VO_Nahida_Receiving_a_Gift_-_02.ogg  ||  Hehe, I really appreciate this. It tastes lovely.
+VO_Nahida_Receiving_a_Gift_-_03.ogg  ||  ...How should I put this? I guess... you wouldn't feed Shroomboars to a Sumpter Beast, would you?
+VO_Nahida_Birthday.ogg  ||  I was thinking, your birthday celebration needs to be at least as grand as the Sabzeruz Festival, so... Hmm? Too much? But everyone's already done preparing for it. C'mon, c'mon, let's go! Just this once — I'll make sure you love it!
+VO_Nahida_Feelings_About_Ascension_-_01.ogg  ||  I'm getting smarter!
+VO_Nahida_Feelings_About_Ascension_-_02.ogg  ||  My mind is growing even bigger. It feels like you could fit the entire sky and ocean inside it.
+VO_Nahida_Feelings_About_Ascension_-_03.ogg  ||  I feel like a Nilotpala Lotus that's been reunited with its leaves, or a Sango Pearl that's found its shell.
+VO_Nahida_Feelings_About_Ascension_-_04.ogg  ||  Thank you for allowing me to be your companion, and for teaching me so many new things. As the God of Wisdom, I grant to you my blessing: From here onward, may your journey be free from confusion that clouds your mind and obstacles that block your path.
+VO_Nahida_Elemental_Skill_1_01.ogg  ||  (Tap) Committed to memory.
+VO_Nahida_Elemental_Skill_1_02.ogg  ||  (Tap) Grow, grow, grow.
+VO_Nahida_Elemental_Skill_1_03.ogg  ||  (Tap) This might hurt a little.
+VO_Nahida_Elemental_Skill_1_04.ogg  ||  (Hold) Hey!
+VO_Nahida_Elemental_Skill_1_05.ogg  ||  (Hold) Everyone hold hands~
+VO_Nahida_Elemental_Skill_1_06.ogg  ||  (Hold) I see everything.
+VO_Nahida_Elemental_Burst_01.ogg  ||  Make yourselves at home~
+VO_Nahida_Elemental_Burst_02.ogg  ||  Share in my knowledge.
+VO_Nahida_Elemental_Burst_03.ogg  ||  The Temple of Wisdom.
+VO_Nahida_Sprint_Start_01.ogg  ||  
+VO_Nahida_Deploying_Wind_Glider_01.ogg  ||  
+VO_Nahida_Opening_Treasure_Chest_01.ogg  ||  Curiosity deserves a reward.
+VO_Nahida_Opening_Treasure_Chest_02.ogg  ||  I wonder who this gift could be from.
+VO_Nahida_Opening_Treasure_Chest_03.ogg  ||  Find anything you like?
+VO_Nahida_Low_HP_01.ogg  ||  Let's change tactics.
+VO_Nahida_Low_HP_02.ogg  ||  Stop fighting!
+VO_Nahida_Low_HP_03.ogg  ||  This was unwise...
+VO_Nahida_Ally_at_Low_HP_01.ogg  ||  Let me put my mind to it.
+VO_Nahida_Ally_at_Low_HP_02.ogg  ||  Don't bite off more than you can chew.
+VO_Nahida_Fallen_01.ogg  ||  No life... lasts forever...
+VO_Nahida_Fallen_02.ogg  ||  I'm... withering...
+VO_Nahida_Fallen_03.ogg  ||  I don't... understand...
+VO_Nahida_Light_Hit_Taken_01.ogg  ||  
+VO_Nahida_Heavy_Hit_Taken_01.ogg  ||  That really hurt...
+VO_Nahida_Heavy_Hit_Taken_02.ogg  ||  I'm seeing stars...
+VO_Nahida_Heavy_Hit_Taken_03.ogg  ||  
+VO_Nahida_Joining_Party_01.ogg  ||  I've been waiting for you for ages.
+VO_Nahida_Joining_Party_02.ogg  ||  There are still so many places for us to explore.
+VO_Nahida_Joining_Party_03.ogg  ||  Time to broaden our horizons again.
+VO_Nahida_Light_Attack_01.ogg  ||  
+VO_Nahida_Mid_Attack_01.ogg  ||  
+VO_Nahida_Heavy_Attack_01.ogg  ||  
+VO_Nahida_Climbing_01.ogg  ||  
+VO_Nahida_Climbing_Breath_01.ogg  ||  
+VO_Nahida_Jumping_01.ogg  ||  

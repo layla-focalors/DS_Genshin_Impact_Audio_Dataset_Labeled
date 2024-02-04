@@ -1,0 +1,79 @@
+VO_JA_Sangonomiya_Kokomi_Hello.ogg  ||  私は珊瑚宮心海、海祇島の「現人神の巫女」です。此度の同行は、息抜き…いえ、視察のためとしましょう。ご安心を、海祇島の発展計画に関する虎の巻は十分残しておきました。少々場を離れても、問題はないでしょう。
+VO_JA_Sangonomiya_Kokomi_Chat_-_Reading.ogg  ||  八重堂は兵学の仕組みについて深く解説した本を多く出版しているので、とても気に入っています。
+VO_JA_Sangonomiya_Kokomi_Chat_-_Fish.ogg  ||  海を泳ぐ魚でさえ進む先を決められるように、生きとし生ける者の意志はすべて尊重されるべきです。
+VO_JA_Sangonomiya_Kokomi_Chat_-_Preparation.ogg  ||  転ばぬ先の杖、と言うように事前に準備しておけば混乱を招くことはありません。
+VO_JA_Sangonomiya_Kokomi_When_It_Rains.ogg  ||  雨の中の行軍は、気配を隠すのに一役買いますが、体には負担がかかりますね…
+VO_JA_Sangonomiya_Kokomi_When_It_Snows.ogg  ||  雪…とても綺麗ですね。
+VO_JA_Sangonomiya_Kokomi_When_the_Sun_Is_Out.ogg  ||  いい天気ですね、少し歩きませんか？
+VO_JA_Sangonomiya_Kokomi_When_the_Wind_Is_Blowing.ogg  ||  ん…とても強い風ですね…火計にぴったりかと。
+VO_JA_Sangonomiya_Kokomi_Good_Morning.ogg  ||  おはようございます。先ほど興味深い兵学を読みました、一緒に研究しませんか？
+VO_JA_Sangonomiya_Kokomi_Good_Afternoon.ogg  ||  午後の作戦計画を少し修正しましょう…これでより効率的になります。
+VO_JA_Sangonomiya_Kokomi_Good_Evening.ogg  ||  おや？もう夜なのですか？あなたと一緒にいると、時間がとても早く過ぎてしまいますね。
+VO_JA_Sangonomiya_Kokomi_Good_Night.ogg  ||  おやすみなさい。しっかり休んで、疲れを癒してくださいね。
+VO_JA_Sangonomiya_Kokomi_About_Sangonomiya_Kokomi_-_Directives.ogg  ||  戦況は常に移ろいゆくもの、一瞬の迷いがすべてを台無しにしてしまうこともあります。ですので戦いが始まる前に、すべての状況を書き留めた虎の巻を兵士たちに渡しているんです。しかし現状を見ると、兵士たちがその虎の巻に頼りすぎているような気がしなくもありません…やはり彼らにはもっと兵学を学んでもらい、自ら戦況を判断できる力を身に着けてほしいものですね。
+VO_JA_Sangonomiya_Kokomi_About_Sangonomiya_Kokomi_-_Relaxing.ogg  ||  今回の作戦が早く終わることを祈っています。八重堂から新たに『沈秋拾剣録』の新版が発売されるので、部屋に戻って一気に読みたいのです…
+VO_JA_Sangonomiya_Kokomi_About_Us_-_Experience.ogg  ||  視野を広げなければ立派な指導者にはなれない、そう母から教わりました。ですが以前までの私は、珊瑚宮と軍の間を行き来していただけ、自ら外に出向いたことなどありませんでした。ですので、知らないことも多々あります。えっと…そこは大目に見てくださいね。
+VO_JA_Sangonomiya_Kokomi_About_Us_-_Confusion.ogg  ||  人の心は予測しがたいものと言いますが、現人神の巫女である私は、一人一人の考えを理解する必要があります。そうですね、あなたから始めましょう。旅人さん、あなたが今なにを考えているのか…私が当ててみますね？
+VO_JA_Sangonomiya_Kokomi_About_the_Vision.ogg  ||  私からすれば、「神の目」は願いの象徴です。あなたも知っての通り、私たちは抵抗軍を設立し、目狩り令に歯向かいました。なぜなら、願いとは容易く諦めることができないほど大切なもので、強制的に奪われるべきではないと考えたからです。
+VO_JA_Sangonomiya_Kokomi_Anything_to_Share_-_Periodicals.ogg  ||  八重堂が出版している作品の中で、私が特に気に入っているのはこの『テイワット戦争芸術』です。ほら、数々の名勝負が記録されていますし、有名な兵学家の分析もあります。その中のお気に入りをあなたにも読んであげましょう…
+VO_JA_Sangonomiya_Kokomi_Anything_to_Share_-_Diving.ogg  ||  水中の世界は陸の上ほど明るくはありませんが、あそこに留まる度、心がゆっくりと落ち着いていくような気がします。遠くには魚の群れが泳ぎ、そばにはクラゲが舞い、自分でも気づかないうちに、すべての心配事を置き去りにできるのです。機会があれば、あなたもそこに連れていってあげましょうか？
+VO_JA_Sangonomiya_Kokomi_Interesting_Things.ogg  ||  私は海祇珊瑚真珠がとても好きです。海祇島に多くの富をもたらしてきた、海からの贈り物なんですよ。
+VO_JA_Sangonomiya_Kokomi_About_Gorou.ogg  ||  ゴローは稀代の名将です。誠実で、毅然としていて、大胆で…配下の者と寝食を共にでき、奇策を何度も思いついてきました。ただそんな彼にも、戦いの中で熱くなってしまうという欠点があります。もし彼と行動を共にすることがありましたら、肝心な時に彼を引き止めることをお忘れなく。
+VO_JA_Sangonomiya_Kokomi_About_Kujou_Sara.ogg  ||  九条裟羅が手強い相手であることは認めざるを得ません。彼女は策略や戦略をほとんど使いませんが、真っ向勝負にはめっぽう強い方です。幕府軍は彼女のことを非常に信頼していたため、彼女の指揮のもと団結し、勇敢な軍を築き上げました。そのため何度も抵抗軍に対し、多大な猛威を振るってきた相手なんです。
+VO_JA_Sangonomiya_Kokomi_About_Yae_Miko.ogg  ||  八重宮司については、色々なことをお聞きしています。正直に言って、彼女はとても優秀な巫女です。少なくとも「巫女」としての仕事は、非の打ち所がないと言えるでしょう。彼女は八重堂の娯楽小説の出版も担当されているそうで、本当に…つかみどころのない方ですね…
+VO_JA_Sangonomiya_Kokomi_About_Raiden_Shogun.ogg  ||  目狩り令が終わった後、海祇島にも平和な日常が戻ってきました。今さら将軍の善し悪しを判ずるつもりはありません。それよりも、海祇島の未来の方が私にとって大切なことなのです。将軍が約束を守り、幕府との間にこれ以上いさかいが起きないといいのですが…もし再び、将軍が人々の願いを無視するようなことがあった場合、私たちは決して黙ってはいません。
+VO_JA_Sangonomiya_Kokomi_About_Beidou.ogg  ||  北斗さんと共に幕府軍を待ち伏せしていた時、「幕府軍に気づかれるのではないか」という懸念を抱いていました。しかし北斗さんは、自分の船隊なら音もなく奇襲をかけられると、そう私に話したのです。実際、彼女の言った通りの結果になりました。海祇島にある船隊の訓練が思うように進んでいない今、ぜひ彼女から指導をお願いしたいところですね…
+VO_JA_Sangonomiya_Kokomi_About_Kaedehara_Kazuha.ogg  ||  万葉さんは抵抗軍に在籍していたことがあります。ゴローととても仲が良く、2人並んで戦うことも多かった印象がありますね。浮世離れした性格で、束縛されるのが苦手な彼ですが、軍にいた頃はすべての規律を厳重に守っていました。私から見て、彼は素晴らしい剣士であるだけでなく、非常にしっかりとした性格の持ち主だと思います。
+VO_JA_Sangonomiya_Kokomi_About_Shikanoin_Heizou.ogg  ||  最初は、天領奉行の制服を着て堂々と海祇島に来る人がいることに驚きました。彼がもし天領奉行の武士であれば不適切ですし、工作員であればそんな派手なことはしないはず。ですがしばらく接した後、この「探偵」を名乗る鹿野院さんが、海祇島の軍事配備や政治商売にまったく興味を示していないことに気づきました。彼はただここへ旅行に来ているように見えます。ですので私も、彼への見張りを少々増やしただけで、追い払ってはいません。彼を見かけましたら、何か話をしてみてはいかがでしょう。
+VO_JA_Sangonomiya_Kokomi_More_About_Sangonomiya_Kokomi_-_01.ogg  ||  緊迫した状況であればあるほど、心を落ち着かせる必要があります。私まで不安に駆られてしまったら、他の人はどうすればいいというのでしょう？
+VO_JA_Sangonomiya_Kokomi_More_About_Sangonomiya_Kokomi_-_02.ogg  ||  かつて私たちの先祖は、淵下宮に住んでいたと言われており、それを地上へと連れ出したのが魔神オロバシだという話があります。いつも思うのですが、海底の宮殿はとても暗かったのではないでしょうか？それを考えるたび、目の前にある光をより大切にしようという気持ちがこみ上げてくるのです。
+VO_JA_Sangonomiya_Kokomi_More_About_Sangonomiya_Kokomi_-_03.ogg  ||  あなたがメカジキ二番隊を去った後、臨時の隊長を兵士たちが選出しましたが、それでも皆さん、あなたに戻ってきてほしいと思っていました。あなたには一人で遂行しなければならない重要な任務があり、当分の間は帰れないとしか彼らに伝えられませんでした。もし機会があれば、彼らを訪ねてみてください、きっと歓迎してくれますよ。
+VO_JA_Sangonomiya_Kokomi_More_About_Sangonomiya_Kokomi_-_04.ogg  ||  実は昔、私には現人神の巫女になりたいという気持ちはなく、ただ毎日兵学を読んで幕僚になりたいと思っていました。そうすれば裏方に身を置くことができ、体にかかる負担もきっと軽くなっていたでしょう。ですが結局、その願いは叶いませんでした…血筋というのは、逆らうことのできないものなのです…
+VO_JA_Sangonomiya_Kokomi_More_About_Sangonomiya_Kokomi_-_05.ogg  ||  現人神の巫女になった後、少しずつこの生活に慣れていきました。少なくとも不条理な物事を見かけた時には、それを変える力があります。それに何より、この立場であったからこそ、あなたと出会うことができたのです。
+VO_JA_Sangonomiya_Kokomi_Hobbies.ogg  ||  好きなことですか？一日中、誰にも邪魔されないような静かな場所で兵学の本を読みたいですね。私と一緒に兵学を研究したければ、ぜひ歓迎しますよ。ただ…あなたの布団はありませんが…
+VO_JA_Sangonomiya_Kokomi_Troubles.ogg  ||  実は私、人との会話はあまり得意ではありません。「現人神の巫女」の立場を利用して対応できるとはいえ、私にとってとてもエネルギーを消費することなのです…エネルギーが尽きれば、私は自分の消極的な一面が露わになります。そのような姿は他人に見られたくありません。人々が必要としているのは、家にこもるのが好きな小娘などではなく、海祇島の完璧な指導者ですので。
+VO_JA_Sangonomiya_Kokomi_Favorite_Food.ogg  ||  鳥の玉子寿司、私の一番好きな料理です。鳥の卵を材料としているので珍しいものではなく、作り方も非常に簡単。軍で配給するのにも適していますね。戦争が激しかった頃、鳥の玉子寿司を食べられるのはとても贅沢なことでした。日常において、こうした素朴な料理が兵士たちに十分な満足を与えてくれるのです。
+VO_JA_Sangonomiya_Kokomi_Least_Favorite_Food.ogg  ||  はい、強いて言えば、魚を使った料理はあまり好みではありません。ただこのことは秘密にしておいてください。海祇島は漁業が盛んですので、人々に魚料理が嫌いな事を知られると、変な心配をかけてしまうかもしれません。
+VO_JA_Sangonomiya_Kokomi_Receiving_a_Gift_-_01.ogg  ||  とても美味しいです！エネルギーも…い、いえ、なんでもありません…
+VO_JA_Sangonomiya_Kokomi_Receiving_a_Gift_-_02.ogg  ||  ゆっくりと味わえば、きっと幸福感も長く続くでしょう…
+VO_JA_Sangonomiya_Kokomi_Receiving_a_Gift_-_03.ogg  ||  これはまた…あなたに難題を出されてしまったようですね。
+VO_JA_Sangonomiya_Kokomi_Birthday.ogg  ||  お誕生日おめでとうございます！何か予定はありますか？もしないのでしたら、一緒に海祇島でお祝いをしましょう。朝は日の出を見に行き、昼は海に潜って景色を楽しみ、夜は珊瑚宮で散歩。雨が降っていたら、兵学を読む場所を探して、一緒にケーキを作りましょう。とにかく、今日は何も考えず、この「軍師」である私にお任せください！
+VO_JA_Sangonomiya_Kokomi_Feelings_About_Ascension_-_01.ogg  ||  武力を主張することはしませんが、強くなれるのは良いことです。
+VO_JA_Sangonomiya_Kokomi_Feelings_About_Ascension_-_02.ogg  ||  力がどんどん湧いてきます…次の作戦は、より上手くいくことでしょう。
+VO_JA_Sangonomiya_Kokomi_Feelings_About_Ascension_-_03.ogg  ||  月明かりに照らされる海、潮の満ち引きと共に流れん。力がさらに強まり、心境も一変しました。
+VO_JA_Sangonomiya_Kokomi_Feelings_About_Ascension_-_04.ogg  ||  私はかつて、しばし自己不信に陥ることがありました。私のような者が、果たして本当に現人神の巫女の地位にふさわしいのだろうか、と。しかし今では、そのようなことはほとんど考えなくなりました。あなたと一緒にいれば、どんな困難にも立ち向かえるからです。
+VO_JA_Sangonomiya_Kokomi_Elemental_Skill_1_01.ogg  ||  ご助力を！
+VO_JA_Sangonomiya_Kokomi_Elemental_Skill_1_02.ogg  ||  ご安心を。
+VO_JA_Sangonomiya_Kokomi_Elemental_Skill_1_03.ogg  ||  騒乱の憩い。
+VO_JA_Sangonomiya_Kokomi_Elemental_Burst_01.ogg  ||  海の契りよ。
+VO_JA_Sangonomiya_Kokomi_Elemental_Burst_02.ogg  ||  荒れ狂いなさい！
+VO_JA_Sangonomiya_Kokomi_Elemental_Burst_03.ogg  ||  深海の加護！
+VO_JA_Sangonomiya_Kokomi_Sprint_Start_01.ogg  ||  行きましょう。
+VO_JA_Sangonomiya_Kokomi_Sprint_Start_02.ogg  ||  
+VO_JA_Sangonomiya_Kokomi_Deploying_Wind_Glider_01.ogg  ||  いい景色ですね。
+VO_JA_Sangonomiya_Kokomi_Deploying_Wind_Glider_02.ogg  ||  
+VO_JA_Sangonomiya_Kokomi_Opening_Treasure_Chest_01.ogg  ||  補給はとても大切なことです。
+VO_JA_Sangonomiya_Kokomi_Opening_Treasure_Chest_02.ogg  ||  どう使うかきちんと計画してくださいね。
+VO_JA_Sangonomiya_Kokomi_Opening_Treasure_Chest_03.ogg  ||  これが冒険の楽しいところですね。
+VO_JA_Sangonomiya_Kokomi_Low_HP_01.ogg  ||  疲れました…
+VO_JA_Sangonomiya_Kokomi_Low_HP_02.ogg  ||  戦術を変えなければ。
+VO_JA_Sangonomiya_Kokomi_Low_HP_03.ogg  ||  慎重に。
+VO_JA_Sangonomiya_Kokomi_Ally_at_Low_HP_01.ogg  ||  援軍の到着です！
+VO_JA_Sangonomiya_Kokomi_Ally_at_Low_HP_02.ogg  ||  後方へお下がりください。
+VO_JA_Sangonomiya_Kokomi_Fallen_01.ogg  ||  策に…問題が…
+VO_JA_Sangonomiya_Kokomi_Fallen_02.ogg  ||  策を見誤りました…
+VO_JA_Sangonomiya_Kokomi_Fallen_03.ogg  ||  二度とこのような過ちは…
+VO_JA_Sangonomiya_Kokomi_Light_Hit_Taken_01.ogg  ||  
+VO_JA_Sangonomiya_Kokomi_Heavy_Hit_Taken_01.ogg  ||  失策です。
+VO_JA_Sangonomiya_Kokomi_Heavy_Hit_Taken_02.ogg  ||  手強いですね…
+VO_JA_Sangonomiya_Kokomi_Heavy_Hit_Taken_03.ogg  ||  
+VO_JA_Sangonomiya_Kokomi_Joining_Party_01.ogg  ||  そうですね、今回の作戦は…
+VO_JA_Sangonomiya_Kokomi_Joining_Party_02.ogg  ||  ご安心を。私たちなら勝てます。
+VO_JA_Sangonomiya_Kokomi_Joining_Party_03.ogg  ||  準備万端、出発しましょう。
+VO_JA_Sangonomiya_Kokomi_Standby_01.ogg  ||  
+VO_JA_Sangonomiya_Kokomi_Light_Attack_01.ogg  ||  
+VO_JA_Sangonomiya_Kokomi_Mid_Attack_01.ogg  ||  
+VO_JA_Sangonomiya_Kokomi_Heavy_Attack_01.ogg  ||  
+VO_JA_Sangonomiya_Kokomi_Climbing_01.ogg  ||  
+VO_JA_Sangonomiya_Kokomi_Climbing_Breath_01.ogg  ||  
+VO_JA_Sangonomiya_Kokomi_Jumping_01.ogg  ||  

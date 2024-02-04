@@ -1,0 +1,80 @@
+VO_JA_Wriothesley_Hello.ogg  ||  どうも、用件を簡潔に説明してくれるかい。ん？仕事の件じゃない？そっちのほうが逆に緊張するんだがな。
+とにかくまあ、座ってくれ。ついでに、俺のことは「公爵」と呼ぶといい。あいつらがみんなこう呼ぶもんだから、もう慣れちまった。
+VO_JA_Wriothesley_Chat_-_Stickers.ogg  ||  俺の背中にメリュジーヌが描いたステッカーが貼ってあったら、剥がしてくれるかい？
+VO_JA_Wriothesley_Chat_-_Pets.ogg  ||  執務室でペットを飼おうかと考えたことがあったが、日差しすら届かない場所で暮らすなんて、犬や猫が可哀そうすぎると思ってやめたんだ。
+VO_JA_Wriothesley_Chat_-_Words_of_Advice.ogg  ||  違法行為はしないように。他に何か言っておくことはあったか——ああ、違法行為はやめておいてくれ。
+VO_JA_Wriothesley_When_It_Rains.ogg  ||  雨か？それならよかった。メロピデ要塞で頭の上から水が降ってきたら、それこそ大問題だがな。
+VO_JA_Wriothesley_When_Thunder_Strikes.ogg  ||  心の中にやましいことがない限りは、こんな天気でも安眠できるはずさ。
+VO_JA_Wriothesley_When_It_Snows.ogg  ||  ふむ…水の下の寒さとはやっぱり違うな。
+VO_JA_Wriothesley_When_the_Sun_Is_Out.ogg  ||  「太陽の下、新しきものは何ひとつなし」と言うが、いい場所を見つけてピクニックができそうだぞ。
+VO_JA_Wriothesley_Good_Morning.ogg  ||  おはよう。朝刊の天気予報にはどう書いてあった？
+VO_JA_Wriothesley_Good_Afternoon.ogg  ||  この時間帯の特別許可食堂は混んでるからな…執務室まで運んでもらおう。
+VO_JA_Wriothesley_Good_Evening.ogg  ||  もうこんな時間か？アフタヌーンティーを飲み終えたばっかりかと思ってたんだが。
+VO_JA_Wriothesley_Good_Night.ogg  ||  おやすみ。俺ももう少ししたら寝るさ。この夜の静けさを借りて、色々清算しようと思ってな。
+VO_JA_Wriothesley_About_Wriothesley_-_Misunderstanding.ogg  ||  俺のことを深すぎる謎に包まれた人物とか、全能すぎる人物だと思ってくれているやつが多いみたいだが…あいにく俺は、二つの目と二つの耳しか持ち合わせてないんだ。メロピデ要塞の隅々にまで、目や耳が届くわけないだろ？
+VO_JA_Wriothesley_About_Wriothesley_-_Small_Breaks.ogg  ||  俺の刑期はとっくに終わってるから、今は自由な市民さ。もちろん水の上をぶらつくことだってできる。
+——案ずることはない。俺がずっと居座ってないとメロピデ要塞が安定して運転できないなんて、かえって不健全だろ？
+VO_JA_Wriothesley_About_Us_-_Committing_to_Jail.ogg  ||  俺が誰かに抱く第一印象は、たいてい収監登録リストから来てる。どうやらあんたも例外じゃないらしい。
+VO_JA_Wriothesley_About_Us_-_Finishing_the_Jail_Term.ogg  ||  利益のやりとりがなくなって、初めて友達になれるって言うだろ？今から始めてもいいぞ。
+VO_JA_Wriothesley_About_the_Vision.ogg  ||  昔、囚人から化学薬品を使って元素を使う方法を学んだことがある。「神の目」の配布をどの部門が管理してるのかは知らないが、これくらいの分不相応は、気にしないらしいな。
+VO_JA_Wriothesley_Something_to_Share.ogg  ||  警察隊の捜査から逃げる方法を知ってるかい？——それはな、自分に長ったらしく覚えにくい名前を付けることだ。そしたらやつらが「誰々、手を挙げろ！」と叫びたいとき、詰むからな。
+VO_JA_Wriothesley_Interesting_Things.ogg  ||  「働かざる者食うべからず」という言葉は、かなり昔からメロピデ要塞の壁に刻み込まれてる。誰の仕業かは知らんが、水の下じゃ確かに使えるな。
+VO_JA_Wriothesley_About_Neuvillette.ogg  ||  以前、会議のためにヌヴィレットさんから呼ばれたことがあったが、外へ出てパレ·メルモニアの正門についた頃、彼が道端で雨の中に突っ立っているのを見たんだ。傘を差しかけてあげたんだが、礼は言われたものの、不自然な表情だった。恐らく、何かの邪魔をしてしまったのかもな。
+VO_JA_Wriothesley_About_Furina.ogg  ||  俺が罪を認めるのが早すぎたせいか、フリーナ様は当時の審判でつまらなそうな顔をしながら、早々に退場してしまった。水神様を失望させてしまうなんて、とんだ重大事故さ。ふむ、今後はもっといい茶葉を贈ってさしあげないとな。
+VO_JA_Wriothesley_About_Sigewinne.ogg  ||  シグウィン看護師長は医療従事者として持つべきすべての美徳を兼ね備えた人物で、周りの仲間全員に気を配ってる。
+だが、どうやら俺から一部の悪癖を学んでしまったらしい。例えば…彼女はよくメリュジーヌの友人と賭けをするんだ。俺の所有物により多くのステッカーを貼れたほうが勝ちってな。まあ、別に困っているわけではないが。
+VO_JA_Wriothesley_About_Clorinde.ogg  ||  クロリンデさんはあんたの見つけられる範囲じゃ一番いい決闘代理人だと思う。彼女の実力は申し分ないからな。まあ、彼女と勝負したことはないが。その必要がなかったからな。
+VO_JA_Wriothesley_About_Lyney.ogg  ||  認めよう——「壁炉の家」が水の下に仕込んだスパイを処理したのは、ある種の挑発だった。それなのに、あっちのとった措置といえば、子供を数人送りこんで来ただけだった。まったく困ったもんさ。本気で彼らを犠牲にしてもいいと思ってるのか、それとも俺が子供に酷いことはしないのを読んだのか…はぁ。
+VO_JA_Wriothesley_About_Navia.ogg  ||  メロピデ要塞と棘薔薇の会は、物資について一部協力関係を築いてはいるが、それ以上のことはない。ナヴィアさんを信用してないとか、彼女の能力を疑ってるってわけじゃないぞ——実を言えばその真逆さ。ただ、水の上と下の事務にお互い干渉しない、というのが俺とカーレスさんの間の約束だったから、それをそのままにしてるだけだ。
+VO_JA_Wriothesley_About_Emilie.ogg  ||  メロピデ要塞に彼女のサービスは必要ないはずだ。一部の痕跡は「前車の覆るは後車の戒め」として残されてる…匂いだって痕跡の一種だ。違うかい？
+VO_JA_Wriothesley_About_Chevreuse.ogg  ||  特巡隊に「世話」になった囚人は、基本大人しい。あの隊長さんのおかげだな。
+VO_JA_Wriothesley_More_About_Wriothesley_-_01.ogg  ||  理論上、俺のことをまったく知らない者のほうが、より幸せな生活を送れる。
+VO_JA_Wriothesley_More_About_Wriothesley_-_02.ogg  ||  俺の身体にある傷跡？かつて深海の巨獣がメロピデ要塞を占拠しようと攻め込んできたときに、そいつとのケンカでできた傷跡…というのはもちろん嘘だ。信じるなよ。
+VO_JA_Wriothesley_More_About_Wriothesley_-_03.ogg  ||  知ってるか？手錠っていうのは、型番が近ければ、大抵は共通の鍵で開けられるんだ。俺が持ってるやつだけは例外だけどな。
+VO_JA_Wriothesley_More_About_Wriothesley_-_04.ogg  ||  俺一人の能力には、限りがある。俺は病気の治療もできないし、発明品を作ることもできないだろ？それに、巨大な船を作ることだって、もちろん不可能だ。だが、こういうことをやれる者がどこにいるかを俺は分かっているから、みんなはただ俺の顔を立ててくれるのさ。
+VO_JA_Wriothesley_More_About_Wriothesley_-_05.ogg  ||  今の俺はそれなりにいい暮らしをしてるが、それでも手に入らない一部のものが羨ましい——平和で楽しい子供時代と、簡単に他人を信じることのできる力だ。矛盾してるとか、言いづらいとか、そう思う者もいるらしいが、俺は別にこの気持ちを認めてもいいと思ってる。己の本心に逆らって何になる？
+VO_JA_Wriothesley_Hobbies.ogg  ||  拳闘？趣味とまでは言えないな。ただ生活するうえで必須のもんさ。他に何かオススメの趣味はあるかい？
+VO_JA_Wriothesley_Troubles.ogg  ||  俺は確かにフォンテーヌ人らしい顔つきをしてるが、百パーセント確定ってわけでもないな——胎海に飛び込んで確認してみるしかないか。
+VO_JA_Wriothesley_Favorite_Food.ogg  ||  コーヒーを飲むなら俺はミルクを入れるほうだ。お茶なら、砂糖二つでいい。
+VO_JA_Wriothesley_Least_Favorite_Food.ogg  ||  看護師長の作ったミルクセーキを飲んだことはあるかい？そうだな…「不毛」の味を味わえるぞ。
+VO_JA_Wriothesley_Receiving_a_Gift_-_01.ogg  ||  完璧なさじ加減だ。俺にはやれそうもないな。
+VO_JA_Wriothesley_Receiving_a_Gift_-_02.ogg  ||  うまいな。次は俺がご馳走しよう。
+VO_JA_Wriothesley_Receiving_a_Gift_-_03.ogg  ||  お茶を淹れて来る。待っていてくれ。
+VO_JA_Wriothesley_Birthday.ogg  ||  フォンテーヌの子供なら、両親の願いと祝福と共にこの世に生まれてくるもんだ。だが、この世にいる全員がそうなのだと、俺は信じたい。それと比べれば、俺からの祝福なんていうのはつまらないものになってしまうな。
+——いや、もしあんたが罪を犯してしまっても、刑期を減らすことはできないぞ。特殊なサービス食を用意するくらいしかできそうにない。だから、誕生日の間は大人しくしててくれ。せっかくのお祝いなんだから、きちんと水の上でやろう。な？
+VO_JA_Wriothesley_Feelings_About_Ascension_-_01.ogg  ||  あんたに信用してもらえて、光栄だ。
+VO_JA_Wriothesley_Feelings_About_Ascension_-_02.ogg  ||  これで、あんたに恩を返さないといけなくなったな。
+VO_JA_Wriothesley_Feelings_About_Ascension_-_03.ogg  ||  はっ、なぜ俺よりも得意げな顔をしてる？
+VO_JA_Wriothesley_Feelings_About_Ascension_-_04.ogg  ||  力と希望の兆しは好きだ。この先の未来は、すべてがよくなっていく…そう感じさせてくれるからな。別に悲観的に考えてるわけじゃないぞ、ただ事実を述べてるだけさ。何せ、現実世界では常に物事が順風満帆にいくわけじゃないからな。だが、いいニュースもある。悪い事が起こってしまうときには、俺らは同じ側に立っているはずさ…そうだろ？
+VO_JA_Wriothesley_Elemental_Skill_1_01.ogg  ||  始めよう。
+VO_JA_Wriothesley_Elemental_Skill_1_02.ogg  ||  逃げるなって。
+VO_JA_Wriothesley_Elemental_Skill_1_03.ogg  ||  少しいいかい。
+VO_JA_Wriothesley_Elemental_Burst_01.ogg  ||  行ってらっしゃい。
+VO_JA_Wriothesley_Elemental_Burst_02.ogg  ||  寒いから気を付けろよ。
+VO_JA_Wriothesley_Elemental_Burst_03.ogg  ||  恐れなくていいさ、罪に向き合うんだ。
+VO_JA_Wriothesley_Sprint_Start_01.ogg  ||  
+VO_JA_Wriothesley_Deploying_Wind_Glider_01.ogg  ||  
+VO_JA_Wriothesley_Opening_Treasure_Chest_01.ogg  ||  鍵がついてなかったのか。都合がよかったな。
+VO_JA_Wriothesley_Opening_Treasure_Chest_02.ogg  ||  とりあえずしまっておこう。いつか役に立つさ。
+VO_JA_Wriothesley_Opening_Treasure_Chest_03.ogg  ||  主なきもの、公に帰すべし——でも、最初からここには何もなかった。だろ？
+VO_JA_Wriothesley_Low_HP_01.ogg  ||  焦るな。
+VO_JA_Wriothesley_Low_HP_02.ogg  ||  増援は望めないって？まあいいさ。
+VO_JA_Wriothesley_Low_HP_03.ogg  ||  タイミングを見計らうんだぞ。
+VO_JA_Wriothesley_Ally_at_Low_HP_01.ogg  ||  下がれ。
+VO_JA_Wriothesley_Ally_at_Low_HP_02.ogg  ||  医務室へ行け。
+VO_JA_Wriothesley_Fallen_01.ogg  ||  すまない、守り切れなかった…
+VO_JA_Wriothesley_Fallen_02.ogg  ||  大博打の結果がこのザマか…
+VO_JA_Wriothesley_Fallen_03.ogg  ||  異議なしだ。
+VO_JA_Wriothesley_Light_Hit_Taken_01.ogg  ||  ずいぶん遠慮がちだな？
+VO_JA_Wriothesley_Light_Hit_Taken_02.ogg  ||  
+VO_JA_Wriothesley_Heavy_Hit_Taken_02.ogg  ||  ほほう。
+VO_JA_Wriothesley_Heavy_Hit_Taken_01.ogg  ||  
+VO_JA_Wriothesley_Joining_Party_01.ogg  ||  やるか。
+VO_JA_Wriothesley_Joining_Party_02.ogg  ||  外の仕事か？行こう。
+VO_JA_Wriothesley_Joining_Party_03.ogg  ||  最善を尽くすが、勝利の保証はしないぞ。
+VO_JA_Wriothesley_Light_Attack_06.ogg  ||  
+VO_JA_Wriothesley_Mid_Attack_01.ogg  ||  
+VO_JA_Wriothesley_Heavy_Attack_01.ogg  ||  
+VO_JA_Wriothesley_Climbing_01.ogg  ||  
+VO_JA_Wriothesley_Climbing_Breath_01.ogg  ||  
+VO_JA_Wriothesley_Jumping_01.ogg  ||  

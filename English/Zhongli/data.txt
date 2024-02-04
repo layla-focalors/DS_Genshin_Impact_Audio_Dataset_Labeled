@@ -1,0 +1,85 @@
+VO_Zhongli_Hello.ogg  ||  A new contract? Okay. I'm still on leave, but I can accompany you for a while. What name should I use on the contract? I have a great many names, though when on leave... I tend to go by Zhongli. And you, Traveler? What name will you be signing on this contract?
+VO_Zhongli_Chat_-_Journeys.ogg  ||  Every journey has its final day. Don't rush.
+VO_Zhongli_Chat_-_Tours.ogg  ||  Where do you want to go next? If you'd like to see Liyue's tourist spots, I have a few references.
+VO_Zhongli_Chat_-_Liyue.ogg  ||  Boats are made for transferring commodities back and forth, and those that come across Liyue tend to stay a while, so it is where many things come to settle.
+VO_Zhongli_Chat_-_Reminiscing.ogg  ||  Osmanthus wine tastes the same as I remember... But where are those who share the memory?
+VO_Zhongli_After_the_Rain.ogg  ||  Violetgrass is a plant that enjoys a moist environment and is best picked after it rains. If you should choose to pick any, be sure to store them appropriately.
+VO_Zhongli_When_It_Snows.ogg  ||  We should look for a place to take shelter. I'll be fine, but we don't want you catching a cold.
+VO_Zhongli_When_the_Wind_Is_Blowing.ogg  ||  This weather is no good for being on vacation. We should go and take in an opera.
+VO_Zhongli_Good_Morning.ogg  ||  I hope today too shall be prosperous.
+VO_Zhongli_Good_Afternoon.ogg  ||  Want a quick meal to pick us back up? I know a good place in Chihu Rock.
+VO_Zhongli_Good_Evening.ogg  ||  By this time of night, we will have already missed Ms. Yun's play, but Liyue is full of interesting places to explore, even at night.
+VO_Zhongli_Good_Night.ogg  ||  The market is closed and the port has settled. Go get some rest.
+VO_Zhongli_About_Zhongli.ogg  ||  Nothing can be accomplished without rules or standards. No matter if it is mortals or adepti, everyone has their place. This rule keeps Liyue in peace.
+VO_Zhongli_About_Us_-_Gold.ogg  ||  Gold is Liyue's treasure. It is the blood that runs through her heart. As for whether your own heart shines like gold — we will have to wait and see.
+VO_Zhongli_About_Us_-_Contracts.ogg  ||  You and I have a contract, so feel free to discuss anything at all within the scope of said contract.
+VO_Zhongli_About_Us_-_Fairness.ogg  ||  We can discuss matters that fall outside of our contract too. After all, I have been on this land for a time, and have come to know a thing or two. Of course, I do hope you can do some things for me as well. That would only be fair.
+VO_Zhongli_About_Us_-_Confusion.ogg  ||  Contracts cannot be used to define friendship, nor measure sentiment. So just what can we use to measure the weight of our emotions? Do you know the answer, friend?
+VO_Zhongli_About_the_Vision.ogg  ||  Visions... are also a type of contract. You should know that all power comes at a price. For every bit of power you gain, so too do you gain more responsibility.
+VO_Zhongli_Something_to_Share.ogg  ||  Trade relies on both contracts and fairness. There is one thing you must never forget when making and abiding by a contract: if fairness is lost, then the contract shall become proof of one's deception.
+VO_Zhongli_Interesting_Things.ogg  ||  If you're heading to Jueyun Karst, please bring me back a bunch of Qingxin. Just one bunch is enough. Travel expenses... Ah, I almost forgot, during the effective period of our contract, travel expenses are to be paid for by yourself. Sorry to bother you.
+VO_Zhongli_About_Xiao.ogg  ||  You speak of the young adeptus of Guili Plains... *sigh* Still fulfilling his duty to this very day. Please give this Remedium Tertiorum to him on my behalf. Oh, yes... be sure not to let Paimon eat them. Nothing of this world can withstand the power of this medicine.
+VO_Zhongli_About_Venti.ogg  ||  *sniff* Tsk... It reeks of wine. That bard has just been through here, hasn't he? That drunkard is a disgrace to the arts. Oh... Has he tricked you into getting drunk? You're slurring a little. Wait a moment, I'll brew a pot of sobering tea. It'll be ready in only six hours, so just wait a moment.
+VO_Zhongli_About_Ningguang.ogg  ||  Despite the multitude of affairs she deals with in a day, Ningguang always continues to press on. A rare gem indeed. I'm reminded of the time that she used to walk barefoot from Yaoguang Shoal to the south wharf, trying to sell her wares as she went. Time is cruel to humans.
+VO_Zhongli_About_Hu_Tao.ogg  ||  The current overseer of the funeral parlor? Ahem. I cannot deal with that child.
+VO_Zhongli_About_Tartaglia_-_Composed.ogg  ||  That rascal from Snezhnaya has yet to depart from Liyue? Heh, no matter. Just let me know if he gives you any trouble. I shall deal with the matter swiftly.
+VO_Zhongli_About_Tartaglia_-_Drinks.ogg  ||  It's said that Childe and his reputation have yet again stirred up waves among the inner ranks of the Fatui. Knowing his type, he will be sure to swiftly depose anyone who dares to challenge his actions. Hmm... Come to think of it, there will be a lot of interesting news to be heard the next time we gather for drinks. Care to join me when the time comes, Traveler?
+VO_Zhongli_About_Ganyu.ogg  ||  Liyue's prosperity has not been merely built on Rex Lapis' oracles or wisdom. It is also thanks to the countless servants of the Geo Archon who have honored their end of the contract. Of them, Ganyu is the one who has served for the longest time. If you want to know about her past... You should ask her about it. I fear my wording would not be delicate enough to receive her approval.
+VO_Zhongli_About_Keqing.ogg  ||  She is the most impious of the Qixing — but I actually find the conviction of such people quite endearing. The only reason I was able to consider taking a step back from such overarching management of Liyue was because there are people like her. People who speak up when they believe themselves to be right, and then go and do something decisive about it.
+VO_Zhongli_About_Yanfei.ogg  ||  Despite never having signed a contract with me, she upholds order within many strata of Liyue society in her own way, dispelling misconceptions and correcting biases... Should her father one day return from his travels, I imagine that he would be even more delighted than I.
+VO_Zhongli_About_Baal.ogg  ||  Time tempers all volition. Yet she would give up everyone for her beliefs. Perhaps it is for this very reason that she has come to where she stands today... Should the chance come by me, I too would like to learn of the Eternity for which she so earnestly endeavors.
+VO_Zhongli_About_Buer.ogg  ||  As well as ruling over all of Sumeru, the God of Wisdom, Buer, has a duty to guard Irminsul. Only one who possesses great wisdom could hope to shoulder these responsibilities. All life in Teyvat owes her gratitude for saving Irminsul.
+VO_Zhongli_About_Furina.ogg  ||  She made a contract with her own self to save the nation, strictly adhered to it for over five centuries without once wavering, and even fooled the Heavenly Principles in the end... I have great respect for approaches to justice that place exacting demands not only on others, but also on the self. Though her divinity has vanished and the throne of the Archon is no more, Furina will go down in Fontaine's history as a God of Justice worthy of recognition.
+VO_Zhongli_About_Xianyun.ogg  ||  I hear many merchants of Liyue tell tales of a Ms. Xianyun. By most accounts, she appears proud and taciturn upon first glance, yet in conversation, people find her to be forthright and fair-minded, and they are pleased to make her acquaintance. I am glad to hear this. But... I have also heard a great many accounts lauding her readiness to part with large sums of Mora...
+VO_Zhongli_More_About_Zhongli_-_01.ogg  ||  Why is it that once you finally get a break, rather than taking a rest, you instead come to me? Is it that you want to hear one of my stories?
+VO_Zhongli_More_About_Zhongli_-_02.ogg  ||  Have you heard of the origin of the Blackcliff Forge? In the past, they would mine the ore veins of Mt. Tianheng, and then replace the cavities with factory equipment. Tunnels run in all directions throughout the mountain — some even run to the ruins deep within the earth. I doubt there is a person today who could map out all the tunnels.
+VO_Zhongli_More_About_Zhongli_-_03.ogg  ||  Have you heard of the origins of the Lantern Rite? In a war, long ago, the people of Liyue would release lanterns to remind their soldiers of the way home, and to never lose sight of themselves. Though in this day and age, I doubt there are any that remember.
+VO_Zhongli_More_About_Zhongli_-_04.ogg  ||  The God of Contracts. Have you heard of him? He has an impressive memory. He remembers the name of every person he comes across, and the date that every ship in Liyue sets sail. After all, only in being able to do so can he memorize all of the contracts he holds. With that said, not every memory is a happy one...
+VO_Zhongli_More_About_Zhongli_-_05.ogg  ||  For those that live too long, the friends of days gone by and scenes from their adventures live on in their memories. As such I have no regrets in meeting you, friend. Should the day ever come that we are not together, you will continue to shine like gold in my memories.
+VO_Zhongli_Hobbies.ogg  ||  I enjoy partaking in walks through the city — when time permits. I find it very calming. Yes... Just when did this feeling begin...?
+VO_Zhongli_Troubles.ogg  ||  To get people to abide by a contract and act in accordance with the guidelines set out within is simply to ask them to respect the concept of fairness. It is not a large request. How are there those who still do not understand such simplicity?
+VO_Zhongli_Favorite_Food.ogg  ||  There was once a drink I used to enjoy with friends — long ago... Is it because the climate has changed? A shame I will never be able to relish in its smooth flavor again.
+VO_Zhongli_Least_Favorite_Food.ogg  ||  I don't like seafood. Just seeing it reminds me of that... slimy texture, and that scent that just won't wash off. As for why I hate it... *sigh* It's a long story, so let's just say my memory is a little too good.
+VO_Zhongli_Receiving_a_Gift_-_01.ogg  ||  The finest ingredients cooked with true expertise. This is no small feat.
+VO_Zhongli_Receiving_a_Gift_-_02.ogg  ||  The art of gastronomy is a fascinating one. That it appeals to you comes as no surprise.
+VO_Zhongli_Receiving_a_Gift_-_03.ogg  ||  Since you seem to have some time on your hands, why don't we find a quiet place and I'll share one of my stories with you.
+VO_Zhongli_Birthday.ogg  ||  Happy birthday. This is a dried Glaze Lily that came into bloom on the day of your birth. Long ago, the people of Liyue would say that this flower blooms bearing the weight of the beautiful memories and prayers of the land. I believe this to have been applied on the day you were born as well.
+VO_Zhongli_Feelings_About_Ascension_-_01.ogg  ||  It seems my strength is returning. Not a lot, but enough.
+VO_Zhongli_Feelings_About_Ascension_-_02.ogg  ||  My power is growing, and so with it grows the burden on my body... I'm okay. My structure is not the same as that of normal people. Please, do not worry yourself.
+VO_Zhongli_Feelings_About_Ascension_-_03.ogg  ||  I see. Using a Vision harnesses elements. As far as the common folk are concerned, this is no small feat. So... back then... they were aware of this as they stood beside me...
+VO_Zhongli_Feelings_About_Ascension_-_04.ogg  ||  After letting go of my Gnosis, I never expected to see a day like this again. Thank you, friend. Ah, yes, I have a new contract here. Care to take a look at it together?
+VO_Zhongli_Elemental_Skill_1_01.ogg  ||  Rise!
+VO_Zhongli_Elemental_Skill_1_02.ogg  ||  Quake!
+VO_Zhongli_Elemental_Skill_1_03.ogg  ||  Crumble!
+VO_Zhongli_Elemental_Skill_1_04.ogg  ||  (Hold) Gather.
+VO_Zhongli_Elemental_Skill_1_05.ogg  ||  (Hold) Stabilize.
+VO_Zhongli_Elemental_Skill_1_06.ogg  ||  (Hold) Solidify.
+VO_Zhongli_Elemental_Burst_01.ogg  ||  Order guide you.
+VO_Zhongli_Elemental_Burst_02.ogg  ||  This is order.
+VO_Zhongli_Elemental_Burst_03.ogg  ||  I will have order!
+VO_Zhongli_Sprint_Start_01.ogg  ||  
+VO_Zhongli_Deploying_Wind_Glider_01.ogg  ||  
+VO_Zhongli_Opening_Treasure_Chest_01.ogg  ||  One man's stone is another man's gem...
+VO_Zhongli_Opening_Treasure_Chest_02.ogg  ||  Unsolicited... and all the more valuable for it.
+VO_Zhongli_Opening_Treasure_Chest_03.ogg  ||  Certainly worth the extra mile.
+VO_Zhongli_Low_HP_01.ogg  ||  I see your power.
+VO_Zhongli_Low_HP_02.ogg  ||  Ha, this is getting interesting.
+VO_Zhongli_Low_HP_03.ogg  ||  Emergency countermeasures aren't my thing.
+VO_Zhongli_Ally_at_Low_HP_01.ogg  ||  Don't try to rush your enemy.
+VO_Zhongli_Ally_at_Low_HP_02.ogg  ||  Take a rest. Leave it to me.
+VO_Zhongli_Fallen_01.ogg  ||  Ugh... I'm feeling a little... off...
+VO_Zhongli_Fallen_02.ogg  ||  You shouldn't see me like this...
+VO_Zhongli_Fallen_03.ogg  ||  Even bedrock can be turned to dust...
+VO_Zhongli_Light_Hit_Taken_01.ogg  ||  
+VO_Zhongli_Heavy_Hit_Taken_01.ogg  ||  Careless...
+VO_Zhongli_Heavy_Hit_Taken_02.ogg  ||  Nothing to fear.
+VO_Zhongli_Heavy_Hit_Taken_03.ogg  ||  
+VO_Zhongli_Joining_Party_01.ogg  ||  Sure.
+VO_Zhongli_Joining_Party_02.ogg  ||  A walk would be nice.
+VO_Zhongli_Joining_Party_03.ogg  ||  What shall we do?
+VO_Zhongli_Light_Attack_01.ogg  ||  
+VO_Zhongli_Mid_Attack_01.ogg  ||  
+VO_Zhongli_Heavy_Attack_01.ogg  ||  
+VO_Zhongli_Climbing_01.ogg  ||  
+VO_Zhongli_Climbing_Breath_01.ogg  ||  
+VO_Zhongli_Jumping_01.ogg  ||  

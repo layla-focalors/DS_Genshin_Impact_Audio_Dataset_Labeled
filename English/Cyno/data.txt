@@ -1,0 +1,88 @@
+VO_Cyno_Hello_-_The_Past.ogg  ||  I'm Cyno, the former General Mahamatra. Now I use my abilities to punish evil as I see fit. If you share my devotion to rules and justice, then I can lend you my strength.
+VO_Cyno_Hello_-_The_Present.ogg  ||  I'm Cyno, General Mahamatra of the Akademiya. It's my duty to uphold the rules, and punish wrongdoing. I will protect you on your journey.
+VO_Cyno_Chat_-_Weighing_the_Heart.ogg  ||  Good deeds and bad... In the end, all will be placed upon the scales.
+VO_Cyno_Chat_-_Luck_of_the_Draw.ogg  ||  Luck can swing the results of a single game, but it's bound to run out sooner or later.
+VO_Cyno_Chat_-_Doubt.ogg  ||  I do try to lighten the mood sometimes, but... I'm not the best judge of other people's sense of humor.
+VO_Cyno_When_It_Rains.ogg  ||  Hm, it's raining again...
+VO_Cyno_When_Thunder_Strikes.ogg  ||  In some legends, thunderbolts are a form of judgment from the gods above.
+VO_Cyno_When_It_Snows.ogg  ||  I love seeing everything covered in a fresh blanket of snow. There's a perfect stillness to it that's not lifeless, but calm and peaceful.
+VO_Cyno_When_the_Sun_Is_Out.ogg  ||  The sunshine will eventually illuminate every hidden corner.
+VO_Cyno_When_the_Wind_Is_Blowing.ogg  ||  Careful, the wind is picking up.
+VO_Cyno_In_the_Desert.ogg  ||  A familiar sight...
+VO_Cyno_Good_Morning.ogg  ||  Get ready. It's time to go.
+VO_Cyno_Good_Afternoon.ogg  ||  Want me to prepare lunch today? It's fine with me, but I should warn you, I can't promise it'll be any good.
+VO_Cyno_Good_Evening.ogg  ||  Remember what I told you? There's always danger lurking in the night, so whatever you do, keep your guard up.
+VO_Cyno_Good_Night.ogg  ||  Goodnight. Now, there's some criminal activity nearby that I'll go deal with.
+VO_Cyno_About_Cyno_-_Unfunny_Jokes.ogg  ||  Hmm... a joke? Ah, I've got just the one. Ahem... There once was a traveler, stranded in the desert and dying of thirst, who in desperation prayed for a Hydro Slime to come their way. But the traveler didn't realize that at that very moment, a starving Hydro Slime was praying to meet a lone, stranded traveler... What, not funny? Tsk, I think it's hysterical.
+VO_Cyno_About_Cyno_-_Desert_Strolls.ogg  ||  Sometimes I'll take a stroll through the desert at night... The cold, dry air out there helps me clear my mind.
+VO_Cyno_About_Us_-_TCG_Duel.ogg  ||  Up for a game of Genius Invokation TCG? I'll show you the new deck I built.
+VO_Cyno_About_Us_-_The_Present.ogg  ||  The past cannot be changed, and the future cannot be foretold. As a result, I make sure to always cherish the here and now.
+VO_Cyno_About_the_Vision.ogg  ||  You may say that I have received much divine favor, with the spirit that dwells within me, and the god that took heed of my ambition. But I have no intention of letting this affect my code of justice. I will simply continue to do whatever is required to fulfill my duty.
+VO_Cyno_Something_to_Share_-_Lust_for_Knowledge.ogg  ||  I think most people understand that an excess of desire will lead to disaster, but people seldom admit that when it comes to the pursuit of knowledge, they're only willing to put it in a positive light. In my opinion, chasing after knowledge is still a form of desire, and must also be reined in.
+VO_Cyno_Something_to_Share_-_Solemn_Respect.ogg  ||  Any decision I make during a mission can have a profound effect on the fates of others. This is why I must always maintain a solemn respect for my position as a matra, the same way I respect knowledge and power.
+VO_Cyno_Interesting_Things.ogg  ||  I'm fond of the shrubs that grow in the desert. The desert is a symbol of repose and solitude, and all civilizations will eventually be buried by a sandstorm. But despite these desolate conditions, there are still signs of growth. Sometimes, I really find myself impressed by their tenacity.
+VO_Cyno_About_Tighnari_-_Knowledge.ogg  ||  Tighnari is different from other scholars I've met. He has the same wholehearted dedication to knowledge, but he will never cross the most important boundaries. Some scholars see themselves as gods within their own laboratories, but not Tighnari — he has always shown the same respect for every form of life. I've heard that he even declined a position in the Akademiya, and I support his decision.
+VO_Cyno_About_Tighnari_-_Jokes.ogg  ||  Tighnari once told me not to tell jokes at the dinner table, insisting that my jokes weren't funny at all. I did not share his opinion, so I told three of my best jokes in a row, and explained the premise of each in great detail. By the time I was done talking, my food was cold.
+VO_Cyno_About_Collei.ogg  ||  I once helped Collei seal away the god's remains in her body, but the process was an unthinkably painful one. To many, enduring that kind of pain would be a prospect more terrifying than death, so it was very admirable that she was able to persevere through it all.
+VO_Cyno_About_Alhaitham.ogg  ||  I don't really like people who are too smart. They think they can control everything, and constantly venture to the fringes of danger. But Alhaitham is one of the more reliable ones. In most cases, he is actually in control of things and has the ability to avert potential disaster.
+VO_Cyno_About_Kaveh.ogg  ||  Tighnari and Collei never said it to my face, but they found Kaveh's personal anecdotes far more entertaining than the jokes I had prepared... I could see it on their faces. Hmm? What did I think about that? Well, I thought it was funny that they could laugh at such a situation.
+VO_Cyno_About_Nahida.ogg  ||  Commenting on a god might be overstepping my position a little... But when I was working with her, I personally witnessed her wisdom, courage, and determination. Compared with those sages who constantly undermined and criticized her without a shred of evidence, I think I can provide a more reliable assessment: She is an exceptional deity who is worthy of everyone's respect.
+VO_Cyno_About_Nilou.ogg  ||  I can sense her enthusiasm and passion for dancing — it has become an integral part of her being. I hope that she will always be able to use the art she loves to bring happiness to other people.
+VO_Cyno_About_Faruzan.ogg  ||  I've carefully browsed through the case files regarding Faruzan's disappearance. At the time, I thought maybe she had been conducting some kind of dangerous research, but once I met her in person, I completely abandoned that idea. Though it might be a little hard for me to get along with her, she mostly reminds me of a kindly and chatty parent. She is considerate of others, and would never do anything imprudent.
+VO_Cyno_About_Lisa.ogg  ||  Of course I know about Lisa, we once both studied under the same sage. As General Mahamatra, I've seen many tragedies befall those seeking knowledge too assiduously, so it's easy for me to understand her decision.
+VO_Cyno_More_About_Cyno_-_01.ogg  ||  Huh? You want to know more about me? Hm, I suppose many people see me as a thorn in their side... But don't worry, as long as you don't do anything dangerous, you won't have any trouble with me.
+VO_Cyno_More_About_Cyno_-_02.ogg  ||  With my body as a vessel, I can harness the power of the spirit that dwells within me. This is possible in part due to my natural constitution, but also due to a deal I willingly made in the past. There's no reason to shy away from the topic. If I am to weigh the souls of others in this world as a Matra, then I must also place my own soul on the scales to be judged in the same manner.
+VO_Cyno_More_About_Cyno_-_03.ogg  ||  Rather than thinking about the "why" of things, I prefer to focus on "what" has been done. There are countless reasons why people do things in this world, and upon hearing some of those reasons, you can't help but start to feel that the wrongdoer had a point, or that the public is being too harsh on them. The disadvantaged side will always garner people's sympathy, but the judge must abandon all such feelings. We may empathize with the pain and motivations of the accused, but a crime, once committed, cannot be left unpunished.
+VO_Cyno_More_About_Cyno_-_04.ogg  ||  In the gloomy sea of ignorance, a faint glimmer of light will occasionally appear, luring those who do not understand the truth toward it. People will often see that glimmer as a beacon to guide their way, but in doing so overlook the great dangers still lurking in the pitch-black waters. Steering those who have long resided in darkness away from the light is a cruel thing in itself, but I must continue to do so until we can finally defeat the enemies that lay hidden beneath the water's surface.
+VO_Cyno_More_About_Cyno_-_05.ogg  ||  I've already told you everything that I think is worth sharing. What else could you possibly want to hear from me? Heh, your curiosity is remarkable... Alright, let's hear your questions. For someone who is used to interrogating others, the feeling of being questioned is... interesting.
+VO_Cyno_Hobbies.ogg  ||  In my free time, I like to play Genius Invokation TCG with other people. Being able to express so much creativity and variation within a working rule set makes it more than just a game — it's an art form.
+VO_Cyno_Troubles.ogg  ||  Just recently, I saw a light novel from Inazuma based on Genius Invokation TCG. When the main character found themselves in a rough spot, they somehow drew a card that wasn't even supposed to exist. This shook me to the core, and presented me with a great conundrum: Through directly manipulating the deck, they were able to pull off a miracle that nobody could have expected. The question is... should it be seen as breaking the rules, or is this, too, ultimately within the rules of the game?
+VO_Cyno_Favorite_Food.ogg  ||  Rice, meat, and dried nuts, mixed with some yogurt and roasted together... what a wonderful mix of flavors. You can feel the aroma seeping out with the steam as you cut into the crispy outside. It doesn't even take very long to make, definitely my favorite dish.
+VO_Cyno_Least_Favorite_Food.ogg  ||  The rations I take with me when traveling through the desert are usually completely tasteless. Once you've eaten enough of those, you'll be grateful for just about anything with some flavor. If I had to pick something, though... I wouldn't say I relish eating bugs or anything bug-related...
+VO_Cyno_Receiving_a_Gift_-_01.ogg  ||  Tastes great. You have my gratitude.
+VO_Cyno_Receiving_a_Gift_-_02.ogg  ||  I accept. Thank you.
+VO_Cyno_Receiving_a_Gift_-_03.ogg  ||  Agh... This is for me? ...Are you sure?
+VO_Cyno_Birthday.ogg  ||  Ahem... I'd like to wish you a happy birthday. Though I don't have much experience with celebrations, once I realized your birthday was coming, I decided to make some preparations. First, I have this deck for you that I worked on for a few days, I think it'll really suit your style. Also, I adjusted my schedule to open up some time, so is there anywhere you'd like to go? I'd be happy to accompany you. A birthday only lasts a day, but you should take the chance to really enjoy it. Just make sure we can be back within three days.
+VO_Cyno_Feelings_About_Ascension_-_01.ogg  ||  I can feel new power surging within me, a testament to my growth.
+VO_Cyno_Feelings_About_Ascension_-_02.ogg  ||  I vow to uphold the rules and punish evil.
+VO_Cyno_Feelings_About_Ascension_-_03.ogg  ||  Nice boost. Thanks a ton.
+VO_Cyno_Feelings_About_Ascension_-_04.ogg  ||  My strength has reached its peak, but there are still many things I can never accomplish relying on my fighting power alone. There will still be many times when emotions and rules do not agree, but I think I'll find the key to striking the right balance in the journeys to come.
+VO_Cyno_Elemental_Skill_1_01.ogg  ||  Surrender!
+VO_Cyno_Elemental_Skill_1_02.ogg  ||  Futile.
+VO_Cyno_Elemental_Skill_1_03.ogg  ||  Nowhere to run!
+VO_Cyno_Elemental_Skill_1_04.ogg  ||  You stand condemned.
+VO_Cyno_Elemental_Skill_1_05.ogg  ||  Guilty!
+VO_Cyno_Elemental_Skill_1_06.ogg  ||  Your penance is due!
+VO_Cyno_Elemental_Burst_01.ogg  ||  Through me, justice is served!
+VO_Cyno_Elemental_Burst_02.ogg  ||  Judgment is upon you.
+VO_Cyno_Elemental_Burst_03.ogg  ||  Your sins weigh upon your soul.
+VO_Cyno_Light_Attack_Elemental_Burst_01.ogg  ||  
+VO_Cyno_Mid_Attack_Elemental_Burst_01.ogg  ||  
+VO_Cyno_Heavy_Attack_Elemental_Burst_01.ogg  ||  
+VO_Cyno_Sprint_Start_01.ogg  ||  
+VO_Cyno_Deploying_Wind_Glider_01.ogg  ||  
+VO_Cyno_Opening_Treasure_Chest_01.ogg  ||  A well-deserved find.
+VO_Cyno_Opening_Treasure_Chest_02.ogg  ||  Our perseverance has paid off.
+VO_Cyno_Opening_Treasure_Chest_03.ogg  ||  Wealth is the foundation on which civilization is built.
+VO_Cyno_Low_HP_01.ogg  ||  Stronger than I anticipated...
+VO_Cyno_Low_HP_02.ogg  ||  I'm used to it.
+VO_Cyno_Low_HP_03.ogg  ||  Ugh... come at me again!
+VO_Cyno_Ally_at_Low_HP_01.ogg  ||  Fall back. Don't try to act tough.
+VO_Cyno_Ally_at_Low_HP_02.ogg  ||  I'll take it from here.
+VO_Cyno_Fallen_01.ogg  ||  Has my... time come...
+VO_Cyno_Fallen_02.ogg  ||  In death... a new cycle begins...
+VO_Cyno_Fallen_03.ogg  ||  My judgment... has failed...
+VO_Cyno_Light_Hit_Taken_01.ogg  ||  Pointless.
+VO_Cyno_Light_Hit_Taken_02.ogg  ||  
+VO_Cyno_Heavy_Hit_Taken_01.ogg  ||  A tough crowd.
+VO_Cyno_Heavy_Hit_Taken_02.ogg  ||  Well played.
+VO_Cyno_Heavy_Hit_Taken_03.ogg  ||  
+VO_Cyno_Joining_Party_01.ogg  ||  Ready to do my utmost.
+VO_Cyno_Joining_Party_02.ogg  ||  Our mission begins.
+VO_Cyno_Joining_Party_03.ogg  ||  Who's our next target?
+VO_Cyno_Light_Attack_01.ogg  ||  
+VO_Cyno_Mid_Attack_01.ogg  ||  
+VO_Cyno_Heavy_Attack_01.ogg  ||  
+VO_Cyno_Climbing_01.ogg  ||  
+VO_Cyno_Climbing_Breath_01.ogg  ||  
+VO_Cyno_Jumping_01.ogg  ||  

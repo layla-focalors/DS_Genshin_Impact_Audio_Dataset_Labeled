@@ -1,0 +1,152 @@
+VO_ZH_Albedo_Hello.ogg  ||  我是阿贝多，西风骑士团首席炼金术士。我对你身上星海的气息很感兴趣，想要就近观察研究。相信以后我们会有很多独处的机会。
+VO_ZH_Albedo_Chat_-_Still_Life.ogg  ||  风景不错，趁着休息，就把这一幕画下来吧。
+VO_ZH_Albedo_Chat_-_Investigation.ogg  ||  「世界的真相」…究竟是什么呢？
+VO_ZH_Albedo_Chat_-_Reminiscing.ogg  ||  用自己的双脚丈量土地，将「未知」变为知识。…这种感觉，真怀念啊。
+VO_ZH_Albedo_When_It_Rains.ogg  ||  土壤湿润，适合采集爆爆瓜的根。没事，我来动手就可以。
+VO_ZH_Albedo_When_It_Snows.ogg  ||  师父…
+VO_ZH_Albedo_When_the_Sun_Is_Out.ogg  ||  光线充足，生物行为活跃，嗯，很适合写生。
+VO_ZH_Albedo_Good_Morning.ogg  ||  早安，是准备出门寻找古代遗物吗？
+VO_ZH_Albedo_Good_Afternoon.ogg  ||  午安，我听到了你的脚步声。工坊之外真是热闹啊。
+VO_ZH_Albedo_Good_Evening.ogg  ||  外面安静下来了，呼。
+VO_ZH_Albedo_Good_Night.ogg  ||  晚安，你先去休息吧，我打算把最后一个实验做完。既然你那么感兴趣…明日再会时，我再与你一起探讨实验结果吧。
+VO_ZH_Albedo_About_Albedo_-_Genius.ogg  ||  天才？…不少人这么称呼我。其实，我不这样认为。
+VO_ZH_Albedo_About_Albedo_-_Socializing.ogg  ||  与人交往…很麻烦。一旦开始就要不断维持，如果联系中断了，想再重新恢复，就得消耗更多的时间。
+VO_ZH_Albedo_About_Us_-_Experiments.ogg  ||  你…这是准备陪我做实验吗？呼，真荣幸。
+啊，不用紧张。我的实验虽然危险，通常不会伤及无辜。
+VO_ZH_Albedo_About_Us_-_Assistant.ogg  ||  能麻烦你当我的助手吗？鉴于你旁观了那么多次，想必早就熟练了吧。放心，我在你旁边。就算是第一次实际操作，也不会有问题的。我相信我的指导能力，更相信你的天赋。
+VO_ZH_Albedo_About_the_Vision.ogg  ||  「神之眼」？不过就是个实验用的工具罢了，和烧杯、坩埚没什么不同。唯一让我感兴趣的，就是它的原理…我总有一天会研究明白的，这只是时间问题。
+VO_ZH_Albedo_Something_to_Share.ogg  ||  一直有些难以开口，因为假设被你拒绝的话，我可能会失落吧…
+嗯…我对你身边那个飞着的小家伙很感兴趣，方便让我拿去研究一下吗？
+VO_ZH_Albedo_Interesting_Things.ogg  ||  想知道更多石化古树的事情？唔…你在附近秘境里观测到的那些，其实不算古老。稍微成熟一些的树，一般能长到两三公里高；在树的根部，常常聚集着一种大蜘蛛。那种蜘蛛啊，用地栀子和香茅草捆紧，抹上白豆蔻，熏烤上几个小时，那香味，是真的很…令我难忘。
+VO_ZH_Albedo_About_Family.ogg  ||  亲人吗？虽然艾莉丝总希望我喊她妈妈…唔，但在我心里，谈起亲人第一时间想到的还是师父吧。我从记事起就和她在一起探险了，她教会了我炼金术和无数世间的知识。或许…「亲人」或者「师父」，这些词汇都不足以描绘出她对我来说的意义吧。
+VO_ZH_Albedo_About_Sucrose_-_Direction.ogg  ||  砂糖吗？我大概能理解她一心专攻「生物炼金」的理由…不管怎样，看到她的研究越来越顺利，我也为她感到高兴。
+VO_ZH_Albedo_About_Sucrose_-_Habits.ogg  ||  虽然在学术方面的合作非常愉快，但课题以外的部分，砂糖也有很多她自己的坚持。比如我告诉她我们是平辈，叫我阿贝多就好，她却坚持要用尊称。…只好随她去了。
+VO_ZH_Albedo_About_Lisa.ogg  ||  丽莎吗？和她讨论总会得到很有价值的观点。如此有才华却满足于图书管理员一职，想必背后藏着与那才华等重的因缘吧。
+VO_ZH_Albedo_About_Klee.ogg  ||  我的确把可莉当作亲妹妹一样看，所以每次当这位妹妹惹出麻烦的时候，我都只能安慰自己，至少她现在的破坏力，还不及艾莉丝女士的零头。
+VO_ZH_Albedo_About_Jean.ogg  ||  琴吗？她是一位正直的代理团长，甚至可以说比那位团长大人更为可靠。可能大家心中都在期待着她成为正式团长的那一天吧。
+VO_ZH_Albedo_About_Xingqiu.ogg  ||  行秋吗？他写的小说挺有趣的。稻妻那边的「八重堂」一直在旁敲侧击希望让我和别的作者合作，说这样版税收入也会更好。哼，我缺这点钱吗？
+VO_ZH_Albedo_About_Barbara.ogg  ||  芭芭拉吗？她是一位认真的牧师，说来以前碰巧有机会给她画过速写…你问画哪儿去了？嗯…我拒绝了艾伯特的开价，直接把画送给了代理团长。人际交往…真是耗费精力啊。
+VO_ZH_Albedo_More_About_Albedo_-_01.ogg  ||  有问题想问我？请说吧。啊，冒昧地问一句，应该不会花费太长时间吧？手头的研究马上要进入最后一个阶段了。
+VO_ZH_Albedo_More_About_Albedo_-_02.ogg  ||  啊，只是随口一提。不人为介入的话，黄金需要杀死一个八倍大的太阳才能自然生成。
+VO_ZH_Albedo_More_About_Albedo_-_03.ogg  ||  人物画的耗时主要和心情有关。有时候霍夫曼我也能画半天，有时候凯亚都只需要三笔——这个圆是脸，这个是眼罩的带子…这个是眼罩。
+VO_ZH_Albedo_More_About_Albedo_-_04.ogg  ||  除了画画和研究之外的生活…我偶尔会去看稻妻和璃月的小说吧，能看到很多很有趣的想法，有时也会为创作提供意想不到的灵感。
+VO_ZH_Albedo_More_About_Albedo_-_05.ogg  ||  即便到了现在，师父传授给我的「黑土之术」仍是充满了谜团，师父到底想要用这个技术创造出什么呢？…研究之期还远未到尽头，得麻烦你和我一起继续探索了。
+VO_ZH_Albedo_Hobbies.ogg  ||  嗯…研究之外我最愿意花时间去做的应该是画画吧。一开始只是为了理解物体与材料的构成，便于研究开展，不过到了后来就变成了爱好。嗯，也是一种很好的放松方式。
+VO_ZH_Albedo_Troubles.ogg  ||  时间真是不够用啊，即使把大部分麻烦的事情都推掉还是会觉得时间不够。
+VO_ZH_Albedo_Favorite_Food.ogg  ||  我挺喜欢甜点的。怎么说呢…在体力和精力同时消耗殆尽的时候，高能量的物质会提供原始而高效的支持吧。
+VO_ZH_Albedo_Least_Favorite_Food.ogg  ||  讨厌的食物？餐馆里分量比较大的肉吧。我的胃口吃不了多少，只会面临「浪费」或者「失去风味」的结局。后来我就干脆不去餐馆了，虽然这也意味着要花更多时间在做菜上…
+VO_ZH_Albedo_Receiving_a_Gift_-_01.ogg  ||  味觉仿佛折射出了色彩…我想它是金色的。
+VO_ZH_Albedo_Receiving_a_Gift_-_02.ogg  ||  你似乎很愿意花时间在做菜上，所以才能做出这样的味道。
+VO_ZH_Albedo_Receiving_a_Gift_-_03.ogg  ||  量有点大…要一起分享吗？
+VO_ZH_Albedo_Birthday.ogg  ||  生日快乐。你看起来很高兴，可以将你的样子画下来吗？大脑的容量是有限的，人总会不断忘记。如果画在纸上，那么这些画就成了记忆的延伸，在未来重新看到这些画面时，一定能回想起当时的感觉吧。
+VO_ZH_Albedo_Feelings_About_Ascension_-_01.ogg  ||  「黑土」，是炼金术的词源，也是最初的状态。活在这个世界上，我等俗类必须寻找意义。
+VO_ZH_Albedo_Feelings_About_Ascension_-_02.ogg  ||  「白垩」，即是变化的开始。抽离了杂质，准备好接受一切知识。要和我一起去探索世界吗？
+VO_ZH_Albedo_Feelings_About_Ascension_-_03.ogg  ||  「赤成」，炼金术中的意思是，情感的炼化。我的赤色好像来自于你。
+VO_ZH_Albedo_Feelings_About_Ascension_-_04.ogg  ||  「黄金」，炼金术最后的阶段。无价值的事物终于找到了自己的意义，变化成了黄金。我，也找到了意义。
+VO_ZH_Albedo_Hello.ogg  ||  
+VO_ZH_Albedo_Chat_-_Still_Life.ogg  ||  
+VO_ZH_Albedo_Chat_-_Investigation.ogg  ||  
+VO_ZH_Albedo_Chat_-_Reminiscing.ogg  ||  
+VO_ZH_Albedo_When_It_Rains.ogg  ||  
+VO_ZH_Albedo_When_It_Snows.ogg  ||  
+VO_ZH_Albedo_When_the_Sun_Is_Out.ogg  ||  
+VO_ZH_Albedo_Good_Morning.ogg  ||  
+VO_ZH_Albedo_Good_Afternoon.ogg  ||  
+VO_ZH_Albedo_Good_Evening.ogg  ||  
+VO_ZH_Albedo_Good_Night.ogg  ||  
+VO_ZH_Albedo_About_Albedo_-_Genius.ogg  ||  
+VO_ZH_Albedo_About_Albedo_-_Socializing.ogg  ||  
+VO_ZH_Albedo_About_Us_-_Experiments.ogg  ||  
+VO_ZH_Albedo_About_Us_-_Assistant.ogg  ||  
+VO_ZH_Albedo_About_the_Vision.ogg  ||  
+VO_ZH_Albedo_Something_to_Share.ogg  ||  
+VO_ZH_Albedo_Interesting_Things.ogg  ||  
+VO_ZH_Albedo_About_Family.ogg  ||  
+VO_ZH_Albedo_About_Sucrose_-_Direction.ogg  ||  
+VO_ZH_Albedo_About_Sucrose_-_Habits.ogg  ||  
+VO_ZH_Albedo_About_Lisa.ogg  ||  
+VO_ZH_Albedo_About_Klee.ogg  ||  
+VO_ZH_Albedo_About_Jean.ogg  ||  
+VO_ZH_Albedo_About_Xingqiu.ogg  ||  
+VO_ZH_Albedo_About_Barbara.ogg  ||  
+VO_ZH_Albedo_More_About_Albedo_-_01.ogg  ||  
+VO_ZH_Albedo_More_About_Albedo_-_02.ogg  ||  
+VO_ZH_Albedo_More_About_Albedo_-_03.ogg  ||  
+VO_ZH_Albedo_More_About_Albedo_-_04.ogg  ||  
+VO_ZH_Albedo_More_About_Albedo_-_05.ogg  ||  
+VO_ZH_Albedo_Hobbies.ogg  ||  
+VO_ZH_Albedo_Troubles.ogg  ||  
+VO_ZH_Albedo_Favorite_Food.ogg  ||  
+VO_ZH_Albedo_Least_Favorite_Food.ogg  ||  
+VO_ZH_Albedo_Receiving_a_Gift_-_01.ogg  ||  
+VO_ZH_Albedo_Receiving_a_Gift_-_02.ogg  ||  
+VO_ZH_Albedo_Receiving_a_Gift_-_03.ogg  ||  
+VO_ZH_Albedo_Birthday.ogg  ||  
+VO_ZH_Albedo_Feelings_About_Ascension_-_01.ogg  ||  
+VO_ZH_Albedo_Feelings_About_Ascension_-_02.ogg  ||  
+VO_ZH_Albedo_Feelings_About_Ascension_-_03.ogg  ||  
+VO_ZH_Albedo_Feelings_About_Ascension_-_04.ogg  ||  
+VO_ZH_Albedo_Elemental_Skill_1_01.ogg  ||  绽放吧。
+VO_ZH_Albedo_Elemental_Skill_1_02.ogg  ||  拟造阳华。
+VO_ZH_Albedo_Elemental_Skill_1_03.ogg  ||  创生之法。
+VO_ZH_Albedo_Elemental_Burst_01.ogg  ||  此即，诞生之刻。
+VO_ZH_Albedo_Elemental_Burst_02.ogg  ||  冥古，于此显生。
+VO_ZH_Albedo_Elemental_Burst_03.ogg  ||  见证伟业吧。
+VO_ZH_Albedo_Sprint_Start_01.ogg  ||  
+VO_ZH_Albedo_Deploying_Wind_Glider_01.ogg  ||  
+VO_ZH_Albedo_Opening_Treasure_Chest_01.ogg  ||  大地的秘宝。
+VO_ZH_Albedo_Opening_Treasure_Chest_02.ogg  ||  无言的叙事。
+VO_ZH_Albedo_Opening_Treasure_Chest_03.ogg  ||  虽无法比拟「黄金」，但终有价值。
+VO_ZH_Albedo_Low_HP_01.ogg  ||  计算失误…
+VO_ZH_Albedo_Low_HP_02.ogg  ||  需要重新评估…
+VO_ZH_Albedo_Low_HP_03.ogg  ||  必须改变策略。
+VO_ZH_Albedo_Ally_at_Low_HP_01.ogg  ||  交给我吧。
+VO_ZH_Albedo_Ally_at_Low_HP_02.ogg  ||  换人，对你来说太危险了。
+VO_ZH_Albedo_Fallen_01.ogg  ||  尘归尘，土归土…
+VO_ZH_Albedo_Fallen_02.ogg  ||  实验失败了吗？
+VO_ZH_Albedo_Fallen_03.ogg  ||  我的研究，结束了…
+VO_ZH_Albedo_Light_Hit_Taken_02.ogg  ||  阈值以内…
+VO_ZH_Albedo_Light_Hit_Taken_01.ogg  ||  
+VO_ZH_Albedo_Heavy_Hit_Taken_02.ogg  ||  失算了…
+VO_ZH_Albedo_Heavy_Hit_Taken_01.ogg  ||  
+VO_ZH_Albedo_Joining_Party_01.ogg  ||  了解。
+VO_ZH_Albedo_Joining_Party_02.ogg  ||  是拓展课题吗？
+VO_ZH_Albedo_Joining_Party_03.ogg  ||  一起探索吧。
+VO_ZH_Albedo_Light_Attack_01.ogg  ||  
+VO_ZH_Albedo_Mid_Attack_01.ogg  ||  
+VO_ZH_Albedo_Heavy_Attack_01.ogg  ||  
+VO_ZH_Albedo_Climbing_01.ogg  ||  
+VO_ZH_Albedo_Climbing_Breath_01.ogg  ||  
+VO_ZH_Albedo_Jumping_01.ogg  ||  
+VO_ZH_Albedo_Elemental_Skill_1_01.ogg  ||  
+VO_ZH_Albedo_Elemental_Skill_1_02.ogg  ||  
+VO_ZH_Albedo_Elemental_Skill_1_03.ogg  ||  
+VO_ZH_Albedo_Elemental_Burst_01.ogg  ||  
+VO_ZH_Albedo_Elemental_Burst_02.ogg  ||  
+VO_ZH_Albedo_Elemental_Burst_03.ogg  ||  
+VO_ZH_Albedo_Sprint_Start_01.ogg  ||  
+VO_ZH_Albedo_Deploying_Wind_Glider_01.ogg  ||  
+VO_ZH_Albedo_Opening_Treasure_Chest_01.ogg  ||  
+VO_ZH_Albedo_Opening_Treasure_Chest_02.ogg  ||  
+VO_ZH_Albedo_Opening_Treasure_Chest_03.ogg  ||  
+VO_ZH_Albedo_Low_HP_01.ogg  ||  
+VO_ZH_Albedo_Low_HP_02.ogg  ||  
+VO_ZH_Albedo_Low_HP_03.ogg  ||  
+VO_ZH_Albedo_Ally_at_Low_HP_01.ogg  ||  
+VO_ZH_Albedo_Ally_at_Low_HP_02.ogg  ||  
+VO_ZH_Albedo_Fallen_01.ogg  ||  
+VO_ZH_Albedo_Fallen_02.ogg  ||  
+VO_ZH_Albedo_Fallen_03.ogg  ||  
+VO_ZH_Albedo_Light_Hit_Taken_02.ogg  ||  
+VO_ZH_Albedo_Light_Hit_Taken_01.ogg  ||  
+VO_ZH_Albedo_Heavy_Hit_Taken_02.ogg  ||  
+VO_ZH_Albedo_Heavy_Hit_Taken_01.ogg  ||  
+VO_ZH_Albedo_Joining_Party_01.ogg  ||  
+VO_ZH_Albedo_Joining_Party_02.ogg  ||  
+VO_ZH_Albedo_Joining_Party_03.ogg  ||  
+VO_ZH_Albedo_Light_Attack_01.ogg  ||  
+VO_ZH_Albedo_Mid_Attack_01.ogg  ||  
+VO_ZH_Albedo_Heavy_Attack_01.ogg  ||  
+VO_ZH_Albedo_Climbing_01.ogg  ||  
+VO_ZH_Albedo_Climbing_Breath_01.ogg  ||  
+VO_ZH_Albedo_Jumping_01.ogg  ||  

@@ -1,0 +1,82 @@
+VO_JA_Kamisato_Ayato_Hello.ogg  ||  貴方のことは度々綾華から聞いています。しかし、公務が忙しかったこともあり、なかなかお会いできませんでした。神里家当主、神里綾人。以後お見知りおきを。
+VO_JA_Kamisato_Ayato_Chat_-_Spoiled.ogg  ||  何か忘れているような…まあいいでしょう。また思い出したら、誰かに届けてもらえばいいだけのことです。
+VO_JA_Kamisato_Ayato_Chat_-_Reel_Them_In.ogg  ||  仕掛けは十分、そろそろ回収するとしましょう…
+VO_JA_Kamisato_Ayato_Chat_-_Perverse_Pleasure.ogg  ||  慌てふためきはしても私を止めるほどの勇気はない、家臣たちのあのときの表情を思い出すと…ふふっ、滑稽で仕方ありませんね。…さて、行くとしましょう。たまには散歩をするというのも悪くありません。
+VO_JA_Kamisato_Ayato_When_It_Rains.ogg  ||  とりあえず、雨宿りしませんか？ご安心を、傘ならすぐ届きますから。
+VO_JA_Kamisato_Ayato_When_Thunder_Strikes.ogg  ||  まだ幼い頃、綾華は雷に怯えていました。そんなあの子に、雷鳴とは将軍様のお声なのだと母上が教えたのです。それ以来、あの子は雷が鳴るたびに、一心に耳を傾けるようになりました。まるで、将軍様のお言葉を理解しようとするかのように。
+VO_JA_Kamisato_Ayato_When_It_Snows.ogg  ||  この雪景色は…何年も前に見たあの白雪にそっくりですね…
+VO_JA_Kamisato_Ayato_When_the_Sun_Is_Out.ogg  ||  陽光の下でくつろげるなど、滅多にないことです。
+VO_JA_Kamisato_Ayato_When_the_Wind_Is_Blowing.ogg  ||  大半の人は強風に目を閉じ、歩みを止めてしまいます。その勢いに乗じて進める者は、ほんの一握りです。
+VO_JA_Kamisato_Ayato_Good_Morning.ogg  ||  お早うございます。早朝の空気は、剣の鍛錬と心を休めるのに最適です。よほどのことがない限り、公務は行いません。いかがでしょう、私と手合わせをしてみませんか？
+VO_JA_Kamisato_Ayato_Good_Afternoon.ogg  ||  昼餉に何か食べたいものがあれば、家臣に申し付けてください。大事な客人ですから、きっと彼らも最善を尽くしてくれるでしょう。
+VO_JA_Kamisato_Ayato_Good_Evening.ogg  ||  こんな時間に私を訪ねて来たのですから、夕餉を食べていきませんか？
+VO_JA_Kamisato_Ayato_Good_Night.ogg  ||  そろそろ就寝の時間ですね。先に下がっていてください、私はまだ眠くないので…おや、貴方でしたか。私は残りの仕事を終わらせてから休みます、貴方も早めに休んでください。
+VO_JA_Kamisato_Ayato_About_Kamisato_Ayato_-_Price_to_Pay.ogg  ||  あらゆるものには対価が存在します。通常では手の届かないものを求めるのであれば、常人の想像を超える対価を払わなければなりません。
+VO_JA_Kamisato_Ayato_About_Kamisato_Ayato_-_Methodology.ogg  ||  私は手段にこだわりません。結果さえ得られれば、何の問題もありませんからね。
+VO_JA_Kamisato_Ayato_About_Us_-_Most_Entertaining.ogg  ||  ふふっ、貴方たちが天領奉行でやったことは耳に入っていますよ。あの九条の爺さんをひどく怒らせたらしいですね…しかも、髪の毛が抜け落ちてしまうほどの勢いだったとか。そんな方は滅多にいません。この目で見ることができなくて、実に残念です…
+VO_JA_Kamisato_Ayato_About_Us_-_Trust.ogg  ||  他人を信用することは、そう易々とできることではありません。特に地位の高い者であれば尚更のこと。たった一つの過ちによって、誰かの命を犠牲にしなければならないことも珍しくないのですから。しかし、貴方が私を信頼してくれている以上、私も当然、それに応えなければなりませんね。
+VO_JA_Kamisato_Ayato_About_the_Vision.ogg  ||  せっかく「神の目」という便利な代物を持っているのですから、ちゃんと活用しなくてはなりませんね。このように手のひらで輝いているということは、これもさぞかし幸せなのでしょう。
+VO_JA_Kamisato_Ayato_Something_to_Share.ogg  ||  落ちた花を火鉢に放り込むと、炎によって一瞬だけ生気をみなぎらせます。花が最後に見せるその鮮やかな姿は、炎の輝きをも凌駕するものです。たとえ刹那の出来事だとしても、それは花の短い一生を意味あるものにするでしょう。
+VO_JA_Kamisato_Ayato_Interesting_Things.ogg  ||  ペットと言えば、ええ、私は犬が好きなんです。猫の気ままなところも悪くはありませんが、飼い主の命令に従順なのは犬だけですから。忠実で素直で…ふふっ、なんとも愛らしいものです。
+VO_JA_Kamisato_Ayato_About_Kamisato_Ayaka.ogg  ||  私は綾華の能力を信頼しています。ただ、あの子にはやはり、純粋なままでいて欲しいのです。権力争いに巻き込まれる必要はなく、人間の裏の顔に立ち向かう必要もない。そういうものはすべて、兄である私が一つ一つ片づけますから…おっと、つい話しすぎてしまいましたね。今のは、二人だけの秘密にしてください。
+VO_JA_Kamisato_Ayato_About_Thoma.ogg  ||  トーマの神里家に対する忠誠心は確かです。昔、終わりのない争いに巻き込まれたくなければ、早くここを離れたほうがいいと言って、どのような反応をするか試したことがあります。それでもトーマはこの地に留まり、神里家と共に歩んできてくれました。このご時世、絶対の信頼を寄せられる人は少なくなってしまいましたが、トーマは間違いなくその内の一人です。
+VO_JA_Kamisato_Ayato_About_Sayu.ogg  ||  普段は怠けているように見えますが、大事を成す時にはしっかりと手を貸してくれます。貴方もよくご存じでしょう？
+VO_JA_Kamisato_Ayato_About_Yoimiya.ogg  ||  あの…陽気な花火屋の店主のことですか？神里家とはかなり親しい間柄で、綾華とも年齢が近く、仲が良いようです。それに、彼女のはっきりと物を言う性格にも、綾華なら頭を悩ませることはないでしょう。何しろ、あの子は幼い頃から自分の本心に忠実でしたから。
+VO_JA_Kamisato_Ayato_About_the_Raiden_Shogun.ogg  ||  「永遠」を追い求めるあまり、将軍様ご自身のみならず…稲妻の全ての者が、少なからぬ犠牲を支払いました。傷が癒えるまでに時間はかかりますが、政局の調停者として、私は自身の役割を全うしましょう。
+VO_JA_Kamisato_Ayato_About_Yae_Miko.ogg  ||  神里家は宮司様にお世話になっていますが、どうやらあの方は私が気に食わないようですね。私を「若造」などと呼ぶところを、あなたも聞いたことがあるのではないですか？
+…ただ、たまに仕事の関係でお会いしたときは、互いに自らの考えを持ちつつも、うまく連携が取れるんです。あの感覚は悪くありません。頭の切れる方と仕事をすると、とても効率がいい。それに…たとえ嫌われていたとしても、私がいなければ彼女の「奇想天外な名案」を実現することは不可能。宮司様も、その事実は認めざるを得ないでしょう。
+VO_JA_Kamisato_Ayato_About_Kujou_Sara.ogg  ||  九条の爺さんは優れた策で、鋭い刀を研ぐことに成功しました。しかし残念ながら、その刀を振るえるほどの器ではなかったようです。
+VO_JA_Kamisato_Ayato_About_Kaedehara_Kazuha.ogg  ||  楓原家はかつて神里家の配下にありました。我々の先祖は彼らを守り抜くことができませんでしたが、私の代になっても彼に目をかける責務は残っています。一族を復興させることはできなくとも、天領奉行の追跡から逃がすことくらいなら可能でしょう。
+VO_JA_Kamisato_Ayato_About_Arataki_Itto.ogg  ||  あの者は実に面白い。大人しい性格のオニカブトムシを戦わせるなんて、意外性満点です。あの時、彼に少し指導したのはただの気まぐれに過ぎませんが、まさか私のことを兄と慕ってくれるとは…しかも未だに「綾人の兄貴」の身分を知らないのです。別に…ふふっ、単純な人は嫌いではありませんよ。
+VO_JA_Kamisato_Ayato_About_Ningguang.ogg  ||  璃月七星の「天権」様のことですか。彼女の手腕なら少し耳にしたことがあります。そういえば、私の所蔵品に限定版の「璃月千年」があるのですが、興味はありますか？そうだ、今から家臣に持ってきてもらって、一局いかがでしょう？
+VO_JA_Kamisato_Ayato_More_About_Kamisato_Ayato_-_01.ogg  ||  私について、ですか？世の中、知らないほうがいいことがあることくらい、貴方ならご存知ですよね？今度、機会があればまたお話ししましょう。
+VO_JA_Kamisato_Ayato_More_About_Kamisato_Ayato_-_02.ogg  ||  私の感性が…ズレている？はぁ…どうやら何か誤解されているようですね、これは弁解をしなければ。確かに大抵の場合、私は人の困った顔を見るのが好きです。しかし、それがどうしてまずいのでしょうか？貴方も隣で飛んでいるちびっこをからかったりしますよね？
+VO_JA_Kamisato_Ayato_More_About_Kamisato_Ayato_-_03.ogg  ||  三奉行は、一見穏やかな関係に見えますが、実際は裏での牽制やいがみ合いが絶えません。あの老いぼれたちの相手をするのは、あまり楽しくはないのですが…。ただ、これだけは知っておいていただきたい…昔は神里家の安寧のため、今は稲妻の情勢のため、私は神里家の名に泥を塗るような行動をしたことは一度もありませんよ。
+VO_JA_Kamisato_Ayato_More_About_Kamisato_Ayato_-_04.ogg  ||  終末番ですか？貴方になら話してもいいでしょう。あれは神里家当主直属の秘密部隊であり、父上の死後、私が引き継ぎました。表立って解決できないことがあれば、終末番が処理してくれます。成員のほとんどは孤児で、幼い頃に組織に引き取られた者です。こうして、彼らは自然と忠誠心を抱くようになり、成長していきます。私も安心して任務を与えられるというわけです。
+VO_JA_Kamisato_Ayato_More_About_Kamisato_Ayato_-_05.ogg  ||  終末番以外の切り札？もちろんありますよ。うさぎですら三つの隠れ穴を持っているのですから、人ならば尚更です。ただ、私の秘密はほとんど話してしまったので、そろそろ貴方の話を聞かせてください。そうですね…テイワット大陸での旅はもう結構なので、もっと昔の話を聞かせてくれますか？
+VO_JA_Kamisato_Ayato_Hobbies.ogg  ||  趣味…子供の頃はいくつかありましたが、最近は公務に時間を取られているので、触れないようにしています…ん？公務を趣味としている人がいる？ほう、それは…実に個性的ですね。
+VO_JA_Kamisato_Ayato_Troubles.ogg  ||  悩み、ですか？気になる事柄があれば、早々に解決していますよ。もし人であった場合は…ふふっ…
+VO_JA_Kamisato_Ayato_Favorite_Food_-_Personal_Preference.ogg  ||  目新しく珍しい物は、退屈な日常に刺激をもたらしてくれます。最近ですと、花見坂で発売された新商品「五目ミルクティー」が絶品ですので、ぜひ試してみてください。ただ…日頃の食事に関しては、これといったこだわりはありません。私の献立を毎日考えてくれる臣下がいるので、いつも出された料理を食べているだけです。
+VO_JA_Kamisato_Ayato_Favorite_Food_-_Trying_New_Things.ogg  ||  そろそろ、貴方の好きな料理を教えてくれますか？…なるほど、頭に入れておきました。今度聞かれたら、これを答えるとしましょう。
+VO_JA_Kamisato_Ayato_Least_Favorite_Food.ogg  ||  …おっと、塩と砂糖を間違えてしまいました。これではしょっぱい水まんじゅうに…まあ、問題はありません。トーマに食べてもらいましょう。
+VO_JA_Kamisato_Ayato_Receiving_a_Gift_-_01.ogg  ||  斬新な味ですね。ふふっ、気に入りました…
+VO_JA_Kamisato_Ayato_Receiving_a_Gift_-_02.ogg  ||  なるほど。貴方はこの料理に対して、そのような理解をされているのですね…
+VO_JA_Kamisato_Ayato_Receiving_a_Gift_-_03.ogg  ||  一つ提案があります。今度この料理を「鍋遊び」に入れましょう。
+VO_JA_Kamisato_Ayato_Birthday.ogg  ||  お誕生日おめでとうございます！社奉行の一日当主になってみませんか？
+公務は私が前もって処理したので、貴方は権力がもたらす快楽だけを味わってください。私が付き添うので、家臣たちも文句は言えないでしょう、どうかご安心を。ふふふっ。
+VO_JA_Kamisato_Ayato_Feelings_About_Ascension_-_01.ogg  ||  ふむ、力が増したようですね？実に喜ばしいことです…
+VO_JA_Kamisato_Ayato_Feelings_About_Ascension_-_02.ogg  ||  力というものは、やはり自分の手元にあってこそ安心できます。
+VO_JA_Kamisato_Ayato_Feelings_About_Ascension_-_03.ogg  ||  今頃、あの者たちは布団の中で震えているでしょうね…ふふっ…
+VO_JA_Kamisato_Ayato_Feelings_About_Ascension_-_04.ogg  ||  当主の座に就いて以来、そう滅多に気が緩んだことはありません。ただ、貴方が傍にいてくれた日々は、何だか奇妙なひと時でした。それは…ふむ、そうですね…まるで陽の光を浴びているかのような気分にさせるのです。
+VO_JA_Kamisato_Ayato_Elemental_Skill_1_01.ogg  ||  蒼流水影。
+VO_JA_Kamisato_Ayato_Elemental_Skill_1_02.ogg  ||  剣影よ。
+VO_JA_Kamisato_Ayato_Elemental_Skill_1_03.ogg  ||  
+VO_JA_Kamisato_Ayato_Elemental_Burst_01.ogg  ||  三尺の秋水。
+VO_JA_Kamisato_Ayato_Elemental_Burst_02.ogg  ||  ふん…安らかに。
+VO_JA_Kamisato_Ayato_Elemental_Burst_03.ogg  ||  神里流…水囿！
+VO_JA_Kamisato_Ayato_Sprint_Start_01.ogg  ||  
+VO_JA_Kamisato_Ayato_Deploying_Wind_Glider_01.ogg  ||  
+VO_JA_Kamisato_Ayato_Opening_Treasure_Chest_01.ogg  ||  貴方の為になったなら幸いです。
+VO_JA_Kamisato_Ayato_Opening_Treasure_Chest_02.ogg  ||  これが、必要だったのですか？
+VO_JA_Kamisato_Ayato_Opening_Treasure_Chest_03.ogg  ||  ふむ…中々の品ですね。
+VO_JA_Kamisato_Ayato_Low_HP_01.ogg  ||  実に面白い…
+VO_JA_Kamisato_Ayato_Low_HP_02.ogg  ||  そろそろ、本気を出しましょうか。
+VO_JA_Kamisato_Ayato_Low_HP_03.ogg  ||  まだまだこれからですよ。
+VO_JA_Kamisato_Ayato_Ally_at_Low_HP_01.ogg  ||  一度退いてください。
+VO_JA_Kamisato_Ayato_Ally_at_Low_HP_02.ogg  ||  迂闊に突っ込んではいけません。
+VO_JA_Kamisato_Ayato_Fallen_01.ogg  ||  千慮の一失…
+VO_JA_Kamisato_Ayato_Fallen_02.ogg  ||  花に百日の紅なし…
+VO_JA_Kamisato_Ayato_Fallen_03.ogg  ||  昨日の淵は今日の瀬、か…
+VO_JA_Kamisato_Ayato_Light_Hit_Taken_01.ogg  ||  その程度ですか。
+VO_JA_Kamisato_Ayato_Light_Hit_Taken_02.ogg  ||  
+VO_JA_Kamisato_Ayato_Heavy_Hit_Taken_02.ogg  ||  身の程を知りなさい…
+VO_JA_Kamisato_Ayato_Heavy_Hit_Taken_01.ogg  ||  
+VO_JA_Kamisato_Ayato_Joining_Party_01.ogg  ||  おや？私を散歩に誘ってくれるのですか？
+VO_JA_Kamisato_Ayato_Joining_Party_02.ogg  ||  ならば、公務はひとまず置いておきましょう。
+VO_JA_Kamisato_Ayato_Joining_Party_03.ogg  ||  ふふ…ほんの余興です。
+VO_JA_Kamisato_Ayato_Light_Attack_01.ogg  ||  
+VO_JA_Kamisato_Ayato_Mid_Attack_01.ogg  ||  
+VO_JA_Kamisato_Ayato_Heavy_Attack_01.ogg  ||  
+VO_JA_Kamisato_Ayato_Climbing_01.ogg  ||  
+VO_JA_Kamisato_Ayato_Climbing_Breath_01.ogg  ||  
+VO_JA_Kamisato_Ayato_Jumping_01.ogg  ||  

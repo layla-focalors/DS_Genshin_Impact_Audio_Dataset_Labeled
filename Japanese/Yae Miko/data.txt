@@ -1,0 +1,84 @@
+VO_JA_Yae_Miko_Hello.ogg  ||  妾は鳴神大社の宮司。此度参ったのは、大社の勅令により汝の一挙一動を見定めるためじゃ…ふふ、そう緊張するでない、ただの建前に過ぎぬ。正当な理由で休暇をとるには、これが必要なんじゃ。ほれ、早く妾に面白いことを見せてくれぬか。
+VO_JA_Yae_Miko_Chat_-_Creative_Writing.ogg  ||  最近の八重堂の小説は、異世界転生ものが多すぎる。ふん、自分たちの世界がそんなにも不満なのじゃろうか。
+VO_JA_Yae_Miko_Chat_-_Stories.ogg  ||  大半の者の一生は、紙に書いても数行にしかならず、そのほとんどが退屈な物語なんじゃ。
+VO_JA_Yae_Miko_Chat_-_Mortal_World.ogg  ||  妾にとって、不変も一種の美。はぁ…じゃが、俗世とはいつまでも変わらぬまま続くものではない…
+VO_JA_Yae_Miko_When_It_Rains.ogg  ||  雨が降ると、全身の毛髪がびしょ濡れになってしまう…
+VO_JA_Yae_Miko_When_Thunder_Strikes.ogg  ||  みな雷を恐れているようじゃが、妾が雷の音を聞いて覚えるのは親近感のみじゃ。
+VO_JA_Yae_Miko_When_It_Snows.ogg  ||  まだ霊智が芽生えておらぬ小狐は、餌を求めて雪の中に飛び込むことがままある…ん？妾がそうしているところを見たい…じゃと？ふっ、たわけ。
+VO_JA_Yae_Miko_Good_Morning.ogg  ||  おはよう。なんじゃその元気のない姿は、よう眠れんかったのか？ふむ…よもや昨晩、悪事を働きにでも行っておったのではなかろうのう？
+VO_JA_Yae_Miko_Good_Afternoon.ogg  ||  ふむ…困ったのう。昼餉は何を食べるとするか…？近頃はずっと油揚げを食してきたゆえ、たまにはさっぱりとしたものが良いのじゃが。そういえば、社奉行家の娘に久しく会っておらぬ。あそこへ行ってあやつの作った菓子でもいただくとしよう。
+VO_JA_Yae_Miko_Good_Evening.ogg  ||  今宵の月はなんと明るいことか。このまま何もせぬのは実に惜しい。妾と一緒に月の下を歩かぬか？嫌とは言わせぬぞ。
+VO_JA_Yae_Miko_Good_Night.ogg  ||  そろそろ床に就く時間じゃな。ふふっ、雷鳴も聞こえぬ夜では、ぐっすりと眠ることもできぬ。
+VO_JA_Yae_Miko_About_Yae_Miko_-_Eternity.ogg  ||  永遠とは、己の持っているものを失わぬこと。じゃが別の視点から言えば、さらなる可能性をあきらめることと同じじゃ。この世とは常にそうであり、すべてを手に入れることなど誰にもかなわぬ。
+VO_JA_Yae_Miko_About_Yae_Miko_-_Interests.ogg  ||  人間は実に面白い。じゃからこそ、妾は好きなんじゃ。たとえ須臾に過ぎぬ命であっても、眩い光を放つことができる。中には、長い時を経ようと淀むことなく光を持つ者もおる。そのような人生を読むのは、妾にとって大層楽しみなことなんじゃ。
+VO_JA_Yae_Miko_About_Us_-_Authorship.ogg  ||  つまらぬ、この本もあの本も、実につまらぬ。はぁ…こやつらは一体どのようにして作家になったのじゃ。そうじゃ、汝の経歴を書き下ろし、八重堂に送ってみてはどうじゃ？きっと妾が楽し…きっとみなに大受けするじゃろう。
+VO_JA_Yae_Miko_About_Us_-_Erosion.ogg  ||  己を閉じ込めれば、「摩耗」を早めてしまうやもしれぬ。自分一人しかおらぬ世界で、その目に誰も映さぬのは実に恐ろしいことじゃ…じゃから、汝と妾が一緒にいる時は、互いをその眼に映し合うのを忘れてはならぬぞ。
+VO_JA_Yae_Miko_About_the_Vision.ogg  ||  ん？…妾の「神の目」の付け方が好きじゃと？見る目があるではないか。ほれ…触ってみるか？
+VO_JA_Yae_Miko_Something_to_Share.ogg  ||  油を沸点の八割まで加熱し、豆腐を鍋に沿って入れる。弱火に切り替え、黄金色になるまで揚げてから取り出せば、熱々の油揚げの完成じゃ。この世でこれに勝るものは存在せぬ。ほれ、作り方を教えてやったんじゃ、何を呆けておる？
+VO_JA_Yae_Miko_Interesting_Things.ogg  ||  鳴神大社にいると毎日のように視界に入るゆえ、時に目障りに思うこともある。じゃが、あの神櫻はすでに、妾の運命と深く関わっておるのじゃ。
+VO_JA_Yae_Miko_About_the_Raiden_Shogun.ogg  ||  本当は外に出たいのに、いつまでも己を一心浄土の中に閉じ込めるなど、まるで自虐そのもの…まあ、ある意味それが、あやつのかわいいらしいところでもあるのじゃがな。
+VO_JA_Yae_Miko_About_Kamisato_Ayato.ogg  ||  社奉行家の若造か。幼い頃から我が道を行くような性格じゃった。表向きはいつもニコニコしておったが、内心では何を企んでおるのか分からぬ。癪に障るやつじゃ…ふんっ、妾はやつとは違う、決して同族嫌悪などではないぞ。
+VO_JA_Yae_Miko_About_Kamisato_Ayaka.ogg  ||  社奉行家の小娘のことなら、妾は大好きじゃぞ。何事においても理路整然としておるからのう。じゃが、社奉行はいつも損な役回りを演じておる、かわいそうに。あやつが神里家の者でなかったら、とうに八重堂に引き抜いておったところじゃ。
+VO_JA_Yae_Miko_About_Kujou_Sara.ogg  ||  あの頑固頭か…頭の柔軟さでは、あやつの天狗親父と比べて遥かに劣っておる…まあ、なんと言うか、頑固者にも頑固者の良さはあるが…願わくば、神社で妾を呼び止め、影のことをしつこく聞いてくるのはやめてほしいものじゃ。
+VO_JA_Yae_Miko_About_Yoimiya.ogg  ||  長野原の花火か、妾にとって一年のうちの数少ない楽しみでもある。聞いたところによると、先日、天領奉行で騒ぎを起こし、敷地内で花火を放ったそうじゃ。ふふっ、九条家の者はきっと怒りで顔を引きつらせておったじゃろうな。それをこの目で見ることができなかったのは実に残念じゃ。
+VO_JA_Yae_Miko_About_Ganyu.ogg  ||  そういえば、甘雨の姉君には久しく会っておらぬな。稲妻がまだ鎖国をしていなかった頃、璃月と稲妻の間の事務はすべて妾と姉君が受け持っておったんじゃ。姉君は本当に頼りになるお方じゃ。今度璃月へ行く機会があったら、また新鮮なウミレイシを姉君に持っていくとしよう。
+VO_JA_Yae_Miko_About_Sangonomiya_Kokomi.ogg  ||  今の巫女は、みなかわゆい容姿をしておる。この娘が太平神楽を踊ったら一体どうなることか、群魚すら一緒に踊り回るやもしれぬな。もし妾を「神子お姉さま」と呼んでくれたならば、ふふ…妾は喜んで心得を教えてやるつもりじゃぞ。
+VO_JA_Yae_Miko_About_Kunikuzushi.ogg  ||  妾は当時からあれを厄介なやつだと思っておった。じゃがあやつは、自身の創造したものじゃからと手を出したくないと言いおった。こうなると分かっておれば、あやつに黙って処分しておいたというのに。今はもう…ふんっ、まったく厄介な面倒事じゃ。
+VO_JA_Yae_Miko_About_Arataki_Itto.ogg  ||  あやつか、鬼族の妙な若造じゃろ。ふふっ、九条家に迷惑をかけておるらしいな。天領奉行の者は風紀を乱すという理由から、あやつが町に書いた伝言を消そうとしておるが、妾がそれを残すよう頼んだんじゃ。ふふっ、あんなに面白い小鬼、近頃は滅多に見られぬ。
+VO_JA_Yae_Miko_About_Gorou.ogg  ||  ゴローのしっぽは色艶もとても綺麗じゃが…やはり妾の毛並みのほうが柔らかいな。ふふん…
+VO_JA_Yae_Miko_About_Sayu.ogg  ||  あの背の小さな子は、隠れるのが得意なようじゃな。探すのが大変で小説を読む時間が減ったと、鹿野奈々がしょっちゅう愚痴をこぼしておった。もしや誰かが、密かに早柚を手助けしておるのやもしれぬな…？
+VO_JA_Yae_Miko_About_Kuki_Shinobu.ogg  ||  幸の妹であるこの女子はとても個性的だと聞いた。巫女の家系でありながら、神社から離れ、様々な技術を学んだらしい。それだけに留まらず、璃月にも留学したことがあるそうじゃ。そして最後は、荒瀧派へと加わった…こんなにも面白い女子がおるなら、幸に紹介してもらわねばならぬのう。それに、幸なら妾の頼みを断ることはないじゃろう。
+VO_JA_Yae_Miko_About_Kirara.ogg  ||  近頃は、人間社会に興味を持つ妖怪がますます多くなってきておる。これは良いことなんじゃろうか…ん？妾の見解とな？ふむ、もちろん、皆が楽しければよいと思っておるぞ。それに、自腹で飯を奢ってくれる愛い後輩を嫌うやつなど、おらんじゃろ？
+VO_JA_Yae_Miko_More_About_Yae_Miko_-_01.ogg  ||  妾のことがもっと知りたいと？断りはせぬが、相互利益を重んじるのが世の常というもの。妾を知りたいのなら、汝のことと交換するのはどうじゃ？
+VO_JA_Yae_Miko_More_About_Yae_Miko_-_02.ogg  ||  狐斎宮様は遠出をすると言い、それっきり帰ってこんかった。はぁ…当時の妾は、鳴神大社の面倒事なんぞ引き受けるつもりはなかったのじゃが、宮司になれば好きなだけ油揚げが食べられると言われてのう…なんとも酷い理由じゃ。…うるさくて、面倒な女じゃった…
+VO_JA_Yae_Miko_More_About_Yae_Miko_-_03.ogg  ||  八重堂を立ち上げた当初の動機は、面白い小説を読むためじゃった。じゃが次第に、小説家の疲弊していく姿を見るのが楽しくなってのう…あやつらが締め切りを先延ばしにしようと言ってくるときの言い訳は、汝では到底思いつかぬものじゃろうな。何よりそれは、あやつらが書く小説よりも遥かに面白いものなんじゃ。
+VO_JA_Yae_Miko_More_About_Yae_Miko_-_04.ogg  ||  いずれにせよ、魔神もいつかは消滅する時が来る。かの者らの物語が時と共にこの世界から消え、二度と人々の記憶に残らないとしたら、それはとても残念なことじゃ。その者たちの物語を書く資格のある者は、優れた思考と執筆力を兼ね備えている必要がある…この世にそのような者がおらぬのならば、育てれば良い…それら物語を書くことのできる作家をな。
+VO_JA_Yae_Miko_More_About_Yae_Miko_-_05.ogg  ||  そういえば、妾は数々の小説を読んできたが、自分で書いたことは一度もない。小説を書くのは、やはり手間の掛かることじゃからのう。じゃが、汝の旅が終わり、誰かに物語の記録をしてもらいたいと思った時…もし妾の手が空いておったら…
+VO_JA_Yae_Miko_Hobbies.ogg  ||  妾がもっとも好きなのは他人の物語を読むこと。次に好きなのは他人の困った顔を見ることじゃ。この二つが合わされば、ふふっ、相まってさらに面白いぞ。
+VO_JA_Yae_Miko_Troubles.ogg  ||  安定した日々を送るのは実につまらぬ…
+VO_JA_Yae_Miko_Favorite_Food.ogg  ||  「きつねうどん」を聞いたことはあるか？実はただ油揚げをのせただけのうどんなのじゃが…油揚げにうどん、どうじゃ、聞いただけで美味しそうじゃろう？
+VO_JA_Yae_Miko_Least_Favorite_Food.ogg  ||  まったくもって、漬物だけは受け入れられぬ。グッピーにしてもキビヤックにしても、酷い臭いじゃ。妾は鳴神大社の宮司として、そのような不潔で不浄なるものを飲み込むことは決してできぬ。
+VO_JA_Yae_Miko_Receiving_a_Gift_-_01.ogg  ||  ほう…童よ、妾の好みをよく知っておるようじゃな。
+VO_JA_Yae_Miko_Receiving_a_Gift_-_02.ogg  ||  汝の手作りならば、口にしてみるか。ふふっ…
+VO_JA_Yae_Miko_Receiving_a_Gift_-_03.ogg  ||  まったく…童よ、まだまだ努力が必要じゃな。
+VO_JA_Yae_Miko_Birth_Date.ogg  ||  今日は汝の誕生日じゃったか…
+「御歳の祝礼を今ここに迎えん。徒桜の命において、汝が求めんとするもの、汝が願わんとするもの、明神のもと正心をもって、その加護を汝に与えん」
+うむ、こんなところか。これからも、望むものを手に入れ、万事が順調にいく良き一年になることを祈っておるぞ。
+VO_JA_Yae_Miko_Feelings_About_Ascension_-_01.ogg  ||  巫女修行の階位では、一連の修行を終えた後に祝詞を正確に暗唱できれば、「直階」を得られる。人間にとっては簡単じゃが、狐族にとってはもっとも困難といえる部分じゃ…なにせ、狐じゃからのう。
+VO_JA_Yae_Miko_Feelings_About_Ascension_-_02.ogg  ||  宮司代理になる、つまり「正階」の修行はとても過酷なものじゃ。数々の試練を乗り越え、戒律を守らねばならぬ。この修行において、秘訣はただ一つのみ。夜こっそり盗み食いをする時、バレないようにすることじゃ。
+VO_JA_Yae_Miko_Feelings_About_Ascension_-_03.ogg  ||  「明階」にまで上がるには、世を見定めることのできる天地明察の境地に達する必要がある。この境地に達すれば、一般的には神の目が授与され、普通の狐族を遥かに超える寿命を得ることとなる。
+VO_JA_Yae_Miko_Feelings_About_Ascension_-_04.ogg  ||  鳴神大社の「浄階」は、昔から鳴神大社の宮司のみが持つものじゃ。「浄階」は栄誉称号に似たようなもので、実力とは関係がない。じゃが、実力においても最強の妾が「浄階」を名乗るのは、そう間違ってはおらぬことじゃろう。
+VO_JA_Yae_Miko_Elemental_Skill_1_01.ogg  ||  (Dashing Forwards) 律令。
+VO_JA_Yae_Miko_Elemental_Skill_1_02.ogg  ||  (Dashing Forwards) 呪禁。
+VO_JA_Yae_Miko_Elemental_Skill_1_03.ogg  ||  (Dashing Forwards) 敕。
+VO_JA_Yae_Miko_Elemental_Skill_1_04.ogg  ||  (Dashing Backwards) 具現化せよ。
+VO_JA_Yae_Miko_Elemental_Skill_1_05.ogg  ||  (Dashing Backwards) 姿を残さん。
+VO_JA_Yae_Miko_Elemental_Burst_01.ogg  ||  真瞳の顕現。
+VO_JA_Yae_Miko_Elemental_Burst_02.ogg  ||  幽玄なる雷霆。
+VO_JA_Yae_Miko_Elemental_Burst_03.ogg  ||  雷光、いと美しきかな。
+VO_JA_Yae_Miko_Sprint_Start_01.ogg  ||  
+VO_JA_Yae_Miko_Deploying_Wind_Glider_01.ogg  ||  
+VO_JA_Yae_Miko_Opening_Treasure_Chest_01.ogg  ||  何か面白いものはあったか？
+VO_JA_Yae_Miko_Opening_Treasure_Chest_02.ogg  ||  これだけとは…
+VO_JA_Yae_Miko_Opening_Treasure_Chest_03.ogg  ||  早く、妾にも見せてくれぬか。
+VO_JA_Yae_Miko_Low_HP_01.ogg  ||  このままではいかんのう…
+VO_JA_Yae_Miko_Low_HP_02.ogg  ||  遊んではいられぬ。
+VO_JA_Yae_Miko_Low_HP_03.ogg  ||  さて、本気を出すとするかのう。
+VO_JA_Yae_Miko_Ally_at_Low_HP_01.ogg  ||  無理をするでない。
+VO_JA_Yae_Miko_Ally_at_Low_HP_02.ogg  ||  妾に任せよ。
+VO_JA_Yae_Miko_Fallen_01.ogg  ||  ふむ、遊びすぎたようじゃな…
+VO_JA_Yae_Miko_Fallen_02.ogg  ||  惨憺たる結末じゃ…
+VO_JA_Yae_Miko_Fallen_03.ogg  ||  ここで止まれば、永遠は…
+VO_JA_Yae_Miko_Light_Hit_Taken_02.ogg  ||  その程度か？
+VO_JA_Yae_Miko_Light_Hit_Taken_01.ogg  ||  
+VO_JA_Yae_Miko_Heavy_Hit_Taken_02.ogg  ||  面倒じゃのう。
+VO_JA_Yae_Miko_Heavy_Hit_Taken_01.ogg  ||  
+VO_JA_Yae_Miko_Joining_Party_01.ogg  ||  やっと妾のことを思い出したか？
+VO_JA_Yae_Miko_Joining_Party_02.ogg  ||  面白きことをしにゆくぞ。
+VO_JA_Yae_Miko_Joining_Party_03.ogg  ||  ふむ、汝からの誘いであれば…よかろう。
+VO_JA_Yae_Miko_Light_Attack_01.ogg  ||  
+VO_JA_Yae_Miko_Mid_Attack_01.ogg  ||  
+VO_JA_Yae_Miko_Heavy_Attack_01.ogg  ||  
+VO_JA_Yae_Miko_Climbing_01.ogg  ||  
+VO_JA_Yae_Miko_Climbing_Breath_01.ogg  ||  
+VO_JA_Yae_Miko_Jumping_01.ogg  ||  

@@ -1,0 +1,80 @@
+VO_Wriothesley_Hello.ogg  ||  Hello, please try to quickly summarize your intents and goals for this meeting. Oh? You're not here for business? Well, that just makes me even more nervous.
+Alright, then perhaps we should sit down and discuss things in a little more detail... Oh, and you can call me "Your Grace." That's what they all call me down in the Fortress, and... well, I kinda got used to it.
+VO_Wriothesley_Chat_-_Stickers.ogg  ||  If you ever see any stickers on my back, do me a favor and take them off... Melusines like to play pranks sometimes.
+VO_Wriothesley_Chat_-_Pets.ogg  ||  I once considered keeping some pets in my office, but soon gave up on the idea. It's just not right to keep small animals where they won't be able to see the sun.
+VO_Wriothesley_Chat_-_Words_of_Advice.ogg  ||  Word of advice: Don't break the law. Hmm, is there anything else? Oh, yeah... Seriously, don't break the law.
+VO_Wriothesley_When_It_Rains.ogg  ||  Oh, it's raining? That's alright. A real problem would be if we could feel water dripping on our heads in the Fortress of Meropide.
+VO_Wriothesley_When_Thunder_Strikes.ogg  ||  You know, they say if you're scared of the thunder, it's really because you've got something else to hide.
+VO_Wriothesley_When_It_Snows.ogg  ||  Hmm... This is a different kind of cold than what I'm used to.
+VO_Wriothesley_When_the_Sun_Is_Out.ogg  ||  They say there's nothing new under the sun, but somehow a picnic in the warm sunshine never gets old.
+VO_Wriothesley_Good_Morning.ogg  ||  Morning. What do the papers have to say about today's weather forecast?
+VO_Wriothesley_Good_Afternoon.ogg  ||  The Coupon Cafeteria is probably crowded right now. I'll have someone deliver the food straight to my office.
+VO_Wriothesley_Good_Evening.ogg  ||  Huh, is it evening already? Could have sworn I'd just had my afternoon tea.
+VO_Wriothesley_Good_Night.ogg  ||  Good night. I'll be staying up for a little while yet — want to run some numbers while everything's nice and quiet.
+VO_Wriothesley_About_Wriothesley_-_Misunderstanding.ogg  ||  People have this tendency to see me as an all-knowing figure with mystical powers. In reality, I'm just one man with two eyes and two ears. How can I possibly know everything that's happening in the Fortress of Meropide?
+VO_Wriothesley_About_Wriothesley_-_Small_Breaks.ogg  ||  I finished serving my sentence long ago, so there's nothing stopping me from taking an occasional breather in the overworld as a free citizen.
+Ah, there's no need to worry... The Fortress of Meropide doesn't currently have any problem so big as to require my round-the-clock presence to operate effectively.
+VO_Wriothesley_About_Us_-_Committing_to_Jail.ogg  ||  I form my first impressions of many people based on the contents of their inmate registration papers. Seems like you're no exception to the rule.
+VO_Wriothesley_About_Us_-_Finishing_the_Jail_Term.ogg  ||  They say it's best to begin a friendship when there's no conflict of interest. Seems like the appropriate time has come.
+VO_Wriothesley_About_the_Vision.ogg  ||  Some inmates once taught me a way to wield the elements by throwing around chemical potions. I guess whoever's in charge of handing out Visions doesn't care too much about a little rule-bending.
+VO_Wriothesley_Something_to_Share.ogg  ||  Want a tip on how to escape from the Gardes? Just give yourself a name that's really long and difficult to pronounce. They'll be stumbling over your name as soon as they try to announce that you are under arrest.
+VO_Wriothesley_Interesting_Things.ogg  ||  "If a man will not work, he shall not eat." This phrase has been on the walls of the Fortress of Meropide for as long as anyone can remember. I don't know who first came up with it, but it's been pretty useful in the underworld.
+VO_Wriothesley_About_Neuvillette.ogg  ||  I was once summoned by Neuvillette to discuss some matters with him in his office. When I approached the Palais Mermonia, I saw him standing by the road, completely drenched in the rain. I held out an umbrella for him, and while he thanked me politely, his expression was a little... distressed, I guess. I can only assume that I had disturbed him in the middle of something.
+VO_Wriothesley_About_Furina.ogg  ||  Miss Furina displayed a severe lack of interest in my trial and excused herself early, probably because I pleaded guilty to all charges as soon as they were announced. Disappointing the Hydro Archon is a big deal, so... suppose I've got no choice but to keep gifting her copious amounts of the highest quality tea.
+VO_Wriothesley_About_Sigewinne.ogg  ||  Sigewinne the head nurse possesses all the virtues associated with the medical profession and genuinely cares for the well-being of everyone around her.
+She seems to have picked up some bad habits from me, though, like frequently betting with her Melusine friends over who'd be able to put more stickers on my belongings. Hm? No, I'm not actually bothered by it.
+VO_Wriothesley_About_Clorinde.ogg  ||  Clorinde is the best Champion Duelist you can find. Her combat prowess is already the stuff of legend. I've never fought her myself, but that's because there's never been a need for it.
+VO_Wriothesley_About_Lyney.ogg  ||  I'll admit that when I removed the House of the Hearth's spies in the underworld, that was kind of an intentional provocation to the Fatui. But their only response was to send down a bunch of children... Was it because they truly saw those kids as disposable? Or because they knew I wouldn't have it in me to let them come to serious harm? *sigh*
+VO_Wriothesley_About_Navia.ogg  ||  The Fortress of Meropide works with Spina di Rosula on some matters regarding supplies and logistics, but we don't have any other dealings. This isn't because I don't trust Navia or her abilities, in fact, I hold her in quite high regard. The only reason we continue to stay out of each other's way is because I wanna honor the agreement I made with the late Mr. Callas.
+VO_Wriothesley_About_Emilie.ogg  ||  The Fortress of Meropide doesn't need her services. Yet some things are best preserved the way they are, warts and all, so people don't make the same mistakes twice... I say warts, but yeah. I mean the smell.
+VO_Wriothesley_About_Chevreuse.ogg  ||  Most inmates seem to gain a new level of respect for the rules after receiving attention from the Special Security and Surveillance Patrol. As the captain, Chevreuse is an instrumental part of that team.
+VO_Wriothesley_More_About_Wriothesley_-_01.ogg  ||  As a general rule, the less a person sees of me, the happier their life is.
+VO_Wriothesley_More_About_Wriothesley_-_02.ogg  ||  Hmm? Oh the scar on my body? It's from a gash I got while battling a gigantic undersea monster that tried to take over the Fortress of Meropide. ...Hah, just kidding.
+VO_Wriothesley_More_About_Wriothesley_-_03.ogg  ||  Did you know, many similar models of handcuffs can all be unlocked using the same master key? Except mine, of course. They're different.
+VO_Wriothesley_More_About_Wriothesley_-_04.ogg  ||  Honestly, my personal abilities are pretty limited. I got no talent in medicine, inventions, or ship-making. But what I do know how to do is find those people with those talents, and get 'em to come work for me.
+VO_Wriothesley_More_About_Wriothesley_-_05.ogg  ||  I've managed to get myself to a pretty comfortable place in life, but there's still some things I want that are outside my reach, like a peaceful and happy childhood, or the ability to trust other people. Maybe some people would see those feelings as shameful or contradictory, but I don't see a problem with sharing them. After all, why should anybody be afraid to admit what they want?
+VO_Wriothesley_Hobbies.ogg  ||  Boxing? To me, that's more of a necessity than a hobby. You got some suggestions for actual hobbies?
+VO_Wriothesley_Troubles.ogg  ||  While I do possess some stereotypical Fontainian looks, when you're an orphan, you can never really be sure where you're from. Who knows, maybe I'll take a dip in the Primordial Sea one of these days just to check...
+VO_Wriothesley_Favorite_Food.ogg  ||  I usually take some milk with my coffee and two cubes of sugar with my tea.
+VO_Wriothesley_Least_Favorite_Food.ogg  ||  Have you ever had one of Sigewinne's milkshakes? The taste that comes to mind is... what's that flavor... desolation.
+VO_Wriothesley_Receiving_a_Gift_-_01.ogg  ||  What a perfect blend of flavors. I could have never made this myself.
+VO_Wriothesley_Receiving_a_Gift_-_02.ogg  ||  Lovely. I'll be sure to treat you to something next time.
+VO_Wriothesley_Receiving_a_Gift_-_03.ogg  ||  Please excuse me, I'm... I'm gonna brew a cup of tea.
+VO_Wriothesley_Birthday.ogg  ||  Our tradition says that all children of Fontaine are born amid their parents' wishes and blessings, but I'd like to think that all children are born from such wonderful feelings. Anything that I can say to celebrate your birth would feel a little trivial next to that, right?
+Unfortunately, I won't be able to reduce your prison sentence if you were to commit a crime — the only thing I would be able to pull off would be a special Welfare Meal for your birthday dinner. With all that in mind, why don't you try to respect the law a bit more around your birthday, so we'll be able to celebrate somewhere nice on the surface?
+VO_Wriothesley_Feelings_About_Ascension_-_01.ogg  ||  It is my honor to win your trust.
+VO_Wriothesley_Feelings_About_Ascension_-_02.ogg  ||  Uh oh, looks like I'll owe you a favor now.
+VO_Wriothesley_Feelings_About_Ascension_-_03.ogg  ||  Ha, why do you look even more pleased about this than me?
+VO_Wriothesley_Feelings_About_Ascension_-_04.ogg  ||  I like signs of strength and hope. They give me reassurance that tomorrow will be better than today. This isn't to be pessimistic, but it's impossible for the present to be without its doubts and troubles — that's just the truth. But come hell or high water, if nothing else then at least we'll be able to figure it out together, right?
+VO_Wriothesley_Elemental_Skill_1_01.ogg  ||  Let's begin.
+VO_Wriothesley_Elemental_Skill_1_02.ogg  ||  Don't run away now.
+VO_Wriothesley_Elemental_Skill_1_03.ogg  ||  A moment, please.
+VO_Wriothesley_Elemental_Burst_01.ogg  ||  Have a safe trip.
+VO_Wriothesley_Elemental_Burst_02.ogg  ||  This could get a little chilly.
+VO_Wriothesley_Elemental_Burst_03.ogg  ||  Stay cool and face your guilt!
+VO_Wriothesley_Sprint_Start_01.ogg  ||  
+VO_Wriothesley_Deploying_Wind_Glider_01.ogg  ||  
+VO_Wriothesley_Opening_Treasure_Chest_01.ogg  ||  Oh, this wasn't locked? How convenient.
+VO_Wriothesley_Opening_Treasure_Chest_02.ogg  ||  I'd take it if I were you. I'm sure it'll come in handy.
+VO_Wriothesley_Opening_Treasure_Chest_03.ogg  ||  All unclaimed articles should be turned in, so... neither of us saw anything here, right?
+VO_Wriothesley_Low_HP_01.ogg  ||  No need to fear.
+VO_Wriothesley_Low_HP_02.ogg  ||  No backup, huh? Fine by me.
+VO_Wriothesley_Low_HP_03.ogg  ||  Time to improvise.
+VO_Wriothesley_Ally_at_Low_HP_01.ogg  ||  Step back.
+VO_Wriothesley_Ally_at_Low_HP_02.ogg  ||  Get to the infirmary.
+VO_Wriothesley_Fallen_01.ogg  ||  Sorry... I couldn't protect...
+VO_Wriothesley_Fallen_02.ogg  ||  Instead of going big, guess I'm going home...
+VO_Wriothesley_Fallen_03.ogg  ||  I have... no objections.
+VO_Wriothesley_Light_Hit_Taken_01.ogg  ||  Going easy on me?
+VO_Wriothesley_Light_Hit_Taken_02.ogg  ||  
+VO_Wriothesley_Heavy_Hit_Taken_02.ogg  ||  ...Not bad.
+VO_Wriothesley_Heavy_Hit_Taken_01.ogg  ||  
+VO_Wriothesley_Joining_Party_01.ogg  ||  Let's get to work.
+VO_Wriothesley_Joining_Party_02.ogg  ||  Got a side job for me? Sure thing.
+VO_Wriothesley_Joining_Party_03.ogg  ||  I'll do my best, but I can't guarantee you victory.
+VO_Wriothesley_Light_Attack_06.ogg  ||  
+VO_Wriothesley_Mid_Attack_01.ogg  ||  
+VO_Wriothesley_Heavy_Attack_01.ogg  ||  
+VO_Wriothesley_Climbing_01.ogg  ||  
+VO_Wriothesley_Climbing_Breath_01.ogg  ||  
+VO_Wriothesley_Jumping_01.ogg  ||  

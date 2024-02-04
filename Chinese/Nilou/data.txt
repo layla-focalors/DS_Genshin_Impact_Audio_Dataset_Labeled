@@ -1,0 +1,154 @@
+VO_ZH_Nilou_Hello.ogg  ||  你好，我是来自祖拜尔剧场的妮露。今天上演的剧目是这一支舞。请你不要眨眼哦，要开始了——
+VO_ZH_Nilou_Chat_-_Practice.ogg  ||  先这样…下一个动作是…这样吧，嗯…嗯！
+VO_ZH_Nilou_Chat_-_Sleepiness.ogg  ||  深呼吸，吹一个大大的气球，把困意放进气球里，呼——气球飞走吧。
+VO_ZH_Nilou_Chat_-_Rest.ogg  ||  这样清闲的日子倒也不错嘛，优哉游哉。
+VO_ZH_Nilou_When_It_Rains.ogg  ||  天气和心情一样，有时候会变得阴沉沉的，但是不用着急，雨后的天空会更加澄澈。
+VO_ZH_Nilou_When_Thunder_Strikes.ogg  ||  雷声有点恐怖呢，你会害怕吗？我可以分享你一个神奇的方法哦。
+VO_ZH_Nilou_When_It_Snows.ogg  ||  欸？哇——下雪了。你听，下雪的簌簌声，加上旋转着的雪花，像不像自然的精灵在跳舞？
+VO_ZH_Nilou_When_the_Sun_Is_Out.ogg  ||  阳光明媚的日子…晒得暖洋洋的。唔，会犯困…
+VO_ZH_Nilou_When_the_Wind_Is_Blowing.ogg  ||  你还好吗？小心风沙哦。
+VO_ZH_Nilou_Good_Morning.ogg  ||  早上好哦。欸？你盯着我看是…哦头、头发翘起来了吗？啊，先别看我，唔，我马上整理好。
+VO_ZH_Nilou_Good_Afternoon.ogg  ||  唔…嗯…中午吃饼好呢，还是吃饭呢…要不吃豆泥吧？
+VO_ZH_Nilou_Good_Evening.ogg  ||  晚上好，今晚我在祖拜尔剧场有演出。给你两张剧票吧？
+VO_ZH_Nilou_Good_Night.ogg  ||  睡前把烦恼全部都倾诉掉，会睡得比较香哦。如果你愿意，我很乐意当你的听众。
+VO_ZH_Nilou_About_Nilou_-_Body_Language.ogg  ||  有时候，舞蹈比语言更能传达出心情，不知道该说什么好的时候，就跳舞吧。
+VO_ZH_Nilou_About_Nilou_-_Dance_and_Wisdom.ogg  ||  探究知识需要很高很高的天赋，很多人拼了命地努力，结果劳累又沮丧…但跳舞就不一样了，就算看不懂门道，也能看个热闹。要是能从这份肢体动作中品味到艺术的美丽与价值，那我就更开心了。
+VO_ZH_Nilou_About_Us_-_Dealing_with_Anger.ogg  ||  你会生闷气吗？嗯，生闷气是不好的。来，跟着我做。先在身前用右手画一个大大的圆，然后，双手把讨厌的事都从胸口里取出来，放在圆里。接着，用力地推出去！怎么样，心情好起来了吗？
+VO_ZH_Nilou_About_Us_-_Going_on_Adventures.ogg  ||  尽管我之前没离开过须弥城，但…我想和你一起去冒险。哦，到陌生的地方，我适应一下就好…唔，稻妻的沙滩下，真的不会有很大很大的沙虫，突然钻出来吗？
+VO_ZH_Nilou_About_the_Vision.ogg  ||  我的神之眼是第一次登台跳舞时拿到的。我想，神明大人会成为我的观众，一定也认可了人类艺术的美丽之处吧。
+VO_ZH_Nilou_Something_to_Share.ogg  ||  努力没有结果，也是很正常的。就像我不管怎么努力，也没办法理解明论派的知识。嗯，这个时候晃一晃脑袋，让大脑转个弯，换个方向就好了。
+VO_ZH_Nilou_Interesting_Things_-_Dance_of_the_Crystalflies.ogg  ||  晶蝶有各种各样的颜色，很漂亮。当你实在按捺不住好奇心，悄悄伸出手的时候，它们就会一下子跳起优美而迅疾的舞步，离你远去。啊，我要是会飞的话，就能学会晶蝶之舞了。
+VO_ZH_Nilou_Interesting_Things_-_Padisarahs.ogg  ||  花神大人跳舞的时候，真正的帕蒂沙兰会在她踏足过的地上盛开。…啊，听起来就非常美好，真想见一见这样的场景。
+VO_ZH_Nilou_About_Cyno.ogg  ||  教令院的人，我不太敢接触，毕竟他们对歌舞艺术的印象都不好。我常常会想，那他们会通过什么来解闷呢？呃…你说赛诺的话，会玩「七圣召唤」？真是不可思议呢。
+VO_ZH_Nilou_About_Tighnari.ogg  ||  据说他是很厉害的植物学家。那他分辨蘑菇的本领肯定很厉害，至少不会吃到毒蘑菇…好羡慕呀。
+VO_ZH_Nilou_About_Collei.ogg  ||  她偶尔会来看我的演出，是一位很热心的见习巡林员呢。她还提醒过我小心迷路，这是为什么呢？我也没有迷路过呀。
+VO_ZH_Nilou_About_Kaveh.ogg  ||  我听说是他建造了华美的艾尔卡萨扎莱宫，能建造出那样的作品，过程应该快乐又陶醉吧。就像我练舞的时候一样，只要一想到能跳给大家看，就充满了喜悦和动力呢。
+VO_ZH_Nilou_About_Dehya.ogg  ||  最近发生了那么多事情，总觉得很不可思议。我原本想为迪希雅和迪娜泽黛挑选一些合适的礼物。但我自己拿不定主意，嗯…要是把大巴扎朋友们推荐的品种全送去，又太多了。哎呀，到底该怎么办才好呢？
+VO_ZH_Nilou_About_Dori.ogg  ||  出手阔绰的多莉大商人也曾看过我跳舞。我记得，有一次她和祖拜尔先生商量了什么事情，之后就再也没来过了。会是什么事情呢？嗯…呃？你是说她可能想带我进行一场提瓦特巡演？不会吧，祖拜尔先生肯定帮忙拒绝了吧…应该拒绝了吧…
+VO_ZH_Nilou_About_Lesser_Lord_Kusanali.ogg  ||  大巴扎的大家都很喜欢小吉祥草王大人，好想听听她对我跳的花神之舞的评价呀…啊！不、不，还是算了算了。她真的来了，我肯定会紧张得不得了。
+VO_ZH_Nilou_More_About_Nilou_-_01.ogg  ||  唔——啊！抱歉，我在想等下去吃什么好呢？有点出神了…你需要帮忙吗？
+VO_ZH_Nilou_More_About_Nilou_-_02.ogg  ||  我的老师教过我很多跳舞的要领，但她说，最重要的还是要把情感都投入到舞蹈里，因为这样才是最能打动人的。有所感，才能抒发。想要传达美丽的话，我就要成为美丽本身吧。
+VO_ZH_Nilou_More_About_Nilou_-_03.ogg  ||  有时候我会收到观众们的来信，说他们因为我的舞蹈打起了精神。我会和祖拜尔剧场的大家共同分享这份快乐。虽然在观众眼里，我是在台前的那一个，但在我心中，这永远是靠所有人的努力才能取得的成果。
+VO_ZH_Nilou_More_About_Nilou_-_04.ogg  ||  大巴扎有时候会有一些杂技表演，比如说不停抛起球来又不停接住。以前我也试过这个，但是不知道怎么回事就是接不住球，反而全掉头上了。当时祖拜尔先生他们都笑了起来。嗯…好像在他们眼里，我的身体协调能力应该特别强一样…暴露短处了呢。
+VO_ZH_Nilou_More_About_Nilou_-_05.ogg  ||  以前有人说我就像是暖阳下的绿洲，让人感到治愈与温暖。我多多少少会高兴一下，但我的追求、我试图向大家呈现的价值不止在此。不过，和你相处久了我才知道，被人照顾和关怀是这样的感觉。现在…现在，我感觉那个比喻更适合你。
+VO_ZH_Nilou_Hobbies.ogg  ||  我的人生就是跳舞，跳舞就是我的人生…到底该说哪个才比较好呢？哎呀，我果然不适合思考这些太有逻辑的东西。总之，我会一直跳下去的。用我的表演，让这份艺术之美被更多人看见。
+VO_ZH_Nilou_Troubles.ogg  ||  我还是搞不懂哪些蘑菇有毒，哪些又没有…据说，颜色不管是鲜艳还是朴素的蘑菇，都有可能有毒。唔，好像明白了什么，又好像什么都没明白…
+VO_ZH_Nilou_Favorite_Food.ogg  ||  甜食总能让人心情愉快，须弥大多数人都喜欢甜食哦！欸，你要不要也试试看？我可以给你一一介绍。
+VO_ZH_Nilou_Least_Favorite_Food.ogg  ||  我有点难以接受菌菇那一类，主要是害怕。不是那种见到了想逃走的害怕啦。我…我是小时候误吃过毒蘑菇，在床上躺了好几天…如果你想尝一尝须弥的菌菇美食，要记得确保是无毒蘑菇哦。
+VO_ZH_Nilou_Receiving_a_Gift_-_01.ogg  ||  原来美食在舌尖起舞，指的就是这样的感觉…好神奇呀！
+VO_ZH_Nilou_Receiving_a_Gift_-_02.ogg  ||  谢谢你。就像我不断练习跳舞一样，这道菜肴，一定也凝结着你的心血吧。
+VO_ZH_Nilou_Receiving_a_Gift_-_03.ogg  ||  抱歉，可能是我最近胃口不太好，你别介意。
+VO_ZH_Nilou_Birthday.ogg  ||  那个…生日快乐！我最近学会了一支新的舞蹈，想要跳给你看。呃，你问我紧张吗？呼——被你看出来了呀。因为，想要融合心意与技巧，不知不觉编得越来越难…总之，希望美好与快乐能永远留在你身边。
+VO_ZH_Nilou_Feelings_About_Ascension_-_01.ogg  ||  啊，这是什么感觉？
+VO_ZH_Nilou_Feelings_About_Ascension_-_02.ogg  ||  身体舒展开了，能比以往发挥得更出色吧。
+VO_ZH_Nilou_Feelings_About_Ascension_-_03.ogg  ||  我就像躺在一只大大的风史莱姆背上，好轻好轻。
+VO_ZH_Nilou_Feelings_About_Ascension_-_04.ogg  ||  我喜欢和你待在一起。嗯…我也不知道为什么，总感觉好像有蝴蝶要从胸腔飞出来一般…还是让我跳一支舞给你看吧。
+VO_ZH_Nilou_Hello.ogg  ||  
+VO_ZH_Nilou_Chat_-_Practice.ogg  ||  
+VO_ZH_Nilou_Chat_-_Sleepiness.ogg  ||  
+VO_ZH_Nilou_Chat_-_Rest.ogg  ||  
+VO_ZH_Nilou_When_It_Rains.ogg  ||  
+VO_ZH_Nilou_When_Thunder_Strikes.ogg  ||  
+VO_ZH_Nilou_When_It_Snows.ogg  ||  
+VO_ZH_Nilou_When_the_Sun_Is_Out.ogg  ||  
+VO_ZH_Nilou_When_the_Wind_Is_Blowing.ogg  ||  
+VO_ZH_Nilou_Good_Morning.ogg  ||  
+VO_ZH_Nilou_Good_Afternoon.ogg  ||  
+VO_ZH_Nilou_Good_Evening.ogg  ||  
+VO_ZH_Nilou_Good_Night.ogg  ||  
+VO_ZH_Nilou_About_Nilou_-_Body_Language.ogg  ||  
+VO_ZH_Nilou_About_Nilou_-_Dance_and_Wisdom.ogg  ||  
+VO_ZH_Nilou_About_Us_-_Dealing_with_Anger.ogg  ||  
+VO_ZH_Nilou_About_Us_-_Going_on_Adventures.ogg  ||  
+VO_ZH_Nilou_About_the_Vision.ogg  ||  
+VO_ZH_Nilou_Something_to_Share.ogg  ||  
+VO_ZH_Nilou_Interesting_Things_-_Dance_of_the_Crystalflies.ogg  ||  
+VO_ZH_Nilou_Interesting_Things_-_Padisarahs.ogg  ||  
+VO_ZH_Nilou_About_Cyno.ogg  ||  
+VO_ZH_Nilou_About_Tighnari.ogg  ||  
+VO_ZH_Nilou_About_Collei.ogg  ||  
+VO_ZH_Nilou_About_Kaveh.ogg  ||  
+VO_ZH_Nilou_About_Dehya.ogg  ||  
+VO_ZH_Nilou_About_Dori.ogg  ||  
+VO_ZH_Nilou_About_Lesser_Lord_Kusanali.ogg  ||  
+VO_ZH_Nilou_More_About_Nilou_-_01.ogg  ||  
+VO_ZH_Nilou_More_About_Nilou_-_02.ogg  ||  
+VO_ZH_Nilou_More_About_Nilou_-_03.ogg  ||  
+VO_ZH_Nilou_More_About_Nilou_-_04.ogg  ||  
+VO_ZH_Nilou_More_About_Nilou_-_05.ogg  ||  
+VO_ZH_Nilou_Hobbies.ogg  ||  
+VO_ZH_Nilou_Troubles.ogg  ||  
+VO_ZH_Nilou_Favorite_Food.ogg  ||  
+VO_ZH_Nilou_Least_Favorite_Food.ogg  ||  
+VO_ZH_Nilou_Receiving_a_Gift_-_01.ogg  ||  
+VO_ZH_Nilou_Receiving_a_Gift_-_02.ogg  ||  
+VO_ZH_Nilou_Receiving_a_Gift_-_03.ogg  ||  
+VO_ZH_Nilou_Birthday.ogg  ||  
+VO_ZH_Nilou_Feelings_About_Ascension_-_01.ogg  ||  
+VO_ZH_Nilou_Feelings_About_Ascension_-_02.ogg  ||  
+VO_ZH_Nilou_Feelings_About_Ascension_-_03.ogg  ||  
+VO_ZH_Nilou_Feelings_About_Ascension_-_04.ogg  ||  
+VO_ZH_Nilou_Elemental_Skill_1_01.ogg  ||  来了哟。
+VO_ZH_Nilou_Elemental_Skill_1_02.ogg  ||  准备跳喽。
+VO_ZH_Nilou_Elemental_Skill_1_03.ogg  ||  全力以赴。
+VO_ZH_Nilou_Elemental_Burst_01.ogg  ||  和浪花共舞吧。
+VO_ZH_Nilou_Elemental_Burst_02.ogg  ||  请看好了哦。
+VO_ZH_Nilou_Elemental_Burst_03.ogg  ||  这支舞，献给你。
+VO_ZH_Nilou_Sprint_Start_01.ogg  ||  
+VO_ZH_Nilou_Deploying_Wind_Glider_01.ogg  ||  
+VO_ZH_Nilou_Opening_Treasure_Chest_01.ogg  ||  都给你。
+VO_ZH_Nilou_Opening_Treasure_Chest_02.ogg  ||  我来帮忙一起收吧。
+VO_ZH_Nilou_Opening_Treasure_Chest_03.ogg  ||  哇，是意外之喜。
+VO_ZH_Nilou_Low_HP_01.ogg  ||  唔，不用担心我…
+VO_ZH_Nilou_Low_HP_02.ogg  ||  真伤脑筋呀…
+VO_ZH_Nilou_Low_HP_03.ogg  ||  得快点深呼吸…
+VO_ZH_Nilou_Ally_at_Low_HP_01.ogg  ||  别急，我来了。
+VO_ZH_Nilou_Ally_at_Low_HP_02.ogg  ||  请让我来抵挡一阵！
+VO_ZH_Nilou_Fallen_01.ogg  ||  还没来得及…谢幕…
+VO_ZH_Nilou_Fallen_02.ogg  ||  不能…继续跳舞了吗…
+VO_ZH_Nilou_Fallen_03.ogg  ||  美丽之物，不要远去…
+VO_ZH_Nilou_Light_Hit_Taken_01.ogg  ||  
+VO_ZH_Nilou_Heavy_Hit_Taken_01.ogg  ||  啊，要稳住平衡。
+VO_ZH_Nilou_Heavy_Hit_Taken_02.ogg  ||  有点…疼。
+VO_ZH_Nilou_Heavy_Hit_Taken_03.ogg  ||  
+VO_ZH_Nilou_Joining_Party_01.ogg  ||  今天要去哪里跳舞呢？
+VO_ZH_Nilou_Joining_Party_02.ogg  ||  有什么我能帮忙的吗？
+VO_ZH_Nilou_Joining_Party_03.ogg  ||  啊…是叫我吗？来啦。
+VO_ZH_Nilou_Light_Attack_01.ogg  ||  
+VO_ZH_Nilou_Mid_Attack_01.ogg  ||  
+VO_ZH_Nilou_Heavy_Attack_01.ogg  ||  
+VO_ZH_Nilou_Climbing_01.ogg  ||  
+VO_ZH_Nilou_Climbing_Breath_01.ogg  ||  
+VO_ZH_Nilou_Jumping_01.ogg  ||  
+VO_ZH_Nilou_Elemental_Skill_1_01.ogg  ||  
+VO_ZH_Nilou_Elemental_Skill_1_02.ogg  ||  
+VO_ZH_Nilou_Elemental_Skill_1_03.ogg  ||  
+VO_ZH_Nilou_Elemental_Burst_01.ogg  ||  
+VO_ZH_Nilou_Elemental_Burst_02.ogg  ||  
+VO_ZH_Nilou_Elemental_Burst_03.ogg  ||  
+VO_ZH_Nilou_Sprint_Start_01.ogg  ||  
+VO_ZH_Nilou_Deploying_Wind_Glider_01.ogg  ||  
+VO_ZH_Nilou_Opening_Treasure_Chest_01.ogg  ||  
+VO_ZH_Nilou_Opening_Treasure_Chest_02.ogg  ||  
+VO_ZH_Nilou_Opening_Treasure_Chest_03.ogg  ||  
+VO_ZH_Nilou_Low_HP_01.ogg  ||  
+VO_ZH_Nilou_Low_HP_02.ogg  ||  
+VO_ZH_Nilou_Low_HP_03.ogg  ||  
+VO_ZH_Nilou_Ally_at_Low_HP_01.ogg  ||  
+VO_ZH_Nilou_Ally_at_Low_HP_02.ogg  ||  
+VO_ZH_Nilou_Fallen_01.ogg  ||  
+VO_ZH_Nilou_Fallen_02.ogg  ||  
+VO_ZH_Nilou_Fallen_03.ogg  ||  
+VO_ZH_Nilou_Light_Hit_Taken_01.ogg  ||  
+VO_ZH_Nilou_Heavy_Hit_Taken_01.ogg  ||  
+VO_ZH_Nilou_Heavy_Hit_Taken_02.ogg  ||  
+VO_ZH_Nilou_Heavy_Hit_Taken_03.ogg  ||  
+VO_ZH_Nilou_Joining_Party_01.ogg  ||  
+VO_ZH_Nilou_Joining_Party_02.ogg  ||  
+VO_ZH_Nilou_Joining_Party_03.ogg  ||  
+VO_ZH_Nilou_Light_Attack_01.ogg  ||  
+VO_ZH_Nilou_Mid_Attack_01.ogg  ||  
+VO_ZH_Nilou_Heavy_Attack_01.ogg  ||  
+VO_ZH_Nilou_Climbing_01.ogg  ||  
+VO_ZH_Nilou_Climbing_Breath_01.ogg  ||  
+VO_ZH_Nilou_Jumping_01.ogg  ||  

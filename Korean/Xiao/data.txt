@@ -1,0 +1,97 @@
+VO_KO_Xiao_Hello.ogg  ||  광야에서 길을 잃거나, 길에서 각종 악인이나 흉수를 만났을 때, 전쟁과 마주쳤을 때 내 이름을 부르거라. 「삼안오현 선인」——「소」, 부름을 받아 지켜주러 왔다
+VO_KO_Xiao_Chat_-_Idleness.ogg  ||  내가 언제부터 이렇게 한가해 진 거지? 우습군
+VO_KO_Xiao_Chat_-_Wandering_Spirits.ogg  ||  황야의 고독한 영혼, 날 해칠 생각은 버려
+VO_KO_Xiao_Chat_-_Corruption.ogg  ||  …으윽…흠, 유쾌하지 않은 일들이 생각났어
+VO_KO_Xiao_When_It_Rains.ogg  ||  마물은 비가 온다고 쉬지 않아, 움직이자
+VO_KO_Xiao_After_the_Rain.ogg  ||  날이 갰네? 하지만 난 날씨에는 관심이 없어
+VO_KO_Xiao_When_Thunder_Strikes.ogg  ||  평범한 사람들은 천둥을 무서워해. 흔한 일인데 이해가 안 돼
+VO_KO_Xiao_When_It_Snows.ogg  ||  눈이 쌓이고 나면, 파먹을 수 있어
+VO_KO_Xiao_Good_Morning.ogg  ||  시간이 꽤 됐네, 출발하자
+VO_KO_Xiao_Good_Afternoon.ogg  ||  점심 식사… 망서 객잔으로 돌아가자
+VO_KO_Xiao_Good_Evening.ogg  ||  밤에는 불길한 것들이 판을 치니까, 밖에 나가지 마
+VO_KO_Xiao_Good_Night.ogg  ||  가봐, 난 여기서 널 기다릴게
+VO_KO_Xiao_About_Xiao_-_Inhuman.ogg  ||  난 인간이 아니라서, 인간의 감정을 이해하기 힘들어
+VO_KO_Xiao_About_Xiao_-_Liyue.ogg  ||  요새 리월이 너무 빨리 변하고 있어…아, 됐다, 적응할 마음도 없는데
+VO_KO_Xiao_About_Us_-_Warnings.ogg  ||  너마저 어둠에 빠지게 되는 날이 온다면, 그땐 내가——
+VO_KO_Xiao_About_Us_-_Trust.ogg  ||  오염되지 마, 그럼 안 봐줄 거야.
+…그러니까 내 말은 의지가 굳은 「너」라면 끝까지 흔들리지 않을 거야
+VO_KO_Xiao_About_Us_-_Drowsiness.ogg  ||  누, 누구냐!? 음? …내가 서서 잤다고? 선인에게 건방지군!
+VO_KO_Xiao_About_Us_-_Lantern_Rite.ogg  ||  해등절? 또 인간들이 바다에 빛나는 쓰레기를 쏟아부을 때가 됐군. 왜 이리 유치한 짓을 하는지.
+근데, 네가 심심하다면 같이 가 줄게
+VO_KO_Xiao_About_the_Vision_-_Desires.ogg  ||  「신의 눈」, 욕망? 인간의 기준으로 선인을 짐작하지 마. 난 욕망이 없어
+VO_KO_Xiao_About_the_Vision_-_Reasons.ogg  ||  일부러 감추려는 게 아니야, 내 욕망은 다른 사람에게는 말할 수 없어.
+인간 세상에는 소원을 말하는 순간 무효라는 규칙이 있잖아. 어…? 그 뜻이 아니라고?
+VO_KO_Xiao_Something_to_Share.ogg  ||  살육은 내 특기지. 네가 못 하겠다면 날 불러
+VO_KO_Xiao_Interesting_Things.ogg  ||  적화주, 예전엔 황무지였어.
+벌써 몇 년 전… 아니, 몇백 년 전의 일이지
+VO_KO_Xiao_About_Zhongli.ogg  ||  흠… 뭘 좀 묻지. 종려 님은 평소에 어떤 일을…? 새장을 들고 산책? 꽃구경? 골동품 감정?
+… 종려 님은 무슨 뜻으로 그런 걸 하시는 거지…
+VO_KO_Xiao_About_Beidou.ogg  ||  북두? 난 그녀와 친분이 없어. 하지만 바다 괴수를 쓰러뜨린 건 사실이야. 인간이 「해산」을 처치하다니, 실력은 인정할 만해
+VO_KO_Xiao_About_Baizhu.ogg  ||  너… 백출에게 내 고통을 줄여줄 약물을 만들어 달라고 부탁했어? 흠… 마음은 고맙게 받지. 하지만 평범한 인간들의 약물은 선인에게 전혀 듣지 않아
+VO_KO_Xiao_About_Hu_Tao.ogg  ||  호두? 그 아이는 골치 아플 정도로 활발해. 그래도 재미있는 구석이 있으니까 따분한 인간으로 자랄 걱정은 없어
+VO_KO_Xiao_About_Venti.ogg  ||  벤티…? 이름이 벤티였구나, 그가 연주하는 곡은… 아니, 아무것도 아니야
+VO_KO_Xiao_About_Ganyu.ogg  ||  감우는 신수도 아니고 범인도 아닌, 선인과 인간의 경계에 걸쳐진 존재야. 책임감으로 자신을 지탱하고 있으니, 혼란스럽겠지. …내가? 살육과 생존의 길밖에 모르는 야차한테, 상서로운 신수를 인도하라니, 말도 안 되는 소리야
+VO_KO_Xiao_About_Shenhe.ogg  ||  신학은 널 굉장히 신뢰하는 것 같더군. 그것도 그럴 것이 세상에 너처럼 착하고 열정적인 사람이 얼마나 있겠어
+VO_KO_Xiao_About_Yelan.ogg  ||  전에 층암거연에서 천암군과 관련된 흔적을 조사했다고 들었어. 그곳에 혼자 비밀을 찾으러 가다니, 보통내기가 아니군
+VO_KO_Xiao_More_About_Xiao_-_01.ogg  ||  널 지키는 호법이 되어줄게.
+하지만… 내게 가까이 오거나 날 방해하진 마. 그럼 후회하게 될 거야
+VO_KO_Xiao_More_About_Xiao_-_02.ogg  ||  천년 동안, 난 셀 수 없이 많은 원혼을 죽였어. 곤란한 일을 당하지 않으려면 내게서 멀리 떨어져. 날 그냥 「도구」로 여겨
+VO_KO_Xiao_More_About_Xiao_-_03.ogg  ||  귓가에 자꾸… 「그들」의 목소리가 들려. 포효, 울부짖는 소리… 살육이라고 울부짖지…
+이건 내 선택의 대가야. 너와는 상관없어
+VO_KO_Xiao_More_About_Xiao_-_04.ogg  ||  모락스? 이 이름에 대해 얼마나 알고 있지?
+그분은 내게 「소」라는 이름을 지어주고, 날 기나긴 고통에서 해방시켜 주셨어.
+그분께 불경하게 군다면 너라도 용서할 수 없어
+VO_KO_Xiao_More_About_Xiao_-_05.ogg  ||  이미 늦었어, 우리 사이엔 얽힌 게 너무 많아. 네가 포기하려 해도 늦었어. 음? 포기를 생각해 본 적 없다고?
+…「나자의 춤」, 내 전투는 멈추지 않아.
+하지만 너에 대해서 더 많이 알고 싶어
+VO_KO_Xiao_Hobbies.ogg  ||  너 정말 겁이 없구나, 내 취미를 물어볼 용기도 있고.
+그럼 싸워보자. 네 몸으로 내 공격을 몇 수나 버틸 수 있을까?
+VO_KO_Xiao_Troubles.ogg  ||  번뇌? 그런 질문은 선인에게 무의미해. 천년 동안 지속되는 번뇌는 존재하지 않으니까
+VO_KO_Xiao_Favorite_Food_-_Almond_Tofu.ogg  ||  인간의 음식엔 흥미 없어. 과정이 복잡하고 시간이 너무 오래 걸려. 그나마 행인두부는 먹을 만하지
+VO_KO_Xiao_Favorite_Food_-_Memories.ogg  ||  행인두부의 맛은, 그때 그 「꿈」과 아주 비슷하군
+VO_KO_Xiao_Least_Favorite_Food.ogg  ||  나보고 직접 밀가루 전병에 고기를 싸라고? 그리고… 함께 먹으라고? 하… 귀찮아. 요즘 인간 세상은 상식이 너무나도 부족하군
+VO_KO_Xiao_Receiving_a_Gift_-_01.ogg  ||  음, 나쁘지 않아…. 왜 그렇게 쳐다봐?
+VO_KO_Xiao_Receiving_a_Gift_-_02.ogg  ||  난 괜찮으니까 신경 써줄 필요 없어
+VO_KO_Xiao_Receiving_a_Gift_-_03.ogg  ||  다음엔 다른 걸 만들어 봐
+VO_KO_Xiao_Birthday.ogg  ||  생일이라… 인간의 이런 기념일은 정말 쓸데없어. 크흠… 기다려봐. 오동나무 잎으로 나비를 접아주지.
+됐으니까 가져가. 이건 선법이라 액운을 막아줄 수 있어
+VO_KO_Xiao_Feelings_About_Ascension_-_01.ogg  ||  이 정도로 괜히 놀라지 마
+VO_KO_Xiao_Feelings_About_Ascension_-_02.ogg  ||  새로운 힘? 이 힘은 참살에나 쓰일 뿐이야
+VO_KO_Xiao_Feelings_About_Ascension_-_03.ogg  ||  힘의 끝은 자아의 파멸이지, 대답해. 어째서 그렇게 집착하는지
+VO_KO_Xiao_Feelings_About_Ascension_-_04.ogg  ||  내 창은 이미 무수한 영혼을 도륙했어. 나 자신도 어둠에 잠식되었고. ——그런데 넌 이런 날 움직이고…「동료」로 삼았어.
+…날 구하고 싶은 건가? 넌… 정말 이해하기 힘든 생명체군
+VO_KO_Xiao_Elemental_Skill_1_01.ogg  ||  흥
+VO_KO_Xiao_Elemental_Skill_1_02.ogg  ||  지루해
+VO_KO_Xiao_Elemental_Skill_1_03.ogg  ||  소용없어
+VO_KO_Xiao_Elemental_Skill_1_04.ogg  ||  
+VO_KO_Xiao_Elemental_Skill_2_01.ogg  ||  여기다!
+VO_KO_Xiao_Elemental_Skill_2_02.ogg  ||  무능하군
+VO_KO_Xiao_Elemental_Burst_01.ogg  ||  사라져라
+VO_KO_Xiao_Elemental_Burst_02.ogg  ||  나자의 춤
+VO_KO_Xiao_Elemental_Burst_03.ogg  ||  비명을 지르거라
+VO_KO_Xiao_Sprint_Start_01.ogg  ||  
+VO_KO_Xiao_Deploying_Wind_Glider_01.ogg  ||  
+VO_KO_Xiao_Opening_Treasure_Chest_01.ogg  ||  너한테 쓸모가 있다면 됐어
+VO_KO_Xiao_Opening_Treasure_Chest_02.ogg  ||  이 물건들의 용도는… 아니다, 관심 없다
+VO_KO_Xiao_Opening_Treasure_Chest_03.ogg  ||  음… 품질이 괜찮군
+VO_KO_Xiao_Low_HP_01.ogg  ||  다물어
+VO_KO_Xiao_Low_HP_03.ogg  ||  어리석군
+VO_KO_Xiao_Low_HP_04.ogg  ||  좋아
+VO_KO_Xiao_Ally_at_Low_HP_01.ogg  ||  …나약하군
+VO_KO_Xiao_Ally_at_Low_HP_02.ogg  ||  살고 싶으면 물러나
+VO_KO_Xiao_Fallen_01.ogg  ||  이게… 업보인가
+VO_KO_Xiao_Fallen_02.ogg  ||  이날이… 왔구나
+VO_KO_Xiao_Fallen_03.ogg  ||  말도 안 돼…
+VO_KO_Xiao_Light_Hit_Taken_02.ogg  ||  너 따위가?
+VO_KO_Xiao_Light_Hit_Taken_01.ogg  ||  
+VO_KO_Xiao_Heavy_Hit_Taken_02.ogg  ||  날 방해하지 마
+VO_KO_Xiao_Heavy_Hit_Taken_01.ogg  ||  
+VO_KO_Xiao_Joining_Party_01.ogg  ||  부름을 듣고 왔다
+VO_KO_Xiao_Joining_Party_02.ogg  ||  악령이여 물러가라
+VO_KO_Xiao_Joining_Party_03.ogg  ||  항마는 내 소임이야
+VO_KO_Xiao_Light_Attack_01.ogg  ||  
+VO_KO_Xiao_Mid_Attack_01.ogg  ||  
+VO_KO_Xiao_Heavy_Attack_01.ogg  ||  
+VO_KO_Xiao_Climbing_01.ogg  ||  
+VO_KO_Xiao_Climbing_Breath_01.ogg  ||  
+VO_KO_Xiao_Jumping_01.ogg  ||  

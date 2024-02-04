@@ -1,0 +1,158 @@
+VO_ZH_Sangonomiya_Kokomi_Hello.ogg  ||  我是珊瑚宫心海，海祇岛的「现人神巫女」。此次与你一起出行，就当做是放松一下…咳，就当做是对外考察吧。不用担心，临行前我留下了不少锦囊，将海祇岛近期的发展计划布置完毕了。稍微离开一会儿，也没有关系。
+VO_ZH_Sangonomiya_Kokomi_Chat_-_Reading.ogg  ||  八重堂出版的许多作品，深入浅出地阐明了兵法原理，我很喜欢。
+VO_ZH_Sangonomiya_Kokomi_Chat_-_Fish.ogg  ||  每个生灵的意志都值得尊重，就像海中的游鱼，也有自己的方向。
+VO_ZH_Sangonomiya_Kokomi_Chat_-_Preparation.ogg  ||  未雨绸缪，才能临危不乱。
+VO_ZH_Sangonomiya_Kokomi_When_It_Rains.ogg  ||  雨中行军，可以隐蔽声息，但对体能却是很大的考验…
+VO_ZH_Sangonomiya_Kokomi_When_It_Snows.ogg  ||  雪…真漂亮呀。
+VO_ZH_Sangonomiya_Kokomi_When_the_Sun_Is_Out.ogg  ||  天色真好，一起走走吧？
+VO_ZH_Sangonomiya_Kokomi_When_the_Wind_Is_Blowing.ogg  ||  嗯…这么大的风，正适合用火攻之计。
+VO_ZH_Sangonomiya_Kokomi_Good_Morning.ogg  ||  早安。我刚刚读到一段有趣的兵法，要一起研究一下吗？
+VO_ZH_Sangonomiya_Kokomi_Good_Afternoon.ogg  ||  下午的作战方案要进行一些修正，这样可以保证更高的效率。
+VO_ZH_Sangonomiya_Kokomi_Good_Evening.ogg  ||  嗯？这么快就到晚上了？跟你在一起，时间总是会过得格外快。
+VO_ZH_Sangonomiya_Kokomi_Good_Night.ogg  ||  好好休息，养精蓄锐。晚安。
+VO_ZH_Sangonomiya_Kokomi_About_Sangonomiya_Kokomi_-_Directives.ogg  ||  战场局势千变万化，一念之差就可能葬送全局。所以在开战前，我会将所有情况纳入考量，写成锦囊交给将士们去执行。不过目前来看，他们对锦囊有些过于依赖了。我还是希望他们多读些兵书，靠自己的力量辨析战场的局势，这样才能更好地抓住战机。
+VO_ZH_Sangonomiya_Kokomi_About_Sangonomiya_Kokomi_-_Relaxing.ogg  ||  真希望这次作战快点结束。八重堂出版的新印《沉秋拾剑录》已经可以买到了，好想呆在房间里一口气看完…
+VO_ZH_Sangonomiya_Kokomi_About_Us_-_Experience.ogg  ||  母亲曾教导过我，只有眼界开阔，才能成为合格的领袖。不过以前的我常年往返于珊瑚宫与军队之间，不曾亲自出来冒险，难免会有许多不懂的地方。嗯，这些就请你多担待啦。
+VO_ZH_Sangonomiya_Kokomi_About_Us_-_Confusion.ogg  ||  都说人心难测，但作为现人神巫女，我必须努力去理解每个人的想法才行。就从你开始吧，旅行者，让我猜猜…你现在在想些什么呢？
+VO_ZH_Sangonomiya_Kokomi_About_the_Vision.ogg  ||  在我眼中，「神之眼」便是愿望的象征。我们之所以成立反抗军，反对眼狩令，就是因为愿望是非常宝贵的东西，不该被轻易放弃，更不该被强行剥夺。
+VO_ZH_Sangonomiya_Kokomi_Anything_to_Share_-_Periodicals.ogg  ||  八重堂出版的刊物中，我尤其喜欢这本《提瓦特战争艺术》。你看，上面记录了许多经典战役，以及兵法名家对此的解析。其中有几篇我特别欣赏，让我来念给你听…
+VO_ZH_Sangonomiya_Kokomi_Anything_to_Share_-_Diving.ogg  ||  水下的世界虽不如陆地上明亮，但每次呆在那里时，心都会慢慢沉静下来。鱼群在远处游动，水母在身旁起舞，让人不知不觉就会放下所有烦恼。有机会的话，我带你去看看吧？
+VO_ZH_Sangonomiya_Kokomi_Interesting_Things.ogg  ||  我很喜欢海祇珊瑚真珠，它为海祇岛带来了许多财富，是大海给予我们的馈赠。
+VO_ZH_Sangonomiya_Kokomi_About_Gorou.ogg  ||  五郎是不可多得的优秀将领。他真诚、坚毅、果敢…能够与部下同食同寝，也能够提出许多出人意料的作战方案。但他也有一个小小的缺点，就是在战斗中容易亢奋上头。如果你和他一起行动的话，一定要在关键时候拉住他。
+VO_ZH_Sangonomiya_Kokomi_About_Kujou_Sara.ogg  ||  不得不承认，九条裟罗是一个难缠的对手。虽然她很少使用计策与谋略，但她在正面战场做得很好。幕府军对她非常信服，在她的带领下团结一致、悍不畏死，曾经几度给反抗军带来了巨大的威胁。
+VO_ZH_Sangonomiya_Kokomi_About_Yae_Miko.ogg  ||  八重宫司的许多事迹，我也有听说过。平心而论，我认为她是一位非常优秀的巫女，至少在「巫女」的本职上，她做到了无可挑剔的程度。听说她还负责八重堂轻小说出版事宜，真是个难以捉摸的人…
+VO_ZH_Sangonomiya_Kokomi_About_Raiden_Shogun.ogg  ||  眼狩令结束之后，海祇岛也回归了正常的生活。时至今日，我已经不想去评判将军的对错，我更在意的是海祇岛的未来。我希望将军能够信守承诺，我们与幕府相安无事。但若是有一天，将军再次无视民众的愿望，那我们也绝不会坐视不管。
+VO_ZH_Sangonomiya_Kokomi_About_Beidou.ogg  ||  当时与北斗一同伏击幕府军的时候，我也曾提出过「担心幕府军事先察觉」的担忧。不过北斗对我说，她的船队令行禁止，能够悄无声息地发动奇袭，事实证明果然如此。如今我们海祇岛的船队在训练时遇到了瓶颈，我倒真想请她来指导一番…
+VO_ZH_Sangonomiya_Kokomi_About_Kaedehara_Kazuha.ogg  ||  万叶曾在反抗军待过一段时间。印象里，他跟五郎的关系很好，两个人经常并肩作战。万叶性格洒脱，不喜欢被约束，但身处军队的时候，他又会严格遵守各项纪律。在我看来，他不仅剑术高超，性格也非常成熟。
+VO_ZH_Sangonomiya_Kokomi_About_Shikanoin_Heizou.ogg  ||  刚开始的时候，我非常诧异有人公开穿着天领奉行的制服来海祇岛。如果他是天领奉行的武士，就不该这么鲁莽；如果他是天领奉行的间谍，又不该这么招摇。不过接触过一段时间之后，我发现这位自称是「侦探」的鹿野院先生，对海祇岛的军事布防、政务商贸都不感兴趣，倒像是来旅游的。所以我只是加派了一些人手盯着他，并没有赶他离开。如果你见到他的话，倒是可以跟他聊上几句。
+VO_ZH_Sangonomiya_Kokomi_More_About_Sangonomiya_Kokomi_-_01.ogg  ||  越是情况紧迫，越要稳住心态。如果连我也陷入不安的话，其他人要怎么办呢？
+VO_ZH_Sangonomiya_Kokomi_More_About_Sangonomiya_Kokomi_-_02.ogg  ||  据说我们的祖先曾经生活在海底的渊下宫，是魔神奥罗巴斯将他们带到了地面上。我常常会猜想，海底的宫殿会不会很黑呢？每次想到这里，我就会倍加珍惜眼前的光亮。
+VO_ZH_Sangonomiya_Kokomi_More_About_Sangonomiya_Kokomi_-_03.ogg  ||  剑鱼二番队的士兵们，在你离开后也推选出了临时队长，但大家还是希望你能回去。我也只能跟他们说，你有一个重要的任务要独自完成，暂时没办法回来。有机会的话，你可以去看看他们，他们想必会很欢迎你的。
+VO_ZH_Sangonomiya_Kokomi_More_About_Sangonomiya_Kokomi_-_04.ogg  ||  其实很早以前，我并不想成为现人神巫女，只想每天读读兵书，做一个幕僚。这样就可以把自己隐藏在幕后，身上的担子也会减轻不少。不过最后还是事与愿违，毕竟血脉这种东西，是没办法违抗的…
+VO_ZH_Sangonomiya_Kokomi_More_About_Sangonomiya_Kokomi_-_05.ogg  ||  成为现人神巫女之后，我也慢慢习惯了这样的生活。起码当我看到不合理的事情时，我有力量去改变它。更重要的是，我因此和你相遇了不是吗？
+VO_ZH_Sangonomiya_Kokomi_Hobbies.ogg  ||  喜欢的事情？我想要找一个安静的地方读兵书，读一天都不会有人来打扰的那种。如果你想跟我一起研究兵法的话，我也是很欢迎的。不过…你得睡地板。
+VO_ZH_Sangonomiya_Kokomi_Troubles.ogg  ||  我其实，并不擅长与人交流。虽然也可以端起「现人神巫女」的架子来应付，但对我来说，这是一件很消耗能量的事情。一旦能量用尽，我也会露出消极的一面。那种形象肯定不能被外人看到啦，民众需要的是一个完美的海祇岛领袖，而不是一个喜欢宅在家里的小姑娘。
+VO_ZH_Sangonomiya_Kokomi_Favorite_Food.ogg  ||  鸟蛋寿司，是我很喜欢的一道料理。它材料常见、做法简单，很适合在军中普及。虽然在战事激烈的时候，吃上一顿鸟蛋寿司也是一种奢侈，但绝大部分时间里，这种朴素的料理能给士兵们带来许多满足。
+VO_ZH_Sangonomiya_Kokomi_Least_Favorite_Food.ogg  ||  嗯…非要说的话，我不太喜欢跟鱼有关的料理。不过这个还请你帮我保密啦，渔业在海祇岛的占比很重，如果让民众知道我不喜欢鱼料理的话，他们说不定会有一些奇怪的担心。
+VO_ZH_Sangonomiya_Kokomi_Receiving_a_Gift_-_01.ogg  ||  嗯，真好吃！能量似乎也…不、没什么…
+VO_ZH_Sangonomiya_Kokomi_Receiving_a_Gift_-_02.ogg  ||  分几口慢慢吃的话，幸福感也会持续得更久吧。
+VO_ZH_Sangonomiya_Kokomi_Receiving_a_Gift_-_03.ogg  ||  嗯，你给我出了一个难题呢。
+VO_ZH_Sangonomiya_Kokomi_Birthday.ogg  ||  生日快乐！今天有什么安排了吗？没有的话，我们一起在海祇岛庆祝吧。早晨我带你去看日出，白天一起去潜水，晚上的时候在珊瑚宫散步。如果下雨的话，我们就找个地方读兵书，然后一起去尝试做蛋糕。总之今天你不用多想，交给我这个「军师」来安排就好啦。
+VO_ZH_Sangonomiya_Kokomi_Feelings_About_Ascension_-_01.ogg  ||  我虽然并不崇尚武力，但能够变强是一件好事。
+VO_ZH_Sangonomiya_Kokomi_Feelings_About_Ascension_-_02.ogg  ||  力量在不断地涌出…想必下次作战，我们可以配合得更好。
+VO_ZH_Sangonomiya_Kokomi_Feelings_About_Ascension_-_03.ogg  ||  沧海月明，潮起潮落。力量更进一步，心境也会有所不同。
+VO_ZH_Sangonomiya_Kokomi_Feelings_About_Ascension_-_04.ogg  ||  曾经，我也时常会陷入自我怀疑之中。像我这样的人，真的可以胜任现人神巫女的职位吗？不过现在，我已经很少再去想这些了。与你在一起的时候，任何困难都可以迎刃而解。
+VO_ZH_Sangonomiya_Kokomi_Hello.ogg  ||  
+VO_ZH_Sangonomiya_Kokomi_Chat_-_Reading.ogg  ||  
+VO_ZH_Sangonomiya_Kokomi_Chat_-_Fish.ogg  ||  
+VO_ZH_Sangonomiya_Kokomi_Chat_-_Preparation.ogg  ||  
+VO_ZH_Sangonomiya_Kokomi_When_It_Rains.ogg  ||  
+VO_ZH_Sangonomiya_Kokomi_When_It_Snows.ogg  ||  
+VO_ZH_Sangonomiya_Kokomi_When_the_Sun_Is_Out.ogg  ||  
+VO_ZH_Sangonomiya_Kokomi_When_the_Wind_Is_Blowing.ogg  ||  
+VO_ZH_Sangonomiya_Kokomi_Good_Morning.ogg  ||  
+VO_ZH_Sangonomiya_Kokomi_Good_Afternoon.ogg  ||  
+VO_ZH_Sangonomiya_Kokomi_Good_Evening.ogg  ||  
+VO_ZH_Sangonomiya_Kokomi_Good_Night.ogg  ||  
+VO_ZH_Sangonomiya_Kokomi_About_Sangonomiya_Kokomi_-_Directives.ogg  ||  
+VO_ZH_Sangonomiya_Kokomi_About_Sangonomiya_Kokomi_-_Relaxing.ogg  ||  
+VO_ZH_Sangonomiya_Kokomi_About_Us_-_Experience.ogg  ||  
+VO_ZH_Sangonomiya_Kokomi_About_Us_-_Confusion.ogg  ||  
+VO_ZH_Sangonomiya_Kokomi_About_the_Vision.ogg  ||  
+VO_ZH_Sangonomiya_Kokomi_Anything_to_Share_-_Periodicals.ogg  ||  
+VO_ZH_Sangonomiya_Kokomi_Anything_to_Share_-_Diving.ogg  ||  
+VO_ZH_Sangonomiya_Kokomi_Interesting_Things.ogg  ||  
+VO_ZH_Sangonomiya_Kokomi_About_Gorou.ogg  ||  
+VO_ZH_Sangonomiya_Kokomi_About_Kujou_Sara.ogg  ||  
+VO_ZH_Sangonomiya_Kokomi_About_Yae_Miko.ogg  ||  
+VO_ZH_Sangonomiya_Kokomi_About_Raiden_Shogun.ogg  ||  
+VO_ZH_Sangonomiya_Kokomi_About_Beidou.ogg  ||  
+VO_ZH_Sangonomiya_Kokomi_About_Kaedehara_Kazuha.ogg  ||  
+VO_ZH_Sangonomiya_Kokomi_About_Shikanoin_Heizou.ogg  ||  
+VO_ZH_Sangonomiya_Kokomi_More_About_Sangonomiya_Kokomi_-_01.ogg  ||  
+VO_ZH_Sangonomiya_Kokomi_More_About_Sangonomiya_Kokomi_-_02.ogg  ||  
+VO_ZH_Sangonomiya_Kokomi_More_About_Sangonomiya_Kokomi_-_03.ogg  ||  
+VO_ZH_Sangonomiya_Kokomi_More_About_Sangonomiya_Kokomi_-_04.ogg  ||  
+VO_ZH_Sangonomiya_Kokomi_More_About_Sangonomiya_Kokomi_-_05.ogg  ||  
+VO_ZH_Sangonomiya_Kokomi_Hobbies.ogg  ||  
+VO_ZH_Sangonomiya_Kokomi_Troubles.ogg  ||  
+VO_ZH_Sangonomiya_Kokomi_Favorite_Food.ogg  ||  
+VO_ZH_Sangonomiya_Kokomi_Least_Favorite_Food.ogg  ||  
+VO_ZH_Sangonomiya_Kokomi_Receiving_a_Gift_-_01.ogg  ||  
+VO_ZH_Sangonomiya_Kokomi_Receiving_a_Gift_-_02.ogg  ||  
+VO_ZH_Sangonomiya_Kokomi_Receiving_a_Gift_-_03.ogg  ||  
+VO_ZH_Sangonomiya_Kokomi_Birthday.ogg  ||  
+VO_ZH_Sangonomiya_Kokomi_Feelings_About_Ascension_-_01.ogg  ||  
+VO_ZH_Sangonomiya_Kokomi_Feelings_About_Ascension_-_02.ogg  ||  
+VO_ZH_Sangonomiya_Kokomi_Feelings_About_Ascension_-_03.ogg  ||  
+VO_ZH_Sangonomiya_Kokomi_Feelings_About_Ascension_-_04.ogg  ||  
+VO_ZH_Sangonomiya_Kokomi_Elemental_Skill_1_01.ogg  ||  帮帮忙！
+VO_ZH_Sangonomiya_Kokomi_Elemental_Skill_1_02.ogg  ||  别担心。
+VO_ZH_Sangonomiya_Kokomi_Elemental_Skill_1_03.ogg  ||  休养生息。
+VO_ZH_Sangonomiya_Kokomi_Elemental_Burst_01.ogg  ||  沧海之约。
+VO_ZH_Sangonomiya_Kokomi_Elemental_Burst_02.ogg  ||  翻涌吧！
+VO_ZH_Sangonomiya_Kokomi_Elemental_Burst_03.ogg  ||  深海的加护！
+VO_ZH_Sangonomiya_Kokomi_Sprint_Start_01.ogg  ||  我们走吧。
+VO_ZH_Sangonomiya_Kokomi_Sprint_Start_02.ogg  ||  
+VO_ZH_Sangonomiya_Kokomi_Deploying_Wind_Glider_01.ogg  ||  风景真好。
+VO_ZH_Sangonomiya_Kokomi_Deploying_Wind_Glider_02.ogg  ||  
+VO_ZH_Sangonomiya_Kokomi_Opening_Treasure_Chest_01.ogg  ||  补给可是头等要事。
+VO_ZH_Sangonomiya_Kokomi_Opening_Treasure_Chest_02.ogg  ||  要好好规划一下如何使用。
+VO_ZH_Sangonomiya_Kokomi_Opening_Treasure_Chest_03.ogg  ||  嗯，这就是冒险的乐趣…
+VO_ZH_Sangonomiya_Kokomi_Low_HP_01.ogg  ||  好累…
+VO_ZH_Sangonomiya_Kokomi_Low_HP_02.ogg  ||  需要变更战术。
+VO_ZH_Sangonomiya_Kokomi_Low_HP_03.ogg  ||  谨慎为上。
+VO_ZH_Sangonomiya_Kokomi_Ally_at_Low_HP_01.ogg  ||  援军已至！
+VO_ZH_Sangonomiya_Kokomi_Ally_at_Low_HP_02.ogg  ||  请到后方休息。
+VO_ZH_Sangonomiya_Kokomi_Fallen_01.ogg  ||  计策…出问题了吗？
+VO_ZH_Sangonomiya_Kokomi_Fallen_02.ogg  ||  失误了…
+VO_ZH_Sangonomiya_Kokomi_Fallen_03.ogg  ||  不会再犯同样的错误。
+VO_ZH_Sangonomiya_Kokomi_Light_Hit_Taken_01.ogg  ||  
+VO_ZH_Sangonomiya_Kokomi_Heavy_Hit_Taken_01.ogg  ||  失策！
+VO_ZH_Sangonomiya_Kokomi_Heavy_Hit_Taken_02.ogg  ||  真难缠…
+VO_ZH_Sangonomiya_Kokomi_Heavy_Hit_Taken_03.ogg  ||  
+VO_ZH_Sangonomiya_Kokomi_Joining_Party_01.ogg  ||  这次的作战…让我想想。
+VO_ZH_Sangonomiya_Kokomi_Joining_Party_02.ogg  ||  别紧张，我们一定会赢。
+VO_ZH_Sangonomiya_Kokomi_Joining_Party_03.ogg  ||  万事俱备，出发吧。
+VO_ZH_Sangonomiya_Kokomi_Standby_01.ogg  ||  
+VO_ZH_Sangonomiya_Kokomi_Light_Attack_01.ogg  ||  
+VO_ZH_Sangonomiya_Kokomi_Mid_Attack_01.ogg  ||  
+VO_ZH_Sangonomiya_Kokomi_Heavy_Attack_01.ogg  ||  
+VO_ZH_Sangonomiya_Kokomi_Climbing_01.ogg  ||  
+VO_ZH_Sangonomiya_Kokomi_Climbing_Breath_01.ogg  ||  
+VO_ZH_Sangonomiya_Kokomi_Jumping_01.ogg  ||  
+VO_ZH_Sangonomiya_Kokomi_Elemental_Skill_1_01.ogg  ||  
+VO_ZH_Sangonomiya_Kokomi_Elemental_Skill_1_02.ogg  ||  
+VO_ZH_Sangonomiya_Kokomi_Elemental_Skill_1_03.ogg  ||  
+VO_ZH_Sangonomiya_Kokomi_Elemental_Burst_01.ogg  ||  
+VO_ZH_Sangonomiya_Kokomi_Elemental_Burst_02.ogg  ||  
+VO_ZH_Sangonomiya_Kokomi_Elemental_Burst_03.ogg  ||  
+VO_ZH_Sangonomiya_Kokomi_Sprint_Start_01.ogg  ||  
+VO_ZH_Sangonomiya_Kokomi_Sprint_Start_02.ogg  ||  
+VO_ZH_Sangonomiya_Kokomi_Deploying_Wind_Glider_01.ogg  ||  
+VO_ZH_Sangonomiya_Kokomi_Deploying_Wind_Glider_02.ogg  ||  
+VO_ZH_Sangonomiya_Kokomi_Opening_Treasure_Chest_01.ogg  ||  
+VO_ZH_Sangonomiya_Kokomi_Opening_Treasure_Chest_02.ogg  ||  
+VO_ZH_Sangonomiya_Kokomi_Opening_Treasure_Chest_03.ogg  ||  
+VO_ZH_Sangonomiya_Kokomi_Low_HP_01.ogg  ||  
+VO_ZH_Sangonomiya_Kokomi_Low_HP_02.ogg  ||  
+VO_ZH_Sangonomiya_Kokomi_Low_HP_03.ogg  ||  
+VO_ZH_Sangonomiya_Kokomi_Ally_at_Low_HP_01.ogg  ||  
+VO_ZH_Sangonomiya_Kokomi_Ally_at_Low_HP_02.ogg  ||  
+VO_ZH_Sangonomiya_Kokomi_Fallen_01.ogg  ||  
+VO_ZH_Sangonomiya_Kokomi_Fallen_02.ogg  ||  
+VO_ZH_Sangonomiya_Kokomi_Fallen_03.ogg  ||  
+VO_ZH_Sangonomiya_Kokomi_Light_Hit_Taken_01.ogg  ||  
+VO_ZH_Sangonomiya_Kokomi_Heavy_Hit_Taken_01.ogg  ||  
+VO_ZH_Sangonomiya_Kokomi_Heavy_Hit_Taken_02.ogg  ||  
+VO_ZH_Sangonomiya_Kokomi_Heavy_Hit_Taken_03.ogg  ||  
+VO_ZH_Sangonomiya_Kokomi_Joining_Party_01.ogg  ||  
+VO_ZH_Sangonomiya_Kokomi_Joining_Party_02.ogg  ||  
+VO_ZH_Sangonomiya_Kokomi_Joining_Party_03.ogg  ||  
+VO_ZH_Sangonomiya_Kokomi_Standby_01.ogg  ||  
+VO_ZH_Sangonomiya_Kokomi_Light_Attack_01.ogg  ||  
+VO_ZH_Sangonomiya_Kokomi_Mid_Attack_01.ogg  ||  
+VO_ZH_Sangonomiya_Kokomi_Heavy_Attack_01.ogg  ||  
+VO_ZH_Sangonomiya_Kokomi_Climbing_01.ogg  ||  
+VO_ZH_Sangonomiya_Kokomi_Climbing_Breath_01.ogg  ||  
+VO_ZH_Sangonomiya_Kokomi_Jumping_01.ogg  ||  

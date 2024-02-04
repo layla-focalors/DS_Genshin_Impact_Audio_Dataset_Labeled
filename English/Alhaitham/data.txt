@@ -1,0 +1,81 @@
+VO_Alhaitham_Hello.ogg  ||  I'm Alhaitham, the Akademiya's scribe. If you wish to access an archived file, please submit an application according to the prescribed format.
+Oh, your form isn't ready? Not to worry. You can come again on the next working day. My work hours are posted outside the office.
+VO_Alhaitham_Chat_-_Work.ogg  ||  The scribe's work is simple, which is exactly why I took the position.
+VO_Alhaitham_Chat_-_Reading.ogg  ||  Book learning alone is not enough to cultivate intelligence. All those scholars in the Akademiya are prime examples.
+VO_Alhaitham_Chat_-_Thinking.ogg  ||  Hmm, there have been many poorly written applications lately. I guess I'll just have to reject them all.
+VO_Alhaitham_When_It_Rains.ogg  ||  Going out on a rainy day is the worst.
+VO_Alhaitham_When_Thunder_Strikes.ogg  ||  It's just a natural phenomenon, so there's nothing to be afraid of... unless you're beneath a tree.
+VO_Alhaitham_When_It_Snows.ogg  ||  It's getting cold, you say? I feel fine.
+VO_Alhaitham_When_the_Sun_Is_Out.ogg  ||  This weather is perfect for doing nothing at all.
+VO_Alhaitham_In_the_Desert.ogg  ||  Curses, there's sand in my shoes.
+VO_Alhaitham_Good_Morning.ogg  ||  It's a little early for me... Let me get a cup of coffee first.
+VO_Alhaitham_Good_Afternoon.ogg  ||  If there's nothing to do, then I'll just put on my soundproof earpieces and nap for a while.
+VO_Alhaitham_Good_Evening.ogg  ||  I'll be taking some time for myself now. Goodbye.
+VO_Alhaitham_Good_Night.ogg  ||  I hope my roommate won't be hammering away on another one of his projects in the dead of night... Actually, I'd prefer if he wasn't home at all. I really don't want to wear my soundproof earpieces to bed.
+VO_Alhaitham_About_Alhaitham_-_Facts.ogg  ||  Rather than lacing my words with rhetoric, I prefer speaking factually.
+VO_Alhaitham_About_Alhaitham_-_Rumors.ogg  ||  Oh? You're concerned about all the rumors you've heard about me?
+Don't bother, because I don't care whether you believe those rumors. Just don't throw extra trouble my way, and we'll be fine.
+VO_Alhaitham_About_Us_-_Greetings.ogg  ||  Don't be offended if you try to greet me on the street and I don't respond. It's simply because I'm wearing my soundproof earpieces, that's all.
+VO_Alhaitham_About_Us_-_Helping_Each_Other.ogg  ||  It seems you're perfectly capable of taking care of yourself, so much so that you even look after that little companion of yours. I don't have any suggestions to offer you, and frankly, you probably don't need my help.
+VO_Alhaitham_About_the_Vision.ogg  ||  To be completely honest, this Dendro Vision isn't of much help to my research... However, there's no denying the effectiveness of elemental powers when settling a physical dispute, so it still proves useful at times.
+VO_Alhaitham_Something_to_Share.ogg  ||  Truth serves no master. Humankind is not a vehicle for knowledge, nor is knowledge the aim of humankind.
+VO_Alhaitham_Interesting_Things.ogg  ||  There are many things in this world that may catch our eye, but don't always believe what you see. If what we see in the world were all there was to it, then there'd be no need to think, would there?
+VO_Alhaitham_About_Lesser_Lord_Kusanali.ogg  ||  One should neither dismiss nor overly revere the divine. Gods require followers, and they are also part of a biological hierarchy. That's why I don't take any pride in the fact that I helped rescue a god. I hope Lesser Lord Kusanali doesn't take offense.
+VO_Alhaitham_About_Kaveh_-_Overly_Sensitive.ogg  ||  Kaveh tends to be overly sensitive about everyone and everything he crosses paths with, and he's constantly making a fuss about nothing. Maybe it's because he's too emotionally fragile...
+VO_Alhaitham_About_Kaveh_-_Getting_Duped.ogg  ||  Someone set up a stand on the street saying that for each handmade keychain they sold, a child in poverty would be given a meal. Kaveh bought at least a dozen.
+...This is Sumeru, where even healthcare is free. I needn't say more.
+VO_Alhaitham_About_Tighnari.ogg  ||  Apparently, a lot of people think he has a bad temperament, but I don't think they're giving him a fair chance. When Kaveh built a house right over a Withering Zone and created a huge mess, it ended up being a real headache for the Forest Rangers. Even so, this Forest Ranger didn't hold it against Kaveh. He even invited Kaveh to his house for a meal. Hmm, maybe it's good people like him who allow people like Kaveh to survive.
+VO_Alhaitham_About_Dori.ogg  ||  She's sharp and always keeps an eye out for herself. She knows how to take life by the reins and make her dreams a reality. I'm not condoning her actions, but just because we stand on different sides doesn't mean that I can't appreciate her attitude towards life.
+VO_Alhaitham_About_Cyno.ogg  ||  The hivemind case certainly added to the matra's workload, but my conscience is clear. The root cause of what ultimately transpired actually has nothing to do with me at all. I'm sure Cyno appreciates that, as he hasn't once approached me about the incident.
+VO_Alhaitham_About_Nilou.ogg  ||  The strengths and weaknesses of a performing artist are quite clear. Nilou knows how to play to her strengths, which enables her to live a happy and simple life.
+VO_Alhaitham_About_Dehya.ogg  ||  It's a waste for such a capable person to remain among the Eremites. If only she'd consider my suggestion to join the Akademiya... Our work would become a lot easier with someone like her around, but a predictable life isn't exactly her cup of tea — I can understand that. *sigh* What a pity.
+VO_Alhaitham_More_About_Alhaitham_-_01.ogg  ||  Most people are wary of interacting with me. Perhaps they're afraid, or maybe they think I'm difficult to get along with. I hope to keep things this way.
+VO_Alhaitham_More_About_Alhaitham_-_02.ogg  ||  I've never been interested in social interactions, and as you can see, my life is more comfortable than most. I'd say this is proof enough that being social is not one of life's necessities.
+VO_Alhaitham_More_About_Alhaitham_-_03.ogg  ||  Every person should have something that they believe in and hold on to from beginning to end. Otherwise, it's easy to succumb to the vicissitudes of life and find yourself being led astray.
+VO_Alhaitham_More_About_Alhaitham_-_04.ogg  ||  Once order is disrupted, the consequences spread like wildfire. I'd like to avoid such a scenario, so I can keep my life intact and uninterrupted.
+VO_Alhaitham_More_About_Alhaitham_-_05.ogg  ||  I'll occasionally go to the tavern for a drink after work.
+That's not what you needed to know about? Huh, I was under the impression that sharing what you do in your free time is more personal than telling someone your thoughts or opinions. After all, you can get those from anybody on the Message Board.
+VO_Alhaitham_Hobbies.ogg  ||  I like reading difficult and abstruse books, and seeing others scratch their heads in confusion.
+I'm only joking. I don't delight in others' misery, and rarely do I encounter a book that's difficult for me.
+VO_Alhaitham_Troubles.ogg  ||  Based on my observations, many people inflict trouble upon themselves. Life already has enough hardships — no need to add to them.
+VO_Alhaitham_Favorite_Food.ogg  ||  Taste supersedes presentation, else you risk overcomplicating the purpose of food. I think this is simple enough to understand.
+VO_Alhaitham_Least_Favorite_Food.ogg  ||  It's difficult to eat soup-like dishes while reading.
+VO_Alhaitham_Receiving_a_Gift_-_01.ogg  ||  Mmm, I can taste your mastery of the seasonings.
+VO_Alhaitham_Receiving_a_Gift_-_02.ogg  ||  Hmm, a contemporary flavor. Not bad.
+VO_Alhaitham_Receiving_a_Gift_-_03.ogg  ||  Let's not eat here. Mind if I... take it home?
+VO_Alhaitham_Birthday.ogg  ||  Happy birthday. I've always thought people are a little too enthusiastic about celebrating the day they were born. Wouldn't it be better to apply all that enthusiasm towards their daily lives and improve their standards of living? But you seem to have done well for yourself. I didn't know what kind of gift to get, so I'll just set up a special application channel, reserved for your submissions alone.
+VO_Alhaitham_Feelings_About_Ascension_-_01.ogg  ||  Thank you.
+VO_Alhaitham_Feelings_About_Ascension_-_02.ogg  ||  Ah, so it wasn't a one-time-only thing.
+VO_Alhaitham_Feelings_About_Ascension_-_03.ogg  ||  I think you're more excited than me about this progress.
+VO_Alhaitham_Feelings_About_Ascension_-_04.ogg  ||  We mustn't let those lazy Akademiya scholars know about the progress I'm making. If they catch wind of this, they'll stop at nothing to make my life even more of a hassle. I'll reject anything they send my way, of course, but the communication required to do so is a huge waste of my time.
+VO_Alhaitham_Elemental_Skill_1_01.ogg  ||  Here you are.
+VO_Alhaitham_Elemental_Skill_1_02.ogg  ||  Flicker.
+VO_Alhaitham_Elemental_Burst_01.ogg  ||  Scatter.
+VO_Alhaitham_Elemental_Burst_02.ogg  ||  Diffract.
+VO_Alhaitham_Elemental_Burst_03.ogg  ||  A process of elimination.
+VO_Alhaitham_Sprint_Start_01.ogg  ||  
+VO_Alhaitham_Deploying_Wind_Glider_01.ogg  ||  
+VO_Alhaitham_Opening_Treasure_Chest_01.ogg  ||  Huh.
+VO_Alhaitham_Opening_Treasure_Chest_02.ogg  ||  Here you go.
+VO_Alhaitham_Opening_Treasure_Chest_03.ogg  ||  Don't let any of it roll away now.
+VO_Alhaitham_Low_HP_01.ogg  ||  What a drag.
+VO_Alhaitham_Low_HP_02.ogg  ||  The plan's changed.
+VO_Alhaitham_Low_HP_03.ogg  ||  I need more time.
+VO_Alhaitham_Ally_at_Low_HP_01.ogg  ||  Allow me.
+VO_Alhaitham_Ally_at_Low_HP_02.ogg  ||  As expected.
+VO_Alhaitham_Fallen_01.ogg  ||  I didn't... foresee this...
+VO_Alhaitham_Fallen_02.ogg  ||  I... miscalculated...
+VO_Alhaitham_Fallen_03.ogg  ||  A grave... oversight...
+VO_Alhaitham_Light_Hit_Taken_01.ogg  ||  
+VO_Alhaitham_Heavy_Hit_Taken_01.ogg  ||  Tch, how bold.
+VO_Alhaitham_Heavy_Hit_Taken_02.ogg  ||  Well now...
+VO_Alhaitham_Heavy_Hit_Taken_03.ogg  ||  
+VO_Alhaitham_Joining_Party_01.ogg  ||  Yes?
+VO_Alhaitham_Joining_Party_02.ogg  ||  Let's get down to business.
+VO_Alhaitham_Joining_Party_03.ogg  ||  How long will this require, exactly?
+VO_Alhaitham_Light_Attack_01.ogg  ||  
+VO_Alhaitham_Mid_Attack_01.ogg  ||  
+VO_Alhaitham_Heavy_Attack_01.ogg  ||  
+VO_Alhaitham_Climbing_01.ogg  ||  
+VO_Alhaitham_Climbing_Breath_01.ogg  ||  
+VO_Alhaitham_Jumping_01.ogg  ||  

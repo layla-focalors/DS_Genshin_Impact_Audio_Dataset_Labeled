@@ -1,0 +1,83 @@
+VO_Kaedehara_Kazuha_Hello.ogg  ||  "Come driving rain or winds that churn, I shall return, by blade alone, armed, if barefoot, to my home..." I am Kaedehara Kazuha, a wanderer who roams the land. Since we are both travelers, let us journey together for a time.
+VO_Kaedehara_Kazuha_Chat_-_Nature.ogg  ||  This scenery is wonderful... Surely enough to convince anyone to become a wanderer.
+VO_Kaedehara_Kazuha_Chat_-_Playing_a_Tune.ogg  ||  There are leaves around — and I know just the tune to accompany them, if you wish to hear it.
+VO_Kaedehara_Kazuha_Chat_-_Bladework.ogg  ||  Wherever in this world I roam, I carry memories of my home... This blade... It is the last link I have to the land of my birth.
+VO_Kaedehara_Kazuha_When_It_Rains.ogg  ||  Taking a stroll in the middle of a downpour certainly rouses the spirit... but it's best to dry your clothes as soon as possible after the rain stops.
+VO_Kaedehara_Kazuha_When_Thunder_Strikes.ogg  ||  Compared to the storms I've encountered out at sea, this is really quite tame.
+VO_Kaedehara_Kazuha_When_It_Snows.ogg  ||  I love it when it snows. The world falls completely silent... and I can sleep undisturbed.
+VO_Kaedehara_Kazuha_When_the_Sun_Is_Out.ogg  ||  Clear weather all around brightens the heart.
+VO_Kaedehara_Kazuha_Good_Morning.ogg  ||  The birdsong at daybreak is nature's gift to us. Let us go. Our journey begins anew.
+VO_Kaedehara_Kazuha_Good_Afternoon.ogg  ||  ...The midday sun has a way of making one yearn for a moment of sleep. What say we find ourselves a place to rest?
+VO_Kaedehara_Kazuha_Good_Evening.ogg  ||  I gaze up at the moon and lend my ear to the gentle breeze, with wine in my cup and peace in my heart... Have a wonderful evening.
+VO_Kaedehara_Kazuha_Good_Night.ogg  ||  The wind has ceased... The world is silent, so now is the best time to rest well. See you tomorrow.
+VO_Kaedehara_Kazuha_About_Kaedehara_Kazuha_-_Sailing.ogg  ||  In truth, not every night out at sea is filled with wind and waves. When the weather is clear, the moonlight flows over the rippling water, and schools of fish circle the ship's hull. At moments like that, when I look out into the distance from the prow, I feel like this journey is worth it... The only thing that takes away from that feeling is the sailors' singing. They're so loud... don't they need to sleep?
+VO_Kaedehara_Kazuha_About_Kaedehara_Kazuha_-_Samurai_Nobility.ogg  ||  The Kaedehara Clan was once a famed samurai clan. It's a pity that by the time the noble name passed to me, the title itself was all that was left. But it is enough for me. A samurai has no need of a lavish life — we find all that we need in wine, song, and the blade in our hands.
+VO_Kaedehara_Kazuha_About_Us_-_Going_Out_to_Sea.ogg  ||  What say you join me out at sea someday when the weather's fine?
+VO_Kaedehara_Kazuha_About_Us_-_Frank_Speech.ogg  ||  I like frank people, because we can freely speak our minds to one another. There is no need to hide anything that you wish to say. I hear the voices of all things in nature, and that includes yours.
+VO_Kaedehara_Kazuha_About_the_Vision.ogg  ||  As I see it, a Vision is the proof of one's strength, not the source of it. It symbolizes the mortal desire to always keep moving forward, but in this endeavor, we samurai place our faith in our blades alone.
+VO_Kaedehara_Kazuha_Something_to_Share_-_Bamboo_Blades.ogg  ||  Ah, you'd like to learn the art of the sword? Let me see... Alright — here, take this. It's a bamboo blade I just made. With these, we can practice sparring without having to worry about getting injured.
+VO_Kaedehara_Kazuha_Something_to_Share_-_Maple_Leaves.ogg  ||  "On this mountain path, where the red leaves lifeless lie... My heart calls for a companion, echoing the deer's cry..." Hm... I do love maple leaves, but it is a shame that so many goodbyes seem to happen when they turn red.
+VO_Kaedehara_Kazuha_Interesting_Things.ogg  ||  Farewell, dear gulls, please calm your cries. From this day forth, I am a wanderer once more.
+VO_Kaedehara_Kazuha_About_Beidou.ogg  ||  I owe Beidou my life. She took me in when I fled from Inazuma and gave me the courage to return there at the most difficult time of my life. She is a comrade in whom I and all the other sailors can place our trust.
+VO_Kaedehara_Kazuha_About_Gorou.ogg  ||  When I was a wanted man, the resistance gave me a lot of help. The time I spent with Gorou was brief, but he left a deep impression on me. He's the type of person who says whatever's on his mind. He shares the highs and lows of his subordinates, and is never afraid to draw his sword for the sake of a friend. That's the kind of person I can really get along with.
+VO_Kaedehara_Kazuha_About_Kujou_Sara.ogg  ||  She defeated my friend in a duel before the throne, which I accept as proof of her great strength. But she uses that strength to serve as an oppressor's lackey, leading the Kujou Clan's troops to relentlessly seek out and confiscate Visions. This... I cannot forgive.
+VO_Kaedehara_Kazuha_About_Kujou_Sara_-_Changing_Perspective.ogg  ||  I see... So she does have her own ideals that she is fighting for. But I have to wonder: can the Kujou family flourish as they did before once this storm has passed?
+VO_Kaedehara_Kazuha_About_the_Raiden_Shogun.ogg  ||  I've asked myself this question many times since leaving Inazuma. Do I simply resent the Raiden Shogun because of what happened in that duel? Because of the lethal stroke she dealt my dear friend? I've thought about this a good long time, and I believe the answer is no. My friend died an honorable death in that duel, and the Shogun was not unjustified in her conduct. My dissatisfaction with her has its roots in the Vision Hunt Decree. No one has the right to rob another of their hopes and dreams — not even a god.
+VO_Kaedehara_Kazuha_About_Kamisato_Ayaka.ogg  ||  I'm sure everyone living in Inazuma has heard of the "Shirasagi Himegimi." The lady of the Kamisato Clan is as perfect as a person can be, though our paths have seldom crossed. I wonder what she thinks of the state of Inazuma today?
+VO_Kaedehara_Kazuha_About_Yoimiya.ogg  ||  The last time she commissioned Captain Beidou to ship fireworks to Liyue, I unloaded the shipment myself. They were so heavy! I doubt that anyone besides her could make such huge fireworks.
+VO_Kaedehara_Kazuha_About_Sangonomiya_Kokomi.ogg  ||  During my time with the Resistance, there was no one among our ranks who wouldn't look up to Her Excellency. As someone with a great passion for military matters, victory at all costs isn't really part of her ethos. She'd always try to limit the casualties to the minimum while planning her next move. By some accounts, it also seems that she seeks to take charge of both internal and foreign affairs for Watatsumi Island. Wouldn't that be too much to expect of herself though?
+VO_Kaedehara_Kazuha_About_Shikanoin_Heizou.ogg  ||  Don't be deceived by his happy-go-lucky disposition. As soon as he gets working on a case, that restless energy he carries around turns into a razor-sharp focus. It's quite remarkable to witness.
+VO_Kaedehara_Kazuha_More_About_Kaedehara_Kazuha_-_01.ogg  ||  You'd like to know more about me, you say? Well, as you see, I am but a wandering samurai that you could have run into just about anywhere.
+VO_Kaedehara_Kazuha_More_About_Kaedehara_Kazuha_-_02.ogg  ||  I have a very keen sense of hearing. My ears pick up all sorts of sounds: the wind through the mountain passes, the parting clouds, the sound of foxes chewing on apples in the forest, the sound of crabs blowing bubbles... This is nature's favor, it allows me to sense danger long before it draws near.
+VO_Kaedehara_Kazuha_More_About_Kaedehara_Kazuha_-_03.ogg  ||  I used to love the rain when I was small. The sound of it would lull me into a peaceful sleep. But since I've grown older, my feelings have become more... complicated. I still like to listen to the rain today, but whenever I see the storm clouds start to gather, my heart sinks and I can't help but wonder: "Hm... will some nice person let me stay the night today?" Listening to the rain in drenched clothes is hardly peaceful — hehe... nothing can be when you're constantly interrupting yourself by sneezing.
+VO_Kaedehara_Kazuha_More_About_Kaedehara_Kazuha_-_04.ogg  ||  I never stay in a single place for very long. Stagnancy dulls both my connection with nature and the blade I wield. While I am still able to, I want to travel far and wide and meet all sorts of different people.
+VO_Kaedehara_Kazuha_More_About_Kaedehara_Kazuha_-_05.ogg  ||  Don't worry — even if the day comes for us to go our separate ways, I am certain that we will meet again, in some corner of the world. The fate that brings people together is not a cord so easily cut.
+VO_Kaedehara_Kazuha_Hobbies.ogg  ||  I like falling asleep on a warm rock that's been soaking in the mid-afternoon sun, then waking up and continuing on my journey with no particular aim in mind. So long as I have my blade by my side, there is nowhere I cannot go.
+VO_Kaedehara_Kazuha_Troubles.ogg  ||  The sounds of nature turn into a clamor of noise during stormy weather. It becomes a constant buzz in my ears. If it happens at night, I end up tossing and turning all night long without getting a wink of sleep. It's quite the headache...
+VO_Kaedehara_Kazuha_Favorite_Food.ogg  ||  The most easily obtainable food source when you're out at sea is, of course, fish. So it goes without saying that a seafaring adventurer must give careful consideration to how to cook a tasty fish-based meal... If the chance arises, I'd like you to try some of my cooking.
+VO_Kaedehara_Kazuha_Least_Favorite_Food.ogg  ||  I am not particularly fond of food that is thrown together in a hurry without much care and attention. The way I see it, if your meal consists of a single fish, you should grill it to perfection. Eating is supposed to be an enjoyable experience, so how can we stand to be so slapdash about it?
+VO_Kaedehara_Kazuha_Receiving_a_Gift_-_01.ogg  ||  That you can make fish taste as delicious as this is proof of your outstanding culinary prowess.
+VO_Kaedehara_Kazuha_Receiving_a_Gift_-_02.ogg  ||  Your cooking not only fills the stomach, it also soothes my soul.
+VO_Kaedehara_Kazuha_Receiving_a_Gift_-_03.ogg  ||  Perhaps you should get some rest? A weary mind is a recipe for flavorless food.
+VO_Kaedehara_Kazuha_Birthday.ogg  ||  I heard it was your birthday, so I wrote a haiku for you. Unfortunately, I'm not the most talented in this area, and after trying for several evenings, I was still only able to come up with the first two lines... I guess I'll just share what I've got so far, then. "Sun and moon rejoice / Birds of dawn sing songs anew"... Wait, don't say a word, I think the final line is coming to me... Yes, how about.... "Far from home, with you." Anyway, Happy Birthday. Let's go and get you some cake, shall we?
+VO_Kaedehara_Kazuha_Feelings_About_Ascension_-_01.ogg  ||  My blade grows keener.
+VO_Kaedehara_Kazuha_Feelings_About_Ascension_-_02.ogg  ||  The sound of snow as it lands on the ground is so faint as to be practically nonexistent... But now, my senses are sharper than ever, and I believe I should be able to discern it.
+VO_Kaedehara_Kazuha_Feelings_About_Ascension_-_03.ogg  ||  The waves rise high out in the open seas. I, too, must reach new heights of strength.
+VO_Kaedehara_Kazuha_Feelings_About_Ascension_-_04.ogg  ||  As one travels the world, sorrows and frustrations are bound to journey with you. But I find that I've grown since meeting you, both in martial arts and in strength of character. I am confident that I will be more at ease in life from this point forth.
+VO_Kaedehara_Kazuha_Elemental_Skill_1_01.ogg  ||  Tch!
+VO_Kaedehara_Kazuha_Elemental_Skill_1_02.ogg  ||  Huh!
+VO_Kaedehara_Kazuha_Elemental_Skill_1_03.ogg  ||  Wind strider!
+VO_Kaedehara_Kazuha_Elemental_Skill_1_04.ogg  ||  (Hold) Into the wind.
+VO_Kaedehara_Kazuha_Elemental_Skill_1_05.ogg  ||  (Hold) The wind knows me.
+VO_Kaedehara_Kazuha_Elemental_Skill_1_06.ogg  ||  (Hold) One with nature!
+VO_Kaedehara_Kazuha_Elemental_Burst_01.ogg  ||  Clouds hide... the bird's call!
+VO_Kaedehara_Kazuha_Elemental_Burst_02.ogg  ||  As one with wind and cloud.
+VO_Kaedehara_Kazuha_Elemental_Burst_03.ogg  ||  Fallen leaves... adorn my night.
+VO_Kaedehara_Kazuha_Sprint_Start_01.ogg  ||  Time to go.
+VO_Kaedehara_Kazuha_Sprint_Start_02.ogg  ||  
+VO_Kaedehara_Kazuha_Deploying_Wind_Glider_01.ogg  ||  I follow the wind.
+VO_Kaedehara_Kazuha_Deploying_Wind_Glider_02.ogg  ||  
+VO_Kaedehara_Kazuha_Opening_Treasure_Chest_01.ogg  ||  Brings a smile to my face.
+VO_Kaedehara_Kazuha_Opening_Treasure_Chest_02.ogg  ||  A fateful offering.
+VO_Kaedehara_Kazuha_Opening_Treasure_Chest_03.ogg  ||  Who says there aren't benefits to a life of wandering?
+VO_Kaedehara_Kazuha_Low_HP_01.ogg  ||  Huh, not bad...
+VO_Kaedehara_Kazuha_Low_HP_02.ogg  ||  I must remain calm.
+VO_Kaedehara_Kazuha_Low_HP_03.ogg  ||  Stay focused!
+VO_Kaedehara_Kazuha_Ally_at_Low_HP_01.ogg  ||  My turn to aid you!
+VO_Kaedehara_Kazuha_Ally_at_Low_HP_02.ogg  ||  I've got your back.
+VO_Kaedehara_Kazuha_Fallen_01.ogg  ||  So many regrets...
+VO_Kaedehara_Kazuha_Fallen_02.ogg  ||  Never... again...
+VO_Kaedehara_Kazuha_Fallen_03.ogg  ||  This is... the end...
+VO_Kaedehara_Kazuha_Light_Hit_Taken_01.ogg  ||  
+VO_Kaedehara_Kazuha_Heavy_Hit_Taken_01.ogg  ||  It's...fine.
+VO_Kaedehara_Kazuha_Heavy_Hit_Taken_02.ogg  ||  That hurt!
+VO_Kaedehara_Kazuha_Heavy_Hit_Taken_03.ogg  ||  
+VO_Kaedehara_Kazuha_Joining_Party_01.ogg  ||  Want me to come along?
+VO_Kaedehara_Kazuha_Joining_Party_02.ogg  ||  Alright, let's head off.
+VO_Kaedehara_Kazuha_Joining_Party_03.ogg  ||  Sounds good to me.
+VO_Kaedehara_Kazuha_Light_Attack_01.ogg  ||  
+VO_Kaedehara_Kazuha_Mid_Attack_01.ogg  ||  
+VO_Kaedehara_Kazuha_Heavy_Attack_01.ogg  ||  
+VO_Kaedehara_Kazuha_Climbing_01.ogg  ||  
+VO_Kaedehara_Kazuha_Climbing_Breath_01.ogg  ||  
+VO_Kaedehara_Kazuha_Jumping_01.ogg  ||  

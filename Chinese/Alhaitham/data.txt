@@ -1,0 +1,160 @@
+VO_ZH_Alhaitham_Hello.ogg  ||  我是教令院的书记官艾尔海森。想调阅档案的话，请把你的需求按照正规格式填好申请表后递交。
+还没整理完？没关系。我的工作时间贴在办公室门外，等下个工作日再来吧。
+VO_ZH_Alhaitham_Chat_-_Work.ogg  ||  书记官的工作很简单，我就是因此才做了这个职位。
+VO_ZH_Alhaitham_Chat_-_Reading.ogg  ||  读书并不会让人变聪明，看看教令院里的那些家伙就知道了。
+VO_ZH_Alhaitham_Chat_-_Thinking.ogg  ||  嗯…最近乱七八糟的申请表有点多，都驳回吧。
+VO_ZH_Alhaitham_When_It_Rains.ogg  ||  雨天出门是最麻烦的。
+VO_ZH_Alhaitham_When_Thunder_Strikes.ogg  ||  没什么可怕的，自然现象而已。除非你往大树下躲。
+VO_ZH_Alhaitham_When_It_Snows.ogg  ||  很冷吗？我还好。
+VO_ZH_Alhaitham_When_the_Sun_Is_Out.ogg  ||  这种好天气，最适合什么都不干。
+VO_ZH_Alhaitham_In_the_Desert.ogg  ||  糟糕，鞋里进沙子了…
+VO_ZH_Alhaitham_Good_Morning.ogg  ||  时间还早，我先去喝杯咖啡。
+VO_ZH_Alhaitham_Good_Afternoon.ogg  ||  没什么事的话，我要戴着隔音耳机睡一会儿。
+VO_ZH_Alhaitham_Good_Evening.ogg  ||  接下来就是私人时间了。再见。
+VO_ZH_Alhaitham_Good_Night.ogg  ||  希望室友不要半夜敲敲打打做模型…或者他不在家最好。我不想晚上睡觉还得戴着耳机。
+VO_ZH_Alhaitham_About_Alhaitham_-_Facts.ogg  ||  比起辞藻的包装，我更喜欢用事实说话。
+VO_ZH_Alhaitham_About_Alhaitham_-_Rumors.ogg  ||  哦？听过不少关于我为人的传言吗？很在意？
+没必要，因为我也并不在意你相信与否，只要别徒增额外的事端就好。
+VO_ZH_Alhaitham_About_Us_-_Greetings.ogg  ||  要是在街上和我打招呼我却没有反应的话，不要见怪。我只是开了耳机隔音而已。
+VO_ZH_Alhaitham_About_Us_-_Helping_Each_Other.ogg  ||  你是自理能力非常强的人，甚至能兼顾身边的伙伴。我没什么要给你的建议，你应该也不需要我的帮助。
+VO_ZH_Alhaitham_About_the_Vision.ogg  ||  说实话，草元素「神之眼」对我的研究帮助不大。不过有了元素力后打人倒是更疼了，所以还算有用。
+VO_ZH_Alhaitham_Something_to_Share.ogg  ||  真理诞生不是为了服务于谁。人类不是知识的载体，知识也不是人类的目的。
+VO_ZH_Alhaitham_Interesting_Things.ogg  ||  这世上吸引人注意力的东西有很多，不要太相信自己的双眼。如果所见即为真实，人就不需要思考了。
+VO_ZH_Alhaitham_About_Lesser_Lord_Kusanali.ogg  ||  过于小瞧或敬畏神明都是不可取的。神明需要信徒，同时神明也是生物链中的一环。所以我并不因为参与拯救过神明而自豪，希望小吉祥草王也不必介怀。
+VO_ZH_Alhaitham_About_Kaveh_-_Overly_Sensitive.ogg  ||  他对所有人和事都抱有过度的关怀心，可能是因为他自己太脆弱了吧，整天大惊小怪的。
+VO_ZH_Alhaitham_About_Kaveh_-_Getting_Duped.ogg  ||  有人在路边摆摊，说只要卖出一个手工钥匙扣，就会有一个贫困家庭的孩子吃上饱饭。卡维买了十几个回来。
+在医疗服务都免费提供的须弥…我不多说了。
+VO_ZH_Alhaitham_About_Tighnari.ogg  ||  好像很多人觉得他脾气不够好，我倒认为有失偏颇。当初卡维把房子建在死域上，搞出很大一个烂摊子，给巡林队添了不少麻烦。即使如此这位巡林官也没有记恨卡维，还愿意请他在家里吃饭…可能就是因为世界上有这样的好人，才能让卡维继续生存下去吧。
+VO_ZH_Alhaitham_About_Dori.ogg  ||  她精明又警觉，懂得如何将梦想落实到实际，是能把生活过得很好的聪明人。没有要包庇她的意思，但立场不同并不影响我认可她的生活态度。
+VO_ZH_Alhaitham_About_Cyno.ogg  ||  「集群意识」的案件增加了风纪官们的工作量，但我并没有什么心理压力。说到底，该起事件的根本成因并不在我。赛诺应该也是明白人，后来没再为这事找过我。
+VO_ZH_Alhaitham_About_Nilou.ogg  ||  艺术家的优点和缺点都很明显。妮露在扬长避短方面做得非常好，所以能过得简单又快乐。
+VO_ZH_Alhaitham_About_Dehya.ogg  ||  能力很强的人，留在镀金旅团里有些浪费。要是她能接受我的提议来教令院任职就好了，有这样的帮手，我们的工作也会轻松不少。不过她对安稳的生活不感兴趣，我能理解。可惜了。
+VO_ZH_Alhaitham_More_About_Alhaitham_-_01.ogg  ||  大部分人都不会主动与我接触，也许是因为忌惮，也许是因为性格不合。对此我很满意。
+VO_ZH_Alhaitham_More_About_Alhaitham_-_02.ogg  ||  我向来对社交不感兴趣。如你所见，我的生活过得比大部分人舒适，这足够证明社交不是生活的必需品了。
+VO_ZH_Alhaitham_More_About_Alhaitham_-_03.ogg  ||  每个人都应该有自己的主张，并始终保持清醒，不然很容易被各种突发状况绑架，甚至误入歧途。
+VO_ZH_Alhaitham_More_About_Alhaitham_-_04.ogg  ||  一旦秩序被破坏，其后果会迅速蔓延。我不喜欢这样，会打扰到我现在的生活。
+VO_ZH_Alhaitham_More_About_Alhaitham_-_05.ogg  ||  下班后我偶尔会去酒馆喝一杯。
+不是想知道这个？什么，我还以为分享闲暇时间是比分享个人观点更隐私的事情。毕竟，无论谁都可以在留言板上侃侃而谈呢。
+VO_ZH_Alhaitham_Hobbies.ogg  ||  看晦涩难懂的书，欣赏其他人抓耳挠腮的样子。
+开玩笑的，别人的痛苦并不会给我带来快乐，我也很少碰到读不懂的书。
+VO_ZH_Alhaitham_Troubles.ogg  ||  据我观察，很多人的烦恼都是自找的。生活中已经有不少难处，就别自添烦忧了。
+VO_ZH_Alhaitham_Favorite_Food.ogg  ||  美味程度高于美观程度的。很简单的要求吧？不然就是本末倒置了。
+VO_ZH_Alhaitham_Least_Favorite_Food.ogg  ||  有汤有水的菜肴很难在看书时吃。
+VO_ZH_Alhaitham_Receiving_a_Gift_-_01.ogg  ||  嗯，可以看出对调味配比的精准把控。
+VO_ZH_Alhaitham_Receiving_a_Gift_-_02.ogg  ||  是流行的味道，我不讨厌。
+VO_ZH_Alhaitham_Receiving_a_Gift_-_03.ogg  ||  不在这吃了。介意我打包回家吗？
+VO_ZH_Alhaitham_Birthday.ogg  ||  生日快乐。我总觉得人们在庆祝出生这一天上付出了不必要的热情，不如把这些精力用在让自己生活中的每一天过得更愉快上来得实际。你这方面做得还可以。
+不知道送什么礼物合适，就给你预留一次申请表的特批通道吧。
+VO_ZH_Alhaitham_Feelings_About_Ascension_-_01.ogg  ||  谢谢。
+VO_ZH_Alhaitham_Feelings_About_Ascension_-_02.ogg  ||  原来不是一次性的。
+VO_ZH_Alhaitham_Feelings_About_Ascension_-_03.ogg  ||  在奋进这件事上，你比我要热心。
+VO_ZH_Alhaitham_Feelings_About_Ascension_-_04.ogg  ||  不能让教令院那些喜欢偷懒的家伙知道我又在进步，否则他们会想方设法把麻烦事推给我。我当然不会接了，但沟通起来总要浪费些时间。
+VO_ZH_Alhaitham_Hello.ogg  ||  
+VO_ZH_Alhaitham_Chat_-_Work.ogg  ||  
+VO_ZH_Alhaitham_Chat_-_Reading.ogg  ||  
+VO_ZH_Alhaitham_Chat_-_Thinking.ogg  ||  
+VO_ZH_Alhaitham_When_It_Rains.ogg  ||  
+VO_ZH_Alhaitham_When_Thunder_Strikes.ogg  ||  
+VO_ZH_Alhaitham_When_It_Snows.ogg  ||  
+VO_ZH_Alhaitham_When_the_Sun_Is_Out.ogg  ||  
+VO_ZH_Alhaitham_In_the_Desert.ogg  ||  
+VO_ZH_Alhaitham_Good_Morning.ogg  ||  
+VO_ZH_Alhaitham_Good_Afternoon.ogg  ||  
+VO_ZH_Alhaitham_Good_Evening.ogg  ||  
+VO_ZH_Alhaitham_Good_Night.ogg  ||  
+VO_ZH_Alhaitham_About_Alhaitham_-_Facts.ogg  ||  
+VO_ZH_Alhaitham_About_Alhaitham_-_Rumors.ogg  ||  
+VO_ZH_Alhaitham_About_Us_-_Greetings.ogg  ||  
+VO_ZH_Alhaitham_About_Us_-_Helping_Each_Other.ogg  ||  
+VO_ZH_Alhaitham_About_the_Vision.ogg  ||  
+VO_ZH_Alhaitham_Something_to_Share.ogg  ||  
+VO_ZH_Alhaitham_Interesting_Things.ogg  ||  
+VO_ZH_Alhaitham_About_Lesser_Lord_Kusanali.ogg  ||  
+VO_ZH_Alhaitham_About_Kaveh_-_Overly_Sensitive.ogg  ||  
+VO_ZH_Alhaitham_About_Kaveh_-_Getting_Duped.ogg  ||  
+VO_ZH_Alhaitham_About_Tighnari.ogg  ||  
+VO_ZH_Alhaitham_About_Dori.ogg  ||  
+VO_ZH_Alhaitham_About_Cyno.ogg  ||  
+VO_ZH_Alhaitham_About_Nilou.ogg  ||  
+VO_ZH_Alhaitham_About_Dehya.ogg  ||  
+VO_ZH_Alhaitham_More_About_Alhaitham_-_01.ogg  ||  
+VO_ZH_Alhaitham_More_About_Alhaitham_-_02.ogg  ||  
+VO_ZH_Alhaitham_More_About_Alhaitham_-_03.ogg  ||  
+VO_ZH_Alhaitham_More_About_Alhaitham_-_04.ogg  ||  
+VO_ZH_Alhaitham_More_About_Alhaitham_-_05.ogg  ||  
+VO_ZH_Alhaitham_Hobbies.ogg  ||  
+VO_ZH_Alhaitham_Troubles.ogg  ||  
+VO_ZH_Alhaitham_Favorite_Food.ogg  ||  
+VO_ZH_Alhaitham_Least_Favorite_Food.ogg  ||  
+VO_ZH_Alhaitham_Receiving_a_Gift_-_01.ogg  ||  
+VO_ZH_Alhaitham_Receiving_a_Gift_-_02.ogg  ||  
+VO_ZH_Alhaitham_Receiving_a_Gift_-_03.ogg  ||  
+VO_ZH_Alhaitham_Birthday.ogg  ||  
+VO_ZH_Alhaitham_Feelings_About_Ascension_-_01.ogg  ||  
+VO_ZH_Alhaitham_Feelings_About_Ascension_-_02.ogg  ||  
+VO_ZH_Alhaitham_Feelings_About_Ascension_-_03.ogg  ||  
+VO_ZH_Alhaitham_Feelings_About_Ascension_-_04.ogg  ||  
+VO_ZH_Alhaitham_Elemental_Skill_1_01.ogg  ||  接好了。
+VO_ZH_Alhaitham_Elemental_Skill_1_02.ogg  ||  镜闪。
+VO_ZH_Alhaitham_Elemental_Burst_01.ogg  ||  散射。
+VO_ZH_Alhaitham_Elemental_Burst_02.ogg  ||  分光。
+VO_ZH_Alhaitham_Elemental_Burst_03.ogg  ||  理论的推演。
+VO_ZH_Alhaitham_Sprint_Start_01.ogg  ||  
+VO_ZH_Alhaitham_Deploying_Wind_Glider_01.ogg  ||  
+VO_ZH_Alhaitham_Opening_Treasure_Chest_01.ogg  ||  哦。
+VO_ZH_Alhaitham_Opening_Treasure_Chest_02.ogg  ||  你自己收好。
+VO_ZH_Alhaitham_Opening_Treasure_Chest_03.ogg  ||  动作快，东西掉远就难捡了。
+VO_ZH_Alhaitham_Low_HP_01.ogg  ||  麻烦事。
+VO_ZH_Alhaitham_Low_HP_02.ogg  ||  计划有变。
+VO_ZH_Alhaitham_Low_HP_03.ogg  ||  要多花时间了。
+VO_ZH_Alhaitham_Ally_at_Low_HP_01.ogg  ||  我来吧。
+VO_ZH_Alhaitham_Ally_at_Low_HP_02.ogg  ||  不意外。
+VO_ZH_Alhaitham_Fallen_01.ogg  ||  预期之外…
+VO_ZH_Alhaitham_Fallen_02.ogg  ||  失策。
+VO_ZH_Alhaitham_Fallen_03.ogg  ||  我的误算。
+VO_ZH_Alhaitham_Light_Hit_Taken_01.ogg  ||  
+VO_ZH_Alhaitham_Heavy_Hit_Taken_01.ogg  ||  啧，谁啊。
+VO_ZH_Alhaitham_Heavy_Hit_Taken_02.ogg  ||  呃…行。
+VO_ZH_Alhaitham_Heavy_Hit_Taken_03.ogg  ||  
+VO_ZH_Alhaitham_Joining_Party_01.ogg  ||  有事？
+VO_ZH_Alhaitham_Joining_Party_02.ogg  ||  公事公办吧。
+VO_ZH_Alhaitham_Joining_Party_03.ogg  ||  不需要太长时间吧？
+VO_ZH_Alhaitham_Standby_01.ogg  ||  
+VO_ZH_Alhaitham_Light_Attack_01.ogg  ||  
+VO_ZH_Alhaitham_Mid_Attack_01.ogg  ||  
+VO_ZH_Alhaitham_Heavy_Attack_01.ogg  ||  
+VO_ZH_Alhaitham_Climbing_01.ogg  ||  
+VO_ZH_Alhaitham_Climbing_Breath_01.ogg  ||  
+VO_ZH_Alhaitham_Jumping_01.ogg  ||  
+VO_ZH_Alhaitham_Elemental_Skill_1_01.ogg  ||  
+VO_ZH_Alhaitham_Elemental_Skill_1_02.ogg  ||  
+VO_ZH_Alhaitham_Elemental_Burst_01.ogg  ||  
+VO_ZH_Alhaitham_Elemental_Burst_02.ogg  ||  
+VO_ZH_Alhaitham_Elemental_Burst_03.ogg  ||  
+VO_ZH_Alhaitham_Sprint_Start_01.ogg  ||  
+VO_ZH_Alhaitham_Deploying_Wind_Glider_01.ogg  ||  
+VO_ZH_Alhaitham_Opening_Treasure_Chest_01.ogg  ||  
+VO_ZH_Alhaitham_Opening_Treasure_Chest_02.ogg  ||  
+VO_ZH_Alhaitham_Opening_Treasure_Chest_03.ogg  ||  
+VO_ZH_Alhaitham_Low_HP_01.ogg  ||  
+VO_ZH_Alhaitham_Low_HP_02.ogg  ||  
+VO_ZH_Alhaitham_Low_HP_03.ogg  ||  
+VO_ZH_Alhaitham_Ally_at_Low_HP_01.ogg  ||  
+VO_ZH_Alhaitham_Ally_at_Low_HP_02.ogg  ||  
+VO_ZH_Alhaitham_Fallen_01.ogg  ||  
+VO_ZH_Alhaitham_Fallen_02.ogg  ||  
+VO_ZH_Alhaitham_Fallen_03.ogg  ||  
+VO_ZH_Alhaitham_Light_Hit_Taken_01.ogg  ||  
+VO_ZH_Alhaitham_Heavy_Hit_Taken_01.ogg  ||  
+VO_ZH_Alhaitham_Heavy_Hit_Taken_02.ogg  ||  
+VO_ZH_Alhaitham_Heavy_Hit_Taken_03.ogg  ||  
+VO_ZH_Alhaitham_Joining_Party_01.ogg  ||  
+VO_ZH_Alhaitham_Joining_Party_02.ogg  ||  
+VO_ZH_Alhaitham_Joining_Party_03.ogg  ||  
+VO_ZH_Alhaitham_Standby_01.ogg  ||  
+VO_ZH_Alhaitham_Light_Attack_01.ogg  ||  
+VO_ZH_Alhaitham_Mid_Attack_01.ogg  ||  
+VO_ZH_Alhaitham_Heavy_Attack_01.ogg  ||  
+VO_ZH_Alhaitham_Climbing_01.ogg  ||  
+VO_ZH_Alhaitham_Climbing_Breath_01.ogg  ||  
+VO_ZH_Alhaitham_Jumping_01.ogg  ||  

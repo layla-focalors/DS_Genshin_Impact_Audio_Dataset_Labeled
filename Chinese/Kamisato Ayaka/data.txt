@@ -1,0 +1,167 @@
+VO_ZH_Kamisato_Ayaka_Hello.ogg  ||  稻妻神里流太刀术皆传——神里绫华，参上！
+请多指教哦。
+VO_ZH_Kamisato_Ayaka_Chat_-_Stability.ogg  ||  像这样悠闲安稳的时光，如果再多一点就好了…我真贪心啊。
+VO_ZH_Kamisato_Ayaka_Chat_-_Sword.ogg  ||  剑，就和茶一样，细细品味才能理解其中风雅。
+VO_ZH_Kamisato_Ayaka_Chat_-_Zoning_Out.ogg  ||  这就是旅行者平日里的生活么，呵，感觉又多了解了你一些。
+VO_ZH_Kamisato_Ayaka_Chat_-_Famous_Sword.ogg  ||  刀剑抱业，名工怀宝。
+VO_ZH_Kamisato_Ayaka_When_It_Rains.ogg  ||  请随我一同避雨吧。
+VO_ZH_Kamisato_Ayaka_When_Thunder_Strikes.ogg  ||  大御所大人…是在诉说什么吗？
+VO_ZH_Kamisato_Ayaka_When_It_Snows.ogg  ||  「雪霁银妆素，桔高映琼枝。」嗯…美景当前，只差一壶茶与之相衬呢。
+VO_ZH_Kamisato_Ayaka_When_the_Sun_Is_Out.ogg  ||  风和日丽，要去哪边走走么？
+VO_ZH_Kamisato_Ayaka_Good_Morning.ogg  ||  早安，旅行者。能像这样在清晨见你一面，我会忍不住觉得…接下来将是顺利的一天。
+VO_ZH_Kamisato_Ayaka_Good_Afternoon.ogg  ||  午安。茶饭之后，难免略有困倦。是否有兴致下盘棋提神呢？
+VO_ZH_Kamisato_Ayaka_Good_Evening.ogg  ||  晚上好。夜风舒畅，会是一个良宵呢。
+VO_ZH_Kamisato_Ayaka_Good_Night.ogg  ||  「若知是梦何须醒，不比真如一相会。」
+VO_ZH_Kamisato_Ayaka_About_Kamisato_Ayaka_-_Yashiro_Commission.ogg  ||  「稻妻幕府社奉行神里家」，位于稻妻名门中的笔头之格位。作为三奉行之一，掌管祭祀活动与人文艺术。自从双亲过世之后，族内的大小事务，便由兄长和我承担了。
+VO_ZH_Kamisato_Ayaka_About_Kamisato_Ayaka_-_Position.ogg  ||  很多人因为我是「白鹭公主」，是社奉行神里家的大小姐而敬重我。他们所敬重的，只是我所身处的地位，与绫华我是怎样的人并无关系…
+所以我想，能真正走近我的，或许只有…
+VO_ZH_Kamisato_Ayaka_About_Kamisato_Ayaka_-_Aspiration.ogg  ||  如今的我，依旧想成为值得大家信任的人。不过，鼓舞我的原因，已不再是肩上的责任或他人的期待。而是因为，你也是这样的人啊。
+VO_ZH_Kamisato_Ayaka_About_Us_-_Teahouse.ogg  ||  如你有空，我们移步木漏茶室如何？在这样恬静的日子，略加交流茶艺心得，想来是颇具雅趣的。
+VO_ZH_Kamisato_Ayaka_About_Us_-_Festivals.ogg  ||  如果有机会的话，我想试着和你共度异国的节日。需要遵循的当地风俗、礼仪规范，还有伴手礼的推荐，可以麻烦你…一一指导我吗？
+VO_ZH_Kamisato_Ayaka_About_the_Vision.ogg  ||  「神之眼」，即是胸怀大志之人所获的印绶。如果问我有什么志向的话…这个还是保密吧，只是一个微不足道的梦想罢了。
+VO_ZH_Kamisato_Ayaka_Something_to_Share.ogg  ||  试问，常说「禅茶一味」，又说「剑禅一如」，那么剑和茶，又是什么关系呢？
+VO_ZH_Kamisato_Ayaka_Interesting_Things.ogg  ||  你在城中，见过枯萎的樱花树么？这种「枯」之美，让我想到春天盛开之景。不过别人似乎并不这么想，不再开花的樱树会被移走…就算一次也好，真想看到它再次开放。
+VO_ZH_Kamisato_Ayaka_About_Thoma.ogg  ||  托马是我很重要的朋友，他的开朗和阳光总是感染着我。某种意义上来说，他就像是我的另一个兄长一样，已经成为了「神里家」的一员。
+VO_ZH_Kamisato_Ayaka_About_Kujou_Sara.ogg  ||  为「天领奉行」工作的九条裟罗…她总是一脸严肃。我和她曾经起过几次争端，不过她本质是忠义之士，这点无可否认。
+VO_ZH_Kamisato_Ayaka_About_Shikanoin_Heizou.ogg  ||  鹿野院先生？他和九条小姐一样，是「天领奉行」的人。他…也是一个很有原则的人。对于这些「原则」的坚持，甚至比九条小姐更执着。只不过，什么事应该被算在这些「原则」之内，我想，或许只有鹿野院先生自己知道吧。
+VO_ZH_Kamisato_Ayaka_About_Sayu.ogg  ||  早柚这孩子，最近有没有给你添什么麻烦呢？如果看见她偷懒，可以直接告诉我。
+VO_ZH_Kamisato_Ayaka_About_the_Raiden_Shogun_-_Guesswork.ogg  ||  对大御所大人的看法吗？这并不该由我等下属随意议论。但…将军大人她，在追求「永恒」之路上，可能也很孤独吧。
+VO_ZH_Kamisato_Ayaka_About_the_Raiden_Shogun_-_Standpoint.ogg  ||  见证了「无想的一刀」并且活了下来，该说是堪称伟业的经历了吧。虽然对我来说，她是真正的神明，一念之间可以更改稻妻的命运，但如果是和你起了冲突的话…我一定会站在你这一边的。
+VO_ZH_Kamisato_Ayaka_About_Yae_Miko.ogg  ||  我和八重宫司大人的合作向来很愉快。你看，操办节庆庆典非常劳神费力，营收多半也不好看。但是八重宫司大人操办的产业，真的既风雅又有收成。
+VO_ZH_Kamisato_Ayaka_About_Kamisato_Ayato.ogg  ||  作为神里家的家主，兄长平日需要出面诸多场合。我虽尽力分担兄长肩上所负担的责任，却也无法缓和他常年积压在身的疲倦。唉，就当是为了妹妹着想，希望你能劝言，让兄长多多注意身体啊。
+VO_ZH_Kamisato_Ayaka_About_Yoimiya.ogg  ||  操办节庆庆典是社奉行和巫女众的责任，那位烟火专家也的确能让气氛热烈起来，彼此合作多了，因而渐渐熟络。
+嗯？治安和消防问题吗？我们也会一并纳入预先规划的。因为这些原因而看不到烟花，才会让人们心中留下缺憾吧。
+VO_ZH_Kamisato_Ayaka_More_About_Kamisato_Ayaka_-_01.ogg  ||  你的请求，对我来说很特别呢。既然把你当做朋友，我也应坦诚以待。不过，事关神里家的秘密，还希望你能守口如瓶。
+VO_ZH_Kamisato_Ayaka_More_About_Kamisato_Ayaka_-_02.ogg  ||  曾经，神里家因为没能保护好国宝级别的刀工，遭受了不小的冲击。受愚人众阴谋算计，我们折损了诸多臣下，受到许多责罚。父亲甚至因之早衰，神里家在幕府中的地位也一落千丈…好在兄长继任后力挽狂澜。不过，家门虽已复兴，社奉行一系也上下齐心，但大事要事方面，仍靠兄长定夺。
+VO_ZH_Kamisato_Ayaka_More_About_Kamisato_Ayaka_-_03.ogg  ||  将军所传的锻刀之术，也因星象、用途、矿质、炉火环境、人之性格、元素变化的不同，而有所区分。即是刀工之间所说的「雷电五传」。能锻造名刀的刀工，也被算作是本领通神的神事相关人员，归属统筹文化、艺术、祭祀的社奉行一派管理。因此，出现了刀工背叛的事情，自然就是神里家的督办不力了。
+VO_ZH_Kamisato_Ayaka_More_About_Kamisato_Ayaka_-_04.ogg  ||  对我来说，母亲是意义非凡的存在。端庄、优雅，无论遇到怎样的局面都会露出沉静的笑容，以从容不迫的态度，操持着神里家大大小小的事务，说母亲是完美的化身也不为过。但自从她离世的那一刻起，我就深切地意识到，我已经不是那个可以躲在母亲身后的小绫华了。
+VO_ZH_Kamisato_Ayaka_More_About_Kamisato_Ayaka_-_05.ogg  ||  接下来要说的话，可能不太符合「稻妻幕府社奉行神里家」的身份。不过，就我的判断，你应该能容许我小小的任性吧？
+…稍微有点累了…可以让我靠一下你的肩膀吗？一下就好。
+VO_ZH_Kamisato_Ayaka_Hobbies.ogg  ||  风雅之物我都很喜欢：雅乐诗词、棋艺与舞蹈。你也感兴趣吗？
+VO_ZH_Kamisato_Ayaka_Troubles_-_Concerns.ogg  ||  烦恼吗？啊，是啊。只要生活在这个世界上，就难免遇到种种不如意的事情。但如果是因为自己的事情，就让周遭的人担心的话…果然，我还是不能说…
+VO_ZH_Kamisato_Ayaka_Troubles_-_Desires.ogg  ||  「坦率」，真的是一件很难的事情。我必须不断告诫自己是神里家的大小姐，在无数双眼睛，无数人的期盼之下摆出完美无缺的姿态。这样的我，是否也该追求自己的愿望呢，是否也该…让你理解我的心意呢…
+VO_ZH_Kamisato_Ayaka_Favorite_Food.ogg  ||  我对异国料理很有兴趣，虽然很少有尝试的机会。嗯…如果是要局限在稻妻料理内的话…应该是「茶泡饭」吧。不过，不能给一般客人看见，我也是偷偷告诉你的。
+VO_ZH_Kamisato_Ayaka_Least_Favorite_Food.ogg  ||  虽然不是不能吃，但我对动物脂肪或内脏大概会有点…
+VO_ZH_Kamisato_Ayaka_Receiving_a_Gift_-_01.ogg  ||  嗯…我真是太幸福了…
+VO_ZH_Kamisato_Ayaka_Receiving_a_Gift_-_02.ogg  ||  谢谢你让我有机会尝试这道菜，我会把它的味道记在心里的。
+VO_ZH_Kamisato_Ayaka_Receiving_a_Gift_-_03.ogg  ||  啊…稍微有点油腻了呢。
+VO_ZH_Kamisato_Ayaka_Birthday.ogg  ||  请随我来！只要走一小段路，不会耽搁你太长时间的哦。
+打听到你的生日之后，我就提前了一段时间开始筹备。比起名贵的礼物，我妄自猜测…或许这样的礼物会更合我们的情谊。此次，就请让我以扇舞为礼吧。
+那么，失礼了。
+VO_ZH_Kamisato_Ayaka_Feelings_About_Ascension_-_01.ogg  ||  非常感谢。与你切磋使我受益良多，相信在剑术上也能更进一步。
+VO_ZH_Kamisato_Ayaka_Feelings_About_Ascension_-_02.ogg  ||  多亏你的点拨。有你相助，我对自己的能力也理解得更透彻了。
+VO_ZH_Kamisato_Ayaka_Feelings_About_Ascension_-_03.ogg  ||  感觉更加游刃有余了。处理社奉行事务之余，甚至有空尝试一些新的事情。要来试试最近学做的点心吗？
+VO_ZH_Kamisato_Ayaka_Feelings_About_Ascension_-_04.ogg  ||  「尝有所思，斯世如磐；孰料浮世事，留驻难。」
+…抱歉，明明是值得高兴的时候，我却想起了那么悲伤的诗歌。和你相处的时间过于畅怀，竟然让我害怕再次失去。真是…失态了呀。
+VO_ZH_Kamisato_Ayaka_Hello.ogg  ||  
+VO_ZH_Kamisato_Ayaka_Chat_-_Stability.ogg  ||  
+VO_ZH_Kamisato_Ayaka_Chat_-_Sword.ogg  ||  
+VO_ZH_Kamisato_Ayaka_Chat_-_Zoning_Out.ogg  ||  
+VO_ZH_Kamisato_Ayaka_Chat_-_Famous_Sword.ogg  ||  
+VO_ZH_Kamisato_Ayaka_When_It_Rains.ogg  ||  
+VO_ZH_Kamisato_Ayaka_When_Thunder_Strikes.ogg  ||  
+VO_ZH_Kamisato_Ayaka_When_It_Snows.ogg  ||  
+VO_ZH_Kamisato_Ayaka_When_the_Sun_Is_Out.ogg  ||  
+VO_ZH_Kamisato_Ayaka_Good_Morning.ogg  ||  
+VO_ZH_Kamisato_Ayaka_Good_Afternoon.ogg  ||  
+VO_ZH_Kamisato_Ayaka_Good_Evening.ogg  ||  
+VO_ZH_Kamisato_Ayaka_Good_Night.ogg  ||  
+VO_ZH_Kamisato_Ayaka_About_Kamisato_Ayaka_-_Yashiro_Commission.ogg  ||  
+VO_ZH_Kamisato_Ayaka_About_Kamisato_Ayaka_-_Position.ogg  ||  
+VO_ZH_Kamisato_Ayaka_About_Kamisato_Ayaka_-_Aspiration.ogg  ||  
+VO_ZH_Kamisato_Ayaka_About_Us_-_Teahouse.ogg  ||  
+VO_ZH_Kamisato_Ayaka_About_Us_-_Festivals.ogg  ||  
+VO_ZH_Kamisato_Ayaka_About_the_Vision.ogg  ||  
+VO_ZH_Kamisato_Ayaka_Something_to_Share.ogg  ||  
+VO_ZH_Kamisato_Ayaka_Interesting_Things.ogg  ||  
+VO_ZH_Kamisato_Ayaka_About_Thoma.ogg  ||  
+VO_ZH_Kamisato_Ayaka_About_Kujou_Sara.ogg  ||  
+VO_ZH_Kamisato_Ayaka_About_Shikanoin_Heizou.ogg  ||  
+VO_ZH_Kamisato_Ayaka_About_Sayu.ogg  ||  
+VO_ZH_Kamisato_Ayaka_About_the_Raiden_Shogun_-_Guesswork.ogg  ||  
+VO_ZH_Kamisato_Ayaka_About_the_Raiden_Shogun_-_Standpoint.ogg  ||  
+VO_ZH_Kamisato_Ayaka_About_Yae_Miko.ogg  ||  
+VO_ZH_Kamisato_Ayaka_About_Kamisato_Ayato.ogg  ||  
+VO_ZH_Kamisato_Ayaka_About_Yoimiya.ogg  ||  
+VO_ZH_Kamisato_Ayaka_More_About_Kamisato_Ayaka_-_01.ogg  ||  
+VO_ZH_Kamisato_Ayaka_More_About_Kamisato_Ayaka_-_02.ogg  ||  
+VO_ZH_Kamisato_Ayaka_More_About_Kamisato_Ayaka_-_03.ogg  ||  
+VO_ZH_Kamisato_Ayaka_More_About_Kamisato_Ayaka_-_04.ogg  ||  
+VO_ZH_Kamisato_Ayaka_More_About_Kamisato_Ayaka_-_05.ogg  ||  
+VO_ZH_Kamisato_Ayaka_Hobbies.ogg  ||  
+VO_ZH_Kamisato_Ayaka_Troubles_-_Concerns.ogg  ||  
+VO_ZH_Kamisato_Ayaka_Troubles_-_Desires.ogg  ||  
+VO_ZH_Kamisato_Ayaka_Favorite_Food.ogg  ||  
+VO_ZH_Kamisato_Ayaka_Least_Favorite_Food.ogg  ||  
+VO_ZH_Kamisato_Ayaka_Receiving_a_Gift_-_01.ogg  ||  
+VO_ZH_Kamisato_Ayaka_Receiving_a_Gift_-_02.ogg  ||  
+VO_ZH_Kamisato_Ayaka_Receiving_a_Gift_-_03.ogg  ||  
+VO_ZH_Kamisato_Ayaka_Birthday.ogg  ||  
+VO_ZH_Kamisato_Ayaka_Feelings_About_Ascension_-_01.ogg  ||  
+VO_ZH_Kamisato_Ayaka_Feelings_About_Ascension_-_02.ogg  ||  
+VO_ZH_Kamisato_Ayaka_Feelings_About_Ascension_-_03.ogg  ||  
+VO_ZH_Kamisato_Ayaka_Feelings_About_Ascension_-_04.ogg  ||  
+VO_ZH_Kamisato_Ayaka_Elemental_Skill_1_01.ogg  ||  起舞吧。
+VO_ZH_Kamisato_Ayaka_Elemental_Skill_1_02.ogg  ||  失礼了。
+VO_ZH_Kamisato_Ayaka_Elemental_Skill_1_03.ogg  ||  雪纷飞。
+VO_ZH_Kamisato_Ayaka_Elemental_Burst_01.ogg  ||  …拿下了！
+VO_ZH_Kamisato_Ayaka_Elemental_Burst_02.ogg  ||  樱吹雪。
+VO_ZH_Kamisato_Ayaka_Elemental_Burst_03.ogg  ||  神里流…霜灭！
+VO_ZH_Kamisato_Ayaka_Sprint_Start_01.ogg  ||  
+VO_ZH_Kamisato_Ayaka_Deploying_Wind_Glider_01.ogg  ||  
+VO_ZH_Kamisato_Ayaka_Opening_Treasure_Chest_01.ogg  ||  寻珍觅奇…也算得一种雅趣。
+VO_ZH_Kamisato_Ayaka_Opening_Treasure_Chest_02.ogg  ||  呵呵…今日运势不错。
+VO_ZH_Kamisato_Ayaka_Opening_Treasure_Chest_03.ogg  ||  我会珍惜这一份幸运。
+VO_ZH_Kamisato_Ayaka_Low_HP_01.ogg  ||  不容小觑呢。
+VO_ZH_Kamisato_Ayaka_Low_HP_02.ogg  ||  久违的对手…
+VO_ZH_Kamisato_Ayaka_Low_HP_03.ogg  ||  该决断了…
+VO_ZH_Kamisato_Ayaka_Ally_at_Low_HP_01.ogg  ||  不可大意。
+VO_ZH_Kamisato_Ayaka_Ally_at_Low_HP_02.ogg  ||  阁下务必小心。
+VO_ZH_Kamisato_Ayaka_Fallen_01.ogg  ||  失态了…
+VO_ZH_Kamisato_Ayaka_Fallen_02.ogg  ||  我还有…未竟之事…
+VO_ZH_Kamisato_Ayaka_Fallen_03.ogg  ||  让家族…蒙羞了…
+VO_ZH_Kamisato_Ayaka_Light_Hit_Taken_01.ogg  ||  
+VO_ZH_Kamisato_Ayaka_Heavy_Hit_Taken_01.ogg  ||  无礼的家伙…
+VO_ZH_Kamisato_Ayaka_Heavy_Hit_Taken_02.ogg  ||  怎么会…
+VO_ZH_Kamisato_Ayaka_Heavy_Hit_Taken_03.ogg  ||  
+VO_ZH_Kamisato_Ayaka_Joining_Party_01.ogg  ||  神里绫华，参上。
+VO_ZH_Kamisato_Ayaka_Joining_Party_02.ogg  ||  烦请赐教。
+VO_ZH_Kamisato_Ayaka_Joining_Party_03.ogg  ||  呵呵，请多关照。
+VO_ZH_Kamisato_Ayaka_Light_Attack_01.ogg  ||  
+VO_ZH_Kamisato_Ayaka_Mid_Attack_01.ogg  ||  
+VO_ZH_Kamisato_Ayaka_Heavy_Attack_01.ogg  ||  
+VO_ZH_Kamisato_Ayaka_Climbing_01.ogg  ||  
+VO_ZH_Kamisato_Ayaka_Climbing_Breath_01.ogg  ||  
+VO_ZH_Kamisato_Ayaka_Jumping_01.ogg  ||  
+VO_ZH_Kamisato_Ayaka_Elemental_Skill_1_01.ogg  ||  
+VO_ZH_Kamisato_Ayaka_Elemental_Skill_1_02.ogg  ||  
+VO_ZH_Kamisato_Ayaka_Elemental_Skill_1_03.ogg  ||  
+VO_ZH_Kamisato_Ayaka_Elemental_Burst_01.ogg  ||  
+VO_ZH_Kamisato_Ayaka_Elemental_Burst_02.ogg  ||  
+VO_ZH_Kamisato_Ayaka_Elemental_Burst_03.ogg  ||  
+VO_ZH_Kamisato_Ayaka_Sprint_Start_01.ogg  ||  
+VO_ZH_Kamisato_Ayaka_Deploying_Wind_Glider_01.ogg  ||  
+VO_ZH_Kamisato_Ayaka_Opening_Treasure_Chest_01.ogg  ||  
+VO_ZH_Kamisato_Ayaka_Opening_Treasure_Chest_02.ogg  ||  
+VO_ZH_Kamisato_Ayaka_Opening_Treasure_Chest_03.ogg  ||  
+VO_ZH_Kamisato_Ayaka_Low_HP_01.ogg  ||  
+VO_ZH_Kamisato_Ayaka_Low_HP_02.ogg  ||  
+VO_ZH_Kamisato_Ayaka_Low_HP_03.ogg  ||  
+VO_ZH_Kamisato_Ayaka_Ally_at_Low_HP_01.ogg  ||  
+VO_ZH_Kamisato_Ayaka_Ally_at_Low_HP_02.ogg  ||  
+VO_ZH_Kamisato_Ayaka_Fallen_01.ogg  ||  
+VO_ZH_Kamisato_Ayaka_Fallen_02.ogg  ||  
+VO_ZH_Kamisato_Ayaka_Fallen_03.ogg  ||  
+VO_ZH_Kamisato_Ayaka_Light_Hit_Taken_01.ogg  ||  
+VO_ZH_Kamisato_Ayaka_Heavy_Hit_Taken_01.ogg  ||  
+VO_ZH_Kamisato_Ayaka_Heavy_Hit_Taken_02.ogg  ||  
+VO_ZH_Kamisato_Ayaka_Heavy_Hit_Taken_03.ogg  ||  
+VO_ZH_Kamisato_Ayaka_Joining_Party_01.ogg  ||  
+VO_ZH_Kamisato_Ayaka_Joining_Party_02.ogg  ||  
+VO_ZH_Kamisato_Ayaka_Joining_Party_03.ogg  ||  
+VO_ZH_Kamisato_Ayaka_Light_Attack_01.ogg  ||  
+VO_ZH_Kamisato_Ayaka_Mid_Attack_01.ogg  ||  
+VO_ZH_Kamisato_Ayaka_Heavy_Attack_01.ogg  ||  
+VO_ZH_Kamisato_Ayaka_Climbing_01.ogg  ||  
+VO_ZH_Kamisato_Ayaka_Climbing_Breath_01.ogg  ||  
+VO_ZH_Kamisato_Ayaka_Jumping_01.ogg  ||  

@@ -1,0 +1,77 @@
+VO_JA_Albedo_Hello.ogg  ||  ボクはアルベド、西風騎士団の首席錬金術師だ。キミから感じる星海の気配に興味があってね、近くで観察したいと思ったんだ。きっとこれから一緒に行動する機会が増えると思うよ。
+VO_JA_Albedo_Chat_-_Still_Life.ogg  ||  いい景色だね。休憩中にこの景色を絵にしようか。
+VO_JA_Albedo_Chat_-_Investigation.ogg  ||  「世界の真相」とは…一体何なんだろう？
+VO_JA_Albedo_Chat_-_Reminiscing.ogg  ||  自分の両足で土地を測り、「未知」を知識に変えていく。この感じ、懐かしいなぁ。
+VO_JA_Albedo_When_It_Rains.ogg  ||  土が潤っている、ボムボムウリの根の採集に相応しいね。大丈夫、ボクに任せて。
+VO_JA_Albedo_When_It_Snows.ogg  ||  師匠…
+VO_JA_Albedo_When_the_Sun_Is_Out.ogg  ||  光が十分、生物活動も活発、うん、写生に向いているね。
+VO_JA_Albedo_Good_Morning.ogg  ||  おはよう、古代遺物を探しに出かけるのかい？
+VO_JA_Albedo_Good_Afternoon.ogg  ||  こんにちは、キミの足音が聞こえたんだ。工房の外は賑やかだね。
+VO_JA_Albedo_Good_Evening.ogg  ||  外はやっと静かになったね、ふう。
+VO_JA_Albedo_Good_Night.ogg  ||  おやすみ、先に休んでていいよ。ボクは最後の実験を終わらせたいんだ。そんなに興味があるなら…明日会う時、実験結果について一緒に話し合おう。
+VO_JA_Albedo_About_Albedo_-_Genius.ogg  ||  天才？ボクをそう呼ぶ人は多いけど…ボクはそうとは思わないんだ。
+VO_JA_Albedo_About_Albedo_-_Socializing.ogg  ||  人付き合いは…面倒だよ。始めると維持が必要だし、繋がりが途絶えると再び紡ぐのにもっと時間がかかる…
+VO_JA_Albedo_About_Us_-_Experiments.ogg  ||  キミ…ボクの実験に付き合ってくれるのかい？光栄だね。
+ああ、緊張しないで。ボクの実験は危険だけど、無実の人を傷つけたりしないから。
+VO_JA_Albedo_About_Us_-_Assistant.ogg  ||  ボクの助手になってくれないかい？何度もボクのそばで見てきたから、もう覚えてるよね。安心して、ボクがついてる。たとえ実験をするのが初めてだとしても、問題はないさ。ボクはボクの指導力に自信があるし、何よりもキミの才能を信じてるからね。
+VO_JA_Albedo_About_the_Vision.ogg  ||  「神の目」？所詮実験用の道具だよ、ビーカーやるつぼと変わらないさ。唯一興味があるのはその原理だ…いつかボクが解明してみせる、時間の問題だよ。
+VO_JA_Albedo_Something_to_Share.ogg  ||  キミに拒否されたら落ち込むから少し言いにくいけど…
+うーん…キミの周りを飛んでるちびっ子に興味があるんだ、少し貸してもらえないかな？
+VO_JA_Albedo_Interesting_Things.ogg  ||  石化古樹のことをもっと知りたい？うーん…キミが近くの秘境で見たあれはそれほど古くないものだ。より古い木だと2、3000メートルくらいの高さがあるからね。その根元には大きな蜘蛛が集まってる。その蜘蛛をクチナシとオガルカヤでくくって、カルダモンを塗り、数時間焼いた後の香りは…本当に忘れられないよ。
+VO_JA_Albedo_About_Family.ogg  ||  …家族のこと？お母さんって呼んでほしいとアリスさんには言われてるけど…ボクにとっての家族はやはり師匠かな。物心がついた頃から師匠と一緒に探検してたし、錬金術も世の中の知識も彼女が教えてくれたんだ。…ボクにとって彼女は、「家族」や「師匠」って言葉だけでは表現しきれないかもしれない。
+VO_JA_Albedo_About_Sucrose_-_Direction.ogg  ||  スクロースかい？彼女が「生物錬金」に夢中になってる理由は理解できると思うよ…ともあれ、彼女の研究が順調に進んでるのを見ると、ボクも嬉しくなるんだ。
+VO_JA_Albedo_About_Sucrose_-_Habits.ogg  ||  学術的な面に関しては仲良くやってるけど、研究課題以外のことに関しては、こだわりが強すぎるきらいがあるんだ。たとえば、同世代なんだからボクのことは呼び捨てでいいよって言っても、彼女は先生と呼んでくる。はぁ、彼女の好きなようにさせるしかないね。
+VO_JA_Albedo_About_Lisa.ogg  ||  リサかい？彼女との話し合いはいつも価値のある結果をもたらしてくれるんだ。あんなに才能があるのに図書館司書の肩書きで満足するとは、きっとその才能に関わる因縁深い理由があるんだと思う。
+VO_JA_Albedo_About_Klee.ogg  ||  クレーのことは実の妹のように思ってるよ。だから彼女が何かトラブルを起こしても、アリスさんに比べたらその破壊力はかわいいものだって自分に言い聞かせるようにしてるんだ。
+VO_JA_Albedo_About_Jean.ogg  ||  ジン？彼女は真面目な代理団長で、あの大団長よりも頼もしいと言える…みんなも、彼女が正式に団長となる日を密かに期待してるんじゃないかな。
+VO_JA_Albedo_About_Xingqiu.ogg  ||  行秋かい？彼の書いた小説は面白いよ。ただ、稲妻の「八重堂」がいつも他の作者とコラボしてほしいと言ってくるんだ、そうすれば印税の収入も多くなるってさ。フン、ボクは別にお金に困ってないのに。
+VO_JA_Albedo_About_Barbara.ogg  ||  バーバラかい？彼女は真面目な牧師だよ。そういえば昔、彼女のクロッキーを描いたことがあってね…絵はどうしたかって？うん…アルバートの購入希望を断って、代理団長にプレゼントしたよ。…人付き合いって、本当に大変だね。
+VO_JA_Albedo_More_About_Albedo_-_01.ogg  ||  ボクに聞きたいことがあるのかい？何かな。あっ、その前にひとつ聞きたいんだけど、その質問はそんなに時間かからないよね？いま進めている研究がもうすぐ最終段階に入るんだ…
+VO_JA_Albedo_More_About_Albedo_-_02.ogg  ||  ああ、これは余談なんだけど、人の介入がない限り、8倍の大きさの太陽が消滅しないと黄金は自然生成されないんだ。
+VO_JA_Albedo_More_About_Albedo_-_03.ogg  ||  人物画の作業時間は主に気分次第だ。ホフマンを描く時は半日もかかったりするけど、ガイアを描く時はちょんちょんで終わるよ——この丸は顔、これが眼帯の紐でこっちが眼帯って具合にね。
+VO_JA_Albedo_More_About_Albedo_-_04.ogg  ||  絵と研究以外では…たまに稲妻と璃月の小説を読んだりしているよ。面白い考えをたくさん見られるし、時には予想もつかないインスピレーションを得られるんだ。
+VO_JA_Albedo_More_About_Albedo_-_05.ogg  ||  今でも、師匠に教わった「黒土の術」は謎だらけだ、師匠は一体この技術で何を作り出そうとしていたんだろう…研究はまだまだ終わらない、キミにも一緒に探索をしてもらわないとね。
+VO_JA_Albedo_Hobbies.ogg  ||  うーん…研究以外で一番時間をかけたいのは絵を描くことかな。最初は物体や材料の構造を理解し、それを研究に応用するために始めたんだけど、気付いたら趣味になっていた。うん、いいリラックスになってると思うよ。
+VO_JA_Albedo_Troubles.ogg  ||  時間が足りないことかな。面倒なことを他の人に任せても、やっぱり時間は足りないって思ってしまうよ。
+VO_JA_Albedo_Favorite_Food.ogg  ||  スイーツは好きだよ。なんというか…スイーツを食べると、カロリーを一気に補給出来て、集中力や効率が上がるんだ。
+VO_JA_Albedo_Least_Favorite_Food.ogg  ||  嫌いな食べ物…レストランに出てくる大量の肉かな。ボクは小食だから、「もったいない」上に「美味しくなくなる」。だからいっそのこと、ボクはレストランに行くことをやめたんだ。そのせいで、料理に費やす時間が増えてしまったけどね…
+VO_JA_Albedo_Receiving_a_Gift_-_01.ogg  ||  味覚が色をまるで反射しているようだ…ふむ、これは黄金色だね。
+VO_JA_Albedo_Receiving_a_Gift_-_02.ogg  ||  キミは料理を作ることに時間をかけるようだ。だから、このような味が作れるのだろう。
+VO_JA_Albedo_Receiving_a_Gift_-_03.ogg  ||  量が少し多いようだ…キミも一緒に食べないかい？
+VO_JA_Albedo_Birthday.ogg  ||  誕生日おめでとう。嬉しそうだね。そんなキミを絵に描いてもいいかい？人の脳の容量は限られてるから、つい忘れてしまうんだ。でも絵にすれば、それは記憶の延長になる。将来、絵をもう一度目にすることで、当時の気持ちを思い出すことができるんだ。
+VO_JA_Albedo_Feelings_About_Ascension_-_01.ogg  ||  「黒土」は錬金術の語源でもあり、最初の状態のことだよ。この世界に生きてる限り、ボクたちは存在する意味を探さないといけない。
+VO_JA_Albedo_Feelings_About_Ascension_-_02.ogg  ||  「白亜」、それは変化の始まり。不純物が取り除かれ、あらゆる知識を受け入れる準備ができた。ボクと共に世界を探索してみないかい？
+VO_JA_Albedo_Feelings_About_Ascension_-_03.ogg  ||  「赤化」、錬金術では感情の精錬を意味するんだ。ボクの赤はキミが原因らしい。
+VO_JA_Albedo_Feelings_About_Ascension_-_04.ogg  ||  「黄金」、錬金術の最後の段階。無価値のものは存在する意味を見つけ、黄金になった。ボクも、ちゃんと意味を見つけたよ。
+VO_JA_Albedo_Elemental_Skill_1_01.ogg  ||  咲け。
+VO_JA_Albedo_Elemental_Skill_1_02.ogg  ||  擬似陽華。
+VO_JA_Albedo_Elemental_Skill_1_03.ogg  ||  創生の術。
+VO_JA_Albedo_Elemental_Burst_01.ogg  ||  今こそ、誕生の時。
+VO_JA_Albedo_Elemental_Burst_02.ogg  ||  冥王、顕生へ。
+VO_JA_Albedo_Elemental_Burst_03.ogg  ||  偉業を見届けよ。
+VO_JA_Albedo_Sprint_Start_01.ogg  ||  
+VO_JA_Albedo_Deploying_Wind_Glider_01.ogg  ||  
+VO_JA_Albedo_Opening_Treasure_Chest_01.ogg  ||  大地の秘宝か。
+VO_JA_Albedo_Opening_Treasure_Chest_02.ogg  ||  無言なる叙述。
+VO_JA_Albedo_Opening_Treasure_Chest_03.ogg  ||  「黄金」の比ではないが、価値がある。
+VO_JA_Albedo_Low_HP_01.ogg  ||  計算ミス…
+VO_JA_Albedo_Low_HP_02.ogg  ||  再評価が必要だ…
+VO_JA_Albedo_Low_HP_03.ogg  ||  策を変えないと。
+VO_JA_Albedo_Ally_at_Low_HP_01.ogg  ||  ボクに任せて。
+VO_JA_Albedo_Ally_at_Low_HP_02.ogg  ||  変わって、キミには無理だよ。
+VO_JA_Albedo_Fallen_01.ogg  ||  灰は灰に、塵は塵に…
+VO_JA_Albedo_Fallen_02.ogg  ||  実験が失敗したのか？
+VO_JA_Albedo_Fallen_03.ogg  ||  ボクの研究も、終わりか…
+VO_JA_Albedo_Light_Hit_Taken_02.ogg  ||  しきい値内だ…
+VO_JA_Albedo_Light_Hit_Taken_01.ogg  ||  
+VO_JA_Albedo_Heavy_Hit_Taken_02.ogg  ||  ミスしたか…
+VO_JA_Albedo_Heavy_Hit_Taken_01.ogg  ||  
+VO_JA_Albedo_Joining_Party_01.ogg  ||  了解。
+VO_JA_Albedo_Joining_Party_02.ogg  ||  課外活動かな？
+VO_JA_Albedo_Joining_Party_03.ogg  ||  一緒に探索しよう。
+VO_JA_Albedo_Light_Attack_01.ogg  ||  
+VO_JA_Albedo_Mid_Attack_01.ogg  ||  
+VO_JA_Albedo_Heavy_Attack_01.ogg  ||  
+VO_JA_Albedo_Climbing_01.ogg  ||  
+VO_JA_Albedo_Climbing_Breath_01.ogg  ||  
+VO_JA_Albedo_Jumping_01.ogg  ||  

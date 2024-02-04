@@ -1,0 +1,80 @@
+VO_Klee_Hello.ogg  ||  Spark Knight Klee of the Knights of Favonius, reporting for duty! ...There's some more, but uh, I forgot. I'm not so good at remembering...
+VO_Klee_Chat_-_Spoils.ogg  ||  Klee was a brave girl today! I found a really weird-looking lizard! Want me to show it to you?
+VO_Klee_Chat_-_Adventures.ogg  ||  Do you wanna come fish blasting with me? I'll get grounded for a whole day, but it's way worth it coz the fish taste sooo goood!
+VO_Klee_Chat_-_Rules.ogg  ||  "Explosion inside city wall, grounded be thy woe," "Explosions can hurt people, Jean can be dreadful," "Mondstadt be bombed, Klee be doomed." Those're the survival rules that the Knights of Favonius gave me.
+VO_Klee_When_It_Rains.ogg  ||  Mwuhahaha, lucky all my new bombs are waterproof!
+VO_Klee_When_Thunder_Strikes.ogg  ||  What'd I blow up!? ...Oh wait, it's just thunder and lightning. Phew.
+VO_Klee_When_the_Wind_Is_Blowing.ogg  ||  Dear Anemo God, please make Klee's bombs blow in the right direction and only blow up bad guys. The end.
+VO_Klee_Good_Morning.ogg  ||  Good morning! Can I come play with you today? Pleeeease? I wanna go on an adventure!
+VO_Klee_Good_Afternoon.ogg  ||  Lunchtime! What do you wanna eat today? Let me see if the Teyvat Travel Guide has any suggestions...
+VO_Klee_Good_Evening.ogg  ||  Good evening! Can you please tell Huffman that Klee is not a baby and is definitely allowed out to play at night? Please take me out to play together!
+VO_Klee_Good_Night.ogg  ||  Hey... Um... I know I said I don't wanna go home and all, but now it's nighttime and I can't find my way home in the dark...Can you please take me home on your way back? Pleeeease?
+VO_Klee_About_Klee_-_Incidents.ogg  ||  Ohhhhh... I broke one of the blades on the windmill - I'm really sorry!
+VO_Klee_About_Klee_-_Reparations.ogg  ||  I'm really good at fixing things though. I can help! Huh? What do you mean that's child labor? What even is child labor? Does that mean I can't help?
+VO_Klee_About_Us_-_Knights.ogg  ||  Hee-hee, you're an Honorary Knight but I've been a Spark Knight longer... That means I'm higher up than you, right? So you have to do what I say! So, um... Ca-Can you not say anything about the big disaster I caused? It was an accident...
+VO_Klee_About_Us_-_Playmates.ogg  ||  No! It's only nine o'clock, I'm staying up to watch the circus' special midnight performance! You're supposed to be my best friend! Don't even think about trying to send me home!
+VO_Klee_About_the_Vision.ogg  ||  This little marble is supposed to be a present from Barbatos to say well done? Well done for what though? ...Hmm, he is the god of freedom I guess, maybe that's why he likes me? Alright, from now on I'll say thank you to Barbatos by showing that I have the freedom to blow up as many fish as I want! ...Am I doing it right?
+VO_Klee_Something_to_Share.ogg  ||  At the Knights of Favonius building, you're not allowed to blow up the walls. Shame, it would make getting out of solitary confinement way easier... but if I did so much as try to blow up the wall, Jean would make sure Klee never sees the light of day again. That's what Jean said, Kaeya told me.
+VO_Klee_Interesting_Things.ogg  ||  Every lizard has a different pattern on his back, and some of them you can use their dried-out tails to make gunpowder with. I know because Albedo told me so.
+VO_Klee_About_Razor.ogg  ||  Razor's one of my best buddies! Whenever a disaster happens, he always knows the best way to fix it and helps keep Klee safe. Um, but most of the time I'm the one who caused the disaster...
+VO_Klee_About_the_Parents.ogg  ||  My mom and dad are the famousest travelers in Teyvat! Mom writes the Teyvat Travel Guide, so all the restaurants and hotels in the whole world care what she thinks about them.
+VO_Klee_About_Kaeya.ogg  ||  Kaeya is the best! He wrote the Favonius Survival Rulebook for me and he always helps me cover it up when I make a big disaster.
+VO_Klee_About_Amber.ogg  ||  Amber is the best! Baron Bunny is so fluffy and he even explodes! So. Cool.
+VO_Klee_About_Jean.ogg  ||  Master Jean is the best! But she's also a little bit scary.
+VO_Klee_About_Diluc.ogg  ||  He's one of the weird grown-ups. He's so grumpy all the time... Why does he never smile?
+VO_Klee_About_Lisa.ogg  ||  Lisa is the best! She always sneaks me some treats when I visit her at the workshop. ...Huh, I just remembered I was gonna ask her if I could use the workshop to make some new gunpowder. But I totally forgot...
+VO_Klee_About_Bennett.ogg  ||  Bennett is the best! I always find way more treasure if I go adventuring with Bennett! ...But he never finds any. Why is that, anyway?
+VO_Klee_About_Diona.ogg  ||  Diona is the best! I like listening to her, last time I heard her say, "I'm gonna destroy the wine industry in this city if it's the last thing I do!" And I'm gonna help her using my bombs! ...I don't know what a wine industry is though. Is it a monster?
+VO_Klee_About_Albedo.ogg  ||  Me and Albedo have a secret code! Whenever he puts a sign on his workshop door saying "Experiment in Progress," that's code for "Come back later, Klee." Albedo's really nice and he's so patient with me, so I don't mind waiting until he's finished with his work.
+VO_Klee_About_Mona.ogg  ||  Mona is the best! It's so much fun when she comes to play with me and Albedo. She talks about all these amazing things, and I don't understand most of it but... Ah, I just love it when Mona comes round!
+VO_Klee_About_Sucrose.ogg  ||  Sucrose is the best! This one time she asked me if I wanted a Jumpy Dumpty that can run as well as jump. Tee-hee, well duh! Of course I do, I want hundreds of them! I wanna put them on every street, every staircase, and every square in Mondstadt!
+VO_Klee_More_About_Klee_-_01.ogg  ||  Hello, are you here for playtime with Klee?
+VO_Klee_More_About_Klee_-_02.ogg  ||  Yeah! This is my new and improved bomb! Whaddya think? Great huh? ...Oh, but ahh... If you find it near any fires, it's not mine. Definitely. Not. Mine.
+VO_Klee_More_About_Klee_-_03.ogg  ||  Sure, time in solitary confinement gives lots of time to think about new gunpowder formulas... But it'd still be better to not be in solitary in the first place.
+VO_Klee_More_About_Klee_-_04.ogg  ||  This is Dodoco, my oldest and bestest friend! Okay, now I've introduced you, don't forget her name again alright? No more calling Dodoco (puts on silly voice) "that silly doll Klee always hangs on her rucksack."
+VO_Klee_More_About_Klee_-_05.ogg  ||  Thanks for helping me out every time I get in trouble! I have a thank-you present for you — barbecued fish, made with my own secret recipe! ...Okay, so the secret recipe is exploding the fish out of the water. Tee-hee, they're fully cooked by the time they land! But it's a secret, right, so you don't get to tell anybody. Just pretend like you don't even know.
+VO_Klee_Hobbies.ogg  ||  I like things that are fluffy~! Like Dodoco! And dandelions! And Razor's hair!
+VO_Klee_Troubles.ogg  ||  *sigh* You're a good person, but I'm a bad girl. Once I'm out of solitary confinement and am done reflecting on my actions, we can go play together again, okay?
+VO_Klee_Favorite_Food.ogg  ||  Mondstadt's basses are delicious, especially the ones you grab yourself from Cider Lake! I'm not even kidding, even my mom thinks so.
+VO_Klee_Least_Favorite_Food.ogg  ||  I hate, hate, hate Mondstadt's crabs! All of them! I wanna go out and play, I don't wanna just sit there tryna de-shell a crab all day...
+VO_Klee_Receiving_a_Gift_-_01.ogg  ||  Yummy, yummy! Oof, I'm so full...
+VO_Klee_Receiving_a_Gift_-_02.ogg  ||  Yay, I got to eat something tasty today. I'm so happy! Thank you!
+VO_Klee_Receiving_a_Gift_-_03.ogg  ||  It looks yummy, but it's kinda hard work to eat... Hee-hee, how about you help me? Pretty please!
+VO_Klee_Birthday.ogg  ||  ♪Happy birthday to you, happy birthday to you, happy birthday dear traveler, happy birthday to you!♪ You're older than me right? That means you've had way more birthdays than me... I'm sooo jealous!
+VO_Klee_Feelings_About_Ascension_-_01.ogg  ||  Mm, new-bomb research complete! Now, let's get outta here before Jean finds out...
+VO_Klee_Feelings_About_Ascension_-_02.ogg  ||  Aw yeah, I improved again! But as Jean says, "Continuous self-improvement is one's duty." She says that means I'm allowed to be a bit happy about it, but not the most happy I've ever been in my whole life about it.
+VO_Klee_Feelings_About_Ascension_-_03.ogg  ||  Thanks for helping me gather so much stuff for my research! If you ever wanna learn how to make a bomb, I can teach you y'know.
+VO_Klee_Feelings_About_Ascension_-_04.ogg  ||  I remember the first time I ever heard an explosion... I wasn't scared at all. Later on, I found out that apparently, that's not "normal", and most people would've been scared. But hey, you're not scared of my bombs right? Tee-hee, I knew it! That's why you're my bestest friend ever!
+VO_Klee_Elemental_Skill_1_01.ogg  ||  Jumpy Dumpty go!
+VO_Klee_Elemental_Skill_1_02.ogg  ||  Boing, boing, boom!
+VO_Klee_Elemental_Skill_1_03.ogg  ||  Pieew.
+VO_Klee_Elemental_Burst_01.ogg  ||  Sparks 'n' Splash!
+VO_Klee_Elemental_Burst_02.ogg  ||  Blazing Delight!
+VO_Klee_Elemental_Burst_03.ogg  ||  Blow them aaaalll up!
+VO_Klee_Sprint_Start_01.ogg  ||  Lalala~
+VO_Klee_Sprint_Start_02.ogg  ||  Da-da-da~
+VO_Klee_Deploying_Wind_Glider_01.ogg  ||  
+VO_Klee_Opening_Treasure_Chest_01.ogg  ||  More treasure, more treasure! Hee-hee...
+VO_Klee_Opening_Treasure_Chest_02.ogg  ||  Yay, shiny!
+VO_Klee_Opening_Treasure_Chest_03.ogg  ||  Maybe there's even more buried below...
+VO_Klee_Low_HP_01.ogg  ||  What did you do that for!?
+VO_Klee_Low_HP_02.ogg  ||  Jeeeean... they're picking on me!
+VO_Klee_Low_HP_03.ogg  ||  I feel kinda woozy...
+VO_Klee_Ally_at_Low_HP_01.ogg  ||  I can make a big bang if you want!
+VO_Klee_Ally_at_Low_HP_02.ogg  ||  Are you okay?
+VO_Klee_Fallen_01.ogg  ||  Yay, I did it! Oh wait, no I didn't...
+VO_Klee_Fallen_02.ogg  ||  I wanna go home now...
+VO_Klee_Fallen_03.ogg  ||  It was an accident...
+VO_Klee_Light_Hit_Taken_02.ogg  ||  No fair!
+VO_Klee_Light_Hit_Taken_01.ogg  ||  
+VO_Klee_Heavy_Hit_Taken_02.ogg  ||  That really hurt!
+VO_Klee_Heavy_Hit_Taken_01.ogg  ||  
+VO_Klee_Joining_Party_01.ogg  ||  Klee can help!
+VO_Klee_Joining_Party_02.ogg  ||  Ta-da! Klee is here!
+VO_Klee_Joining_Party_03.ogg  ||  Yea! Let's go on a big adventure!
+VO_Klee_Light_Attack_01.ogg  ||  
+VO_Klee_Mid_Attack_01.ogg  ||  
+VO_Klee_Heavy_Attack_01.ogg  ||  
+VO_Klee_Climbing_01.ogg  ||  
+VO_Klee_Climbing_Breath_01.ogg  ||  
+VO_Klee_Jumping_01.ogg  ||  
